@@ -1,0 +1,2492 @@
+[
+  {
+    "count": 24, 
+    "_links": {
+      "self": {
+        "href": "http://api.football-data.org/v1/competitions/424/teams"
+      }, 
+      "competition": {
+        "href": "http://api.football-data.org/v1/competitions/424"
+      }
+    }, 
+    "teams": [
+      {
+        "code": "FRA", 
+        "name": "France", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/773/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/773"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/773/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+      }, 
+      {
+        "code": "ROU", 
+        "name": "Romania", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/811/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/811"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/811/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+      }, 
+      {
+        "code": "ALB", 
+        "name": "Albania", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/1065/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/1065"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/1065/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+      }, 
+      {
+        "code": "SUI", 
+        "name": "Switzerland", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/788/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/788"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/788/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_(Pantone).svg"
+      }, 
+      {
+        "code": "WAL", 
+        "name": "Wales", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/833/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/833"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/833/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Wales_2.svg"
+      }, 
+      {
+        "code": "SVK", 
+        "name": "Slovakia", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/768/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/768"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/768/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+      }, 
+      {
+        "code": "ENG", 
+        "name": "England", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/770/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/770"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/770/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"
+      }, 
+      {
+        "code": "RUS", 
+        "name": "Russia", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/808/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/808"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/808/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+      }, 
+      {
+        "code": "TUR", 
+        "name": "Turkey", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/803/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/803"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/803/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+      }, 
+      {
+        "code": "CRO", 
+        "name": "Croatia", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/799/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/799"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/799/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+      }, 
+      {
+        "code": "POL", 
+        "name": "Poland", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/794/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/794"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/794/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg"
+      }, 
+      {
+        "code": "NIR", 
+        "name": "Northern Ireland", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/829/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/829"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/829/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Northern_Ireland.svg"
+      }, 
+      {
+        "code": "GER", 
+        "name": "Germany", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/759/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/759"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/759/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+      }, 
+      {
+        "code": "UKR", 
+        "name": "Ukraine", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/790/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/790"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/790/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+      }, 
+      {
+        "code": "ESP", 
+        "name": "Spain", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/760/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/760"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/760/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+      }, 
+      {
+        "code": "CZE", 
+        "name": "Czech Republic", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/798/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/798"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/798/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+      }, 
+      {
+        "code": "IRL", 
+        "name": "Republic of Ireland", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/806/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/806"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/806/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+      }, 
+      {
+        "code": "SWE", 
+        "name": "Sweden", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/792/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/792"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/792/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg"
+      }, 
+      {
+        "code": "BEL", 
+        "name": "Belgium", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/805/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/805"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/805/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+      }, 
+      {
+        "code": "ITA", 
+        "name": "Italy", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/784/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/784"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/784/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+      }, 
+      {
+        "code": "AUT", 
+        "name": "Austria", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/816/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/816"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/816/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+      }, 
+      {
+        "code": "HUN", 
+        "name": "Hungary", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/827/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/827"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/827/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+      }, 
+      {
+        "code": "POR", 
+        "name": "Portugal", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/765/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/765"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/765/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+      }, 
+      {
+        "code": "ISL", 
+        "name": "Iceland", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/1066/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/1066"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/1066/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+      }
+    ]
+  }, 
+  {
+    "count": 20, 
+    "_links": {
+      "self": {
+        "href": "http://api.football-data.org/v1/competitions/426/teams"
+      }, 
+      "competition": {
+        "href": "http://api.football-data.org/v1/competitions/426"
+      }
+    }, 
+    "teams": [
+      {
+        "code": "HUL", 
+        "name": "Hull City FC", 
+        "squadMarketValue": "122,250,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/322/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/322"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/322/fixtures"
+          }
+        }, 
+        "shortName": "Hull", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a9/Hull_City_AFC.svg"
+      }, 
+      {
+        "code": "LCFC", 
+        "name": "Leicester City FC", 
+        "squadMarketValue": "210,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/338/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/338"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/338/fixtures"
+          }
+        }, 
+        "shortName": "Foxes", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png"
+      }, 
+      {
+        "code": "SFC", 
+        "name": "Southampton FC", 
+        "squadMarketValue": "199,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/340/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/340"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/340/fixtures"
+          }
+        }, 
+        "shortName": "Southampton", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg"
+      }, 
+      {
+        "code": "Watfordfc", 
+        "name": "Watford FC", 
+        "squadMarketValue": "128,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/346/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/346"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/346/fixtures"
+          }
+        }, 
+        "shortName": "Watford", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Middlesbrough FC", 
+        "squadMarketValue": "104,750,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/343/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/343"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/343/fixtures"
+          }
+        }, 
+        "shortName": "Middlesbrough", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg"
+      }, 
+      {
+        "code": "SCFC", 
+        "name": "Stoke City FC", 
+        "squadMarketValue": "172,250,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/70/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/70"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/70/fixtures"
+          }
+        }, 
+        "shortName": "Stoke", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg"
+      }, 
+      {
+        "code": "EFC", 
+        "name": "Everton FC", 
+        "squadMarketValue": "239,250,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/62/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/62"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/62/fixtures"
+          }
+        }, 
+        "shortName": "Everton", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg"
+      }, 
+      {
+        "code": "THFC", 
+        "name": "Tottenham Hotspur FC", 
+        "squadMarketValue": "365,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/73/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/73"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/73/fixtures"
+          }
+        }, 
+        "shortName": "Spurs", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg"
+      }, 
+      {
+        "code": "CRY", 
+        "name": "Crystal Palace FC", 
+        "squadMarketValue": "157,750,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/354/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/354"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/354/fixtures"
+          }
+        }, 
+        "shortName": "Crystal", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png"
+      }, 
+      {
+        "code": "WBA", 
+        "name": "West Bromwich Albion FC", 
+        "squadMarketValue": "107,600,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/74/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/74"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/74/fixtures"
+          }
+        }, 
+        "shortName": "West Bromwich", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg"
+      }, 
+      {
+        "code": "BFC", 
+        "name": "Burnley FC", 
+        "squadMarketValue": "66,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/328/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/328"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/328/fixtures"
+          }
+        }, 
+        "shortName": "Burnley", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png"
+      }, 
+      {
+        "code": "SWA", 
+        "name": "Swansea City FC", 
+        "squadMarketValue": "106,100,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/72/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/72"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/72/fixtures"
+          }
+        }, 
+        "shortName": "Swans", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg"
+      }, 
+      {
+        "code": "MCFC", 
+        "name": "Manchester City FC", 
+        "squadMarketValue": "518,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/65/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/65"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/65/fixtures"
+          }
+        }, 
+        "shortName": "ManCity", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+      }, 
+      {
+        "code": "SUN", 
+        "name": "Sunderland AFC", 
+        "squadMarketValue": "92,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/71/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/71"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/71/fixtures"
+          }
+        }, 
+        "shortName": "Sunderland", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/6/60/AFC_Sunderland.svg"
+      }, 
+      {
+        "code": "AFCB", 
+        "name": "AFC Bournemouth", 
+        "squadMarketValue": "121,750,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/1044/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/1044"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/1044/fixtures"
+          }
+        }, 
+        "shortName": "Bournemouth", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg"
+      }, 
+      {
+        "code": "MUFC", 
+        "name": "Manchester United FC", 
+        "squadMarketValue": "534,250,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/66/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/66"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/66/fixtures"
+          }
+        }, 
+        "shortName": "ManU", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+      }, 
+      {
+        "code": "AFC", 
+        "name": "Arsenal FC", 
+        "squadMarketValue": "468,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/57/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/57"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/57/fixtures"
+          }
+        }, 
+        "shortName": "Arsenal", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+      }, 
+      {
+        "code": "LFC", 
+        "name": "Liverpool FC", 
+        "squadMarketValue": "387,200,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/64/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/64"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/64/fixtures"
+          }
+        }, 
+        "shortName": "Liverpool", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg"
+      }, 
+      {
+        "code": "CFC", 
+        "name": "Chelsea FC", 
+        "squadMarketValue": "514,800,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/61/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/61"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/61/fixtures"
+          }
+        }, 
+        "shortName": "Chelsea", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg"
+      }, 
+      {
+        "code": "WHU", 
+        "name": "West Ham United FC", 
+        "squadMarketValue": "241,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/563/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/563"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/563/fixtures"
+          }
+        }, 
+        "shortName": "West Ham", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg"
+      }
+    ]
+  }, 
+  {
+    "count": 20, 
+    "_links": {
+      "self": {
+        "href": "http://api.football-data.org/v1/competitions/438/teams"
+      }, 
+      "competition": {
+        "href": "http://api.football-data.org/v1/competitions/438"
+      }
+    }, 
+    "teams": [
+      {
+        "code": "ROM", 
+        "name": "AS Roma", 
+        "squadMarketValue": "276,300,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/100/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/100"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/100/fixtures"
+          }
+        }, 
+        "shortName": "Roma", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Udinese Calcio", 
+        "squadMarketValue": "92,300,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/115/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/115"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/115/fixtures"
+          }
+        }, 
+        "shortName": "Udinese", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b1/Udinese_Calcio.svg"
+      }, 
+      {
+        "code": "JUVE", 
+        "name": "Juventus Turin", 
+        "squadMarketValue": "428,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/109/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/109"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/109/fixtures"
+          }
+        }, 
+        "shortName": "Juventus", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg"
+      }, 
+      {
+        "code": "FIO", 
+        "name": "ACF Fiorentina", 
+        "squadMarketValue": "151,925,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/99/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/99"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/99/fixtures"
+          }
+        }, 
+        "shortName": "Fiorentina", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/de/AC_Florenz.svg"
+      }, 
+      {
+        "code": "ACM", 
+        "name": "AC Milan", 
+        "squadMarketValue": "205,600,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/98/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/98"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/98/fixtures"
+          }
+        }, 
+        "shortName": "Milan", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/9e/AC_Mailand_Logo.svg"
+      }, 
+      {
+        "code": "FCT", 
+        "name": "Torino FC", 
+        "squadMarketValue": "99,750,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/586/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/586"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/586/fixtures"
+          }
+        }, 
+        "shortName": "Torino", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "AC Chievo Verona", 
+        "squadMarketValue": "36,050,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/106/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/106"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/106/fixtures"
+          }
+        }, 
+        "shortName": "Chievo", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3f/AC_Chievo_Verona.svg"
+      }, 
+      {
+        "code": "Int", 
+        "name": "FC Internazionale Milano", 
+        "squadMarketValue": "331,575,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/108/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/108"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/108/fixtures"
+          }
+        }, 
+        "shortName": "Inter", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png"
+      }, 
+      {
+        "code": "EMP", 
+        "name": "Empoli FC", 
+        "squadMarketValue": "50,975,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/445/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/445"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/445/fixtures"
+          }
+        }, 
+        "shortName": "Empoli", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/4/42/Logo_FC_Empoli.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "UC Sampdoria", 
+        "squadMarketValue": "81,275,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/584/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/584"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/584/fixtures"
+          }
+        }, 
+        "shortName": "Sampdoria", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/cc/Sampdoria_Genua.svg"
+      }, 
+      {
+        "code": "CFC", 
+        "name": "Genoa CFC", 
+        "squadMarketValue": "89,700,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/107/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/107"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/107/fixtures"
+          }
+        }, 
+        "shortName": "Genoa", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/76/Genoa_CFC.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Cagliari Calcio", 
+        "squadMarketValue": "62,600,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/104/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/104"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/104/fixtures"
+          }
+        }, 
+        "shortName": "Cagliari", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3d/Cagliari_Calcio.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Bologna FC", 
+        "squadMarketValue": "72,475,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/103/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/103"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/103/fixtures"
+          }
+        }, 
+        "shortName": "Bologna", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/92/FC_Bologna.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "FC Crotone", 
+        "squadMarketValue": "22,200,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/472/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/472"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/472/fixtures"
+          }
+        }, 
+        "shortName": "Crotone", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/ab/FC_Crotone.svg"
+      }, 
+      {
+        "code": "PAL", 
+        "name": "US Citt\u00e1 di Palermo", 
+        "squadMarketValue": "36,075,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/114/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/114"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/114/fixtures"
+          }
+        }, 
+        "shortName": "Palermo", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/7f/US_Palermo.svg"
+      }, 
+      {
+        "code": "SASS", 
+        "name": "US Sassuolo Calcio", 
+        "squadMarketValue": "89,450,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/471/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/471"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/471/fixtures"
+          }
+        }, 
+        "shortName": "Sassuolo", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a3/US_Sassuolo_Calcio.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Pescara Calcio", 
+        "squadMarketValue": "33,275,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/585/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/585"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/585/fixtures"
+          }
+        }, 
+        "shortName": "Pescara", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/f/ff/Pescara_Calcio.svg"
+      }, 
+      {
+        "code": "SSC", 
+        "name": "SSC Napoli", 
+        "squadMarketValue": "295,875,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/113/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/113"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/113/fixtures"
+          }
+        }, 
+        "shortName": "Napoli", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Atalanta BC", 
+        "squadMarketValue": "68,475,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/102/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/102"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/102/fixtures"
+          }
+        }, 
+        "shortName": "Atalanta", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg"
+      }, 
+      {
+        "code": "LAZ", 
+        "name": "SS Lazio", 
+        "squadMarketValue": "161,225,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/110/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/110"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/110/fixtures"
+          }
+        }, 
+        "shortName": "Lazio", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png"
+      }
+    ]
+  }, 
+  {
+    "count": 20, 
+    "_links": {
+      "self": {
+        "href": "http://api.football-data.org/v1/competitions/436/teams"
+      }, 
+      "competition": {
+        "href": "http://api.football-data.org/v1/competitions/436"
+      }
+    }, 
+    "teams": [
+      {
+        "code": "MAL", 
+        "name": "M\u00e1laga CF", 
+        "squadMarketValue": "70,200,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/84/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/84"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/84/fixtures"
+          }
+        }, 
+        "shortName": "M\u00e1laga", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/e8/FC_M\u00e1laga.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "CA Osasuna", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/79/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/79"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/79/fixtures"
+          }
+        }, 
+        "shortName": "Osasuna", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/ca/Atletico_Osasuna.svg"
+      }, 
+      {
+        "code": "LAC", 
+        "name": "RC Deportivo La Coruna", 
+        "squadMarketValue": "67,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/560/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/560"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/560/fixtures"
+          }
+        }, 
+        "shortName": "Deportivo", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/4/4e/RC_Deportivo_La_Coru\u00f1a_logo.svg"
+      }, 
+      {
+        "code": "EIB", 
+        "name": "SD Eibar", 
+        "squadMarketValue": "50,400,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/278/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/278"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/278/fixtures"
+          }
+        }, 
+        "shortName": "Eibar", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg"
+      }, 
+      {
+        "code": "FCB", 
+        "name": "FC Barcelona", 
+        "squadMarketValue": "741,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/81/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/81"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/81/fixtures"
+          }
+        }, 
+        "shortName": "Barcelona", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Real Betis", 
+        "squadMarketValue": "72,300,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/90/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/90"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/90/fixtures"
+          }
+        }, 
+        "shortName": "Betis", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg"
+      }, 
+      {
+        "code": "GCF", 
+        "name": "Granada CF", 
+        "squadMarketValue": "43,950,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/83/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/83"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/83/fixtures"
+          }
+        }, 
+        "shortName": "Granada", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d3/Granada_CF.svg"
+      }, 
+      {
+        "code": "VCF", 
+        "name": "Villarreal CF", 
+        "squadMarketValue": "162,200,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/94/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/94"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/94/fixtures"
+          }
+        }, 
+        "shortName": "Villareal", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg"
+      }, 
+      {
+        "code": "SEV", 
+        "name": "Sevilla FC", 
+        "squadMarketValue": "218,400,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/559/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/559"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/559/fixtures"
+          }
+        }, 
+        "shortName": "Sevilla", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png"
+      }, 
+      {
+        "code": "ESP", 
+        "name": "RCD Espanyol", 
+        "squadMarketValue": "67,900,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/80/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/80"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/80/fixtures"
+          }
+        }, 
+        "shortName": "Espanyol", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a7/RCD_Espanyol_De_Barcelona.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Sporting Gij\u00f3n", 
+        "squadMarketValue": "46,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/96/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/96"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/96/fixtures"
+          }
+        }, 
+        "shortName": "Gij\u00f3n", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/4/48/Real_Sporting_de_Gijon.svg"
+      }, 
+      {
+        "code": "BIL", 
+        "name": "Athletic Club", 
+        "squadMarketValue": "148,800,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/77/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/77"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/77/fixtures"
+          }
+        }, 
+        "shortName": "Athletic", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/7f/Athletic_Club_Bilbao.svg"
+      }, 
+      {
+        "code": "RSS", 
+        "name": "Real Sociedad de F\u00fatbol", 
+        "squadMarketValue": "111,300,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/92/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/92"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/92/fixtures"
+          }
+        }, 
+        "shortName": "Real Sociedad", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/55/Real_Sociedad_San_Sebasti\u00e1n.svg"
+      }, 
+      {
+        "code": "MAD", 
+        "name": "Real Madrid CF", 
+        "squadMarketValue": "769,300,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/86/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/86"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/86/fixtures"
+          }
+        }, 
+        "shortName": "Real Madrid", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg"
+      }, 
+      {
+        "code": "ATM", 
+        "name": "Club Atl\u00e9tico de Madrid", 
+        "squadMarketValue": "493,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/78/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/78"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/78/fixtures"
+          }
+        }, 
+        "shortName": "Atl\u00e9tico", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Deportivo Alav\u00e9s", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/263/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/263"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/263/fixtures"
+          }
+        }, 
+        "shortName": "Alaves", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+      }, 
+      {
+        "code": "VIG", 
+        "name": "RC Celta de Vigo", 
+        "squadMarketValue": "101,100,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/558/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/558"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/558/fixtures"
+          }
+        }, 
+        "shortName": "Celta Vigo", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "CD Leganes", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/745/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/745"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/745/fixtures"
+          }
+        }, 
+        "shortName": "Leganes", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/0/02/Club_Deportivo_Legan\u00e9s.png/180px-Club_Deportivo_Legan\u00e9s.png"
+      }, 
+      {
+        "code": "VAL", 
+        "name": "Valencia CF", 
+        "squadMarketValue": "193,700,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/95/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/95"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/95/fixtures"
+          }
+        }, 
+        "shortName": "Valencia", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "UD Las Palmas", 
+        "squadMarketValue": "46,900,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/275/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/275"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/275/fixtures"
+          }
+        }, 
+        "shortName": "Las Palmas", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/2/20/UD_Las_Palmas_logo.svg"
+      }
+    ]
+  }, 
+  {
+    "count": 32, 
+    "_links": {
+      "self": {
+        "href": "http://api.football-data.org/v1/competitions/440/teams"
+      }, 
+      "competition": {
+        "href": "http://api.football-data.org/v1/competitions/440"
+      }
+    }, 
+    "teams": [
+      {
+        "code": null, 
+        "name": "FC Basel", 
+        "squadMarketValue": "52,900,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/729/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/729"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/729/fixtures"
+          }
+        }, 
+        "shortName": "Basel", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c5/FC_Basel.png"
+      }, 
+      {
+        "code": "LUD", 
+        "name": "Ludogorez Rasgrad", 
+        "squadMarketValue": "40,100,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/753/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/753"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/753/fixtures"
+          }
+        }, 
+        "shortName": "Ludogorez", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png"
+      }, 
+      {
+        "code": "FCB", 
+        "name": "FC Bayern M\u00fcnchen", 
+        "squadMarketValue": "582,225,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/5/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/5"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/5/fixtures"
+          }
+        }, 
+        "shortName": "Bayern", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_M\u00fcnchen.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "FC Rostov", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/1104/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/1104"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/1104/fixtures"
+          }
+        }, 
+        "shortName": "Rostov", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/FC_Rostov_logo.png"
+      }, 
+      {
+        "code": "PSV", 
+        "name": "PSV Eindhoven", 
+        "squadMarketValue": "112,700,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/674/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/674"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/674/fixtures"
+          }
+        }, 
+        "shortName": "Eindhoven", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/05/PSV_Eindhoven.svg"
+      }, 
+      {
+        "code": "ATM", 
+        "name": "Club Atl\u00e9tico de Madrid", 
+        "squadMarketValue": "493,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/78/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/78"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/78/fixtures"
+          }
+        }, 
+        "shortName": "Atl\u00e9tico", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg"
+      }, 
+      {
+        "code": "FCB", 
+        "name": "FC Barcelona", 
+        "squadMarketValue": "741,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/81/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/81"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/81/fixtures"
+          }
+        }, 
+        "shortName": "Barcelona", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Celtic FC", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/732/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/732"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/732/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/3/35/Celtic_FC.svg"
+      }, 
+      {
+        "code": "DYK", 
+        "name": "Dynamo Kyiv", 
+        "squadMarketValue": "123,250,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/842/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/842"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/842/fixtures"
+          }
+        }, 
+        "shortName": "Kyiv", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/FC_Dynamo_Kyiv_logo.png"
+      }, 
+      {
+        "code": "SSC", 
+        "name": "SSC Napoli", 
+        "squadMarketValue": "295,875,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/113/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/113"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/113/fixtures"
+          }
+        }, 
+        "shortName": "Napoli", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg"
+      }, 
+      {
+        "code": "SLB", 
+        "name": "SL Benfica", 
+        "squadMarketValue": "180,150,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/495/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/495"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/495/fixtures"
+          }
+        }, 
+        "shortName": "Lisbon", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/89/Logo_Benfica_Lissabon.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Besiktas JK", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/600/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/600"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/600/fixtures"
+          }
+        }, 
+        "shortName": "Besiktas", 
+        "crestUrl": "http://en.wikipedia.org/wiki/Be\u015fikta\u015f_J.K.#mediaviewer/File:Logo_of_Be\u015fikta\u015f_JK.svg"
+      }, 
+      {
+        "code": "PSG", 
+        "name": "Paris Saint-Germain", 
+        "squadMarketValue": "412,650,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/524/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/524"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/524/fixtures"
+          }
+        }, 
+        "shortName": "PSG", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/1/1e/Paris_Saint-Germain_(seit_2013).gif"
+      }, 
+      {
+        "code": "AFC", 
+        "name": "Arsenal FC", 
+        "squadMarketValue": "468,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/57/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/57"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/57/fixtures"
+          }
+        }, 
+        "shortName": "Arsenal", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Legia Warszawa", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/1105/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/1105"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/1105/fixtures"
+          }
+        }, 
+        "shortName": "Legia", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Legia_Warszawa.svg"
+      }, 
+      {
+        "code": "BVB", 
+        "name": "Borussia Dortmund", 
+        "squadMarketValue": "339,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/4/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/4"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/4/fixtures"
+          }
+        }, 
+        "shortName": "Dortmund", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg"
+      }, 
+      {
+        "code": "OLY", 
+        "name": "Olympique Lyonnais", 
+        "squadMarketValue": "171,450,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/523/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/523"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/523/fixtures"
+          }
+        }, 
+        "shortName": "Lyon", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg"
+      }, 
+      {
+        "code": "DIN", 
+        "name": "GNK Dinamo Zagreb", 
+        "squadMarketValue": "48,250,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/755/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/755"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/755/fixtures"
+          }
+        }, 
+        "shortName": "Zagreb", 
+        "crestUrl": "http://www.gnkdinamo.hr/Content/Images/main-logo.png"
+      }, 
+      {
+        "code": "JUVE", 
+        "name": "Juventus Turin", 
+        "squadMarketValue": "428,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/109/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/109"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/109/fixtures"
+          }
+        }, 
+        "shortName": "Juventus", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg"
+      }, 
+      {
+        "code": "SEV", 
+        "name": "Sevilla FC", 
+        "squadMarketValue": "218,400,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/559/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/559"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/559/fixtures"
+          }
+        }, 
+        "shortName": "Sevilla", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png"
+      }, 
+      {
+        "code": "FCP", 
+        "name": "FC Porto", 
+        "squadMarketValue": "204,900,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/503/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/503"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/503/fixtures"
+          }
+        }, 
+        "shortName": "Porto", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/ed/FC_Porto_1922-2005.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "FC Copenhagen", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/725/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/725"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/725/fixtures"
+          }
+        }, 
+        "shortName": "K\u00f8benhavn", 
+        "crestUrl": "http://en.wikipedia.org/wiki/F.C._Copenhagen#mediaviewer/File:FC_K\u00f8benhavn.svg"
+      }, 
+      {
+        "code": null, 
+        "name": "Club Brugge", 
+        "squadMarketValue": null, 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/851/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/851"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/851/fixtures"
+          }
+        }, 
+        "shortName": null, 
+        "crestUrl": null
+      }, 
+      {
+        "code": "LCFC", 
+        "name": "Leicester City FC", 
+        "squadMarketValue": "210,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/338/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/338"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/338/fixtures"
+          }
+        }, 
+        "shortName": "Foxes", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png"
+      }, 
+      {
+        "code": "MAD", 
+        "name": "Real Madrid CF", 
+        "squadMarketValue": "769,300,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/86/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/86"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/86/fixtures"
+          }
+        }, 
+        "shortName": "Real Madrid", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg"
+      }, 
+      {
+        "code": "SCP", 
+        "name": "Sporting CP", 
+        "squadMarketValue": "220,250,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/498/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/498"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/498/fixtures"
+          }
+        }, 
+        "shortName": "Sporting", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sporting_Clube_de_Portugal.png"
+      }, 
+      {
+        "code": "B04", 
+        "name": "Bayer Leverkusen", 
+        "squadMarketValue": "253,900,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/3/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/3"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/3/fixtures"
+          }
+        }, 
+        "shortName": "Leverkusen", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg"
+      }, 
+      {
+        "code": "CSK", 
+        "name": "CSKA Moscow", 
+        "squadMarketValue": "152,650,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/751/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/751"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/751/fixtures"
+          }
+        }, 
+        "shortName": "CSKA", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/CSKA_Moscow_logo.png"
+      }, 
+      {
+        "code": "MCFC", 
+        "name": "Manchester City FC", 
+        "squadMarketValue": "518,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/65/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/65"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/65/fixtures"
+          }
+        }, 
+        "shortName": "ManCity", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+      }, 
+      {
+        "code": "BMG", 
+        "name": "Bor. M\u00f6nchengladbach", 
+        "squadMarketValue": "165,600,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/18/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/18"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/18/fixtures"
+          }
+        }, 
+        "shortName": "M'gladbach", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M\u00f6nchengladbach_logo.svg"
+      }, 
+      {
+        "code": "THFC", 
+        "name": "Tottenham Hotspur FC", 
+        "squadMarketValue": "365,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/73/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/73"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/73/fixtures"
+          }
+        }, 
+        "shortName": "Spurs", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg"
+      }, 
+      {
+        "code": "MON", 
+        "name": "AS Monaco FC", 
+        "squadMarketValue": "164,250,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/548/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/548"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/548/fixtures"
+          }
+        }, 
+        "shortName": "Monaco", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg"
+      }
+    ]
+  }, 
+  {
+    "count": 18, 
+    "_links": {
+      "self": {
+        "href": "http://api.football-data.org/v1/competitions/430/teams"
+      }, 
+      "competition": {
+        "href": "http://api.football-data.org/v1/competitions/430"
+      }
+    }, 
+    "teams": [
+      {
+        "code": "FCB", 
+        "name": "FC Bayern M\u00fcnchen", 
+        "squadMarketValue": "582,225,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/5/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/5"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/5/fixtures"
+          }
+        }, 
+        "shortName": "Bayern", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_M\u00fcnchen.svg"
+      }, 
+      {
+        "code": "SVW", 
+        "name": "Werder Bremen", 
+        "squadMarketValue": "67,750,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/12/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/12"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/12/fixtures"
+          }
+        }, 
+        "shortName": "Bremen", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
+      }, 
+      {
+        "code": "FCA", 
+        "name": "FC Augsburg", 
+        "squadMarketValue": "61,200,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/16/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/16"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/16/fixtures"
+          }
+        }, 
+        "shortName": "Augsburg", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg"
+      }, 
+      {
+        "code": "WOB", 
+        "name": "VfL Wolfsburg", 
+        "squadMarketValue": "189,600,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/11/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/11"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/11/fixtures"
+          }
+        }, 
+        "shortName": "Wolfsburg", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg"
+      }, 
+      {
+        "code": "BVB", 
+        "name": "Borussia Dortmund", 
+        "squadMarketValue": "339,500,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/4/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/4"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/4/fixtures"
+          }
+        }, 
+        "shortName": "Dortmund", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg"
+      }, 
+      {
+        "code": "M05", 
+        "name": "1. FSV Mainz 05", 
+        "squadMarketValue": "79,950,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/15/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/15"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/15/fixtures"
+          }
+        }, 
+        "shortName": "Mainz", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg"
+      }, 
+      {
+        "code": "SGE", 
+        "name": "Eintracht Frankfurt", 
+        "squadMarketValue": "61,350,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/19/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/19"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/19/fixtures"
+          }
+        }, 
+        "shortName": "Eintr. Frankfurt", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg"
+      }, 
+      {
+        "code": "S04", 
+        "name": "FC Schalke 04", 
+        "squadMarketValue": "213,975,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/6/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/6"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/6/fixtures"
+          }
+        }, 
+        "shortName": "Schalke", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/6/6d/FC_Schalke_04_Logo.svg"
+      }, 
+      {
+        "code": "HSV", 
+        "name": "Hamburger SV", 
+        "squadMarketValue": "80,150,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/7/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/7"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/7/fixtures"
+          }
+        }, 
+        "shortName": "HSV", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg"
+      }, 
+      {
+        "code": "FCI", 
+        "name": "FC Ingolstadt 04", 
+        "squadMarketValue": "37,000,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/31/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/31"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/31/fixtures"
+          }
+        }, 
+        "shortName": "Ingolstadt", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/5/55/FC-Ingolstadt_logo.svg"
+      }, 
+      {
+        "code": "EFFZEH", 
+        "name": "1. FC K\u00f6ln", 
+        "squadMarketValue": "73,850,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/1/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/1"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/1/fixtures"
+          }
+        }, 
+        "shortName": "K\u00f6ln", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/1/16/1._FC_K\u00f6ln.svg"
+      }, 
+      {
+        "code": "DAR", 
+        "name": "SV Darmstadt 98", 
+        "squadMarketValue": "26,950,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/55/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/55"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/55/fixtures"
+          }
+        }, 
+        "shortName": "Darmstadt", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/87/Svdarmstadt98.svg"
+      }, 
+      {
+        "code": "BMG", 
+        "name": "Bor. M\u00f6nchengladbach", 
+        "squadMarketValue": "165,600,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/18/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/18"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/18/fixtures"
+          }
+        }, 
+        "shortName": "M'gladbach", 
+        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M\u00f6nchengladbach_logo.svg"
+      }, 
+      {
+        "code": "B04", 
+        "name": "Bayer Leverkusen", 
+        "squadMarketValue": "253,900,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/3/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/3"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/3/fixtures"
+          }
+        }, 
+        "shortName": "Leverkusen", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg"
+      }, 
+      {
+        "code": "BSC", 
+        "name": "Hertha BSC", 
+        "squadMarketValue": "78,575,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/9/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/9"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/9/fixtures"
+          }
+        }, 
+        "shortName": "Hertha", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/81/Hertha_BSC_Logo_2012.svg"
+      }, 
+      {
+        "code": "SCF", 
+        "name": "SC Freiburg", 
+        "squadMarketValue": "43,650,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/17/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/17"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/17/fixtures"
+          }
+        }, 
+        "shortName": "Freiburg", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/f/f1/SC-Freiburg_Logo-neu.svg"
+      }, 
+      {
+        "code": "TSG", 
+        "name": "TSG 1899 Hoffenheim", 
+        "squadMarketValue": "86,225,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/2/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/2"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/2/fixtures"
+          }
+        }, 
+        "shortName": "Hoffenheim", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/e7/Logo_TSG_Hoffenheim.svg"
+      }, 
+      {
+        "code": "RBL", 
+        "name": "Red Bull Leipzig", 
+        "squadMarketValue": "70,875,000 \u20ac", 
+        "_links": {
+          "players": {
+            "href": "http://api.football-data.org/v1/teams/721/players"
+          }, 
+          "self": {
+            "href": "http://api.football-data.org/v1/teams/721"
+          }, 
+          "fixtures": {
+            "href": "http://api.football-data.org/v1/teams/721/fixtures"
+          }
+        }, 
+        "shortName": "RB Leipzig", 
+        "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d4/RB_Leipzig_2010_logo.svg"
+      }
+    ]
+  }
+]
