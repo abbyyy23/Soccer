@@ -4,11 +4,12 @@ import pandas as pd
 import json
 import time
 
+
 root= '/Users/abbyparra/Documents/Soccer/'
 
 def main():
 
-    headers={'X-Auth-Token': '91e12a220ffa4e0382e76b5c8c8e4ee8'}
+    headers = {'X-Auth-Token': '91e12a220ffa4e0382e76b5c8c8e4ee8'}
 
     URLs= get_links()
     '''
