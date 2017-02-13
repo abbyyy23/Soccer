@@ -44,7 +44,7 @@ def main():
     #reset the index of the dataframe
     all_teams.reset_index(drop=True, inplace=True)
 
-    all_teams.to_pickle(root+ 'all_teams.pkl')
+    #all_teams.to_pickle(root+ 'all_teams.pkl')
 
     print all_teams
 
