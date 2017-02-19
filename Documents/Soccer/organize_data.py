@@ -9,15 +9,20 @@ root= '/Users/abbyparra/Documents/Soccer/'
 
 def main():
 
-    data_path = root + 'players.json'
-    players_df = data_frame_fixed(data_path)
-
+    #data_path = root + 'players.json'
+    #players_df = data_frame_fixed(data_path)
+    #players_table = all_players(players_df)
+    #players_table.to_pickle(root+ 'players_table.pkl')
 
     all_teams = pd.read_pickle(root + 'all_teams.pkl')
 
-    players_table = all_players(players_df)
-    players_table.to_pickle(root+ 'players_table.pkl')
+    fixture_path = root + 'fixtures.json'
+    fixture_df = data_frame_fixed(fixture_path)
 
+    print fixture_df['fixtures']
+
+
+#def fixture_get_columns(data):
 
 def all_players(players_df):
     index_values = players_df.index.values
