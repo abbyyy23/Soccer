@@ -4,6 +4,8 @@ import json
 import pandas as pd
 from sqlalchemy import create_engine
 from pandas.io.json import json_normalize
+import unicodedata
+
 
 root= '/Users/abbyparra/Documents/Soccer/'
 
@@ -17,12 +19,38 @@ def main():
     all_teams = pd.read_pickle(root + 'all_teams.pkl')
 
     fixture_path = root + 'fixtures.json'
-    fixture_df = data_frame_fixed(fixture_path)
+    fixture_raw_df = data_frame_fixed(fixture_path)
+    #copy the dataframe so it just contains the fixtures
+    #fixture_df = fixture_raw_df['fixtures'].to_frame()
+    
 
-    print fixture_df['fixtures']
+    fixture_df = all_fixtures(fixture_raw_df)
+    print type(fixture_df['competitonID'])
+
+def all_fixtures(fixtures_df):
+    index_values = fixtures_df
+    df_name = {}
+    #iterates through all the competition lists
+    for i in range (0, (len(index_values))):
+        df_name[i] = fixture_get_columns(fixtures_df.fixtures[i])
+
+        #sets competitonID to each fixture
+        for index, row in df_name[i].iterrows():
+            df_name[i].set_value(index, 'competitonID', int(i))
+
+    #concatinates all the dataframes obtained from each competition's lists
+    all_competitions = pd.concat(df_name)
+    return all_competitions
 
 
-#def fixture_get_columns(data):
+def fixture_get_columns(data):
+    df_name = pd.DataFrame()
+    df_name['status'] = map(lambda fixture: fixture.get('status', None), data)
+    df_name['date'] = map(lambda fixture: fixture.get('date', None), data)
+    df_name['matchday'] = map(lambda fixture: fixture.get('matchday', None), data)
+    df_name['homeTeamName'] = map(lambda fixture: fixture.get('homeTeamName', None), data)
+    df_name['awayTeamName'] = map(lambda fixture: fixture.get('awayTeamName', None), data)
+    return df_name
 
 def all_players(players_df):
     index_values = players_df.index.values
