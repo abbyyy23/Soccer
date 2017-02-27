@@ -43,6 +43,8 @@ def main():
     all_teams= pd.concat(frames)
     #reset the index of the dataframe
     all_teams.reset_index(drop=True, inplace=True)
+    #write all teams to csv file 
+    #all_teams.to_csv("all_teams.csv", sep='\t', encoding='utf-8')
 
     #all_teams.to_pickle(root+ 'all_teams.pkl')
 
