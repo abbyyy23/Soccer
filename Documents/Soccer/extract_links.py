@@ -17,7 +17,6 @@ def main():
     competition_teams_df = json_normalize(sample)
 
     #save teams by competiton
-    #euro_list = competition_teams_df.teams[0]
     pl_list = competition_teams_df.teams[1]
     sa_list = competition_teams_df.teams[2]
     pd_list = competition_teams_df.teams[3]
@@ -28,11 +27,11 @@ def main():
 
     #create dataframe for teams of each competitoin
     #euro_teams = competition_teams(euro_list, 'euro_teams', 'Euro Cup')
-    pl_teams = competition_teams(pl_list, 'pl_teams', 'PL 16/17')
-    sa_teams = competition_teams(sa_list, 'sa_teams', 'SA 16/17')
-    pd_teams = competition_teams(pd_list, 'pd_teams', 'PD 16/17')
-    cl_teams = competition_teams(cl_list, 'cl_teams', 'CL 16/17')
-    bl_teams = competition_teams(bl_list, 'bl_teams', 'BL 16/17')
+    pl_teams = competition_teams(pl_list, 'pl_teams', 0)
+    sa_teams = competition_teams(sa_list, 'sa_teams', 1)
+    pd_teams = competition_teams(pd_list, 'pd_teams', 2)
+    cl_teams = competition_teams(cl_list, 'cl_teams', 3)
+    bl_teams = competition_teams(bl_list, 'bl_teams', 4)
     # to test out if dataframes can be exported to postgres as tables
     #engine = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
     #euro_teams.to_sql('euro_teams', engine)
@@ -43,14 +42,13 @@ def main():
     all_teams= pd.concat(frames)
     #reset the index of the dataframe
     all_teams.reset_index(drop=True, inplace=True)
-    #write all teams to csv file 
+    #write all teams to csv file
     #all_teams.to_csv("all_teams.csv", sep='\t', encoding='utf-8')
 
     #all_teams.to_pickle(root+ 'all_teams.pkl')
 
-    print all_teams
-
     #pp.pprint(teams)
+
 def competition_teams (comp_list, df_name, competition):
     df_name = pd.DataFrame()
     df_name['code'] = map(lambda team: team.get('code',None), comp_list)

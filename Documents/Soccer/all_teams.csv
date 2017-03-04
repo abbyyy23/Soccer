@@ -1,111 +1,111 @@
-	code	name	squadMarketValue	competition	players	fixtures
-0	HUL	Hull City FC	122,250,000 €	PL 16/17	http://api.football-data.org/v1/teams/322/players	http://api.football-data.org/v1/teams/322/fixtures
-1	LCFC	Leicester City FC	210,500,000 €	PL 16/17	http://api.football-data.org/v1/teams/338/players	http://api.football-data.org/v1/teams/338/fixtures
-2	SFC	Southampton FC	199,000,000 €	PL 16/17	http://api.football-data.org/v1/teams/340/players	http://api.football-data.org/v1/teams/340/fixtures
-3	Watfordfc	Watford FC	128,500,000 €	PL 16/17	http://api.football-data.org/v1/teams/346/players	http://api.football-data.org/v1/teams/346/fixtures
-4		Middlesbrough FC	104,750,000 €	PL 16/17	http://api.football-data.org/v1/teams/343/players	http://api.football-data.org/v1/teams/343/fixtures
-5	SCFC	Stoke City FC	172,250,000 €	PL 16/17	http://api.football-data.org/v1/teams/70/players	http://api.football-data.org/v1/teams/70/fixtures
-6	EFC	Everton FC	239,250,000 €	PL 16/17	http://api.football-data.org/v1/teams/62/players	http://api.football-data.org/v1/teams/62/fixtures
-7	THFC	Tottenham Hotspur FC	365,500,000 €	PL 16/17	http://api.football-data.org/v1/teams/73/players	http://api.football-data.org/v1/teams/73/fixtures
-8	CRY	Crystal Palace FC	157,750,000 €	PL 16/17	http://api.football-data.org/v1/teams/354/players	http://api.football-data.org/v1/teams/354/fixtures
-9	WBA	West Bromwich Albion FC	107,600,000 €	PL 16/17	http://api.football-data.org/v1/teams/74/players	http://api.football-data.org/v1/teams/74/fixtures
-10	BFC	Burnley FC	66,500,000 €	PL 16/17	http://api.football-data.org/v1/teams/328/players	http://api.football-data.org/v1/teams/328/fixtures
-11	SWA	Swansea City FC	106,100,000 €	PL 16/17	http://api.football-data.org/v1/teams/72/players	http://api.football-data.org/v1/teams/72/fixtures
-12	MCFC	Manchester City FC	518,000,000 €	PL 16/17	http://api.football-data.org/v1/teams/65/players	http://api.football-data.org/v1/teams/65/fixtures
-13	SUN	Sunderland AFC	92,500,000 €	PL 16/17	http://api.football-data.org/v1/teams/71/players	http://api.football-data.org/v1/teams/71/fixtures
-14	AFCB	AFC Bournemouth	121,750,000 €	PL 16/17	http://api.football-data.org/v1/teams/1044/players	http://api.football-data.org/v1/teams/1044/fixtures
-15	MUFC	Manchester United FC	534,250,000 €	PL 16/17	http://api.football-data.org/v1/teams/66/players	http://api.football-data.org/v1/teams/66/fixtures
-16	AFC	Arsenal FC	468,500,000 €	PL 16/17	http://api.football-data.org/v1/teams/57/players	http://api.football-data.org/v1/teams/57/fixtures
-17	LFC	Liverpool FC	387,200,000 €	PL 16/17	http://api.football-data.org/v1/teams/64/players	http://api.football-data.org/v1/teams/64/fixtures
-18	CFC	Chelsea FC	514,800,000 €	PL 16/17	http://api.football-data.org/v1/teams/61/players	http://api.football-data.org/v1/teams/61/fixtures
-19	WHU	West Ham United FC	241,500,000 €	PL 16/17	http://api.football-data.org/v1/teams/563/players	http://api.football-data.org/v1/teams/563/fixtures
-20	ROM	AS Roma	276,300,000 €	SA 16/17	http://api.football-data.org/v1/teams/100/players	http://api.football-data.org/v1/teams/100/fixtures
-21		Udinese Calcio	92,300,000 €	SA 16/17	http://api.football-data.org/v1/teams/115/players	http://api.football-data.org/v1/teams/115/fixtures
-22	JUVE	Juventus Turin	428,000,000 €	SA 16/17	http://api.football-data.org/v1/teams/109/players	http://api.football-data.org/v1/teams/109/fixtures
-23	FIO	ACF Fiorentina	151,925,000 €	SA 16/17	http://api.football-data.org/v1/teams/99/players	http://api.football-data.org/v1/teams/99/fixtures
-24	ACM	AC Milan	205,600,000 €	SA 16/17	http://api.football-data.org/v1/teams/98/players	http://api.football-data.org/v1/teams/98/fixtures
-25	FCT	Torino FC	99,750,000 €	SA 16/17	http://api.football-data.org/v1/teams/586/players	http://api.football-data.org/v1/teams/586/fixtures
-26		AC Chievo Verona	36,050,000 €	SA 16/17	http://api.football-data.org/v1/teams/106/players	http://api.football-data.org/v1/teams/106/fixtures
-27	Int	FC Internazionale Milano	331,575,000 €	SA 16/17	http://api.football-data.org/v1/teams/108/players	http://api.football-data.org/v1/teams/108/fixtures
-28	EMP	Empoli FC	50,975,000 €	SA 16/17	http://api.football-data.org/v1/teams/445/players	http://api.football-data.org/v1/teams/445/fixtures
-29		UC Sampdoria	81,275,000 €	SA 16/17	http://api.football-data.org/v1/teams/584/players	http://api.football-data.org/v1/teams/584/fixtures
-30	CFC	Genoa CFC	89,700,000 €	SA 16/17	http://api.football-data.org/v1/teams/107/players	http://api.football-data.org/v1/teams/107/fixtures
-31		Cagliari Calcio	62,600,000 €	SA 16/17	http://api.football-data.org/v1/teams/104/players	http://api.football-data.org/v1/teams/104/fixtures
-32		Bologna FC	72,475,000 €	SA 16/17	http://api.football-data.org/v1/teams/103/players	http://api.football-data.org/v1/teams/103/fixtures
-33		FC Crotone	22,200,000 €	SA 16/17	http://api.football-data.org/v1/teams/472/players	http://api.football-data.org/v1/teams/472/fixtures
-34	PAL	US Cittá di Palermo	36,075,000 €	SA 16/17	http://api.football-data.org/v1/teams/114/players	http://api.football-data.org/v1/teams/114/fixtures
-35	SASS	US Sassuolo Calcio	89,450,000 €	SA 16/17	http://api.football-data.org/v1/teams/471/players	http://api.football-data.org/v1/teams/471/fixtures
-36		Pescara Calcio	33,275,000 €	SA 16/17	http://api.football-data.org/v1/teams/585/players	http://api.football-data.org/v1/teams/585/fixtures
-37	SSC	SSC Napoli	295,875,000 €	SA 16/17	http://api.football-data.org/v1/teams/113/players	http://api.football-data.org/v1/teams/113/fixtures
-38		Atalanta BC	68,475,000 €	SA 16/17	http://api.football-data.org/v1/teams/102/players	http://api.football-data.org/v1/teams/102/fixtures
-39	LAZ	SS Lazio	161,225,000 €	SA 16/17	http://api.football-data.org/v1/teams/110/players	http://api.football-data.org/v1/teams/110/fixtures
-40	MAL	Málaga CF	70,200,000 €	PD 16/17	http://api.football-data.org/v1/teams/84/players	http://api.football-data.org/v1/teams/84/fixtures
-41		CA Osasuna		PD 16/17	http://api.football-data.org/v1/teams/79/players	http://api.football-data.org/v1/teams/79/fixtures
-42	LAC	RC Deportivo La Coruna	67,000,000 €	PD 16/17	http://api.football-data.org/v1/teams/560/players	http://api.football-data.org/v1/teams/560/fixtures
-43	EIB	SD Eibar	50,400,000 €	PD 16/17	http://api.football-data.org/v1/teams/278/players	http://api.football-data.org/v1/teams/278/fixtures
-44	FCB	FC Barcelona	741,500,000 €	PD 16/17	http://api.football-data.org/v1/teams/81/players	http://api.football-data.org/v1/teams/81/fixtures
-45		Real Betis	72,300,000 €	PD 16/17	http://api.football-data.org/v1/teams/90/players	http://api.football-data.org/v1/teams/90/fixtures
-46	GCF	Granada CF	43,950,000 €	PD 16/17	http://api.football-data.org/v1/teams/83/players	http://api.football-data.org/v1/teams/83/fixtures
-47	VCF	Villarreal CF	162,200,000 €	PD 16/17	http://api.football-data.org/v1/teams/94/players	http://api.football-data.org/v1/teams/94/fixtures
-48	SEV	Sevilla FC	218,400,000 €	PD 16/17	http://api.football-data.org/v1/teams/559/players	http://api.football-data.org/v1/teams/559/fixtures
-49	ESP	RCD Espanyol	67,900,000 €	PD 16/17	http://api.football-data.org/v1/teams/80/players	http://api.football-data.org/v1/teams/80/fixtures
-50		Sporting Gijón	46,000,000 €	PD 16/17	http://api.football-data.org/v1/teams/96/players	http://api.football-data.org/v1/teams/96/fixtures
-51	BIL	Athletic Club	148,800,000 €	PD 16/17	http://api.football-data.org/v1/teams/77/players	http://api.football-data.org/v1/teams/77/fixtures
-52	RSS	Real Sociedad de Fútbol	111,300,000 €	PD 16/17	http://api.football-data.org/v1/teams/92/players	http://api.football-data.org/v1/teams/92/fixtures
-53	MAD	Real Madrid CF	769,300,000 €	PD 16/17	http://api.football-data.org/v1/teams/86/players	http://api.football-data.org/v1/teams/86/fixtures
-54	ATM	Club Atlético de Madrid	493,000,000 €	PD 16/17	http://api.football-data.org/v1/teams/78/players	http://api.football-data.org/v1/teams/78/fixtures
-55		Deportivo Alavés		PD 16/17	http://api.football-data.org/v1/teams/263/players	http://api.football-data.org/v1/teams/263/fixtures
-56	VIG	RC Celta de Vigo	101,100,000 €	PD 16/17	http://api.football-data.org/v1/teams/558/players	http://api.football-data.org/v1/teams/558/fixtures
-57		CD Leganes		PD 16/17	http://api.football-data.org/v1/teams/745/players	http://api.football-data.org/v1/teams/745/fixtures
-58	VAL	Valencia CF	193,700,000 €	PD 16/17	http://api.football-data.org/v1/teams/95/players	http://api.football-data.org/v1/teams/95/fixtures
-59		UD Las Palmas	46,900,000 €	PD 16/17	http://api.football-data.org/v1/teams/275/players	http://api.football-data.org/v1/teams/275/fixtures
-60		FC Basel	52,900,000 €	CL 16/17	http://api.football-data.org/v1/teams/729/players	http://api.football-data.org/v1/teams/729/fixtures
-61	LUD	Ludogorez Rasgrad	40,100,000 €	CL 16/17	http://api.football-data.org/v1/teams/753/players	http://api.football-data.org/v1/teams/753/fixtures
-62	FCB	FC Bayern München	582,225,000 €	CL 16/17	http://api.football-data.org/v1/teams/5/players	http://api.football-data.org/v1/teams/5/fixtures
-63		FC Rostov		CL 16/17	http://api.football-data.org/v1/teams/1104/players	http://api.football-data.org/v1/teams/1104/fixtures
-64	PSV	PSV Eindhoven	112,700,000 €	CL 16/17	http://api.football-data.org/v1/teams/674/players	http://api.football-data.org/v1/teams/674/fixtures
-65	ATM	Club Atlético de Madrid	493,000,000 €	CL 16/17	http://api.football-data.org/v1/teams/78/players	http://api.football-data.org/v1/teams/78/fixtures
-66	FCB	FC Barcelona	741,500,000 €	CL 16/17	http://api.football-data.org/v1/teams/81/players	http://api.football-data.org/v1/teams/81/fixtures
-67		Celtic FC		CL 16/17	http://api.football-data.org/v1/teams/732/players	http://api.football-data.org/v1/teams/732/fixtures
-68	DYK	Dynamo Kyiv	123,250,000 €	CL 16/17	http://api.football-data.org/v1/teams/842/players	http://api.football-data.org/v1/teams/842/fixtures
-69	SSC	SSC Napoli	295,875,000 €	CL 16/17	http://api.football-data.org/v1/teams/113/players	http://api.football-data.org/v1/teams/113/fixtures
-70	SLB	SL Benfica	180,150,000 €	CL 16/17	http://api.football-data.org/v1/teams/495/players	http://api.football-data.org/v1/teams/495/fixtures
-71		Besiktas JK		CL 16/17	http://api.football-data.org/v1/teams/600/players	http://api.football-data.org/v1/teams/600/fixtures
-72	PSG	Paris Saint-Germain	412,650,000 €	CL 16/17	http://api.football-data.org/v1/teams/524/players	http://api.football-data.org/v1/teams/524/fixtures
-73	AFC	Arsenal FC	468,500,000 €	CL 16/17	http://api.football-data.org/v1/teams/57/players	http://api.football-data.org/v1/teams/57/fixtures
-74		Legia Warszawa		CL 16/17	http://api.football-data.org/v1/teams/1105/players	http://api.football-data.org/v1/teams/1105/fixtures
-75	BVB	Borussia Dortmund	339,500,000 €	CL 16/17	http://api.football-data.org/v1/teams/4/players	http://api.football-data.org/v1/teams/4/fixtures
-76	OLY	Olympique Lyonnais	171,450,000 €	CL 16/17	http://api.football-data.org/v1/teams/523/players	http://api.football-data.org/v1/teams/523/fixtures
-77	DIN	GNK Dinamo Zagreb	48,250,000 €	CL 16/17	http://api.football-data.org/v1/teams/755/players	http://api.football-data.org/v1/teams/755/fixtures
-78	JUVE	Juventus Turin	428,000,000 €	CL 16/17	http://api.football-data.org/v1/teams/109/players	http://api.football-data.org/v1/teams/109/fixtures
-79	SEV	Sevilla FC	218,400,000 €	CL 16/17	http://api.football-data.org/v1/teams/559/players	http://api.football-data.org/v1/teams/559/fixtures
-80	FCP	FC Porto	204,900,000 €	CL 16/17	http://api.football-data.org/v1/teams/503/players	http://api.football-data.org/v1/teams/503/fixtures
-81		FC Copenhagen		CL 16/17	http://api.football-data.org/v1/teams/725/players	http://api.football-data.org/v1/teams/725/fixtures
-82		Club Brugge		CL 16/17	http://api.football-data.org/v1/teams/851/players	http://api.football-data.org/v1/teams/851/fixtures
-83	LCFC	Leicester City FC	210,500,000 €	CL 16/17	http://api.football-data.org/v1/teams/338/players	http://api.football-data.org/v1/teams/338/fixtures
-84	MAD	Real Madrid CF	769,300,000 €	CL 16/17	http://api.football-data.org/v1/teams/86/players	http://api.football-data.org/v1/teams/86/fixtures
-85	SCP	Sporting CP	220,250,000 €	CL 16/17	http://api.football-data.org/v1/teams/498/players	http://api.football-data.org/v1/teams/498/fixtures
-86	B04	Bayer Leverkusen	253,900,000 €	CL 16/17	http://api.football-data.org/v1/teams/3/players	http://api.football-data.org/v1/teams/3/fixtures
-87	CSK	CSKA Moscow	152,650,000 €	CL 16/17	http://api.football-data.org/v1/teams/751/players	http://api.football-data.org/v1/teams/751/fixtures
-88	MCFC	Manchester City FC	518,000,000 €	CL 16/17	http://api.football-data.org/v1/teams/65/players	http://api.football-data.org/v1/teams/65/fixtures
-89	BMG	Bor. Mönchengladbach	165,600,000 €	CL 16/17	http://api.football-data.org/v1/teams/18/players	http://api.football-data.org/v1/teams/18/fixtures
-90	THFC	Tottenham Hotspur FC	365,500,000 €	CL 16/17	http://api.football-data.org/v1/teams/73/players	http://api.football-data.org/v1/teams/73/fixtures
-91	MON	AS Monaco FC	164,250,000 €	CL 16/17	http://api.football-data.org/v1/teams/548/players	http://api.football-data.org/v1/teams/548/fixtures
-92	FCB	FC Bayern München	582,225,000 €	BL 16/17	http://api.football-data.org/v1/teams/5/players	http://api.football-data.org/v1/teams/5/fixtures
-93	SVW	Werder Bremen	67,750,000 €	BL 16/17	http://api.football-data.org/v1/teams/12/players	http://api.football-data.org/v1/teams/12/fixtures
-94	FCA	FC Augsburg	61,200,000 €	BL 16/17	http://api.football-data.org/v1/teams/16/players	http://api.football-data.org/v1/teams/16/fixtures
-95	WOB	VfL Wolfsburg	189,600,000 €	BL 16/17	http://api.football-data.org/v1/teams/11/players	http://api.football-data.org/v1/teams/11/fixtures
-96	BVB	Borussia Dortmund	339,500,000 €	BL 16/17	http://api.football-data.org/v1/teams/4/players	http://api.football-data.org/v1/teams/4/fixtures
-97	M05	1. FSV Mainz 05	79,950,000 €	BL 16/17	http://api.football-data.org/v1/teams/15/players	http://api.football-data.org/v1/teams/15/fixtures
-98	SGE	Eintracht Frankfurt	61,350,000 €	BL 16/17	http://api.football-data.org/v1/teams/19/players	http://api.football-data.org/v1/teams/19/fixtures
-99	S04	FC Schalke 04	213,975,000 €	BL 16/17	http://api.football-data.org/v1/teams/6/players	http://api.football-data.org/v1/teams/6/fixtures
-100	HSV	Hamburger SV	80,150,000 €	BL 16/17	http://api.football-data.org/v1/teams/7/players	http://api.football-data.org/v1/teams/7/fixtures
-101	FCI	FC Ingolstadt 04	37,000,000 €	BL 16/17	http://api.football-data.org/v1/teams/31/players	http://api.football-data.org/v1/teams/31/fixtures
-102	EFFZEH	1. FC Köln	73,850,000 €	BL 16/17	http://api.football-data.org/v1/teams/1/players	http://api.football-data.org/v1/teams/1/fixtures
-103	DAR	SV Darmstadt 98	26,950,000 €	BL 16/17	http://api.football-data.org/v1/teams/55/players	http://api.football-data.org/v1/teams/55/fixtures
-104	BMG	Bor. Mönchengladbach	165,600,000 €	BL 16/17	http://api.football-data.org/v1/teams/18/players	http://api.football-data.org/v1/teams/18/fixtures
-105	B04	Bayer Leverkusen	253,900,000 €	BL 16/17	http://api.football-data.org/v1/teams/3/players	http://api.football-data.org/v1/teams/3/fixtures
-106	BSC	Hertha BSC	78,575,000 €	BL 16/17	http://api.football-data.org/v1/teams/9/players	http://api.football-data.org/v1/teams/9/fixtures
-107	SCF	SC Freiburg	43,650,000 €	BL 16/17	http://api.football-data.org/v1/teams/17/players	http://api.football-data.org/v1/teams/17/fixtures
-108	TSG	TSG 1899 Hoffenheim	86,225,000 €	BL 16/17	http://api.football-data.org/v1/teams/2/players	http://api.football-data.org/v1/teams/2/fixtures
-109	RBL	Red Bull Leipzig	70,875,000 €	BL 16/17	http://api.football-data.org/v1/teams/721/players	http://api.football-data.org/v1/teams/721/fixtures
+team name
+"0	HUL	Hull City FC	122"
+"1	LCFC	Leicester City FC	210"
+"2	SFC	Southampton FC	199"
+"3	Watfordfc	Watford FC	128"
+"4		Middlesbrough FC	104"
+"5	SCFC	Stoke City FC	172"
+"6	EFC	Everton FC	239"
+"7	THFC	Tottenham Hotspur FC	365"
+"8	CRY	Crystal Palace FC	157"
+"9	WBA	West Bromwich Albion FC	107"
+"10	BFC	Burnley FC	66"
+"11	SWA	Swansea City FC	106"
+"12	MCFC	Manchester City FC	518"
+"13	SUN	Sunderland AFC	92"
+"14	AFCB	AFC Bournemouth	121"
+"15	MUFC	Manchester United FC	534"
+"16	AFC	Arsenal FC	468"
+"17	LFC	Liverpool FC	387"
+"18	CFC	Chelsea FC	514"
+"19	WHU	West Ham United FC	241"
+"20	ROM	AS Roma	276"
+"21		Udinese Calcio	92"
+"22	JUVE	Juventus Turin	428"
+"23	FIO	ACF Fiorentina	151"
+"24	ACM	AC Milan	205"
+"25	FCT	Torino FC	99"
+"26		AC Chievo Verona	36"
+"27	Int	FC Internazionale Milano	331"
+"28	EMP	Empoli FC	50"
+"29		UC Sampdoria	81"
+"30	CFC	Genoa CFC	89"
+"31		Cagliari Calcio	62"
+"32		Bologna FC	72"
+"33		FC Crotone	22"
+"34	PAL	US Citt�� di Palermo	36"
+"35	SASS	US Sassuolo Calcio	89"
+"36		Pescara Calcio	33"
+"37	SSC	SSC Napoli	295"
+"38		Atalanta BC	68"
+"39	LAZ	SS Lazio	161"
+"40	MAL	M��laga CF	70"
+"41		CA Osasuna	"
+"42	LAC	RC Deportivo La Coruna	67"
+"43	EIB	SD Eibar	50"
+"44	FCB	FC Barcelona	741"
+"45		Real Betis	72"
+"46	GCF	Granada CF	43"
+"47	VCF	Villarreal CF	162"
+"48	SEV	Sevilla FC	218"
+"49	ESP	RCD Espanyol	67"
+"50		Sporting Gij�_n	46"
+"51	BIL	Athletic Club	148"
+"52	RSS	Real Sociedad de F̼tbol	111"
+"53	MAD	Real Madrid CF	769"
+"54	ATM	Club Atl̩tico de Madrid	493"
+"55		Deportivo Alav̩s		"
+"56	VIG	RC Celta de Vigo	101"
+"57		CD Leganes		"
+"58	VAL	Valencia CF	193"
+"59		UD Las Palmas	46"
+"60		FC Basel	52"
+"61	LUD	Ludogorez Rasgrad	40"
+"62	FCB	FC Bayern M�_nchen	582"
+"63		FC Rostov		"
+"64	PSV	PSV Eindhoven	112"
+"65	ATM	Club Atl̩tico de Madrid	493"
+"66	FCB	FC Barcelona	741"
+"67		Celtic FC		"
+"68	DYK	Dynamo Kyiv	123"
+"69	SSC	SSC Napoli	295"
+"70	SLB	SL Benfica	180"
+"71		Besiktas JK		"
+"72	PSG	Paris Saint-Germain	412"
+"73	AFC	Arsenal FC	468"
+"74		Legia Warszawa		"
+"75	BVB	Borussia Dortmund	339"
+"76	OLY	Olympique Lyonnais	171"
+"77	DIN	GNK Dinamo Zagreb	48"
+"78	JUVE	Juventus Turin	428"
+"79	SEV	Sevilla FC	218"
+"80	FCP	FC Porto	204"
+"81		FC Copenhagen		"
+"82		Club Brugge		"
+"83	LCFC	Leicester City FC	210"
+"84	MAD	Real Madrid CF	769"
+"85	SCP	Sporting CP	220"
+"86	B04	Bayer Leverkusen	253"
+"87	CSK	CSKA Moscow	152"
+"88	MCFC	Manchester City FC	518"
+"89	BMG	Bor. M̦nchengladbach	165"
+"90	THFC	Tottenham Hotspur FC	365"
+"91	MON	AS Monaco FC	164"
+"92	FCB	FC Bayern M�_nchen	582"
+"93	SVW	Werder Bremen	67"
+"94	FCA	FC Augsburg	61"
+"95	WOB	VfL Wolfsburg	189"
+"96	BVB	Borussia Dortmund	339"
+"97	M05	1. FSV Mainz 05	79"
+"98	SGE	Eintracht Frankfurt	61"
+"99	S04	FC Schalke 04	213"
+"100	HSV	Hamburger SV	80"
+"101	FCI	FC Ingolstadt 04	37"
+"102	EFFZEH	1. FC K̦ln	73"
+"103	DAR	SV Darmstadt 98	26"
+"104	BMG	Bor. M̦nchengladbach	165"
+"105	B04	Bayer Leverkusen	253"
+"106	BSC	Hertha BSC	78"
+"107	SCF	SC Freiburg	43"
+"108	TSG	TSG 1899 Hoffenheim	86"
+"109	RBL	Red Bull Leipzig	70"
