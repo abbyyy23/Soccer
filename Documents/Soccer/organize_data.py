@@ -16,7 +16,8 @@ def main():
     fixture_path = root + 'fixtures.json'
     competition_path = root + 'competitions.json'
 
-    teams_df = pd.read_pickle(root + 'all_teams.pkl')
+    teams_df = pd.read_pickle(root + 'teams_table.pkl')
+
 
     #players_df1 = data_frame_fixed(data_path)
     #players_table = all_players(players_df)
@@ -35,12 +36,29 @@ def main():
     competitions_df = competitions(competitions_raw_df)
     #print competitions_df
     fixture_df = all_fixtures(fixture_raw_df)
-    sample = leagueTable_get_columns(leagueTable_raw_df.standing[0])
+
+    #change the columns name to a better format
+    leagueTable_raw_df.rename(columns={'standings.A':'standingsA',
+    'standings.B':'standingsB', 'standings.C':'standingsC',
+    'standings.D':'standingsD', 'standings.E':'standingsE',
+    'standings.F':'standingsF', 'standings.G': 'standingsG',
+    'standings.H':'standingsH'}, inplace=True)
+
+    leagueTable_df = all_leagueTables(leagueTable_raw_df)
+    leagueTable_champions_df = champions_leagueTable(leagueTable_raw_df)
 
     #contains the name and id
     players_dict= name_id_dic(players_df, 'name')
+    teams_dict = name_id_dic(teams_df, 'name')
+    competitions_dict = name_id_dic(competitions_df, 'caption')
+    #check the columns of a df
+    # list(leagueTable_raw_df.columns.values)
+    print players_df
 
-    print players_dict
+
+
+
+
 
 
 
@@ -56,6 +74,8 @@ def name_id_dic (data , name):
     #this ensures there are no duplicates by the name column
     new_df = new_df.drop_duplicates(name)
     new_df = new_df.reset_index()
+    #deleting the column named index after reseting the index
+    del new_df['index']
     #this ensures that the series does not have a column name as a level
     new_df_dic = new_df[name].to_dict()
     #this inverts the key and the value
@@ -68,6 +88,27 @@ def name_id_dic (data , name):
 #homeGoalsAgainst, awayWins, awayLosses, awayDraws, awayGoals, awayGoalsAgainst#
 #
 ################################################################################
+#all the league tables except champions
+def champions_leagueTable(leagueTable_df):
+    #dictionary to store all the dataframes
+    df_name = {}
+    #iterates through all the leagueTable lists
+    df_name[0] = leagueTable_get_champions(leagueTable_df.standingsA[3])
+    df_name[1] = leagueTable_get_champions(leagueTable_df.standingsB[3])
+    df_name[2] = leagueTable_get_champions(leagueTable_df.standingsC[3])
+    df_name[3] = leagueTable_get_champions(leagueTable_df.standingsD[3])
+    df_name[4] = leagueTable_get_champions(leagueTable_df.standingsE[3])
+    df_name[5] = leagueTable_get_champions(leagueTable_df.standingsF[3])
+    df_name[6] = leagueTable_get_champions(leagueTable_df.standingsG[3])
+    df_name[7] = leagueTable_get_champions(leagueTable_df.standingsH[3])
+
+    #concatinates all the dataframes obtained from each competition's lists
+    all_competitions = pd.concat(df_name)
+    #drops the multindex
+    all_competitions.index = all_competitions.index.droplevel(0)
+    all_competitions = all_competitions.reset_index()
+    del all_competitions['index']
+    return all_competitions
 
 def leagueTable_get_columns(data):
     df_name = pd.DataFrame()
@@ -163,9 +204,41 @@ def awayGoalsAgainst(data):
         return None
     awayGoalsAgainst = away.get('goalsAgainst', None)
     return awayGoalsAgainst
-#clean the teams dataframe
-#def teams(data):
+#this gets the data for the champions league
+def leagueTable_get_champions(data):
+    df_name= pd.DataFrame()
+    df_name['group'] = map(lambda entry: entry.get('group', None),data)
+    df_name['pos'] = map(lambda entry: entry.get('rank', None),data)
+    df_name['team'] = map(lambda entry: entry.get('team', None), data)
+    df_name['P'] = map(lambda entry: entry.get('playedGames', None), data)
+    df_name['F'] = map(lambda entry: entry.get('goals', None), data)
+    df_name['A'] = map(lambda entry: entry.get('goalsAgainst', None), data)
+    df_name['GD'] = map(lambda entry: entry.get('goalDifference', None), data)
+    df_name['PTS'] = map(lambda entry: entry.get('points', None), data)
+    return df_name
 
+#gets the leagueTable for all competitions except champions league
+def all_leagueTables(leagueTable_df):
+    index_values = leagueTable_df
+    #dictionary to store all the dataframes
+    df_name = {}
+    #iterates through all the leagueTable lists
+    for i in range (0, (len(index_values))):
+        #will not do this for 3 since that is the champions league
+        if i != 3:
+            df_name[i] = leagueTable_get_columns(leagueTable_df.standing[i])
+
+            #sets competitonID to each fixture
+            for index, row in df_name[i].iterrows():
+                df_name[i].set_value(index, 'competitonID', int(i))
+
+    #concatinates all the dataframes obtained from each competition's lists
+    all_competitions = pd.concat(df_name)
+    #drops the multindex
+    all_competitions.index = all_competitions.index.droplevel(0)
+    all_competitions = all_competitions.reset_index()
+    del all_competitions['index']
+    return all_competitions
 
 #keep just the competitons of interest
 def competitions(data):
@@ -211,6 +284,9 @@ def all_fixtures(fixtures_df):
 
     #concatinates all the dataframes obtained from each competition's lists
     all_competitions = pd.concat(df_name)
+    #drops the multindex
+    all_competitions.index = all_competitions.index.droplevel(0)
+    all_competitions = all_competitions.reset_index()
     return all_competitions
 
 #to get the columns for the fixture table

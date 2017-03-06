@@ -42,13 +42,17 @@ def main():
     all_teams= pd.concat(frames)
     #reset the index of the dataframe
     all_teams.reset_index(drop=True, inplace=True)
+
     #write all teams to csv file
     #all_teams.to_csv("all_teams.csv", sep='\t', encoding='utf-8')
+    columns_r = ['players','fixtures']
+    all_teams.drop(columns_r, axis=1, inplace=True)
 
-    all_teams.to_pickle(root+ 'all_teams.pkl')
+    all_teams.to_pickle(root+ 'teams_table.pkl')
+    print all_teams
 
     #pp.pprint(teams)
-
+    print all_teams
 def competition_teams (comp_list, df_name, competition):
     df_name = pd.DataFrame()
     df_name['code'] = map(lambda team: team.get('code',None), comp_list)
