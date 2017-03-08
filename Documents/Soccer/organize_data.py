@@ -53,7 +53,7 @@ def main():
     competitions_dict = name_id_dic(competitions_df, 'caption')
     #check the columns of a df
     # list(leagueTable_raw_df.columns.values)
-    print players_df
+    print competitions_df
 
 
 
@@ -287,6 +287,7 @@ def all_fixtures(fixtures_df):
     #drops the multindex
     all_competitions.index = all_competitions.index.droplevel(0)
     all_competitions = all_competitions.reset_index()
+    del all_competitions['index']
     return all_competitions
 
 #to get the columns for the fixture table
@@ -299,7 +300,8 @@ def fixture_get_columns(data):
     df_name['awayTeamName'] = map(lambda fixture: fixture.get('awayTeamName', None), data)
     #df_name['odds'] = map(lambda fixture: fixture.get ('odds', None), data)
     return df_name
-
+#TODO
+#def all_results(data):
 #to get the columns for the results table
 def results_get_columns(data):
     df_name = pd.DataFrame()
