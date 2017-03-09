@@ -53,7 +53,7 @@ def main():
     competitions_dict = name_id_dic(competitions_df, 'caption')
     #check the columns of a df
     # list(leagueTable_raw_df.columns.values)
-    print competitions_df
+    print leagueTable_champions_df
 
 
 
