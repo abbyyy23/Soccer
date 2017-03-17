@@ -20,7 +20,7 @@ def main():
 
 
     #players_df1 = data_frame_fixed(data_path)
-    #players_table = all_players(players_df)
+
     #players_table = all_players(players_df1, teams_df)
     #players_table.to_pickle(root+ 'players_table.pkl')
 
@@ -56,7 +56,8 @@ def main():
     print leagueTable_champions_df
 
 
-
+    engine = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
+    players_df.to_sql('players', engine)
 
 
 
@@ -379,7 +380,7 @@ def player_get_columns(data):
     df_name['marketValue'] = map(lambda player: player.get('marketValue',None), data)
     df_name['jerseyNumber']= map(lambda player: player.get('jerseyNumber',
                                                             None) ,data)
-    df_name['dateOfBirth'] = map(lambda player: player.get('dateOfBirth',None), data)
+    df_name['dob'] = map(lambda player: player.get('dateOfBirth',None), data)
     df_name['contractUntil'] = map(lambda player: player.get('contractUntil',None), data)
     df_name['nationality'] = map(lambda player: player.get('nationality',None), data)
     df_name['position'] = map(lambda player: player.get('position',None), data)
