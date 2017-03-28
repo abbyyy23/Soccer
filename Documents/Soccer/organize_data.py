@@ -53,14 +53,15 @@ def main():
     competitions_dict = name_id_dic(competitions_df, 'caption')
     #check the columns of a df
     # list(leagueTable_raw_df.columns.values)
-    print leagueTable_champions_df
+    #print
 
 
-    engine = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
-    players_df.to_sql('players', engine)
-
-
-
+    #engine = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
+    #players_df.to_sql('players', engine)
+    #teams_df_name = pd.DataFrame()
+    #teams_df_name = teams_df[['name']].copy()
+    #teams_df_name.to_csv("teams.csv", sep='\t', encoding='utf-8')
+    print players_df
 
 
 #function that returns a dictionary with name and id of dataframe
