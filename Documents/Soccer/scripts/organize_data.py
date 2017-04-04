@@ -9,6 +9,7 @@ import unicodedata
 
 root= '/Users/abbyparra/Documents/Soccer/'
 
+
 def main():
 
     #data_path = root + 'players.json'
@@ -38,7 +39,12 @@ def main():
     #print competitions_df
     fixture_df = all_fixtures(fixture_raw_df)
     #fixture_df.to_pickle(root + 'fixture_df.pkl')
-
+    results_df  = all_results(fixture_raw_df)
+    #dropping all of the na
+    results_df.dropna(inplace = True)
+    #results_df.to_pickle(root + 'results_df.pkl')
+    print results_df
+    #print fixture_raw_df.fixtures
 
     #change the columns name to a better format
     leagueTable_raw_df.rename(columns={'standings.A':'standingsA',
@@ -71,7 +77,7 @@ def main():
 
     #check the columns of a df
     # list(leagueTable_raw_df.columns.values)
-    print competitions_df
+    #print competitions_df
 
 
     #engine = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
@@ -321,7 +327,24 @@ def fixture_get_columns(data):
     #df_name['odds'] = map(lambda fixture: fixture.get ('odds', None), data)
     return df_name
 
-#def all_results(data):
+def all_results(fixtures_df):
+    index_values = fixtures_df
+    df_name = {}
+    #iterates through all the competition lists
+    for i in range (0, (len(index_values))):
+        df_name[i] = results_get_columns(fixtures_df.fixtures[i])
+
+        #sets competitonID to each fixture
+        #for index, row in df_name[i].iterrows():
+            #df_name[i].set_value(index, 'competitonID', int(i))
+
+    #concatinates all the dataframes obtained from each competition's lists
+    all_competitions = pd.concat(df_name)
+    #drops the multindex
+    all_competitions.index = all_competitions.index.droplevel(0)
+    all_competitions = all_competitions.reset_index()
+    del all_competitions['index']
+    return all_competitions
 
 #to get the columns for the results table
 def results_get_columns(data):
