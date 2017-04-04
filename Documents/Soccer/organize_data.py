@@ -34,8 +34,11 @@ def main():
     #fixture_df = fixture_raw_df['fixtures'].to_frame()
     #print competitions_raw_df
     competitions_df = competitions(competitions_raw_df)
+    #competitions_df.to_pickle(root+ 'competitions_df.pkl')
     #print competitions_df
     fixture_df = all_fixtures(fixture_raw_df)
+    #fixture_df.to_pickle(root + 'fixture_df.pkl')
+
 
     #change the columns name to a better format
     leagueTable_raw_df.rename(columns={'standings.A':'standingsA',
@@ -45,15 +48,30 @@ def main():
     'standings.H':'standingsH'}, inplace=True)
 
     leagueTable_df = all_leagueTables(leagueTable_raw_df)
+    #leagueTable_df.to_pickle(root + 'leagueTable_df.pkl')
     leagueTable_champions_df = champions_leagueTable(leagueTable_raw_df)
+    #leagueTable_champions_df.to_pickle(root + 'leagueTable_champions_df.pkl')
 
     #contains the name and id
     players_dict= name_id_dic(players_df, 'name')
+    #output = open('players_dict.pkl', 'wb')
+    #pickle.dump(players_dict, output)
+    #output.close()
+
+
     teams_dict = name_id_dic(teams_df, 'name')
+    #output = open('teams_dict.pkl', 'wb')
+    #pickle.dump(teams_dict, output)
+    #output.close()
+
     competitions_dict = name_id_dic(competitions_df, 'caption')
+    #output = open('competitions_dict.pkl', 'wb')
+    #pickle.dump(competitions_dict, output)
+    #output.close()
+
     #check the columns of a df
     # list(leagueTable_raw_df.columns.values)
-    #print
+    print competitions_df
 
 
     #engine = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
@@ -61,7 +79,7 @@ def main():
     #teams_df_name = pd.DataFrame()
     #teams_df_name = teams_df[['name']].copy()
     #teams_df_name.to_csv("teams.csv", sep='\t', encoding='utf-8')
-    print players_df
+    #print players_df
 
 
 #function that returns a dictionary with name and id of dataframe
@@ -302,8 +320,9 @@ def fixture_get_columns(data):
     df_name['awayTeamName'] = map(lambda fixture: fixture.get('awayTeamName', None), data)
     #df_name['odds'] = map(lambda fixture: fixture.get ('odds', None), data)
     return df_name
-#TODO
+
 #def all_results(data):
+
 #to get the columns for the results table
 def results_get_columns(data):
     df_name = pd.DataFrame()

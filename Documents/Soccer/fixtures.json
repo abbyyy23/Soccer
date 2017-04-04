@@ -8519,7 +8519,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-02-26T14:15:00Z", 
+      "date": "2017-04-27T19:00:00Z", 
       "homeTeamName": "Manchester City FC", 
       "awayTeamName": "Manchester United FC"
     }, 
@@ -9001,7 +9001,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-03-11T15:00:00Z", 
+      "date": "2017-04-26T19:00:00Z", 
       "homeTeamName": "Crystal Palace FC", 
       "awayTeamName": "Tottenham Hotspur FC"
     }, 
@@ -9087,7 +9087,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-03-11T15:00:00Z", 
+      "date": "2017-04-26T18:45:00Z", 
       "homeTeamName": "Middlesbrough FC", 
       "awayTeamName": "Sunderland AFC"
     }, 
@@ -9139,7 +9139,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-03-11T17:30:00Z", 
+      "date": "2017-04-26T18:45:00Z", 
       "homeTeamName": "Arsenal FC", 
       "awayTeamName": "Leicester City FC"
     }, 
@@ -9474,8 +9474,12 @@
       "awayTeamName": "Liverpool FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.72, 
+        "awayWin": 5.5, 
+        "draw": 4.0
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9492,16 +9496,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 3
       }, 
       "date": "2017-04-01T11:30:00Z", 
       "homeTeamName": "Liverpool FC", 
       "awayTeamName": "Everton FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.0, 
+        "awayWin": 4.4, 
+        "draw": 3.4
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9518,16 +9526,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-01T14:00:00Z", 
       "homeTeamName": "Watford FC", 
       "awayTeamName": "Sunderland AFC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 5.8, 
+        "awayWin": 1.72, 
+        "draw": 3.8
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9544,16 +9556,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 0
       }, 
       "date": "2017-04-01T14:00:00Z", 
       "homeTeamName": "Burnley FC", 
       "awayTeamName": "Tottenham Hotspur FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.35, 
+        "awayWin": 10.0, 
+        "draw": 5.5
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9570,16 +9586,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-01T14:00:00Z", 
       "homeTeamName": "Chelsea FC", 
       "awayTeamName": "Crystal Palace FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.3, 
+        "awayWin": 3.3, 
+        "draw": 3.4
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9596,16 +9616,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-01T14:00:00Z", 
       "homeTeamName": "Hull City FC", 
       "awayTeamName": "West Ham United FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.0, 
+        "awayWin": 4.33, 
+        "draw": 3.5
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9622,16 +9646,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-01T14:00:00Z", 
       "homeTeamName": "Leicester City FC", 
       "awayTeamName": "Stoke City FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.4, 
+        "awayWin": 9.5, 
+        "draw": 5.0
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9648,16 +9676,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 0
       }, 
       "date": "2017-04-01T14:00:00Z", 
       "homeTeamName": "Manchester United FC", 
       "awayTeamName": "West Bromwich Albion FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.66, 
+        "awayWin": 5.8, 
+        "draw": 4.0
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9674,16 +9706,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 0
       }, 
       "date": "2017-04-01T16:30:00Z", 
       "homeTeamName": "Southampton FC", 
       "awayTeamName": "AFC Bournemouth"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.95, 
+        "awayWin": 4.33, 
+        "draw": 3.6
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9700,16 +9736,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 0
       }, 
       "date": "2017-04-02T12:30:00Z", 
       "homeTeamName": "Swansea City FC", 
       "awayTeamName": "Middlesbrough FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 3.1, 
+        "awayWin": 2.3, 
+        "draw": 3.75
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -9726,16 +9766,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-02T15:00:00Z", 
       "homeTeamName": "Arsenal FC", 
       "awayTeamName": "Manchester City FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.5, 
+        "awayWin": 3.0, 
+        "draw": 3.2
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9752,16 +9796,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-04T18:45:00Z", 
       "homeTeamName": "Watford FC", 
       "awayTeamName": "West Bromwich Albion FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.6, 
+        "awayWin": 6.0, 
+        "draw": 4.2
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9778,16 +9826,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-04T18:45:00Z", 
       "homeTeamName": "Leicester City FC", 
       "awayTeamName": "Sunderland AFC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.5, 
+        "awayWin": 3.0, 
+        "draw": 3.25
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9804,16 +9856,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-04T18:45:00Z", 
       "homeTeamName": "Burnley FC", 
       "awayTeamName": "Stoke City FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.57, 
+        "awayWin": 6.0, 
+        "draw": 4.33
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9830,16 +9886,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-04T19:00:00Z", 
       "homeTeamName": "Manchester United FC", 
       "awayTeamName": "Everton FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.7, 
+        "awayWin": 5.0, 
+        "draw": 3.8
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9864,8 +9924,12 @@
       "awayTeamName": "Crystal Palace FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.4, 
+        "awayWin": 8.0, 
+        "draw": 5.0
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9890,8 +9954,12 @@
       "awayTeamName": "West Ham United FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.2, 
+        "awayWin": 3.4, 
+        "draw": 3.5
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9916,8 +9984,12 @@
       "awayTeamName": "Middlesbrough FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 5.0, 
+        "awayWin": 1.66, 
+        "draw": 4.0
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9942,8 +10014,12 @@
       "awayTeamName": "Tottenham Hotspur FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.37, 
+        "awayWin": 3.1, 
+        "draw": 3.4
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9968,8 +10044,12 @@
       "awayTeamName": "Manchester City FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.28, 
+        "awayWin": 11.0, 
+        "draw": 5.8
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -9994,8 +10074,12 @@
       "awayTeamName": "AFC Bournemouth"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.28, 
+        "awayWin": 13.0, 
+        "draw": 5.5
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10020,8 +10104,12 @@
       "awayTeamName": "Watford FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 3.1, 
+        "awayWin": 2.45, 
+        "draw": 3.25
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10046,8 +10134,12 @@
       "awayTeamName": "Southampton FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.05, 
+        "awayWin": 3.6, 
+        "draw": 3.7
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10072,8 +10164,12 @@
       "awayTeamName": "Swansea City FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.2, 
+        "awayWin": 15.0, 
+        "draw": 7.5
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10098,8 +10194,12 @@
       "awayTeamName": "Hull City FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.4, 
+        "awayWin": 3.0, 
+        "draw": 3.4
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10124,8 +10224,12 @@
       "awayTeamName": "Burnley FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 5.0, 
+        "awayWin": 1.7, 
+        "draw": 4.0
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10150,8 +10254,12 @@
       "awayTeamName": "Liverpool FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 7.0, 
+        "awayWin": 1.53, 
+        "draw": 4.2
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10176,8 +10284,12 @@
       "awayTeamName": "Chelsea FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 7.5, 
+        "awayWin": 1.44, 
+        "draw": 4.6
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10202,8 +10314,12 @@
       "awayTeamName": "Manchester United FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.72, 
+        "awayWin": 4.8, 
+        "draw": 4.0
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10228,8 +10344,12 @@
       "awayTeamName": "Leicester City FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 5.0, 
+        "awayWin": 1.7, 
+        "draw": 4.0
+      }, 
       "matchday": 32, 
       "_links": {
         "awayTeam": {
@@ -10254,7 +10374,7 @@
       "awayTeamName": "Arsenal FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10280,7 +10400,7 @@
       "awayTeamName": "AFC Bournemouth"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10306,7 +10426,7 @@
       "awayTeamName": "Leicester City FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10332,7 +10452,7 @@
       "awayTeamName": "Burnley FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10358,7 +10478,7 @@
       "awayTeamName": "West Ham United FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10384,7 +10504,7 @@
       "awayTeamName": "Hull City FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10410,7 +10530,7 @@
       "awayTeamName": "Swansea City FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10436,7 +10556,7 @@
       "awayTeamName": "Manchester City FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10462,7 +10582,7 @@
       "awayTeamName": "Liverpool FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10488,7 +10608,7 @@
       "awayTeamName": "Chelsea FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 33, 
       "_links": {
@@ -10717,7 +10837,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T13:15:00Z", 
+      "date": "2017-04-25T18:45:00Z", 
       "homeTeamName": "Chelsea FC", 
       "awayTeamName": "Southampton FC"
     }, 
@@ -10795,7 +10915,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-29T14:00:00Z", 
+      "date": "2017-04-30T13:05:00Z", 
       "homeTeamName": "Middlesbrough FC", 
       "awayTeamName": "Manchester City FC"
     }, 
@@ -21350,8 +21470,12 @@
       "awayTeamName": "US Sassuolo Calcio"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.53, 
+        "awayWin": 7.0, 
+        "draw": 4.33
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21368,16 +21492,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-02T13:00:00Z", 
       "homeTeamName": "ACF Fiorentina", 
       "awayTeamName": "Bologna FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.85, 
+        "awayWin": 4.6, 
+        "draw": 3.6
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21394,16 +21522,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-02T13:00:00Z", 
       "homeTeamName": "AC Chievo Verona", 
       "awayTeamName": "FC Crotone"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 3.8, 
+        "awayWin": 2.1, 
+        "draw": 3.5
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21420,16 +21552,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 5, 
+        "goalsHomeTeam": 0
       }, 
       "date": "2017-04-02T13:00:00Z", 
       "homeTeamName": "Genoa CFC", 
       "awayTeamName": "Atalanta BC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.36, 
+        "awayWin": 10.0, 
+        "draw": 5.5
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21446,16 +21582,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 1
       }, 
-      "date": "2017-04-02T13:00:00Z", 
+      "date": "2017-04-03T18:45:00Z", 
       "homeTeamName": "FC Internazionale Milano", 
       "awayTeamName": "UC Sampdoria"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.5, 
+        "awayWin": 3.1, 
+        "draw": 3.2
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21472,16 +21612,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 1
       }, 
-      "date": "2017-04-02T13:00:00Z", 
+      "date": "2017-04-02T18:45:00Z", 
       "homeTeamName": "SSC Napoli", 
       "awayTeamName": "Juventus Turin"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.37, 
+        "awayWin": 3.1, 
+        "draw": 3.5
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21498,16 +21642,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 3, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-02T13:00:00Z", 
       "homeTeamName": "US Citt\u00e1 di Palermo", 
       "awayTeamName": "Cagliari Calcio"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 6.0, 
+        "awayWin": 1.57, 
+        "draw": 4.4
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21524,16 +21672,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-02T13:00:00Z", 
       "homeTeamName": "Pescara Calcio", 
       "awayTeamName": "AC Milan"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.18, 
+        "awayWin": 15.0, 
+        "draw": 7.5
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21550,16 +21702,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 2
       }, 
-      "date": "2017-04-02T13:00:00Z", 
+      "date": "2017-04-01T18:45:00Z", 
       "homeTeamName": "AS Roma", 
       "awayTeamName": "Empoli FC"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 4.33, 
+        "awayWin": 1.85, 
+        "draw": 3.9
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21576,16 +21732,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 1
       }, 
-      "date": "2017-04-02T13:00:00Z", 
+      "date": "2017-04-01T16:00:00Z", 
       "homeTeamName": "US Sassuolo Calcio", 
       "awayTeamName": "SS Lazio"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.9, 
+        "awayWin": 4.33, 
+        "draw": 3.7
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -21602,16 +21762,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 2
       }, 
-      "date": "2017-04-02T13:00:00Z", 
+      "date": "2017-04-02T10:30:00Z", 
       "homeTeamName": "Torino FC", 
       "awayTeamName": "Udinese Calcio"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 7.5, 
+        "awayWin": 1.44, 
+        "draw": 4.5
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21636,8 +21800,12 @@
       "awayTeamName": "AS Roma"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 3.2, 
+        "awayWin": 2.2, 
+        "draw": 3.4
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21662,8 +21830,12 @@
       "awayTeamName": "Torino FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 11.0, 
+        "awayWin": 1.25, 
+        "draw": 5.8
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21688,8 +21860,12 @@
       "awayTeamName": "FC Internazionale Milano"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.83, 
+        "awayWin": 4.2, 
+        "draw": 3.7
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21709,13 +21885,17 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-09T13:00:00Z", 
+      "date": "2017-04-08T13:00:00Z", 
       "homeTeamName": "Empoli FC", 
       "awayTeamName": "Pescara Calcio"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.22, 
+        "awayWin": 15.0, 
+        "draw": 6.0
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21735,13 +21915,17 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-09T13:00:00Z", 
+      "date": "2017-04-08T18:45:00Z", 
       "homeTeamName": "Juventus Turin", 
       "awayTeamName": "AC Chievo Verona"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.75, 
+        "awayWin": 2.5, 
+        "draw": 3.4
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21761,13 +21945,17 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-09T13:00:00Z", 
+      "date": "2017-04-09T18:45:00Z", 
       "homeTeamName": "SS Lazio", 
       "awayTeamName": "SSC Napoli"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.28, 
+        "awayWin": 10.0, 
+        "draw": 5.8
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21792,8 +21980,12 @@
       "awayTeamName": "US Citt\u00e1 di Palermo"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.7, 
+        "awayWin": 2.5, 
+        "draw": 3.3
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21813,13 +22005,17 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-09T13:00:00Z", 
+      "date": "2017-04-09T10:30:00Z", 
       "homeTeamName": "UC Sampdoria", 
       "awayTeamName": "ACF Fiorentina"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.85, 
+        "awayWin": 4.2, 
+        "draw": 3.6
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21844,8 +22040,12 @@
       "awayTeamName": "Genoa CFC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.53, 
+        "awayWin": 6.0, 
+        "draw": 4.2
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -21865,12 +22065,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-09T13:00:00Z", 
+      "date": "2017-04-08T16:00:00Z", 
       "homeTeamName": "Atalanta BC", 
       "awayTeamName": "US Sassuolo Calcio"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -21891,12 +22091,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-15T13:00:00Z", 
+      "date": "2017-04-15T10:30:00Z", 
       "homeTeamName": "FC Internazionale Milano", 
       "awayTeamName": "AC Milan"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -21922,7 +22122,7 @@
       "awayTeamName": "SS Lazio"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -21948,7 +22148,7 @@
       "awayTeamName": "Empoli FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -21974,7 +22174,7 @@
       "awayTeamName": "AC Chievo Verona"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -21995,12 +22195,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-15T13:00:00Z", 
+      "date": "2017-04-15T18:45:00Z", 
       "homeTeamName": "SSC Napoli", 
       "awayTeamName": "Udinese Calcio"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -22026,7 +22226,7 @@
       "awayTeamName": "Bologna FC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -22052,7 +22252,7 @@
       "awayTeamName": "Juventus Turin"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -22078,7 +22278,7 @@
       "awayTeamName": "Atalanta BC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -22099,12 +22299,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-15T13:00:00Z", 
+      "date": "2017-04-15T16:00:00Z", 
       "homeTeamName": "US Sassuolo Calcio", 
       "awayTeamName": "UC Sampdoria"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -22151,7 +22351,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T13:00:00Z", 
+      "date": "2017-04-23T18:45:00Z", 
       "homeTeamName": "Juventus Turin", 
       "awayTeamName": "Genoa CFC"
     }, 
@@ -22177,7 +22377,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T13:00:00Z", 
+      "date": "2017-04-22T18:45:00Z", 
       "homeTeamName": "ACF Fiorentina", 
       "awayTeamName": "FC Internazionale Milano"
     }, 
@@ -22229,7 +22429,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T13:00:00Z", 
+      "date": "2017-04-22T16:00:00Z", 
       "homeTeamName": "Atalanta BC", 
       "awayTeamName": "Bologna FC"
     }, 
@@ -22307,7 +22507,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T13:00:00Z", 
+      "date": "2017-04-24T18:45:00Z", 
       "homeTeamName": "Pescara Calcio", 
       "awayTeamName": "AS Roma"
     }, 
@@ -22359,7 +22559,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T13:00:00Z", 
+      "date": "2017-04-23T10:30:00Z", 
       "homeTeamName": "US Sassuolo Calcio", 
       "awayTeamName": "SSC Napoli"
     }, 
@@ -32914,8 +33114,12 @@
       "awayTeamName": "Valencia CF"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.3, 
+        "awayWin": 3.5, 
+        "draw": 3.3
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -32932,16 +33136,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-03-31T18:45:00Z", 
       "homeTeamName": "RCD Espanyol", 
       "awayTeamName": "Real Betis"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.85, 
+        "awayWin": 4.5, 
+        "draw": 3.7
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -32958,16 +33166,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 3, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-01T11:00:00Z", 
       "homeTeamName": "Villarreal CF", 
       "awayTeamName": "SD Eibar"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 6.0, 
+        "awayWin": 1.61, 
+        "draw": 4.0
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -32984,16 +33196,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-01T14:15:00Z", 
       "homeTeamName": "CA Osasuna", 
       "awayTeamName": "Athletic Club"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.75, 
+        "awayWin": 5.5, 
+        "draw": 3.6
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -33010,16 +33226,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-01T16:30:00Z", 
       "homeTeamName": "Real Sociedad de F\u00fatbol", 
       "awayTeamName": "CD Leganes"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 5.0, 
+        "awayWin": 1.8, 
+        "draw": 3.7
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -33036,16 +33256,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 2, 
+        "goalsHomeTeam": 0
       }, 
       "date": "2017-04-01T18:45:00Z", 
       "homeTeamName": "M\u00e1laga CF", 
       "awayTeamName": "Club Atl\u00e9tico de Madrid"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.11, 
+        "awayWin": 23.0, 
+        "draw": 9.0
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -33062,16 +33286,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 3
       }, 
       "date": "2017-04-02T14:15:00Z", 
       "homeTeamName": "Real Madrid CF", 
       "awayTeamName": "Deportivo Alav\u00e9s"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.33, 
+        "awayWin": 9.0, 
+        "draw": 5.0
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -33088,16 +33316,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 0
       }, 
-      "date": "2017-04-02T15:00:00Z", 
+      "date": "2017-04-02T10:00:00Z", 
       "homeTeamName": "Sevilla FC", 
       "awayTeamName": "Sporting Gij\u00f3n"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.83, 
+        "awayWin": 4.0, 
+        "draw": 3.7
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -33114,16 +33346,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 3
       }, 
       "date": "2017-04-02T16:30:00Z", 
       "homeTeamName": "Valencia CF", 
       "awayTeamName": "RC Deportivo La Coruna"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 15.0, 
+        "awayWin": 1.18, 
+        "draw": 7.0
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -33140,16 +33376,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 4, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-02T18:45:00Z", 
       "homeTeamName": "Granada CF", 
       "awayTeamName": "FC Barcelona"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.95, 
+        "awayWin": 3.9, 
+        "draw": 3.5
+      }, 
       "matchday": 29, 
       "_links": {
         "awayTeam": {
@@ -33166,16 +33406,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 3
       }, 
       "date": "2017-04-03T18:45:00Z", 
       "homeTeamName": "RC Celta de Vigo", 
       "awayTeamName": "UD Las Palmas"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.65, 
+        "awayWin": 5.0, 
+        "draw": 3.8
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33192,16 +33436,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-04T17:30:00Z", 
       "homeTeamName": "Athletic Club", 
       "awayTeamName": "RCD Espanyol"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "IN_PLAY", 
+      "odds": {
+        "homeWin": 1.4, 
+        "awayWin": 8.0, 
+        "draw": 4.6
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33218,16 +33466,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-04T19:30:00Z", 
       "homeTeamName": "Club Atl\u00e9tico de Madrid", 
       "awayTeamName": "Real Sociedad de F\u00fatbol"
     }, 
     {
-      "status": "TIMED", 
-      "odds": null, 
+      "status": "IN_PLAY", 
+      "odds": {
+        "homeWin": 2.87, 
+        "awayWin": 2.45, 
+        "draw": 3.3
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33244,16 +33496,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 0
       }, 
       "date": "2017-04-04T19:30:00Z", 
       "homeTeamName": "Real Betis", 
       "awayTeamName": "Villarreal CF"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.22, 
+        "awayWin": 13.0, 
+        "draw": 6.0
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33273,13 +33529,17 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-05T15:00:00Z", 
+      "date": "2017-04-05T17:30:00Z", 
       "homeTeamName": "FC Barcelona", 
       "awayTeamName": "Sevilla FC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.7, 
+        "awayWin": 4.75, 
+        "draw": 3.8
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33304,8 +33564,12 @@
       "awayTeamName": "Granada CF"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.5, 
+        "awayWin": 2.75, 
+        "draw": 3.3
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33330,8 +33594,12 @@
       "awayTeamName": "M\u00e1laga CF"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.44, 
+        "awayWin": 7.5, 
+        "draw": 4.4
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33356,8 +33624,12 @@
       "awayTeamName": "CA Osasuna"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 11.0, 
+        "awayWin": 1.28, 
+        "draw": 5.5
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33382,8 +33654,12 @@
       "awayTeamName": "Real Madrid CF"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.9, 
+        "awayWin": 3.9, 
+        "draw": 3.7
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33408,8 +33684,12 @@
       "awayTeamName": "UD Las Palmas"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.05, 
+        "awayWin": 3.5, 
+        "draw": 3.4
+      }, 
       "matchday": 30, 
       "_links": {
         "awayTeam": {
@@ -33434,8 +33714,12 @@
       "awayTeamName": "RC Celta de Vigo"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.1, 
+        "awayWin": 3.4, 
+        "draw": 3.4
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33460,8 +33744,12 @@
       "awayTeamName": "Athletic Club"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.0, 
+        "awayWin": 4.0, 
+        "draw": 3.2
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33486,8 +33774,12 @@
       "awayTeamName": "Deportivo Alav\u00e9s"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.75, 
+        "awayWin": 4.8, 
+        "draw": 3.6
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33512,8 +33804,12 @@
       "awayTeamName": "Club Atl\u00e9tico de Madrid"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 15.0, 
+        "awayWin": 1.22, 
+        "draw": 6.5
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33538,8 +33834,12 @@
       "awayTeamName": "FC Barcelona"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.75, 
+        "awayWin": 2.5, 
+        "draw": 3.3
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33564,8 +33864,12 @@
       "awayTeamName": "Valencia CF"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.1, 
+        "awayWin": 3.3, 
+        "draw": 3.5
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33590,8 +33894,12 @@
       "awayTeamName": "SD Eibar"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.44, 
+        "awayWin": 7.5, 
+        "draw": 4.2
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33611,13 +33919,17 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-09T15:00:00Z", 
+      "date": "2017-04-08T16:30:00Z", 
       "homeTeamName": "Sevilla FC", 
       "awayTeamName": "RC Deportivo La Coruna"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 3.1, 
+        "awayWin": 2.4, 
+        "draw": 3.1
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33642,8 +33954,12 @@
       "awayTeamName": "CD Leganes"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.95, 
+        "awayWin": 3.8, 
+        "draw": 3.5
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33668,8 +33984,12 @@
       "awayTeamName": "Real Betis"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.44, 
+        "awayWin": 7.5, 
+        "draw": 4.2
+      }, 
       "matchday": 31, 
       "_links": {
         "awayTeam": {
@@ -33694,7 +34014,7 @@
       "awayTeamName": "Sporting Gij\u00f3n"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33715,12 +34035,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-14T18:45:00Z", 
       "homeTeamName": "Athletic Club", 
       "awayTeamName": "UD Las Palmas"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33741,12 +34061,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-15T16:30:00Z", 
       "homeTeamName": "Club Atl\u00e9tico de Madrid", 
       "awayTeamName": "CA Osasuna"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33767,12 +34087,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-15T18:45:00Z", 
       "homeTeamName": "FC Barcelona", 
       "awayTeamName": "Real Sociedad de F\u00fatbol"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33793,12 +34113,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-17T18:45:00Z", 
       "homeTeamName": "Deportivo Alav\u00e9s", 
       "awayTeamName": "Villarreal CF"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33819,12 +34139,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-15T11:00:00Z", 
       "homeTeamName": "RC Deportivo La Coruna", 
       "awayTeamName": "M\u00e1laga CF"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33845,12 +34165,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-16T18:45:00Z", 
       "homeTeamName": "Granada CF", 
       "awayTeamName": "RC Celta de Vigo"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33871,12 +34191,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-16T10:00:00Z", 
       "homeTeamName": "CD Leganes", 
       "awayTeamName": "RCD Espanyol"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33897,12 +34217,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-16T16:30:00Z", 
       "homeTeamName": "Real Betis", 
       "awayTeamName": "SD Eibar"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 32, 
       "_links": {
@@ -33923,7 +34243,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-16T15:00:00Z", 
+      "date": "2017-04-15T14:15:00Z", 
       "homeTeamName": "Sporting Gij\u00f3n", 
       "awayTeamName": "Real Madrid CF"
     }, 
@@ -33975,7 +34295,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-23T16:30:00Z", 
       "homeTeamName": "UD Las Palmas", 
       "awayTeamName": "Deportivo Alav\u00e9s"
     }, 
@@ -34001,7 +34321,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-22T18:45:00Z", 
       "homeTeamName": "RCD Espanyol", 
       "awayTeamName": "Club Atl\u00e9tico de Madrid"
     }, 
@@ -34027,7 +34347,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-24T18:45:00Z", 
       "homeTeamName": "SD Eibar", 
       "awayTeamName": "Athletic Club"
     }, 
@@ -34053,7 +34373,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-23T14:15:00Z", 
       "homeTeamName": "RC Celta de Vigo", 
       "awayTeamName": "Real Betis"
     }, 
@@ -34079,7 +34399,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-22T11:00:00Z", 
       "homeTeamName": "M\u00e1laga CF", 
       "awayTeamName": "Valencia CF"
     }, 
@@ -34105,7 +34425,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-22T16:30:00Z", 
       "homeTeamName": "CA Osasuna", 
       "awayTeamName": "Sporting Gij\u00f3n"
     }, 
@@ -34131,7 +34451,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-23T18:45:00Z", 
       "homeTeamName": "Real Madrid CF", 
       "awayTeamName": "FC Barcelona"
     }, 
@@ -34157,7 +34477,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-23T10:00:00Z", 
       "homeTeamName": "Real Sociedad de F\u00fatbol", 
       "awayTeamName": "RC Deportivo La Coruna"
     }, 
@@ -34209,7 +34529,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-23T15:00:00Z", 
+      "date": "2017-04-22T14:15:00Z", 
       "homeTeamName": "Villarreal CF", 
       "awayTeamName": "CD Leganes"
     }, 
@@ -34235,7 +34555,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-26T17:30:00Z", 
       "homeTeamName": "FC Barcelona", 
       "awayTeamName": "CA Osasuna"
     }, 
@@ -34261,7 +34581,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-25T19:30:00Z", 
       "homeTeamName": "Club Atl\u00e9tico de Madrid", 
       "awayTeamName": "Villarreal CF"
     }, 
@@ -34287,7 +34607,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-25T17:30:00Z", 
       "homeTeamName": "Sporting Gij\u00f3n", 
       "awayTeamName": "RCD Espanyol"
     }, 
@@ -34313,7 +34633,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-27T19:30:00Z", 
       "homeTeamName": "Athletic Club", 
       "awayTeamName": "Real Betis"
     }, 
@@ -34339,7 +34659,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-27T17:30:00Z", 
       "homeTeamName": "Deportivo Alav\u00e9s", 
       "awayTeamName": "SD Eibar"
     }, 
@@ -34365,7 +34685,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-26T19:30:00Z", 
       "homeTeamName": "RC Deportivo La Coruna", 
       "awayTeamName": "Real Madrid CF"
     }, 
@@ -34391,7 +34711,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-25T18:30:00Z", 
       "homeTeamName": "Granada CF", 
       "awayTeamName": "M\u00e1laga CF"
     }, 
@@ -34417,7 +34737,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-26T18:30:00Z", 
       "homeTeamName": "CD Leganes", 
       "awayTeamName": "UD Las Palmas"
     }, 
@@ -34469,7 +34789,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-26T15:00:00Z", 
+      "date": "2017-04-26T18:30:00Z", 
       "homeTeamName": "Valencia CF", 
       "awayTeamName": "Real Sociedad de F\u00fatbol"
     }, 
@@ -39039,7 +39359,11 @@
     }, 
     {
       "status": "TIMED", 
-      "odds": null, 
+      "odds": {
+        "homeWin": 1.65, 
+        "awayWin": 5.0, 
+        "draw": 4.2
+      }, 
       "matchday": 8, 
       "_links": {
         "awayTeam": {
@@ -39065,7 +39389,11 @@
     }, 
     {
       "status": "TIMED", 
-      "odds": null, 
+      "odds": {
+        "homeWin": 2.62, 
+        "awayWin": 2.8, 
+        "draw": 3.25
+      }, 
       "matchday": 8, 
       "_links": {
         "awayTeam": {
@@ -39091,7 +39419,11 @@
     }, 
     {
       "status": "TIMED", 
-      "odds": null, 
+      "odds": {
+        "homeWin": 1.85, 
+        "awayWin": 4.2, 
+        "draw": 3.75
+      }, 
       "matchday": 8, 
       "_links": {
         "awayTeam": {
@@ -39117,7 +39449,11 @@
     }, 
     {
       "status": "TIMED", 
-      "odds": null, 
+      "odds": {
+        "homeWin": 1.3, 
+        "awayWin": 10.0, 
+        "draw": 5.5
+      }, 
       "matchday": 8, 
       "_links": {
         "awayTeam": {
@@ -46472,8 +46808,12 @@
       "awayTeamName": "FC Bayern M\u00fcnchen"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.8, 
+        "awayWin": 2.75, 
+        "draw": 3.3
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46490,16 +46830,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 3, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-03-31T18:30:00Z", 
       "homeTeamName": "Hertha BSC", 
       "awayTeamName": "TSG 1899 Hoffenheim"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.36, 
+        "awayWin": 11.0, 
+        "draw": 4.8
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46516,16 +46860,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 4
       }, 
       "date": "2017-04-01T13:30:00Z", 
       "homeTeamName": "Red Bull Leipzig", 
       "awayTeamName": "SV Darmstadt 98"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 3.8, 
+        "awayWin": 2.05, 
+        "draw": 3.6
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46542,16 +46890,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-01T13:30:00Z", 
       "homeTeamName": "FC Schalke 04", 
       "awayTeamName": "Borussia Dortmund"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.37, 
+        "awayWin": 3.25, 
+        "draw": 3.3
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46568,16 +46920,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-01T13:30:00Z", 
       "homeTeamName": "Hamburger SV", 
       "awayTeamName": "1. FC K\u00f6ln"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.3, 
+        "awayWin": 3.4, 
+        "draw": 3.4
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46594,16 +46950,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 5, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-01T13:30:00Z", 
       "homeTeamName": "SC Freiburg", 
       "awayTeamName": "Werder Bremen"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.11, 
+        "awayWin": 26.0, 
+        "draw": 11.0
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46620,16 +46980,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 6
       }, 
       "date": "2017-04-01T13:30:00Z", 
       "homeTeamName": "FC Bayern M\u00fcnchen", 
       "awayTeamName": "FC Augsburg"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.6, 
+        "awayWin": 2.9, 
+        "draw": 3.3
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46646,16 +47010,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 0
       }, 
       "date": "2017-04-01T16:30:00Z", 
       "homeTeamName": "Eintracht Frankfurt", 
       "awayTeamName": "Bor. M\u00f6nchengladbach"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.15, 
+        "awayWin": 3.5, 
+        "draw": 3.3
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46672,16 +47040,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 1, 
+        "goalsHomeTeam": 2
       }, 
       "date": "2017-04-02T13:30:00Z", 
       "homeTeamName": "FC Ingolstadt 04", 
       "awayTeamName": "1. FSV Mainz 05"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.83, 
+        "awayWin": 4.4, 
+        "draw": 3.5
+      }, 
       "matchday": 26, 
       "_links": {
         "awayTeam": {
@@ -46698,16 +47070,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 3, 
+        "goalsHomeTeam": 3
       }, 
       "date": "2017-04-02T15:30:00Z", 
       "homeTeamName": "Bayer Leverkusen", 
       "awayTeamName": "VfL Wolfsburg"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 3.0, 
+        "awayWin": 2.3, 
+        "draw": 3.3
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46724,16 +47100,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 3
       }, 
       "date": "2017-04-04T18:00:00Z", 
       "homeTeamName": "Werder Bremen", 
       "awayTeamName": "FC Schalke 04"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 1.28, 
+        "awayWin": 11.0, 
+        "draw": 5.5
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46750,16 +47130,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 3
       }, 
       "date": "2017-04-04T18:00:00Z", 
       "homeTeamName": "Borussia Dortmund", 
       "awayTeamName": "Hamburger SV"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 2.2, 
+        "awayWin": 3.3, 
+        "draw": 3.4
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46776,16 +47160,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-04T18:00:00Z", 
       "homeTeamName": "1. FC K\u00f6ln", 
       "awayTeamName": "Eintracht Frankfurt"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "FINISHED", 
+      "odds": {
+        "homeWin": 6.0, 
+        "awayWin": 1.5, 
+        "draw": 4.4
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46802,16 +47190,20 @@
         }
       }, 
       "result": {
-        "goalsAwayTeam": null, 
-        "goalsHomeTeam": null
+        "goalsAwayTeam": 0, 
+        "goalsHomeTeam": 1
       }, 
       "date": "2017-04-04T18:00:00Z", 
       "homeTeamName": "TSG 1899 Hoffenheim", 
       "awayTeamName": "FC Bayern M\u00fcnchen"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.45, 
+        "awayWin": 2.9, 
+        "draw": 3.25
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46836,8 +47228,12 @@
       "awayTeamName": "FC Ingolstadt 04"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.9, 
+        "awayWin": 4.0, 
+        "draw": 3.5
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46862,8 +47258,12 @@
       "awayTeamName": "Hertha BSC"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 4.6, 
+        "awayWin": 1.72, 
+        "draw": 3.8
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46888,8 +47288,12 @@
       "awayTeamName": "Bayer Leverkusen"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.9, 
+        "awayWin": 2.37, 
+        "draw": 3.4
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46914,8 +47318,12 @@
       "awayTeamName": "Red Bull Leipzig"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.85, 
+        "awayWin": 4.2, 
+        "draw": 3.6
+      }, 
       "matchday": 27, 
       "_links": {
         "awayTeam": {
@@ -46940,8 +47348,12 @@
       "awayTeamName": "SC Freiburg"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.25, 
+        "awayWin": 3.2, 
+        "draw": 3.4
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -46966,8 +47378,12 @@
       "awayTeamName": "Werder Bremen"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.37, 
+        "awayWin": 2.9, 
+        "draw": 3.4
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -46992,8 +47408,12 @@
       "awayTeamName": "1. FSV Mainz 05"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.87, 
+        "awayWin": 2.5, 
+        "draw": 3.25
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -47018,8 +47438,12 @@
       "awayTeamName": "TSG 1899 Hoffenheim"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.5, 
+        "awayWin": 2.8, 
+        "draw": 3.3
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -47044,8 +47468,12 @@
       "awayTeamName": "Bor. M\u00f6nchengladbach"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 2.1, 
+        "awayWin": 3.3, 
+        "draw": 3.5
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -47070,8 +47498,12 @@
       "awayTeamName": "Bayer Leverkusen"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.8, 
+        "awayWin": 4.5, 
+        "draw": 3.5
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -47096,8 +47528,12 @@
       "awayTeamName": "VfL Wolfsburg"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.53, 
+        "awayWin": 5.5, 
+        "draw": 4.5
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -47122,8 +47558,12 @@
       "awayTeamName": "Borussia Dortmund"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.8, 
+        "awayWin": 4.6, 
+        "draw": 3.5
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -47148,8 +47588,12 @@
       "awayTeamName": "FC Augsburg"
     }, 
     {
-      "status": "SCHEDULED", 
-      "odds": null, 
+      "status": "TIMED", 
+      "odds": {
+        "homeWin": 1.66, 
+        "awayWin": 5.5, 
+        "draw": 3.7
+      }, 
       "matchday": 28, 
       "_links": {
         "awayTeam": {
@@ -47174,7 +47618,7 @@
       "awayTeamName": "SV Darmstadt 98"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47200,7 +47644,7 @@
       "awayTeamName": "1. FC K\u00f6ln"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47221,12 +47665,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-15T13:30:00Z", 
+      "date": "2017-04-15T16:30:00Z", 
       "homeTeamName": "Bayer Leverkusen", 
       "awayTeamName": "FC Bayern M\u00fcnchen"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47252,7 +47696,7 @@
       "awayTeamName": "Eintracht Frankfurt"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47273,12 +47717,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-15T13:30:00Z", 
+      "date": "2017-04-16T15:30:00Z", 
       "homeTeamName": "SV Darmstadt 98", 
       "awayTeamName": "FC Schalke 04"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47304,7 +47748,7 @@
       "awayTeamName": "Bor. M\u00f6nchengladbach"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47330,7 +47774,7 @@
       "awayTeamName": "Hertha BSC"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47356,7 +47800,7 @@
       "awayTeamName": "SC Freiburg"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47377,12 +47821,12 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-15T13:30:00Z", 
+      "date": "2017-04-16T13:30:00Z", 
       "homeTeamName": "Werder Bremen", 
       "awayTeamName": "Hamburger SV"
     }, 
     {
-      "status": "SCHEDULED", 
+      "status": "TIMED", 
       "odds": null, 
       "matchday": 29, 
       "_links": {
@@ -47455,7 +47899,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-22T13:30:00Z", 
+      "date": "2017-04-22T16:30:00Z", 
       "homeTeamName": "Bor. M\u00f6nchengladbach", 
       "awayTeamName": "Borussia Dortmund"
     }, 
@@ -47507,7 +47951,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-22T13:30:00Z", 
+      "date": "2017-04-23T13:30:00Z", 
       "homeTeamName": "SC Freiburg", 
       "awayTeamName": "Bayer Leverkusen"
     }, 
@@ -47611,7 +48055,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-22T13:30:00Z", 
+      "date": "2017-04-21T18:30:00Z", 
       "homeTeamName": "1. FC K\u00f6ln", 
       "awayTeamName": "TSG 1899 Hoffenheim"
     }, 
@@ -47637,7 +48081,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-22T13:30:00Z", 
+      "date": "2017-04-23T15:30:00Z", 
       "homeTeamName": "FC Schalke 04", 
       "awayTeamName": "Red Bull Leipzig"
     }, 
@@ -47663,7 +48107,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-29T13:30:00Z", 
+      "date": "2017-04-30T13:30:00Z", 
       "homeTeamName": "FC Augsburg", 
       "awayTeamName": "Hamburger SV"
     }, 
@@ -47689,7 +48133,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-29T13:30:00Z", 
+      "date": "2017-04-28T18:30:00Z", 
       "homeTeamName": "Bayer Leverkusen", 
       "awayTeamName": "FC Schalke 04"
     }, 
@@ -47767,7 +48211,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-29T13:30:00Z", 
+      "date": "2017-04-30T16:30:00Z", 
       "homeTeamName": "TSG 1899 Hoffenheim", 
       "awayTeamName": "Eintracht Frankfurt"
     }, 
@@ -47871,7 +48315,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-04-29T13:30:00Z", 
+      "date": "2017-04-29T16:30:00Z", 
       "homeTeamName": "VfL Wolfsburg", 
       "awayTeamName": "FC Bayern M\u00fcnchen"
     }, 
@@ -48001,7 +48445,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-05-06T13:30:00Z", 
+      "date": "2017-05-07T15:30:00Z", 
       "homeTeamName": "SC Freiburg", 
       "awayTeamName": "FC Schalke 04"
     }, 
@@ -48027,7 +48471,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-05-06T13:30:00Z", 
+      "date": "2017-05-07T13:30:00Z", 
       "homeTeamName": "Hamburger SV", 
       "awayTeamName": "1. FSV Mainz 05"
     }, 
@@ -48053,7 +48497,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-05-06T13:30:00Z", 
+      "date": "2017-05-06T16:30:00Z", 
       "homeTeamName": "Hertha BSC", 
       "awayTeamName": "Red Bull Leipzig"
     }, 
@@ -48105,7 +48549,7 @@
         "goalsAwayTeam": null, 
         "goalsHomeTeam": null
       }, 
-      "date": "2017-05-06T13:30:00Z", 
+      "date": "2017-05-05T18:30:00Z", 
       "homeTeamName": "1. FC K\u00f6ln", 
       "awayTeamName": "Werder Bremen"
     }, 

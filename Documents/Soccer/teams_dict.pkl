@@ -1,0 +1,787 @@
+(dp0
+VCagliari Calcio
+p1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'i8'
+p4
+I0
+I1
+tp5
+Rp6
+(I3
+S'<'
+p7
+NNNI-1
+I-1
+I0
+tp8
+bS'\x1f\x00\x00\x00\x00\x00\x00\x00'
+p9
+tp10
+Rp11
+sVSwansea City FC
+p12
+g2
+(g6
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+p13
+tp14
+Rp15
+sVSD Eibar
+p16
+g2
+(g6
+S'+\x00\x00\x00\x00\x00\x00\x00'
+p17
+tp18
+Rp19
+sVCA Osasuna
+p20
+g2
+(g6
+S')\x00\x00\x00\x00\x00\x00\x00'
+p21
+tp22
+Rp23
+sVParis Saint-Germain
+p24
+g2
+(g6
+S'E\x00\x00\x00\x00\x00\x00\x00'
+p25
+tp26
+Rp27
+sVFC Ingolstadt 04
+p28
+g2
+(g6
+S'Y\x00\x00\x00\x00\x00\x00\x00'
+p29
+tp30
+Rp31
+sVGranada CF
+p32
+g2
+(g6
+S'.\x00\x00\x00\x00\x00\x00\x00'
+p33
+tp34
+Rp35
+sVAthletic Club
+p36
+g2
+(g6
+S'3\x00\x00\x00\x00\x00\x00\x00'
+p37
+tp38
+Rp39
+sVFC Barcelona
+p40
+g2
+(g6
+S',\x00\x00\x00\x00\x00\x00\x00'
+p41
+tp42
+Rp43
+sVLudogorez Rasgrad
+p44
+g2
+(g6
+S'=\x00\x00\x00\x00\x00\x00\x00'
+p45
+tp46
+Rp47
+sVCD Leganes
+p48
+g2
+(g6
+S'9\x00\x00\x00\x00\x00\x00\x00'
+p49
+tp50
+Rp51
+sVUC Sampdoria
+p52
+g2
+(g6
+S'\x1d\x00\x00\x00\x00\x00\x00\x00'
+p53
+tp54
+Rp55
+sVEintracht Frankfurt
+p56
+g2
+(g6
+S'V\x00\x00\x00\x00\x00\x00\x00'
+p57
+tp58
+Rp59
+sVVillarreal CF
+p60
+g2
+(g6
+S'/\x00\x00\x00\x00\x00\x00\x00'
+p61
+tp62
+Rp63
+sVFC Porto
+p64
+g2
+(g6
+S'J\x00\x00\x00\x00\x00\x00\x00'
+p65
+tp66
+Rp67
+sVBologna FC
+p68
+g2
+(g6
+S' \x00\x00\x00\x00\x00\x00\x00'
+p69
+tp70
+Rp71
+sVManchester City FC
+p72
+g2
+(g6
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+p73
+tp74
+Rp75
+sVGenoa CFC
+p76
+g2
+(g6
+S'\x1e\x00\x00\x00\x00\x00\x00\x00'
+p77
+tp78
+Rp79
+sVCeltic FC
+p80
+g2
+(g6
+S'A\x00\x00\x00\x00\x00\x00\x00'
+p81
+tp82
+Rp83
+sVLeicester City FC
+p84
+g2
+(g6
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p85
+tp86
+Rp87
+sVLiverpool FC
+p88
+g2
+(g6
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p89
+tp90
+Rp91
+sVFC Basel
+p92
+g2
+(g6
+S'<\x00\x00\x00\x00\x00\x00\x00'
+p93
+tp94
+Rp95
+sVTottenham Hotspur FC
+p96
+g2
+(g6
+S'\x07\x00\x00\x00\x00\x00\x00\x00'
+p97
+tp98
+Rp99
+sVOlympique Lyonnais
+p100
+g2
+(g6
+S'H\x00\x00\x00\x00\x00\x00\x00'
+p101
+tp102
+Rp103
+sVBurnley FC
+p104
+g2
+(g6
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+p105
+tp106
+Rp107
+sVPSV Eindhoven
+p108
+g2
+(g6
+S'@\x00\x00\x00\x00\x00\x00\x00'
+p109
+tp110
+Rp111
+sVFC Schalke 04
+p112
+g2
+(g6
+S'W\x00\x00\x00\x00\x00\x00\x00'
+p113
+tp114
+Rp115
+sVHamburger SV
+p116
+g2
+(g6
+S'X\x00\x00\x00\x00\x00\x00\x00'
+p117
+tp118
+Rp119
+sVTorino FC
+p120
+g2
+(g6
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p121
+tp122
+Rp123
+sVWerder Bremen
+p124
+g2
+(g6
+S'R\x00\x00\x00\x00\x00\x00\x00'
+p125
+tp126
+Rp127
+sVUS Sassuolo Calcio
+p128
+g2
+(g6
+S'#\x00\x00\x00\x00\x00\x00\x00'
+p129
+tp130
+Rp131
+sVSL Benfica
+p132
+g2
+(g6
+S'C\x00\x00\x00\x00\x00\x00\x00'
+p133
+tp134
+Rp135
+sVRed Bull Leipzig
+p136
+g2
+(g6
+S'_\x00\x00\x00\x00\x00\x00\x00'
+p137
+tp138
+Rp139
+sVCSKA Moscow
+p140
+g2
+(g6
+S'O\x00\x00\x00\x00\x00\x00\x00'
+p141
+tp142
+Rp143
+sVClub Brugge
+p144
+g2
+(g6
+S'L\x00\x00\x00\x00\x00\x00\x00'
+p145
+tp146
+Rp147
+sVReal Sociedad de Fútbol
+p148
+g2
+(g6
+S'4\x00\x00\x00\x00\x00\x00\x00'
+p149
+tp150
+Rp151
+sVWatford FC
+p152
+g2
+(g6
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+p153
+tp154
+Rp155
+sVReal Betis
+p156
+g2
+(g6
+S'-\x00\x00\x00\x00\x00\x00\x00'
+p157
+tp158
+Rp159
+sVArsenal FC
+p160
+g2
+(g6
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p161
+tp162
+Rp163
+sVValencia CF
+p164
+g2
+(g6
+S':\x00\x00\x00\x00\x00\x00\x00'
+p165
+tp166
+Rp167
+sVFC Augsburg
+p168
+g2
+(g6
+S'S\x00\x00\x00\x00\x00\x00\x00'
+p169
+tp170
+Rp171
+sVBayer Leverkusen
+p172
+g2
+(g6
+S'N\x00\x00\x00\x00\x00\x00\x00'
+p173
+tp174
+Rp175
+sVVfL Wolfsburg
+p176
+g2
+(g6
+S'T\x00\x00\x00\x00\x00\x00\x00'
+p177
+tp178
+Rp179
+sVChelsea FC
+p180
+g2
+(g6
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p181
+tp182
+Rp183
+sVAtalanta BC
+p184
+g2
+(g6
+S'&\x00\x00\x00\x00\x00\x00\x00'
+p185
+tp186
+Rp187
+sVAS Monaco FC
+p188
+g2
+(g6
+S'Q\x00\x00\x00\x00\x00\x00\x00'
+p189
+tp190
+Rp191
+sVHertha BSC
+p192
+g2
+(g6
+S'\\\x00\x00\x00\x00\x00\x00\x00'
+p193
+tp194
+Rp195
+sVJuventus Turin
+p196
+g2
+(g6
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p197
+tp198
+Rp199
+sVMiddlesbrough FC
+p200
+g2
+(g6
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+p201
+tp202
+Rp203
+sVSunderland AFC
+p204
+g2
+(g6
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+p205
+tp206
+Rp207
+sV1. FC Köln
+p208
+g2
+(g6
+S'Z\x00\x00\x00\x00\x00\x00\x00'
+p209
+tp210
+Rp211
+sVAC Chievo Verona
+p212
+g2
+(g6
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p213
+tp214
+Rp215
+sVWest Bromwich Albion FC
+p216
+g2
+(g6
+S'\t\x00\x00\x00\x00\x00\x00\x00'
+p217
+tp218
+Rp219
+sVRC Deportivo La Coruna
+p220
+g2
+(g6
+S'*\x00\x00\x00\x00\x00\x00\x00'
+p221
+tp222
+Rp223
+sVUS Cittá di Palermo
+p224
+g2
+(g6
+S'"\x00\x00\x00\x00\x00\x00\x00'
+p225
+tp226
+Rp227
+sVUdinese Calcio
+p228
+g2
+(g6
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p229
+tp230
+Rp231
+sVSC Freiburg
+p232
+g2
+(g6
+S']\x00\x00\x00\x00\x00\x00\x00'
+p233
+tp234
+Rp235
+sVAC Milan
+p236
+g2
+(g6
+S'\x18\x00\x00\x00\x00\x00\x00\x00'
+p237
+tp238
+Rp239
+sVFC Bayern München
+p240
+g2
+(g6
+S'>\x00\x00\x00\x00\x00\x00\x00'
+p241
+tp242
+Rp243
+sVManchester United FC
+p244
+g2
+(g6
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p245
+tp246
+Rp247
+sVFC Rostov
+p248
+g2
+(g6
+S'?\x00\x00\x00\x00\x00\x00\x00'
+p249
+tp250
+Rp251
+sVFC Internazionale Milano
+p252
+g2
+(g6
+S'\x1b\x00\x00\x00\x00\x00\x00\x00'
+p253
+tp254
+Rp255
+sVEverton FC
+p256
+g2
+(g6
+S'\x06\x00\x00\x00\x00\x00\x00\x00'
+p257
+tp258
+Rp259
+sVSV Darmstadt 98
+p260
+g2
+(g6
+S'[\x00\x00\x00\x00\x00\x00\x00'
+p261
+tp262
+Rp263
+sVAS Roma
+p264
+g2
+(g6
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p265
+tp266
+Rp267
+sVClub Atlético de Madrid
+p268
+g2
+(g6
+S'6\x00\x00\x00\x00\x00\x00\x00'
+p269
+tp270
+Rp271
+sVPescara Calcio
+p272
+g2
+(g6
+S'$\x00\x00\x00\x00\x00\x00\x00'
+p273
+tp274
+Rp275
+sVStoke City FC
+p276
+g2
+(g6
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+p277
+tp278
+Rp279
+sVRCD Espanyol
+p280
+g2
+(g6
+S'1\x00\x00\x00\x00\x00\x00\x00'
+p281
+tp282
+Rp283
+sVRC Celta de Vigo
+p284
+g2
+(g6
+S'8\x00\x00\x00\x00\x00\x00\x00'
+p285
+tp286
+Rp287
+sVSporting CP
+p288
+g2
+(g6
+S'M\x00\x00\x00\x00\x00\x00\x00'
+p289
+tp290
+Rp291
+sVLegia Warszawa
+p292
+g2
+(g6
+S'F\x00\x00\x00\x00\x00\x00\x00'
+p293
+tp294
+Rp295
+sVWest Ham United FC
+p296
+g2
+(g6
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p297
+tp298
+Rp299
+sVHull City FC
+p300
+g2
+(g6
+S'\x00\x00\x00\x00\x00\x00\x00\x00'
+p301
+tp302
+Rp303
+sVBor. Mönchengladbach
+p304
+g2
+(g6
+S'P\x00\x00\x00\x00\x00\x00\x00'
+p305
+tp306
+Rp307
+sVDeportivo Alavés
+p308
+g2
+(g6
+S'7\x00\x00\x00\x00\x00\x00\x00'
+p309
+tp310
+Rp311
+sVGNK Dinamo Zagreb
+p312
+g2
+(g6
+S'I\x00\x00\x00\x00\x00\x00\x00'
+p313
+tp314
+Rp315
+sVCrystal Palace FC
+p316
+g2
+(g6
+S'\x08\x00\x00\x00\x00\x00\x00\x00'
+p317
+tp318
+Rp319
+sVSS Lazio
+p320
+g2
+(g6
+S"'\x00\x00\x00\x00\x00\x00\x00"
+p321
+tp322
+Rp323
+sVBorussia Dortmund
+p324
+g2
+(g6
+S'G\x00\x00\x00\x00\x00\x00\x00'
+p325
+tp326
+Rp327
+sVMálaga CF
+p328
+g2
+(g6
+S'(\x00\x00\x00\x00\x00\x00\x00'
+p329
+tp330
+Rp331
+sVReal Madrid CF
+p332
+g2
+(g6
+S'5\x00\x00\x00\x00\x00\x00\x00'
+p333
+tp334
+Rp335
+sVBesiktas JK
+p336
+g2
+(g6
+S'D\x00\x00\x00\x00\x00\x00\x00'
+p337
+tp338
+Rp339
+sVDynamo Kyiv
+p340
+g2
+(g6
+S'B\x00\x00\x00\x00\x00\x00\x00'
+p341
+tp342
+Rp343
+sVAFC Bournemouth
+p344
+g2
+(g6
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+p345
+tp346
+Rp347
+sVSporting Gijón
+p348
+g2
+(g6
+S'2\x00\x00\x00\x00\x00\x00\x00'
+p349
+tp350
+Rp351
+sVFC Crotone
+p352
+g2
+(g6
+S'!\x00\x00\x00\x00\x00\x00\x00'
+p353
+tp354
+Rp355
+sVTSG 1899 Hoffenheim
+p356
+g2
+(g6
+S'^\x00\x00\x00\x00\x00\x00\x00'
+p357
+tp358
+Rp359
+sV1. FSV Mainz 05
+p360
+g2
+(g6
+S'U\x00\x00\x00\x00\x00\x00\x00'
+p361
+tp362
+Rp363
+sVSSC Napoli
+p364
+g2
+(g6
+S'%\x00\x00\x00\x00\x00\x00\x00'
+p365
+tp366
+Rp367
+sVFC Copenhagen
+p368
+g2
+(g6
+S'K\x00\x00\x00\x00\x00\x00\x00'
+p369
+tp370
+Rp371
+sVEmpoli FC
+p372
+g2
+(g6
+S'\x1c\x00\x00\x00\x00\x00\x00\x00'
+p373
+tp374
+Rp375
+sVACF Fiorentina
+p376
+g2
+(g6
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p377
+tp378
+Rp379
+sVUD Las Palmas
+p380
+g2
+(g6
+S';\x00\x00\x00\x00\x00\x00\x00'
+p381
+tp382
+Rp383
+sVSevilla FC
+p384
+g2
+(g6
+S'0\x00\x00\x00\x00\x00\x00\x00'
+p385
+tp386
+Rp387
+sVSouthampton FC
+p388
+g2
+(g6
+S'\x02\x00\x00\x00\x00\x00\x00\x00'
+p389
+tp390
+Rp391
+s.
