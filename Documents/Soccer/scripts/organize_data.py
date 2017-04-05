@@ -13,11 +13,11 @@ root= '/Users/abbyparra/Documents/Soccer/'
 def main():
 
     #data_path = root + 'players.json'
-    leagueTable_path = root+ 'leagueTable.json'
-    fixture_path = root + 'fixtures.json'
-    competition_path = root + 'competitions.json'
+    leagueTable_path = root+ 'json/leagueTable.json'
+    fixture_path = root + 'json/fixtures.json'
+    competition_path = root + 'json/competitions.json'
 
-    teams_df = pd.read_pickle(root + 'teams_table.pkl')
+    teams_df = pd.read_pickle(root + 'pickle/teams_table.pkl')
 
 
     #players_df1 = data_frame_fixed(data_path)
@@ -25,7 +25,7 @@ def main():
     #players_table = all_players(players_df1, teams_df)
     #players_table.to_pickle(root+ 'players_table.pkl')
 
-    players_df = pd.read_pickle(root + 'players_table.pkl')
+    players_df = pd.read_pickle(root + 'pickle/players_table.pkl')
 
     competitions_raw_df = fix_regular(competition_path)
     fixture_raw_df = data_frame_fixed(fixture_path)
@@ -35,14 +35,14 @@ def main():
     #fixture_df = fixture_raw_df['fixtures'].to_frame()
     #print competitions_raw_df
     competitions_df = competitions(competitions_raw_df)
-    #competitions_df.to_pickle(root+ 'competitions_df.pkl')
+    #competitions_df.to_pickle(root+ 'pickle/competitions_df.pkl')
     #print competitions_df
     fixture_df = all_fixtures(fixture_raw_df)
-    #fixture_df.to_pickle(root + 'fixture_df.pkl')
+    #fixture_df.to_pickle(root + 'pickle/fixture_df.pkl')
     results_df  = all_results(fixture_raw_df)
     #dropping all of the na
     results_df.dropna(inplace = True)
-    #results_df.to_pickle(root + 'results_df.pkl')
+    #results_df.to_pickle(root + 'pickle/results_df.pkl')
     print results_df
     #print fixture_raw_df.fixtures
 
@@ -54,12 +54,13 @@ def main():
     'standings.H':'standingsH'}, inplace=True)
 
     leagueTable_df = all_leagueTables(leagueTable_raw_df)
-    #leagueTable_df.to_pickle(root + 'leagueTable_df.pkl')
+    #leagueTable_df.to_pickle(root + 'pickle/leagueTable_df.pkl')
     leagueTable_champions_df = champions_leagueTable(leagueTable_raw_df)
-    #leagueTable_champions_df.to_pickle(root + 'leagueTable_champions_df.pkl')
+    #leagueTable_champions_df.to_pickle(root + 'pickle/leagueTable_champions_df.pkl')
 
     #contains the name and id
     players_dict= name_id_dic(players_df, 'name')
+    #print players_dict['Cristiano Ronaldo']+1
     #output = open('players_dict.pkl', 'wb')
     #pickle.dump(players_dict, output)
     #output.close()
@@ -81,12 +82,15 @@ def main():
 
 
     #engine = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
-    #players_df.to_sql('players', engine)
+    #players_df.to_sql('players1', engine)
+
+
     #teams_df_name = pd.DataFrame()
     #teams_df_name = teams_df[['name']].copy()
     #teams_df_name.to_csv("teams.csv", sep='\t', encoding='utf-8')
     #print players_df
-
+    print len(players_dict)
+    print len (players_df)
 
 #function that returns a dictionary with name and id of dataframe
 #arguments are the dataframe and the name of the column which contains name of
