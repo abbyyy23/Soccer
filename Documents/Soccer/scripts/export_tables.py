@@ -3,7 +3,6 @@ import pickle
 import json
 import pandas as pd
 from sqlalchemy import *
-import psycopg2
 from pandas.io.json import json_normalize
 import unicodedata
 
@@ -33,24 +32,45 @@ def main():
     with open(path,'rb') as input_file:
         teams_dict = pickle.load(input_file)
 
-    print competition_df
+    #print competition_df['caption'][0]
+    create_competition(competition_df)
+
+    #users()
+
 ###############################################################################
-def create_tables():
+def create_competition(data):
     competition = Table('competition', metadata,
                 Column('id', Integer, primary_key = True),
-                Column('caption', String),
-                Column('league', String),
+                Column('caption', String(50)),
+                Column('league', String(5)),
                 Column('number_of_games', Integer),
                 Column('number_of_matchdays', Integer),
                 Column('number_of_teams', Integer),
                 Column('year', Integer),
                 )
     competition.create()
-    i = competition.insert()
-    #TODO
+
+    c = competition.insert()
+    col = ['caption', 'league', 'numberOfGames', 'numberOfMatchdays',
+                'numberOfTeams', 'year']
+
+    for i in range(0, len(data)):
+        c.execute(caption = data[col[0]][i], league = data[col[1]][i],
+                    number_of_games = data[col[2]][i],
+                    number_of_matchdays = data[col[3]][i],
+                    number_of_teams = data[col[4]][i], year = data[col[5]][i])
+
+    '''
+    s = competition.select()
+    rs = s.execute()
+    row = rs.fetchone()
+    ids = []
+
+    for row in rs:
+    '''
 
 
-    #users()
+
 #this is an example
 def users():
 
