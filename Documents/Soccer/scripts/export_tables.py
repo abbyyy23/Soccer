@@ -33,11 +33,13 @@ def main():
         teams_dict = pickle.load(input_file)
 
     #print competition_df['caption'][0]
-    create_competition(competition_df)
+
+###############################################################################
+
+    #create_competition(competition_df)
 
     #users()
 
-###############################################################################
 def create_competition(data):
     competition = Table('competition', metadata,
                 Column('id', Integer, primary_key = True),
