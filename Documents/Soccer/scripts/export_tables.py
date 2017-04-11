@@ -8,6 +8,7 @@ import unicodedata
 
 #global variables
 root = '/Users/abbyparra/Documents/Soccer/pickle/'
+#root = '/Users/nilu/Soccer/Documents/Soccer/pickle'
 db = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
 db.echo = False
 metadata = MetaData(db)
@@ -49,6 +50,7 @@ def main():
     team = Table('team', metadata, autoload=True, autoload_with=db)
     #manager['team_id'][34] = 35
     #create_manager(managers_df)
+    player = set_team_id(players_df, teams_dict)
     create_player(players_df, teams_dict)
 
 def set_team_id(data, team_dict):
@@ -62,7 +64,7 @@ def set_team_id(data, team_dict):
     return new_df
 
 def create_player(data, teams_dict):
-    new_df = set_team_id(data, teams_dict)
+    new_df = data
     new_df = new_df.drop_duplicates('name')
     new_df = new_df.reset_index()
 
@@ -72,7 +74,7 @@ def create_player(data, teams_dict):
                 Column('dob', Date),
                 Column('contract_until', Date),
                 Column('position', String(50)),
-                Column('jersey_number', Integer),
+                Column('jersey_number', String(10)),
                 Column('market_value', String(50)),
                 Column('nationality', String(50)),
                 Column('team_id', Integer, ForeignKey("team.id")),
