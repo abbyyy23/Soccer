@@ -10,6 +10,8 @@ import unicodedata
 root = '/Users/abbyparra/Documents/Soccer/pickle/'
 #root = '/Users/nilu/Soccer/Documents/Soccer/pickle'
 db = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
+#root = '/Users/nilu/Documents/Soccer/pickle/'
+#db = create_engine('postgresql://nilu@localhost:5432/dummyDB')
 db.echo = False
 metadata = MetaData(db)
 
