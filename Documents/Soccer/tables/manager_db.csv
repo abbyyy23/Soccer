@@ -1,0 +1,97 @@
+id,name,team_id,dob,nationality
+1,Marco Silva,1,1977-07-12,Portugal
+2,Criag Shakespeare,2,1963-10-26,England
+3,Claude Puel,3,1961-09-02,France
+4,Walter Mazzarri,4,1961-10-01,Italy 
+5,Steve Agnew,5,1965-11-09,England
+6,Mark Hughes,6,1963-11-01,Wales
+7,Ronald Koeman,7,1963-03-21,Netherlands
+8,Mauricio Pochettino,8,1972-03-02,Argentina 
+9,Sam Allardyce,9,1954-10-19,England
+10,Tony Pulis,10,1958-01-16,Wales
+11,Sean Dyche,11,1971-06-28,England
+12,Paul Clement,12,1972-01-08,England
+13,Josep Guardiola,13,1971-01-18,Spain
+14,David William Moyes,14,1963-04-25,Scotland
+15,Edward Howe,15,1977-11-29,England
+16,José Mourinho,16,1963-01-26,Portugal
+17,Arsène Wenger,17,1949-10-22,France
+18,Jürgen Klopp,18,1967-06-16,Germany
+19, Antonio Conte,19,1969-07-31,italy 
+20,Slaven Bilić,20,1968-09-11,Yugoslavia
+21,Luciano Spalletti,21,1959-03-07,Italy 
+22,Luigi Delneri,22,1950-08-23,italy 
+23,Massimiliano Allegri,23,1967-08-11,italy 
+24,Paulo Sousa,24,1970-08-30,Portugal
+25,Vincenzo Montella,25,1974-06-18,Italy 
+26,Siniša Mihajlović,26,1969-02-20,Yugoslavia
+27,Rolando Maran,27,1963-07-14,Italy 
+28,Stefano Pioli,28,1965-10-20,Italy 
+29,Giovanni Martusciello,29,1971-08-19,Italy 
+30,Marco Giampaolo,30,1967-08-02,Switzerland
+31,Andrea Mandorlini,31,1960-07-17,italy 
+32,Massimo Rastelli,32,1968-12-27,Italy 
+33,Roberto Donadoni,33,1963-09-09,Italy 
+34,Davide Nicola,34,1973-03-05,Italy 
+35,Diego López,35,1974-08-22,Uruguay
+36,Eusebio Di Francesco,36,1969-09-08,Italy 
+37,Zdeněk Zeman,37,1947-05-12,Czechoslovakia
+38,Maurizio Sarri,38,1959-01-10,Italy 
+39,Gian Piero Gasperini,39,1958-01-26,Italy 
+40,Simone Inzaghi,40,1976-04-05,Italy 
+41,Míchel,41,1963-03-23,Spain
+42,Petar Vasiljević,42,1970-11-03,Yugoslavia
+43,Pepe Mel,43,1963-02-28,Spain
+44,José Luis Mendilibar,44,1961-03-14,Spain
+45,Luis Enrique,45,1970-05-08,Spain
+46,Víctor Sánchez,46,1976-02-23,Spain
+47,Lucas Alcaraz,47,1966-06-21,Spain
+48,Fran Escribá,48,1965-05-03,Spain
+49,Jorge Sampaoli,49,1960-03-13,Argentina 
+50,Enrique Sánchez,50,1965-02-05,Spain
+51,Joan Francesc Sicilia,51,1970-02-05,Spain
+52,Ernesto Valverde,52,1964-02-09,Spain
+53,Eusebio Sacristán,53,1964-04-13,Spain
+54,Zinedine Zidane,54,1972-06-23,France
+55,Diego Simeone,55,1970-04-28,Argentina 
+56,Mauricio Pellegrino,56,1971-10-05,Argentina 
+57,Eduardo Berizzoa,57,1969-11-13,Argentina 
+58,Asier Garitano,58,1969-12-06,Spain
+59,Salvador González ,59,1963-10-09,Spain
+60, Enrique Setién ,60,1958-09-27,Spain
+61,Urs Fischer,61,1966-02-20,Switzerland
+62,Georgi Dermendzhiev,62,1955-01-04,Bulgaria
+63,Carlo Ancelotti,63,1959-06-10,Italy 
+64,Ivan Daniliants,64,1953-02-20,USSR
+65,Phillip Cocu,65,1970-10-29,Netherlands
+66,Brendan Rodgers,66,1973-01-26,Ireland
+67,Serhiy Rebrov,67,1974-06-03,Soviet Union
+68,Rui Vitória,68,1970-04-16,Portugal
+69,Şenol Güneş,69,1952-06-01,Turkey
+70,Unai Emery,70,1971-11-03,Spain
+71,Jacek Magiera,71,1977-01-01,Poland
+72,Thomas Tuchel,72,1973-08-29,Germany
+73, Bruno Génésio,73,1966-09-01,France
+74,Ivaylo Petev,74,1975-07-09,Bulgaria
+75,Nuno Espírito Santo,75,1974-01-25,Portugal
+76,Ståle Solbakken,76,1968-02-27,Norway
+77,Michel Preud'homme,77,1959-01-24,Belguim
+78,Jorge Jesus,78,1954-07-24,Portugal
+79,Tayfun Korkut,79,1974-04-02,Germany
+80,Viktar Hancharenka,80,1977-06-10,Soviet Union
+81,Dieter Hecking,81,1964-09-12,Germany
+82,Leonardo Jardim,82,1974-08-01,Venezuela
+83,Alexander Nouri,83,1979-08-20,Germany
+84,Manuel Baum,84,1979-08-30,Germany
+85,Andries Jonker,85,1962-09-22,Netherlands
+86,Martin Schmidt,86,1967-04-12,Switzerland
+87,Niko Kovač,87,1971-10-15,Germany
+88,Markus Weinzierl,88,1974-12-28,Germany
+89,Markus Gisdol,89,1969-08-17,Germany
+90,Maik Walpurgis,90,1973-10-09,Germany
+91,Peter Stöger,91,1966-04-11,Austria
+92,Torsten Frings,92,1976-11-22,Germany
+93,Pál Dárdai,93,1976-03-16,Hungary
+94,Christian Streich,94,1965-06-11,Germany
+95,Julian Nagelsmann,95,1987-07-23,Germany
+96,Ralph Hasenhüttl,96,1967-08-09,Austria

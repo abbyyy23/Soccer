@@ -1,0 +1,2836 @@
+id,name,dob,contract_until,position,jersey_number,market_value,nationality,team_id
+1,Steve Harper,1975-03-14,,Keeper,22.0,"250,000 €",England,1
+2,Harry Maguire,1993-03-05,2017-06-30,Centre Back,NaN,"750,000 €",England,1
+3,Robbie Brady,1992-01-14,,Left-Back,11.0,"3,000,000 €",Ireland,1
+4,Tom Ince,1992-01-30,2016-06-30,Right Wing,NaN,"8,000,000 €",England,1
+5,Nikica Jelavic,1985-08-27,2017-06-30,Centre Forward,18.0,"6,500,000 €",Croatia,1
+6,Calaum Jahraldo-Martin,1993-04-27,2016-06-30,Right Wing,NaN,,Antigua and Barbuda,1
+7,Dame N'Doye,1985-02-21,2017-06-30,Centre Forward,28.0,"9,000,000 €",Senegal,1
+8,Allan McGregor,1982-01-31,2018-06-30,Keeper,1.0,"2,000,000 €",Scotland,1
+9,Eldin Jakupovic,1984-10-02,2018-06-30,Keeper,16.0,"500,000 €",Switzerland,1
+10,Mark Oxley,1990-06-02,,Keeper,NaN,"150,000 €",England,1
+11,Rory Watson,1996-02-05,,Keeper,NaN,,England,1
+12,Michael Dawson,1983-11-18,2017-06-30,Centre Back,21.0,"8,000,000 €",England,1
+13,Curtis Davies,1985-03-15,2018-06-30,Centre Back,6.0,"4,000,000 €",England,1
+14,James Chester,1989-01-23,,Centre Back,5.0,"2,500,000 €",Wales,1
+15,Paul McShane,1986-01-06,,Centre Back,15.0,"1,500,000 €",Ireland,1
+16,Alex Bruce,1984-09-28,2016-06-30,Centre Back,4.0,"1,000,000 €",Northern Ireland,1
+17,Maynor Figueroa,1983-05-02,,Left-Back,3.0,"4,000,000 €",Honduras,1
+18,Andrew Robertson,1994-03-11,2017-06-30,Left-Back,26.0,"600,000 €",Scotland,1
+19,Joe Dudgeon,1990-11-26,,Left-Back,19.0,"500,000 €",Northern Ireland,1
+20,Conor Townsend,1993-03-04,2016-06-30,Left-Back,NaN,,England,1
+21,Liam Rosenior,1984-07-09,,Right-Back,2.0,"1,500,000 €",England,1
+22,Tom Huddlestone,1986-12-28,2018-06-30,Defensive Midfield,8.0,"6,000,000 €",England,1
+23,Mohamed Diamé,1987-06-14,2017-06-30,Central Midfield,17.0,"7,000,000 €",Senegal,1
+24,David Meyler,1989-05-29,2018-06-30,Central Midfield,7.0,"3,000,000 €",Ireland,1
+25,Jake Livermore,1989-11-14,2017-06-30,Defensive Midfield,14.0,"2,500,000 €",England,1
+26,Stephen Quinn,1986-04-01,,Central Midfield,29.0,"2,000,000 €",Ireland,1
+27,Ahmed Elmohamady,1987-09-09,2019-06-30,Right Midfield,27.0,"3,500,000 €",Egypt,1
+28,Robert Snodgrass,1987-09-07,2017-06-30,Right Wing,10.0,"5,500,000 €",Scotland,1
+29,Sone Aluko,1989-02-19,2016-06-30,Secondary Striker,24.0,"3,500,000 €",Nigeria,1
+30,Abel Hernández,1990-08-08,2018-06-30,Centre Forward,9.0,"5,000,000 €",Uruguay,1
+31,Yannick Sagbo,1988-04-12,,Centre Forward,20.0,"2,500,000 €",Cote d'Ivoire,1
+32,Yohan Benalouane,1987-03-28,2019-06-30,Centre Back,NaN,"2,000,000 €",Tunisia,2
+33,Islam Slimani,1988-06-18,2021-06-30,Centre Forward,9.0,"22,000,000 €",Algeria,2
+34,Ahmed Musa,1992-10-14,2020-06-30,Centre Forward,7.0,"18,000,000 €",Nigeria,2
+35,Nampalys Mendy,1992-06-23,2020-06-30,Defensive Midfield,24.0,"12,000,000 €",France,2
+36,Ron-Robert Zieler,1989-02-12,2020-06-30,Keeper,21.0,"8,000,000 €",Germany,2
+37,Luis Hernández,1989-08-14,2020-06-30,Centre Back,2.0,"3,500,000 €",Spain,2
+38,Kasper Schmeichel,1986-11-05,2021-06-30,Keeper,1.0,"8,000,000 €",Denmark,2
+39,Ben Hamer,1987-11-20,2018-06-30,Keeper,12.0,"500,000 €",England,2
+40,Robert Huth,1984-08-18,2018-06-30,Centre Back,6.0,"6,000,000 €",Germany,2
+41,Wes Morgan,1984-01-21,2019-06-30,Centre Back,5.0,"3,500,000 €",Jamaica,2
+42,Marcin Wasilewski,1980-06-09,2017-06-30,Centre Back,27.0,"500,000 €",Poland,2
+43,Jeffrey Schlupp,1992-12-23,2019-06-30,Left-Back,15.0,"8,000,000 €",Ghana,2
+44,Ben Chilwell,1996-12-21,2021-06-30,Left-Back,3.0,"2,500,000 €",England,2
+45,Danny Simpson,1987-01-04,2019-06-30,Right-Back,17.0,"5,000,000 €",England,2
+46,Daniel Amartey,1994-12-21,2020-06-30,Defensive Midfield,13.0,"5,000,000 €",Ghana,2
+47,Danny Drinkwater,1990-03-05,2021-06-30,Central Midfield,4.0,"10,000,000 €",England,2
+48,Andy King,1988-10-29,2020-06-30,Central Midfield,10.0,"3,500,000 €",Wales,2
+49,Matty James,1991-07-22,2018-06-30,Central Midfield,8.0,"1,500,000 €",England,2
+50,Marc Albrighton,1989-11-18,2020-06-30,Left Midfield,11.0,"6,000,000 €",England,2
+51,Bartosz Kapustka,1996-12-23,2021-06-30,Attacking Midfield,14.0,"5,000,000 €",Poland,2
+52,Demarai Gray,1996-06-28,2020-06-30,Left Wing,22.0,"6,000,000 €",England,2
+53,Riyad Mahrez,1991-02-21,2020-06-30,Right Wing,26.0,"30,000,000 €",Algeria,2
+54,Jamie Vardy,1987-01-11,2020-06-30,Centre Forward,9.0,"20,000,000 €",England,2
+55,Shinji Okazaki,1986-04-16,2019-06-30,Centre Forward,20.0,"10,000,000 €",Japan,2
+56,Leonardo Ulloa,1986-07-26,2018-06-30,Centre Forward,23.0,"8,000,000 €",Argentina,2
+57,Pierre-Emile Höjbjerg,1995-08-05,2021-06-30,Central Midfield,23.0,"8,000,000 €",Denmark,3
+58,Alex McCarthy,1989-12-03,2019-06-30,Keeper,13.0,"3,000,000 €",England,3
+59,Lloyd Isgrove,1993-01-12,2017-06-30,Right Wing,27.0,"250,000 €",Wales,3
+60,Shane Long,1987-01-22,2020-06-30,Centre Forward,7.0,"10,000,000 €",Ireland,3
+61,Jérémy Pied,1989-02-23,2018-06-30,Right Midfield,26.0,"3,500,000 €",France,3
+62,Sofiane Boufal,1993-09-17,2021-06-30,Attacking Midfield,19.0,"13,000,000 €",Morocco,3
+63,Nathan Redmond,1994-03-06,2021-06-30,Right Wing,22.0,"10,000,000 €",England,3
+64,Fraser Forster,1988-03-17,2021-06-30,Keeper,1.0,"15,000,000 €",England,3
+65,Virgil van Dijk,1991-07-08,2022-06-30,Centre Back,17.0,"12,000,000 €",Netherlands,3
+66,José Fonte,1983-12-22,2018-06-30,Centre Back,6.0,"6,000,000 €",Portugal,3
+67,Florin Gardos,1988-10-29,2018-06-30,Centre Back,5.0,"5,000,000 €",Romania,3
+68,Maya Yoshida,1988-08-24,2018-06-30,Centre Back,3.0,"4,000,000 €",Japan,3
+69,Jack Stephens,1994-01-27,2019-06-30,Centre Back,24.0,"250,000 €",England,3
+70,Ryan Bertrand,1989-08-05,2021-06-30,Left-Back,21.0,"14,000,000 €",England,3
+71,Matt Targett,1995-09-18,2019-06-30,Left-Back,33.0,"3,000,000 €",England,3
+72,Cédric Soares,1991-08-31,2020-06-30,Right-Back,2.0,"12,000,000 €",Portugal,3
+73,Cuco Martina,1989-09-25,2017-06-30,Right-Back,15.0,"2,000,000 €",Curacao,3
+74,Jordy Clasie,1991-06-27,2020-06-30,Defensive Midfield,4.0,"11,000,000 €",Netherlands,3
+75,Oriol Romeu,1991-09-24,2018-06-30,Defensive Midfield,14.0,"5,000,000 €",Spain,3
+76,James Ward-Prowse,1994-11-01,2022-06-30,Central Midfield,16.0,"11,000,000 €",England,3
+77,Steven Davis,1985-01-01,2019-06-30,Central Midfield,8.0,"6,000,000 €",Northern Ireland,3
+78,Harrison Reed,1995-01-27,2018-06-30,Central Midfield,18.0,"1,500,000 €",England,3
+79,Dusan Tadic,1988-11-20,2020-06-30,Left Wing,11.0,"17,000,000 €",Serbia,3
+80,Sam McQueen,1995-02-06,2018-06-30,Left Wing,38.0,"250,000 €",England,3
+81,Jay Rodríguez,1989-07-29,2019-06-30,Left Wing,9.0,"13,000,000 €",England,3
+82,Charlie Austin,1989-07-05,2020-06-30,Centre Forward,10.0,"13,000,000 €",England,3
+83,Stuart Taylor,1980-11-28,2017-06-30,Keeper,28.0,"250,000 €",England,3
+84,Roberto Pereyra,1991-01-07,2021-06-30,Attacking Midfield,37.0,"16,000,000 €",Argentina,4
+85,Stefano Okaka,1989-08-09,2021-06-30,Centre Forward,33.0,"6,500,000 €",Italy,4
+86,Camilo Zúñiga,1985-12-14,2017-06-30,Left Midfield,18.0,"1,000,000 €",Colombia,4
+87,Daryl Janmaat,1989-07-22,2020-06-30,Right-Back,22.0,"7,500,000 €",Netherlands,4
+88,Brice Dja Djedjé,1990-12-23,2020-06-30,Right-Back,26.0,"3,500,000 €",Cote d'Ivoire,4
+89,Abdoulaye Doucouré,1993-01-01,2020-06-30,Central Midfield,16.0,"6,000,000 €",France,4
+90,Isaac Success,1996-01-07,2021-06-30,Right Wing,10.0,"4,000,000 €",Nigeria,4
+91,Giedrius Arlauskis,1987-12-01,2019-06-30,Keeper,34.0,"1,250,000 €",Lithuania,4
+92,Costel Pantilimon,1987-02-01,2019-06-30,Keeper,30.0,"4,500,000 €",Romania,4
+93,Heurelho Gomes,1981-02-15,2018-06-30,Keeper,1.0,"1,000,000 €",Brazil,4
+94,Rene Gilmartin,1987-05-31,2017-06-30,Keeper,13.0,"250,000 €",Ireland,4
+95,Christian Kabasele,1991-02-24,2021-06-30,Centre Back,27.0,"6,000,000 €",Belgium,4
+96,Sebastian Prödl,1987-06-21,2020-06-30,Centre Back,5.0,"4,000,000 €",Austria,4
+97,Craig Cathcart,1989-02-06,2019-06-30,Centre Back,15.0,"4,000,000 €",Northern Ireland,4
+98,Miguel Britos,1985-07-17,2018-06-30,Centre Back,3.0,"3,500,000 €",Uruguay,4
+99,José Holebas,1984-06-27,2018-06-30,Left-Back,25.0,"2,000,000 €",Greece,4
+100,Juan Carlos Paredes,1987-07-08,2019-06-30,Right-Back,14.0,"2,000,000 €",Ecuador,4
+101,Étienne Capoue,1988-07-11,2019-06-30,Defensive Midfield,29.0,"9,000,000 €",France,4
+102,Valon Behrami,1985-04-19,2018-06-30,Defensive Midfield,11.0,"2,500,000 €",Switzerland,4
+103,Ben Watson,1985-07-09,2018-06-30,Central Midfield,23.0,"1,500,000 €",England,4
+104,Adlène Guédioura,1985-11-12,2018-06-30,Central Midfield,17.0,"1,000,000 €",Algeria,4
+105,Nordin Amrabat,1987-03-31,2019-06-30,Left Wing,7.0,"4,500,000 €",Morocco,4
+106,Odion Ighalo,1989-06-16,2021-06-30,Centre Forward,24.0,"12,000,000 €",Nigeria,4
+107,Troy Deeney,1988-06-29,2021-06-30,Centre Forward,9.0,"11,000,000 €",England,4
+108,Jerome Sinclair,1996-09-20,2021-06-30,Centre Forward,19.0,"1,500,000 €",England,4
+109,Kenedy,1996-02-08,2017-06-30,Left-Back,12.0,"8,000,000 €",Brazil,4
+110,Younès Kaboul,1986-01-04,2019-06-30,Centre Back,4.0,"2,500,000 €",France,4
+111,Haviv Ohayon,1998-08-17,2016-06-30,Keeper,NaN,,Israel,4
+112,Adrian Mariappa,1986-10-03,2019-06-30,Centre Back,6.0,"2,000,000 €",Jamaica,4
+113,David Nugent,1985-05-02,2018-06-30,Centre Forward,35.0,"3,500,000 €",England,5
+114,Stewart Downing,1984-07-22,2019-06-30,Left Midfield,19.0,"6,000,000 €",England,5
+115,Brad Guzan,1984-09-09,2018-06-30,Keeper,12.0,"2,500,000 €",United States,5
+116,Gastón Ramírez,1990-12-02,2019-06-30,Attacking Midfield,21.0,"5,000,000 €",Uruguay,5
+117,Viktor Fischer,1994-06-09,2019-06-30,Left Wing,11.0,"5,000,000 €",Denmark,5
+118,Antonio Barragán,1987-06-12,2019-06-30,Right-Back,17.0,"3,500,000 €",Spain,5
+119,Álvaro Negredo,1985-08-20,2017-06-30,Centre Forward,10.0,"7,500,000 €",Spain,5
+120,Víctor Valdés,1982-01-14,2018-06-30,Keeper,26.0,"2,500,000 €",Spain,5
+121,Bernardo Espinosa,1989-07-11,,Centre Back,5.0,"2,500,000 €",Colombia,5
+122,Marten de Roon,1991-03-29,2020-06-30,Central Midfield,14.0,"10,000,000 €",Netherlands,5
+123,Dimitrios Konstantopoulos,1978-11-29,2016-06-30,Keeper,1.0,"250,000 €",Greece,5
+124,Tomás Mejías,1989-01-30,2018-06-30,Keeper,13.0,"250,000 €",Spain,5
+125,Daniel Ayala,1990-11-07,2020-06-30,Centre Back,4.0,"2,000,000 €",Spain,5
+126,Ben Gibson,1993-01-15,2021-06-30,Centre Back,6.0,"2,000,000 €",England,5
+127,Fábio,1990-07-09,2018-06-30,Left-Back,2.0,"3,000,000 €",Brazil,5
+128,George Friend,1987-10-19,2020-06-30,Left-Back,3.0,"1,500,000 €",England,5
+129,James Husband,1994-01-03,2018-06-30,Left-Back,40.0,"500,000 €",England,5
+130,Emilio Nsue,1989-09-30,2017-06-30,Right-Back,24.0,"2,000,000 €",Equatorial Guinea,5
+131,Julien de Sart,1994-12-23,2019-06-30,Defensive Midfield,23.0,"2,000,000 €",Belgium,5
+132,Adam Clayton,1989-01-14,2018-06-30,Central Midfield,8.0,"2,500,000 €",England,5
+133,Adam Forshaw,1991-10-08,2020-06-30,Central Midfield,34.0,"2,250,000 €",England,5
+134,Grant Leadbitter,1986-01-07,2017-06-30,Central Midfield,7.0,"2,000,000 €",England,5
+135,Carlos de Pena,1992-03-11,2018-06-30,Left Midfield,16.0,"2,500,000 €",Uruguay,5
+136,Jordan Rhodes,1990-02-05,2020-06-30,Centre Forward,9.0,"10,000,000 €",Scotland,5
+137,Cristhian Stuani,1986-10-12,2019-06-30,Centre Forward,18.0,"4,000,000 €",Uruguay,5
+138,Calum Chambers,1995-01-20,2017-05-31,Right-Back,25.0,"12,000,000 €",England,5
+139,Bruno Martins Indi,1992-02-08,2017-06-30,Centre Back,4.0,"10,000,000 €",Netherlands,6
+140,Daniel Bachmann,1994-07-09,2017-06-30,Keeper,35.0,"250,000 €",Austria,6
+141,Wilfried Bony,1988-12-10,2017-06-30,Centre Forward,14.0,"22,000,000 €",Cote d'Ivoire,6
+142,Jack Butland,1993-03-10,2021-06-30,Keeper,1.0,"9,000,000 €",England,6
+143,Jakob Haugaard,1992-05-01,2018-06-30,Keeper,29.0,"1,000,000 €",Denmark,6
+144,Shay Given,1976-04-20,2017-06-30,Keeper,24.0,"500,000 €",Ireland,6
+145,Ryan Shawcross,1987-10-04,2018-06-30,Centre Back,17.0,"11,000,000 €",England,6
+146,Marc Muniesa,1992-03-27,2019-06-30,Centre Back,5.0,"3,500,000 €",Spain,6
+147,Geoff Cameron,1985-07-11,2018-06-30,Centre Back,20.0,"3,000,000 €",United States,6
+148,Dionatan Teixeira,1992-07-24,2017-06-30,Centre Back,23.0,"500,000 €",Slovakia,6
+149,Erik Pieters,1988-08-07,2020-06-30,Left-Back,3.0,"7,000,000 €",Netherlands,6
+150,Glen Johnson,1984-08-23,2017-06-30,Right-Back,8.0,"7,000,000 €",England,6
+151,Phil Bardsley,1985-06-28,2017-06-30,Right-Back,2.0,"1,500,000 €",Scotland,6
+152,Giannelli Imbula,1992-09-12,2021-06-30,Defensive Midfield,21.0,"18,000,000 €",France,6
+153,Glenn Whelan,1984-01-13,2018-06-30,Defensive Midfield,6.0,"3,000,000 €",Ireland,6
+154,Joe Allen,1990-03-14,2021-06-30,Central Midfield,4.0,"12,000,000 €",Wales,6
+155,Charlie Adam,1985-12-10,2017-06-30,Central Midfield,16.0,"4,500,000 €",Scotland,6
+156,Stephen Ireland,1986-08-22,2017-06-30,Attacking Midfield,7.0,"1,500,000 €",Ireland,6
+157,Ibrahim Afellay,1986-04-02,2017-06-30,Left Wing,14.0,"5,000,000 €",Netherlands,6
+158,Ramadan Sobhi,1997-06-27,2020-06-30,Left Wing,32.0,"1,500,000 €",Egypt,6
+159,Xherdan Shaqiri,1991-10-10,2020-06-30,Right Wing,22.0,"15,000,000 €",Switzerland,6
+160,Marko Arnautovic,1989-04-19,2020-06-30,Left Wing,10.0,"12,000,000 €",Austria,6
+161,Jonathan Walters,1983-09-20,2018-06-30,Right Wing,19.0,"3,500,000 €",Ireland,6
+162,Bojan Krkic,1990-08-28,2020-06-30,Secondary Striker,27.0,"10,000,000 €",Spain,6
+163,Mame Diouf,1987-12-16,2018-06-30,Centre Forward,18.0,"8,000,000 €",Senegal,6
+164,Peter Crouch,1981-01-30,2017-06-30,Centre Forward,25.0,"1,500,000 €",England,6
+165,Lee Grant,1983-01-27,2016-12-31,Keeper,NaN,"500,000 €",England,6
+166,Idrissa Gueye,1989-09-26,2020-06-30,Central Midfield,17.0,"9,000,000 €",Senegal,7
+167,Conor McAleny,1992-08-12,2017-06-30,Centre Forward,NaN,"250,000 €",England,7
+168,Joel Robles,1990-06-17,2018-06-30,Keeper,1.0,"5,000,000 €",Spain,7
+169,Maarten Stekelenburg,1982-09-22,2019-06-30,Keeper,22.0,"1,000,000 €",Netherlands,7
+170,Ramiro Funes Mori,1991-03-05,2020-06-30,Centre Back,25.0,"12,000,000 €",Argentina,7
+171,Ashley Williams,1984-08-23,2019-06-30,Centre Back,5.0,"8,000,000 €",Wales,7
+172,Phil Jagielka,1982-08-17,2018-06-30,Centre Back,6.0,"3,500,000 €",England,7
+173,Leighton Baines,1984-12-11,2019-06-30,Left-Back,3.0,"13,000,000 €",England,7
+174,Bryan Oviedo,1990-02-18,2019-06-30,Left-Back,20.0,"3,000,000 €",Costa Rica,7
+175,Seamus Coleman,1988-10-11,2019-06-30,Right-Back,23.0,"17,000,000 €",Ireland,7
+176,Tyias Browning,1994-05-27,2017-06-30,Right-Back,27.0,"1,000,000 €",England,7
+177,Muhamed Besic,1992-09-10,2021-06-30,Defensive Midfield,21.0,"6,000,000 €",Bosnia-Herzegovina,7
+178,Gareth Barry,1981-02-23,2017-06-30,Defensive Midfield,18.0,"2,000,000 €",England,7
+179,James McCarthy,1990-11-12,2020-06-30,Central Midfield,16.0,"17,000,000 €",Ireland,7
+180,Tom Cleverley,1989-08-12,2020-06-30,Central Midfield,15.0,"9,000,000 €",England,7
+181,Darron Gibson,1987-10-25,2018-06-30,Central Midfield,4.0,"1,500,000 €",Ireland,7
+182,Ross Barkley,1993-12-05,2018-06-30,Attacking Midfield,8.0,"22,000,000 €",England,7
+183,Kevin Mirallas,1987-10-05,2018-06-30,Right Wing,11.0,"13,000,000 €",Belgium,7
+184,Gerard Deulofeu,1994-03-13,2018-06-30,Right Wing,7.0,"9,000,000 €",Spain,7
+185,Aaron Lennon,1987-04-16,2018-06-30,Right Wing,12.0,"6,000,000 €",England,7
+186,Romelu Lukaku,1993-05-13,2019-06-30,Centre Forward,10.0,"40,000,000 €",Belgium,7
+187,Oumar Niasse,1990-04-18,2020-06-30,Centre Forward,NaN,"12,000,000 €",Senegal,7
+188,Arouna Koné,1983-11-11,2017-06-30,Centre Forward,9.0,"2,500,000 €",Cote d'Ivoire,7
+189,Leandro Rodríguez,1992-11-19,2019-06-30,Centre Forward,NaN,"1,500,000 €",Uruguay,7
+190,Enner Valencia,1989-11-04,2017-06-30,Centre Forward,19.0,"10,000,000 €",Ecuador,7
+191,Yannick Bolasie,1989-05-24,2021-06-30,Left Wing,14.0,"14,000,000 €",Congo DR,7
+192,Mason Holgate,1996-10-22,2020-06-30,Centre Back,30.0,"1,000,000 €",England,7
+193,Moussa Sissoko,1989-08-16,2021-06-30,Central Midfield,17.0,"13,000,000 €",France,8
+194,Georges-Kevin N'Koudou,1995-02-13,2021-06-30,Left Wing,14.0,"7,000,000 €",France,8
+195,Pau López,1994-12-13,2017-06-30,Keeper,30.0,"1,500,000 €",Spain,8
+196,Hugo Lloris,1986-12-26,2019-06-30,Keeper,1.0,"24,000,000 €",France,8
+197,Michel Vorm,1983-10-20,2018-06-30,Keeper,13.0,"5,000,000 €",Netherlands,8
+198,Toby Alderweireld,1989-03-02,2020-06-30,Centre Back,4.0,"27,000,000 €",Belgium,8
+199,Jan Vertonghen,1987-04-24,2018-06-30,Centre Back,5.0,"23,000,000 €",Belgium,8
+200,Kevin Wimmer,1992-11-15,2021-06-30,Centre Back,27.0,"7,000,000 €",Austria,8
+201,Danny Rose,1990-07-02,2019-06-30,Left-Back,3.0,"14,000,000 €",England,8
+202,Ben Davies,1993-04-24,2019-06-30,Left-Back,33.0,"9,000,000 €",Wales,8
+203,Kyle Walker,1990-05-28,2019-06-30,Right-Back,2.0,"15,000,000 €",England,8
+204,Kieran Trippier,1990-09-19,2020-06-30,Right-Back,16.0,"6,000,000 €",England,8
+205,Eric Dier,1994-01-15,2020-06-30,Defensive Midfield,15.0,"18,000,000 €",England,8
+206,Victor Wanyama,1991-06-25,2021-06-30,Defensive Midfield,12.0,"15,000,000 €",Kenya,8
+207,Dele Alli,1996-04-11,2021-06-30,Central Midfield,20.0,"20,000,000 €",England,8
+208,Mousa Dembélé,1987-07-16,2019-06-30,Central Midfield,19.0,"18,000,000 €",Belgium,8
+209,Tom Carroll,1992-05-28,2016-06-30,Central Midfield,28.0,"5,000,000 €",England,8
+210,Christian Eriksen,1992-02-14,2020-06-30,Attacking Midfield,23.0,"31,000,000 €",Denmark,8
+211,Josh Onomah,1997-04-27,2020-06-30,Attacking Midfield,25.0,"2,000,000 €",England,8
+212,Érik Lamela,1992-03-04,2020-06-30,Right Wing,11.0,"26,000,000 €",Argentina,8
+213,Heung-Min Son,1992-07-08,2020-06-30,Left Wing,7.0,"25,000,000 €","Korea, South",8
+214,Harry Kane,1993-07-28,2020-06-30,Centre Forward,10.0,"40,000,000 €",England,8
+215,Vincent Janssen,1994-06-15,2020-06-30,Centre Forward,9.0,"14,000,000 €",Netherlands,8
+216,Andros Townsend,1991-07-16,2021-06-30,Right Wing,10.0,"11,000,000 €",England,9
+217,Steve Mandanda,1985-03-28,2019-06-30,Keeper,30.0,"10,000,000 €",France,9
+218,Christian Benteke,1990-12-03,2020-06-30,Centre Forward,17.0,"27,000,000 €",Belgium,9
+219,Loïc Rémy,1987-01-02,2017-05-31,Centre Forward,18.0,"9,000,000 €",France,9
+220,Wayne Hennessey,1987-01-24,2017-06-30,Keeper,13.0,"4,000,000 €",Wales,9
+221,Julián Speroni,1979-05-18,2017-06-30,Keeper,1.0,"500,000 €",Argentina,9
+222,James Tomkins,1989-03-29,2021-06-30,Centre Back,5.0,"7,000,000 €",England,9
+223,Scott Dann,1987-02-14,2020-06-30,Centre Back,6.0,"5,000,000 €",England,9
+224,Damien Delaney,1981-07-20,2017-06-30,Centre Back,27.0,"1,500,000 €",Ireland,9
+225,Pape Souaré,1990-06-06,2019-06-30,Left-Back,23.0,"6,500,000 €",Senegal,9
+226,Zeki Fryers,1992-09-09,2017-06-30,Left-Back,19.0,"2,500,000 €",England,9
+227,Joel Ward,1989-10-29,2018-06-30,Right-Back,2.0,"5,000,000 €",England,9
+228,Martin Kelly,1990-04-27,2017-06-30,Right-Back,34.0,"3,500,000 €",England,9
+229,Yohan Cabaye,1986-01-14,2018-06-30,Central Midfield,7.0,"18,000,000 €",France,9
+230,James McArthur,1987-10-07,2018-06-30,Central Midfield,18.0,"7,000,000 €",Scotland,9
+231,Jordon Mutch,1991-12-02,2019-06-30,Central Midfield,22.0,"4,000,000 €",England,9
+232,Joe Ledley,1987-01-23,2017-06-30,Central Midfield,28.0,"4,000,000 €",Wales,9
+233,Bakary Sako,1988-04-26,2018-06-30,Left Wing,26.0,"8,000,000 €",Mali,9
+234,Wilfried Zaha,1992-11-10,2020-06-30,Right Wing,11.0,"9,000,000 €",England,9
+235,Jason Puncheon,1986-06-26,2019-06-30,Right Wing,42.0,"5,000,000 €",England,9
+236,Chung-Yong Lee,1988-07-02,2018-06-30,Right Wing,14.0,"1,500,000 €","Korea, South",9
+237,Connor Wickham,1993-03-31,2020-06-30,Centre Forward,21.0,"6,000,000 €",England,9
+238,Fraizer Campbell,1987-09-13,2017-06-30,Centre Forward,9.0,"2,500,000 €",England,9
+239,Kwesi Appiah,1990-08-12,2017-06-30,Centre Forward,32.0,"250,000 €",Ghana,9
+240,Matt Phillips,1991-03-13,2020-06-30,Right Wing,10.0,"6,000,000 €",Scotland,10
+241,Ben Foster,1983-04-03,2018-06-30,Keeper,1.0,"4,000,000 €",England,10
+242,Boaz Myhill,1982-11-09,2018-06-30,Keeper,13.0,"2,000,000 €",Wales,10
+243,Jack Rose,1995-01-31,2017-06-30,Keeper,38.0,"100,000 €",England,10
+244,Jonny Evans,1988-01-03,2019-06-30,Centre Back,6.0,"6,000,000 €",Northern Ireland,10
+245,Jonas Olsson,1983-03-10,2017-06-30,Centre Back,3.0,"1,500,000 €",Sweden,10
+246,Gareth McAuley,1979-12-05,2017-06-30,Centre Back,23.0,"1,000,000 €",Northern Ireland,10
+247,Craig Dawson,1990-05-06,2018-06-30,Right-Back,25.0,"6,000,000 €",England,10
+248,Claudio Yacob,1987-07-18,2017-06-30,Defensive Midfield,5.0,"4,000,000 €",Argentina,10
+249,James Morrison,1986-05-25,2018-06-30,Central Midfield,7.0,"5,000,000 €",Scotland,10
+250,Craig Gardner,1986-11-25,2017-06-30,Central Midfield,8.0,"3,500,000 €",England,10
+251,Darren Fletcher,1984-02-01,2017-06-30,Central Midfield,24.0,"2,000,000 €",Scotland,10
+252,Chris Brunt,1984-12-14,2017-06-30,Left Midfield,11.0,"4,000,000 €",Northern Ireland,10
+253,James McClean,1989-04-22,2018-06-30,Left Wing,14.0,"3,000,000 €",Ireland,10
+254,Callum McManaman,1991-04-25,2018-06-30,Right Wing,19.0,"4,000,000 €",England,10
+255,Jonathan Leko,1999-04-24,2019-06-30,Right Wing,45.0,"1,500,000 €",England,10
+256,José Salomón Rondón,1989-09-16,2019-06-30,Centre Forward,9.0,"17,000,000 €",Venezuela,10
+257,Saido Berahino,1993-08-04,2017-06-30,Centre Forward,18.0,"15,000,000 €",England,10
+258,Allan Nyom,1988-05-10,2020-06-30,Right-Back,2.0,"4,000,000 €",Cameroon,10
+259,Nacer Chadli,1989-08-02,2020-06-30,Left Wing,NaN,"13,000,000 €",Belgium,10
+260,Brendan Galloway,1996-03-17,2017-05-31,Left-Back,20.0,"3,000,000 €",England,10
+261,Hal Robson-Kanu,1989-05-21,2018-06-30,Left Wing,NaN,"2,000,000 €",Wales,10
+262,Matthew Lowton,1989-06-09,2018-06-30,Right-Back,2.0,"1,500,000 €",England,11
+263,George Boyd,1985-10-02,2017-06-30,Right Midfield,21.0,"4,000,000 €",Scotland,11
+264,Steven Defour,1988-04-15,2019-06-30,Central Midfield,16.0,"6,000,000 €",Belgium,11
+265,Patrick Bamford,1993-09-05,2017-05-31,Centre Forward,15.0,"5,000,000 €",England,11
+266,Tom Heaton,1986-04-15,2020-06-30,Keeper,1.0,"3,000,000 €",England,11
+267,Nick Pope,1992-04-19,2019-06-30,Keeper,29.0,"750,000 €",England,11
+268,Paul Robinson,1979-10-15,2017-06-30,Keeper,17.0,"250,000 €",England,11
+269,Michael Keane,1993-01-11,2018-06-30,Centre Back,5.0,"8,000,000 €",England,11
+270,James Tarkowski,1992-11-19,2019-06-30,Centre Back,26.0,"2,000,000 €",England,11
+271,Kevin Long,1990-08-18,2017-06-30,Centre Back,28.0,"250,000 €",Ireland,11
+272,Ben Mee,1989-09-21,2019-06-30,Left-Back,6.0,"3,500,000 €",England,11
+273,Stephen Ward,1985-08-20,2017-06-30,Left-Back,23.0,"1,000,000 €",Ireland,11
+274,Jon Flanagan,1993-01-01,2017-05-31,Right-Back,4.0,"5,000,000 €",England,11
+275,Tendayi Darikwa,1991-12-13,2018-06-30,Right-Back,27.0,"750,000 €",England,11
+276,Dean Marney,1984-01-31,2017-06-30,Central Midfield,8.0,"1,000,000 €",England,11
+277,Scott Arfield,1988-11-01,2018-06-30,Left Midfield,37.0,"3,000,000 €",Canada,11
+278,Michael Kightly,1986-01-24,2017-06-30,Left Wing,11.0,"1,500,000 €",England,11
+279,Johann Berg Gudmundsson,1990-10-27,2019-06-30,Right Wing,25.0,"2,500,000 €",Iceland,11
+280,Andre Gray,1991-06-26,2018-06-30,Centre Forward,7.0,"10,000,000 €",England,11
+281,Sam Vokes,1989-10-21,2019-06-30,Centre Forward,9.0,"4,000,000 €",Wales,11
+282,Ashley Barnes,1989-10-30,2019-06-30,Centre Forward,10.0,"2,000,000 €",England,11
+283,Jeff Hendrick,1992-01-31,2019-06-30,Central Midfield,13.0,"1,500,000 €",Ireland,11
+284,Fernando Llorente,1985-02-26,2018-06-30,Centre Forward,9.0,"6,000,000 €",Spain,12
+285,Gerhard Tremmel,1978-11-16,2017-06-30,Keeper,25.0,"500,000 €",Germany,12
+286,Nathan Dyer,1987-11-29,2020-06-30,Right Wing,12.0,"4,000,000 €",England,12
+287,Mike van der Hoorn,1992-10-31,2019-06-30,Centre Back,5.0,"2,500,000 €",Netherlands,12
+288,Borja Bastón,1992-08-25,2020-06-30,Centre Forward,10.0,"5,000,000 €",Spain,12
+289,Lukasz Fabianski,1985-04-18,2019-06-30,Keeper,1.0,"9,000,000 €",Poland,12
+290,Kristoffer Nordfeldt,1989-06-23,2020-06-30,Keeper,13.0,"2,500,000 €",Sweden,12
+291,Mark Birighitti,1991-04-17,2018-06-30,Keeper,19.0,"1,000,000 €",Australia,12
+292,Federico Fernández,1989-02-21,2018-06-30,Centre Back,33.0,"9,000,000 €",Argentina,12
+293,Jordi Amat,1992-03-21,2019-06-30,Centre Back,2.0,"2,500,000 €",Spain,12
+294,Neil Taylor,1989-02-07,2019-06-30,Left-Back,3.0,"6,000,000 €",Wales,12
+295,Stephen Kingsley,1994-07-23,2020-06-30,Left-Back,35.0,"500,000 €",Scotland,12
+296,Kyle Naughton,1988-11-11,2018-06-30,Right-Back,26.0,"5,000,000 €",England,12
+297,Ángel Rangel,1982-10-28,2018-06-30,Right-Back,22.0,"1,500,000 €",Spain,12
+298,Sung-Yong Ki,1989-01-24,2018-06-30,Defensive Midfield,4.0,"7,500,000 €","Korea, South",12
+299,Jack Cork,1989-06-25,2018-06-30,Defensive Midfield,24.0,"5,000,000 €",England,12
+300,Leroy Fer,1990-01-05,2019-06-30,Central Midfield,8.0,"8,000,000 €",Netherlands,12
+301,Leon Britton,1982-09-16,2018-06-30,Central Midfield,7.0,"1,500,000 €",England,12
+302,Jay Fulton,1994-04-04,2020-06-30,Central Midfield,56.0,"250,000 €",Scotland,12
+303,Gylfi Sigurdsson,1989-09-09,2020-06-30,Attacking Midfield,23.0,"17,000,000 €",Iceland,12
+304,Jefferson Montero,1989-09-01,2018-06-30,Left Wing,20.0,"5,500,000 €",Ecuador,12
+305,Wayne Routledge,1985-01-07,2018-06-30,Left Wing,15.0,"3,000,000 €",England,12
+306,Modou Barrow,1992-10-13,2019-06-30,Right Wing,17.0,"3,000,000 €",The Gambia,12
+307,Oliver Davies,1994-12-31,,Keeper,NaN,"50,000 €",Wales,12
+308,Alfie Mawson,1994-01-19,2020-06-30,Centre Back,6.0,"300,000 €",England,12
+309,John Stones,1994-05-28,2022-06-30,Centre Back,24.0,"28,000,000 €",England,13
+310,Fernando,1987-07-25,2019-06-30,Defensive Midfield,6.0,"16,000,000 €",Brazil,13
+311,Nolito,1986-10-15,2020-06-30,Left Wing,9.0,"18,000,000 €",Spain,13
+312,Claudio Bravo,1983-04-13,2020-06-30,Keeper,1.0,"15,000,000 €",Chile,13
+313,Ilkay Gündogan,1990-10-24,2020-06-30,Central Midfield,8.0,"30,000,000 €",Germany,13
+314,Willy Caballero,1981-09-28,2017-06-30,Keeper,13.0,"2,000,000 €",Argentina,13
+315,Nicolás Otamendi,1988-02-12,2020-06-30,Centre Back,30.0,"32,000,000 €",Argentina,13
+316,Vincent Kompany,1986-04-10,2019-06-30,Centre Back,4.0,"30,000,000 €",Belgium,13
+317,Aleksandar Kolarov,1985-11-10,2018-06-30,Left-Back,11.0,"11,000,000 €",Serbia,13
+318,Gaël Clichy,1985-07-26,2017-06-30,Left-Back,22.0,"9,000,000 €",France,13
+319,Pablo Zabaleta,1985-01-16,2017-06-30,Right-Back,5.0,"10,000,000 €",Argentina,13
+320,Bacary Sagna,1983-02-14,2017-06-30,Right-Back,3.0,"8,000,000 €",France,13
+321,Fernandinho,1985-05-04,2017-06-30,Central Midfield,25.0,"28,000,000 €",Brazil,13
+322,Yaya Touré,1983-05-13,2017-06-30,Central Midfield,42.0,"16,000,000 €",Cote d'Ivoire,13
+323,Fabian Delph,1989-11-21,2020-06-30,Central Midfield,18.0,"10,000,000 €",England,13
+324,Kevin De Bruyne,1991-06-28,2021-06-30,Attacking Midfield,17.0,"60,000,000 €",Belgium,13
+325,David Silva,1986-01-08,2019-06-30,Attacking Midfield,21.0,"33,000,000 €",Spain,13
+326,Jesús Navas,1985-11-21,2017-06-30,Right Wing,15.0,"20,000,000 €",Spain,13
+327,Raheem Sterling,1994-12-08,2020-06-30,Left Wing,7.0,"45,000,000 €",England,13
+328,Sergio Agüero,1988-06-02,2019-06-30,Centre Forward,10.0,"60,000,000 €",Argentina,13
+329,Kelechi Iheanacho,1996-10-03,2021-06-30,Centre Forward,72.0,"7,000,000 €",Nigeria,13
+330,Javier Manquillo,1994-05-05,2017-06-30,Right-Back,21.0,"5,000,000 €",Spain,14
+331,Papy Djilobodji,1988-12-01,2020-06-30,Centre Back,5.0,"4,500,000 €",Senegal,14
+332,Jason Denayer,1995-06-28,2017-05-31,Centre Back,NaN,"4,000,000 €",Belgium,14
+333,Vito Mannone,1988-03-02,2018-06-30,Keeper,1.0,"2,500,000 €",Italy,14
+334,Jordan Pickford,1994-03-07,2020-06-30,Keeper,13.0,"1,000,000 €",England,14
+335,Lamine Koné,1989-02-01,2020-06-30,Centre Back,23.0,"6,000,000 €",Cote d'Ivoire,14
+336,Patrick McNair,1995-04-27,2020-06-30,Centre Back,19.0,"4,000,000 €",Northern Ireland,14
+337,John O'Shea,1981-04-30,2017-06-30,Centre Back,16.0,"1,000,000 €",Ireland,14
+338,Patrick van Aanholt,1990-08-29,2020-06-30,Left-Back,3.0,"6,000,000 €",Netherlands,14
+339,Billy Jones,1987-03-24,2018-06-30,Right-Back,2.0,"1,500,000 €",England,14
+340,Donald Love,1994-12-02,2020-06-30,Right-Back,22.0,"1,000,000 €",Scotland,14
+341,Jack Rodwell,1991-03-11,2019-06-30,Defensive Midfield,8.0,"7,000,000 €",England,14
+342,Lee Cattermole,1988-03-21,2021-06-30,Defensive Midfield,6.0,"3,500,000 €",England,14
+343,Sebastian Larsson,1985-06-06,2017-06-30,Central Midfield,7.0,"2,500,000 €",Sweden,14
+344,Wahbi Khazri,1991-02-08,2020-06-30,Left Wing,10.0,"9,000,000 €",Tunisia,14
+345,Adnan Januzaj,1995-02-05,2017-05-31,Right Wing,44.0,"7,000,000 €",Belgium,14
+346,Fabio Borini,1991-03-29,2019-06-30,Left Wing,9.0,"6,000,000 €",Italy,14
+347,Duncan Watmore,1994-03-08,2020-06-30,Right Wing,14.0,"2,500,000 €",England,14
+348,Jermain Defoe,1982-10-07,2019-06-30,Centre Forward,18.0,"6,500,000 €",England,14
+349,Steven Pienaar,1982-03-17,2017-06-30,Left Wing,20.0,"1,500,000 €",South Africa,14
+350,Didier Ndong,1994-06-17,2021-06-30,Defensive Midfield,NaN,"5,000,000 €",Gabon,14
+351,Lynden Gooch,1995-12-24,2019-06-30,Right Wing,46.0,"500,000 €",United States,14
+352,Victor Anichebe,1988-04-23,2017-06-30,Centre Forward,NaN,"2,000,000 €",Nigeria,14
+353,Joel Asoro,1999-04-27,2019-12-31,Centre Forward,29.0,,Sweden,14
+354,Nathan Aké,1995-02-18,2017-05-31,Centre Back,5.0,"5,000,000 €",Netherlands,15
+355,Jordon Ibe,1995-12-08,2020-06-30,Right Wing,33.0,"10,000,000 €",England,15
+356,Lys Mousset,1996-02-08,2020-06-30,Centre Forward,31.0,"5,000,000 €",France,15
+357,Ryan Allsop,1992-06-17,2018-06-30,Keeper,21.0,"250,000 €",England,15
+358,Artur Boruc,1980-02-20,2017-06-30,Keeper,1.0,"1,000,000 €",Poland,15
+359,Adam Federici,1985-01-31,2019-06-30,Keeper,23.0,"1,000,000 €",Australia,15
+360,Steve Cook,1991-04-19,2019-06-30,Centre Back,3.0,"5,000,000 €",England,15
+361,Tyrone Mings,1993-03-13,2019-06-30,Left-Back,26.0,"6,000,000 €",England,15
+362,Charlie Daniels,1986-09-07,2019-06-30,Left-Back,11.0,"2,500,000 €",England,15
+363,Brad Smith,1994-04-09,2020-06-30,Left-Back,14.0,"2,000,000 €",Australia,15
+364,Simon Francis,1985-02-16,2019-06-30,Right-Back,2.0,"2,500,000 €",England,15
+365,Adam Smith,1991-04-29,2020-06-30,Right-Back,15.0,"2,000,000 €",England,15
+366,Lewis Cook,1997-02-03,2020-06-30,Central Midfield,18.0,"5,000,000 €",England,15
+367,Dan Gosling,1990-02-02,2018-06-30,Central Midfield,4.0,"3,000,000 €",England,15
+368,Andrew Surman,1986-08-20,2017-06-30,Central Midfield,6.0,"2,000,000 €",England,15
+369,Harry Arter,1989-12-28,2019-06-30,Central Midfield,8.0,"2,000,000 €",Ireland,15
+370,Emerson Hyndman,1996-04-07,2020-06-30,Central Midfield,22.0,"1,000,000 €",United States,15
+371,Max Gradel,1987-11-30,2020-06-30,Left Wing,10.0,"9,000,000 €",Cote d'Ivoire,15
+372,Junior Stanislas,1989-11-26,2019-06-30,Left Wing,19.0,"4,000,000 €",England,15
+373,Marc Pugh,1987-04-02,2018-06-30,Left Wing,7.0,"2,000,000 €",England,15
+374,Ryan Fraser,1994-02-24,2018-06-30,Left Wing,24.0,"500,000 €",Scotland,15
+375,Joshua King,1992-01-15,2020-06-30,Secondary Striker,17.0,"4,000,000 €",Norway,15
+376,Benik Afobe,1993-02-12,2020-06-30,Centre Forward,9.0,"9,000,000 €",Congo DR,15
+377,Callum Wilson,1992-02-27,2020-06-30,Centre Forward,13.0,"9,000,000 €",England,15
+378,Lewis Grabban,1988-01-12,2019-06-30,Centre Forward,28.0,"3,000,000 €",Jamaica,15
+379,Marc Wilson,1987-08-17,2018-06-30,Centre Back,20.0,"3,000,000 €",Ireland,15
+380,Jack Wilshere,1992-01-01,2017-05-31,Central Midfield,32.0,"23,000,000 €",England,15
+381,Paul Pogba,1993-03-15,2021-06-30,Central Midfield,6.0,"70,000,000 €",France,16
+382,Zlatan Ibrahimovic,1981-10-03,2017-06-30,Centre Forward,9.0,"12,000,000 €",Sweden,16
+383,Eric Bailly,1994-04-12,2020-06-30,Centre Back,3.0,"20,000,000 €",Cote d'Ivoire,16
+384,Henrikh Mkhitaryan,1989-01-21,2020-06-30,Attacking Midfield,22.0,"37,000,000 €",Armenia,16
+385,David de Gea,1990-11-07,2019-06-30,Keeper,1.0,"40,000,000 €",Spain,16
+386,Sergio Romero,1987-02-22,2018-06-30,Keeper,20.0,"5,000,000 €",Argentina,16
+387,Sam Johnstone,1993-03-25,2017-06-30,Keeper,32.0,"250,000 €",England,16
+388,Daley Blind,1990-03-09,2018-06-30,Centre Back,17.0,"22,000,000 €",Netherlands,16
+389,Chris Smalling,1989-11-22,2019-06-30,Centre Back,12.0,"20,000,000 €",England,16
+390,Marcos Rojo,1990-03-20,2019-06-30,Centre Back,5.0,"19,000,000 €",Argentina,16
+391,Phil Jones,1992-02-21,2019-06-30,Centre Back,4.0,"14,000,000 €",England,16
+392,Luke Shaw,1995-07-12,2018-06-30,Left-Back,23.0,"21,000,000 €",England,16
+393,Matteo Darmian,1989-12-02,2019-06-30,Right-Back,36.0,"15,000,000 €",Italy,16
+394,Antonio Valencia,1985-08-04,2017-06-30,Right-Back,25.0,"8,000,000 €",Ecuador,16
+395,Morgan Schneiderlin,1989-11-08,2019-06-30,Defensive Midfield,28.0,"28,000,000 €",France,16
+396,Michael Carrick,1981-07-28,2017-06-30,Defensive Midfield,16.0,"3,000,000 €",England,16
+397,Timothy Fosu-Mensah,1998-01-02,2017-06-30,Defensive Midfield,24.0,"1,000,000 €",Netherlands,16
+398,Ander Herrera,1989-08-14,2018-06-30,Central Midfield,21.0,"28,000,000 €",Spain,16
+399,Marouane Fellaini,1987-11-22,2018-06-30,Central Midfield,27.0,"15,000,000 €",Belgium,16
+400,Bastian Schweinsteiger,1984-08-01,2018-06-30,Central Midfield,31.0,"10,000,000 €",Germany,16
+401,Juan Mata,1988-04-28,2018-06-30,Attacking Midfield,8.0,"31,000,000 €",Spain,16
+402,Memphis Depay,1994-02-13,2019-06-30,Left Wing,7.0,"25,000,000 €",Netherlands,16
+403,Ashley Young,1985-07-09,2018-06-30,Left Wing,18.0,"10,000,000 €",England,16
+404,Jesse Lingard,1992-12-15,2018-06-30,Left Wing,14.0,"6,000,000 €",England,16
+405,Wayne Rooney,1985-10-24,2019-06-30,Secondary Striker,10.0,"35,000,000 €",England,16
+406,Anthony Martial,1995-12-05,2019-06-30,Centre Forward,11.0,"32,000,000 €",France,16
+407,Marcus Rashford,1997-10-31,2020-06-30,Centre Forward,19.0,"7,000,000 €",England,16
+408,Mathieu Debuchy,1985-07-28,2019-06-30,Right-Back,2.0,"7,500,000 €",France,17
+409,Yaya Sanogo,1993-01-27,2017-06-30,Centre Forward,22.0,"1,000,000 €",France,17
+410,Shkodran Mustafi,1992-04-17,2021-06-30,Centre Back,20.0,"20,000,000 €",Germany,17
+411,Granit Xhaka,1992-09-27,2021-06-30,Central Midfield,29.0,"35,000,000 €",Switzerland,17
+412,Petr Cech,1982-05-20,2019-06-30,Keeper,33.0,"12,000,000 €",Czech Republic,17
+413,David Ospina,1988-08-31,2019-06-30,Keeper,13.0,"8,000,000 €",Colombia,17
+414,Emiliano Martínez,1992-09-02,,Keeper,26.0,"1,500,000 €",Argentina,17
+415,Matt Macey,1994-09-09,2018-06-30,Keeper,49.0,"500,000 €",England,17
+416,Laurent Koscielny,1985-09-10,2017-06-30,Centre Back,6.0,"22,000,000 €",France,17
+417,Gabriel Paulista,1990-11-26,2019-06-30,Centre Back,5.0,"12,000,000 €",Brazil,17
+418,Per Mertesacker,1984-09-29,2017-06-30,Centre Back,4.0,"10,000,000 €",Germany,17
+419,Rob Holding,1995-09-20,,Centre Back,16.0,"1,500,000 €",England,17
+420,Nacho Monreal,1986-02-26,2019-06-30,Left-Back,18.0,"15,000,000 €",Spain,17
+421,Kieran Gibbs,1989-09-26,2018-06-30,Left-Back,3.0,"13,000,000 €",England,17
+422,Héctor Bellerín,1995-03-19,2019-06-30,Right-Back,24.0,"18,000,000 €",Spain,17
+423,Carl Jenkinson,1992-02-08,2018-06-30,Right-Back,25.0,"9,000,000 €",England,17
+424,Francis Coquelin,1991-05-13,2019-06-30,Defensive Midfield,34.0,"13,000,000 €",France,17
+425,Mohamed Elneny,1992-07-11,2020-06-30,Defensive Midfield,35.0,"8,500,000 €",Egypt,17
+426,Aaron Ramsey,1990-12-26,2018-06-30,Central Midfield,8.0,"35,000,000 €",Wales,17
+427,Santi Cazorla,1984-12-13,2017-06-30,Central Midfield,19.0,"20,000,000 €",Spain,17
+428,Mesut Özil,1988-10-15,2018-06-30,Attacking Midfield,11.0,"50,000,000 €",Germany,17
+429,Alex Iwobi,1996-05-03,2020-06-30,Left Wing,17.0,"4,000,000 €",Nigeria,17
+430,Alex Oxlade-Chamberlain,1993-08-15,2018-06-30,Right Wing,15.0,"20,000,000 €",England,17
+431,Alexis Sánchez,1988-12-19,2018-06-30,Left Wing,7.0,"55,000,000 €",Chile,17
+432,Theo Walcott,1989-03-16,2019-06-30,Right Wing,14.0,"22,000,000 €",England,17
+433,Olivier Giroud,1986-09-30,2018-06-30,Centre Forward,12.0,"25,000,000 €",France,17
+434,Danny Welbeck,1990-11-26,2019-06-30,Centre Forward,23.0,"17,000,000 €",England,17
+435,Chuba Akpom,1995-10-09,2019-06-30,Centre Forward,32.0,"1,000,000 €",England,17
+436,Lucas Pérez,1988-09-10,,Secondary Striker,9.0,"12,000,000 €",Spain,17
+437,Sadio Mané,1992-04-10,2021-06-30,Left Wing,19.0,"30,000,000 €",Senegal,18
+438,Alexander Manninger,1977-06-04,2017-06-30,Keeper,13.0,"200,000 €",Austria,18
+439,Ragnar Klavan,1985-10-30,2019-06-30,Centre Back,17.0,"4,000,000 €",Estonia,18
+440,Loris Karius,1993-06-22,2021-06-30,Keeper,1.0,"9,000,000 €",Germany,18
+441,Georginio Wijnaldum,1990-11-11,2021-06-30,Attacking Midfield,5.0,"22,000,000 €",Netherlands,18
+442,Simon Mignolet,1988-03-06,2021-06-30,Keeper,22.0,"12,000,000 €",Belgium,18
+443,Mamadou Sakho,1990-02-13,2020-06-30,Centre Back,3.0,"18,000,000 €",France,18
+444,Dejan Lovren,1989-07-05,2019-06-30,Centre Back,6.0,"15,000,000 €",Croatia,18
+445,Joe Gomez,1997-05-23,2020-06-30,Centre Back,12.0,"3,500,000 €",England,18
+446,Tiago Ilori,1993-02-26,2018-06-30,Centre Back,26.0,"3,000,000 €",Portugal,18
+447,Alberto Moreno,1992-07-05,2019-06-30,Left-Back,18.0,"15,000,000 €",Spain,18
+448,Nathaniel Clyne,1991-04-05,2020-06-30,Right-Back,2.0,"21,000,000 €",England,18
+449,Connor Randall,1995-10-21,,Right-Back,56.0,"500,000 €",England,18
+450,Emre Can,1994-01-12,2018-06-30,Defensive Midfield,23.0,"18,000,000 €",Germany,18
+451,Lucas Leiva,1987-01-09,2017-06-30,Defensive Midfield,21.0,"10,000,000 €",Brazil,18
+452,Kevin Stewart,1993-09-07,2020-06-30,Defensive Midfield,35.0,"1,000,000 €",England,18
+453,Jordan Henderson,1990-06-17,2020-06-30,Central Midfield,14.0,"28,000,000 €",England,18
+454,James Milner,1986-01-04,,Central Midfield,7.0,"15,000,000 €",England,18
+455,Marko Grujic,1996-04-13,2020-06-30,Central Midfield,16.0,"5,000,000 €",Serbia,18
+456,Adam Lallana,1988-05-10,2019-06-30,Attacking Midfield,20.0,"19,000,000 €",England,18
+457,Sheyi Ojo,1997-06-19,2020-06-30,Left Wing,54.0,"2,000,000 €",England,18
+458,Roberto Firmino,1991-10-02,2020-06-30,Secondary Striker,11.0,"35,000,000 €",Brazil,18
+459,Daniel Sturridge,1989-09-01,2019-06-30,Centre Forward,15.0,"25,000,000 €",England,18
+460,Danny Ings,1992-07-23,2020-06-30,Centre Forward,28.0,"12,000,000 €",England,18
+461,Divock Origi,1995-04-18,2019-06-30,Centre Forward,27.0,"11,000,000 €",Belgium,18
+462,Philippe Coutinho,1992-06-12,2020-06-30,Attacking Midfield,10.0,"35,000,000 €",Brazil,18
+463,Marcos Alonso,1990-12-28,2021-06-30,Left-Back,3.0,"9,000,000 €",Spain,19
+464,Marco van Ginkel,1992-12-01,2018-06-30,Central Midfield,NaN,"7,000,000 €",Netherlands,19
+465,Victor Moses,1990-12-12,2019-06-30,Right Wing,15.0,"7,000,000 €",Nigeria,19
+466,David Luiz,1987-04-22,2019-06-30,Centre Back,30.0,"28,000,000 €",Brazil,19
+467,N'Golo Kanté,1991-03-29,2021-06-30,Defensive Midfield,7.0,"30,000,000 €",France,19
+468,Michy Batshuayi,1993-10-02,2021-06-30,Centre Forward,23.0,"25,000,000 €",Belgium,19
+469,Nathaniel Chalobah,1994-12-12,2018-06-30,Defensive Midfield,29.0,"3,300,000 €",England,19
+470,Eduardo,1982-09-19,2017-06-30,Keeper,37.0,"1,500,000 €",Portugal,19
+471,Thibaut Courtois,1992-05-11,2019-06-30,Keeper,13.0,"35,000,000 €",Belgium,19
+472,Asmir Begovic,1987-06-20,2019-06-30,Keeper,1.0,"10,000,000 €",Bosnia-Herzegovina,19
+473,Kurt Zouma,1994-10-27,2019-06-30,Centre Back,5.0,"17,000,000 €",France,19
+474,Gary Cahill,1985-12-19,2019-06-30,Centre Back,24.0,"16,000,000 €",England,19
+475,John Terry,1980-12-07,2017-06-30,Centre Back,26.0,"2,500,000 €",England,19
+476,César Azpilicueta,1989-08-28,2019-06-30,Left-Back,28.0,"20,000,000 €",Spain,19
+477,Branislav Ivanovic,1984-02-22,2017-06-30,Right-Back,2.0,"10,000,000 €",Serbia,19
+478,Ola Aina,1996-10-08,2020-06-30,Right-Back,34.0,"500,000 €",England,19
+479,Nemanja Matic,1988-08-01,2019-06-30,Defensive Midfield,21.0,"32,000,000 €",Serbia,19
+480,Mikel John Obi,1987-04-22,2017-06-30,Defensive Midfield,12.0,"11,000,000 €",Nigeria,19
+481,Cesc Fàbregas,1987-05-04,2019-06-30,Central Midfield,4.0,"45,000,000 €",Spain,19
+482,Ruben Loftus-Cheek,1996-01-23,2021-06-30,Central Midfield,14.0,"5,000,000 €",England,19
+483,Oscar,1991-09-09,2019-06-30,Attacking Midfield,8.0,"35,000,000 €",Brazil,19
+484,Eden Hazard,1991-01-07,2020-06-30,Left Wing,10.0,"65,000,000 €",Belgium,19
+485,Willian,1988-08-09,2020-06-30,Right Wing,22.0,"32,000,000 €",Brazil,19
+486,Pedro,1987-07-28,2019-06-30,Right Wing,11.0,"23,000,000 €",Spain,19
+487,Diego Costa,1988-10-07,2019-06-30,Centre Forward,19.0,"45,000,000 €",Spain,19
+488,Simone Zaza,1991-06-25,2017-06-30,Centre Forward,11.0,"15,000,000 €",Italy,20
+489,Arthur Masuaku,1993-11-07,2020-06-30,Left-Back,26.0,"7,000,000 €",France,20
+490,Sofiane Feghouli,1989-12-26,2019-06-30,Right Wing,7.0,"14,000,000 €",Algeria,20
+491,Álvaro Arbeloa,1983-01-17,2017-06-30,Right-Back,5.0,"2,000,000 €",Spain,20
+492,Havard Nordtveit,1990-06-21,2021-06-30,Defensive Midfield,4.0,"6,000,000 €",Norway,20
+493,Adrián,1987-01-03,2017-06-30,Keeper,13.0,"9,000,000 €",Spain,20
+494,Darren Randolph,1987-05-12,2020-06-30,Keeper,1.0,"1,500,000 €",Ireland,20
+495,Raphael Spiegel,1992-12-19,2018-06-30,Keeper,34.0,"500,000 €",Switzerland,20
+496,Winston Reid,1988-07-03,2021-06-30,Centre Back,2.0,"10,000,000 €",New Zealand,20
+497,Angelo Ogbonna,1988-05-23,2019-06-30,Centre Back,21.0,"9,000,000 €",Italy,20
+498,Reece Oxford,1998-12-16,2019-06-30,Centre Back,35.0,"4,000,000 €",England,20
+499,James Collins,1983-08-23,2018-06-30,Centre Back,19.0,"2,000,000 €",Wales,20
+500,Aaron Cresswell,1989-12-15,2021-06-30,Left-Back,3.0,"12,000,000 €",England,20
+501,Sam Byram,1993-09-16,2020-06-30,Right-Back,22.0,"4,500,000 €",England,20
+502,Cheikhou Kouyaté,1989-12-21,2021-06-30,Defensive Midfield,8.0,"12,000,000 €",Senegal,20
+503,Pedro Obiang,1992-03-27,2019-06-30,Central Midfield,14.0,"8,000,000 €",Spain,20
+504,Mark Noble,1987-05-08,2020-06-30,Central Midfield,16.0,"7,000,000 €",England,20
+505,Manuel Lanzini,1993-02-15,2020-06-30,Attacking Midfield,10.0,"10,000,000 €",Argentina,20
+506,Dimitri Payet,1987-03-29,2021-06-30,Left Wing,27.0,"30,000,000 €",France,20
+507,André Ayew,1989-12-17,2019-06-30,Left Wing,20.0,"18,000,000 €",Ghana,20
+508,Gökhan Töre,1992-01-20,2017-06-30,Right Wing,17.0,"14,000,000 €",Turkey,20
+509,Michail Antonio,1990-03-28,2020-06-30,Right Wing,30.0,"9,000,000 €",England,20
+510,Diafra Sakho,1989-12-24,2018-06-30,Centre Forward,15.0,"12,000,000 €",Senegal,20
+511,Jonathan Calleri,1993-09-23,2017-06-30,Centre Forward,28.0,"10,000,000 €",Argentina,20
+512,Andy Carroll,1989-01-06,2019-06-30,Centre Forward,9.0,"10,000,000 €",England,20
+513,Ashley Fletcher,1995-10-02,2020-06-30,Centre Forward,24.0,"500,000 €",England,20
+514,Edimilson Fernandes,1996-04-15,2020-06-30,Attacking Midfield,31.0,"4,500,000 €",Switzerland,20
+515,"Wojciech Szczesny
+W. Szczesny",1990-04-18,2017-06-30,Keeper,1.0,"12,000,000 €",Poland,21
+516,"Alisson
+Alisson",1992-10-02,2021-06-30,Keeper,19.0,"7,000,000 €",Brazil,21
+517,"Bogdan Lobont
+B. Lobont",1978-01-18,2018-06-30,Keeper,18.0,"100,000 €",Romania,21
+518,"Konstantinos Manolas
+K. Manolas",1991-06-14,2019-06-30,Centre Back,44.0,"25,000,000 €",Greece,21
+519,"Antonio Rüdiger
+A. Rüdiger",1993-03-03,2020-06-30,Centre Back,2.0,"12,000,000 €",Germany,21
+520,"Juan Jesus
+Juan Jesus",1991-06-10,2017-06-30,Centre Back,3.0,"9,000,000 €",Brazil,21
+521,"Federico Fazio
+F. Fazio",1987-03-17,2017-06-30,Centre Back,20.0,"5,000,000 €",Argentina,21
+522,"Thomas Vermaelen
+T. Vermaelen",1985-11-14,2017-06-30,Centre Back,15.0,"4,000,000 €",Belgium,21
+523,"Mário Rui
+M. Rui",1991-05-27,2017-06-30,Left-Back,21.0,"8,000,000 €",Portugal,21
+524,"Emerson
+Emerson",1994-08-03,2017-06-30,Left-Back,33.0,"1,000,000 €",Brazil,21
+525,"Moustapha Seck
+M. Seck",1996-02-23,2019-06-30,Left-Back,17.0,"200,000 €",Senegal,21
+526,"Bruno Peres
+B. Peres",1990-03-01,2017-06-30,Right-Back,13.0,"13,000,000 €",Brazil,21
+527,"Abdullahi Nura
+A. Nura",1997-08-17,2020-06-30,Right-Back,99.0,"1,000,000 €",Nigeria,21
+528,"Leandro Paredes
+L. Paredes",1994-06-29,2019-06-30,Defensive Midfield,5.0,"10,000,000 €",Argentina,21
+529,"Daniele De Rossi
+D. De Rossi",1983-07-24,2017-06-30,Defensive Midfield,16.0,"5,000,000 €",Italy,21
+530,"Radja Nainggolan
+R. Nainggolan",1988-05-04,2020-06-30,Central Midfield,4.0,"33,000,000 €",Belgium,21
+531,"Alessandro Florenzi
+A. Florenzi",1991-03-11,2019-06-30,Central Midfield,24.0,"22,000,000 €",Italy,21
+532,"Kevin Strootman
+K. Strootman",1990-02-13,2018-06-30,Central Midfield,6.0,"15,000,000 €",Netherlands,21
+533,"Gerson
+Gerson",1997-05-20,2021-06-30,Attacking Midfield,30.0,"10,000,000 €",Brazil,21
+534,"Diego Perotti
+D. Perotti",1988-07-26,2019-06-30,Left Wing,8.0,"15,000,000 €",Argentina,21
+535,"Mohamed Salah
+M. Salah",1992-06-15,2019-06-30,Right Wing,11.0,"27,000,000 €",Egypt,21
+536,"Stephan El Shaarawy
+S. El Shaarawy",1992-10-27,2020-06-30,Left Wing,92.0,"17,000,000 €",Italy,21
+537,"Juan Iturbe
+J. Iturbe",1993-06-04,2019-06-30,Right Wing,7.0,"12,000,000 €",Paraguay,21
+538,"Edin Dzeko
+E. Dzeko",1986-03-17,2020-06-30,Centre Forward,9.0,"12,000,000 €",Bosnia-Herzegovina,21
+539,"Francesco Totti
+F. Totti",1976-09-27,2017-06-30,Centre Forward,10.0,"1,000,000 €",Italy,21
+540,"Orestis Karnezis
+O. Karnezis",1985-07-11,2019-06-30,Keeper,1.0,"5,000,000 €",Greece,22
+541,"Simone Scuffet
+S. Scuffet",1996-05-31,2019-06-30,Keeper,22.0,"4,400,000 €",Italy,22
+542,"Samuele Perisan
+S. Perisan",1997-08-21,2020-06-30,Keeper,25.0,"100,000 €",Italy,22
+543,"Samir
+Samir",1994-12-05,2021-06-30,Centre Back,3.0,"4,000,000 €",Brazil,22
+544,"Thomas Heurtaux
+T. Heurtaux",1988-07-03,2019-06-30,Centre Back,75.0,"4,000,000 €",France,22
+545,"Danilo
+Danilo",1984-05-10,2020-06-30,Centre Back,5.0,"3,500,000 €",Brazil,22
+546,"Molla Wague
+M. Wague",1991-02-21,2019-06-30,Centre Back,2.0,"2,000,000 €",Mali,22
+547,"Gabriele Angella
+G. Angella",1989-04-28,2020-06-30,Centre Back,4.0,"2,000,000 €",Italy,22
+548,"Pablo Armero
+P. Armero",1986-11-02,2018-06-30,Left-Back,7.0,"2,500,000 €",Colombia,22
+549,"Ali Adnan
+Ali Adnan",1993-12-19,2020-06-30,Left-Back,53.0,"2,200,000 €",Iraq,22
+550,"Seko Fofana
+S. Fofana",1995-05-07,2021-06-30,Defensive Midfield,6.0,"3,500,000 €",France,22
+551,"Francesco Lodi
+F. Lodi",1984-03-23,2018-06-30,Defensive Midfield,20.0,"1,000,000 €",Italy,22
+552,"Sven Kums
+Sven Kums",1988-02-26,2017-06-30,Central Midfield,26.0,"7,500,000 €",Belgium,22
+553,"Emmanuel Badu
+E. Badu",1990-12-02,2020-06-30,Central Midfield,8.0,"6,000,000 €",Ghana,22
+554,"Emil Hallfredsson
+E. Hallfredsson",1984-06-29,2018-06-30,Central Midfield,23.0,"2,000,000 €",Iceland,22
+555,"Jakub Jankto
+J. Jankto",1996-01-19,2019-06-30,Central Midfield,14.0,"1,000,000 €",Czech Republic,22
+556,"Silvan Widmer
+S. Widmer",1993-03-05,2020-06-30,Right Midfield,27.0,"7,500,000 €",Switzerland,22
+557,"Davide Faraoni
+D. Faraoni",1991-10-25,2018-06-30,Right Midfield,37.0,"1,600,000 €",Italy,22
+558,"Panagiotis Kone
+P. Kone",1987-07-26,2019-06-30,Attacking Midfield,33.0,"3,500,000 €",Greece,22
+559,"Andrija Balic
+A. Balic",1997-08-11,2020-06-30,Attacking Midfield,99.0,"3,500,000 €",Croatia,22
+560,"Lucas Evangelista
+Lucas Evangelista",1995-02-06,2018-06-30,Attacking Midfield,95.0,"2,500,000 €",Brazil,22
+561,"Rodrigo de Paul
+R. de Paul",1994-05-24,2021-06-30,Left Wing,10.0,"2,500,000 €",Argentina,22
+562,"Ewandro
+Ewandro",1996-03-15,2021-06-30,Right Wing,96.0,"1,000,000 €",Brazil,22
+563,"Ryder Matos
+R. Matos",1993-02-27,2020-06-30,Secondary Striker,19.0,"3,000,000 €",Brazil,22
+564,"Duván Zapata
+D. Zapata",1991-04-01,2017-06-30,Centre Forward,9.0,"7,500,000 €",Colombia,22
+565,"Adalberto Peñaranda
+A. Peñaranda",1997-05-31,2017-06-30,Centre Forward,11.0,"4,000,000 €",Venezuela,22
+566,"Stipe Perica
+S. Perica",1995-07-07,2021-06-30,Centre Forward,18.0,"2,500,000 €",Croatia,22
+567,"Cyril Théréau
+C. Théréau",1983-04-24,2018-06-30,Centre Forward,77.0,"1,700,000 €",France,22
+568,"Neto
+Neto",1989-07-19,2019-06-30,Keeper,25.0,"7,000,000 €",Brazil,23
+569,"Gianluigi Buffon
+G. Buffon",1978-01-28,2018-06-30,Keeper,1.0,"2,000,000 €",Italy,23
+570,"Emil Audero
+E. Audero",1997-01-18,2019-06-30,Keeper,32.0,"300,000 €",Italy,23
+571,"Leonardo Bonucci
+L. Bonucci",1987-05-01,2020-06-30,Centre Back,19.0,"35,000,000 €",Italy,23
+572,"Medhi Benatia
+M. Benatia",1987-04-17,2017-06-30,Centre Back,4.0,"16,000,000 €",Morocco,23
+573,"Giorgio Chiellini
+G. Chiellini",1984-08-14,2018-06-30,Centre Back,3.0,"13,000,000 €",Italy,23
+574,"Daniele Rugani
+D. Rugani",1994-07-29,2020-06-30,Centre Back,24.0,"13,000,000 €",Italy,23
+575,"Andrea Barzagli
+A. Barzagli",1981-05-08,2018-06-30,Centre Back,15.0,"2,000,000 €",Italy,23
+576,"Alex Sandro
+Alex Sandro",1991-01-26,2020-06-30,Left-Back,12.0,"26,000,000 €",Brazil,23
+577,"Patrice Evra
+P. Evra",1981-05-15,2017-06-30,Left-Back,33.0,"1,000,000 €",France,23
+578,"Paolo De Ceglie
+P. De Ceglie",1986-09-17,2017-06-30,Left-Back,29.0,"800,000 €",Italy,23
+579,"Dani Alves
+D. Alves",1983-05-06,2018-06-30,Right-Back,23.0,"7,500,000 €",Brazil,23
+580,"Stephan Lichtsteiner
+S. Lichtsteiner",1984-01-16,2017-06-30,Right-Back,26.0,"5,000,000 €",Switzerland,23
+581,"Federico Mattiello
+F. Mattiello",1995-07-14,2019-06-30,Right-Back,14.0,"400,000 €",Italy,23
+582,"Mario Lemina
+M. Lemina",1993-09-01,2020-06-30,Defensive Midfield,18.0,"8,000,000 €",Gabon,23
+583,"Rolando Mandragora
+R. Mandragora",1997-06-29,2020-06-30,Defensive Midfield,NaN,"3,000,000 €",Italy,23
+584,"Miralem Pjanic
+M. Pjanic",1990-04-02,2021-06-30,Central Midfield,5.0,"38,000,000 €",Bosnia-Herzegovina,23
+585,"Claudio Marchisio
+C. Marchisio",1986-01-19,2020-06-30,Central Midfield,8.0,"28,000,000 €",Italy,23
+586,"Sami Khedira
+S. Khedira",1987-04-04,2019-06-30,Central Midfield,6.0,"20,000,000 €",Germany,23
+587,"Kwadwo Asamoah
+K. Asamoah",1988-12-09,2018-06-30,Central Midfield,22.0,"13,000,000 €",Ghana,23
+588,"Stefano Sturaro
+S. Sturaro",1993-03-09,2019-06-30,Central Midfield,27.0,"12,000,000 €",Italy,23
+589,"Hernanes
+Hernanes",1985-05-29,2018-06-30,Attacking Midfield,11.0,"6,000,000 €",Brazil,23
+590,"Marko Pjaca
+M. Pjaca",1995-05-06,2021-06-30,Left Wing,20.0,"18,000,000 €",Croatia,23
+591,"Juan Cuadrado
+J. Cuadrado",1988-05-26,2019-06-30,Right Wing,7.0,"25,000,000 €",Colombia,23
+592,"Gonzalo Higuaín
+G. Higuaín",1987-12-10,2021-06-30,Centre Forward,9.0,"65,000,000 €",Argentina,23
+593,"Paulo Dybala
+P. Dybala",1993-11-15,2020-06-30,Centre Forward,21.0,"45,000,000 €",Argentina,23
+594,"Mario Mandzukic
+M. Mandzukic",1986-05-21,2019-06-30,Centre Forward,17.0,"18,000,000 €",Croatia,23
+595,"Ciprian Tatarusanu
+C. Tatarusanu",1986-02-09,2019-06-30,Keeper,12.0,"5,000,000 €",Romania,24
+596,"Bartlomiej Dragowski
+B. Dragowski",1997-08-19,2021-06-30,Keeper,97.0,"3,200,000 €",Poland,24
+597,"Luca Lezzerini
+L. Lezzerini",1995-03-24,2018-06-30,Keeper,1.0,"300,000 €",Italy,24
+598,"Giacomo Satalino
+G. Satalino",1999-05-20,2019-06-30,Keeper,23.0,"75,000 €",Italy,24
+599,"Davide Astori
+D. Astori",1987-01-07,2019-06-30,Centre Back,13.0,"8,000,000 €",Italy,24
+600,"Gonzalo Rodríguez
+G. Rodríguez",1984-04-10,2017-06-30,Centre Back,2.0,"6,500,000 €",Argentina,24
+601,"Nenad Tomovic
+N. Tomovic",1987-08-30,2020-06-30,Centre Back,40.0,"5,000,000 €",Serbia,24
+602,"Sebastien De Maio
+S. De Maio",1987-03-05,2017-06-30,Centre Back,4.0,"3,000,000 €",France,24
+603,"Carlos Salcedo
+C. Salcedo",1993-09-29,2017-06-30,Centre Back,18.0,"3,000,000 €",Mexico,24
+604,"Maximiliano Olivera
+M. Olivera",1992-03-05,2017-06-30,Left-Back,15.0,"1,000,000 €",Uruguay,24
+605,"Hrvoje Milic
+H. Milic",1989-05-10,2018-06-30,Left-Back,31.0,"1,000,000 €",Croatia,24
+606,"Kevin Diks
+K. Diks",1996-10-06,2021-06-30,Right-Back,17.0,"2,000,000 €",Netherlands,24
+607,"Milan Badelj
+M. Badelj",1989-02-25,2018-06-30,Defensive Midfield,5.0,"10,000,000 €",Croatia,24
+608,"Carlos Sánchez
+C. Sánchez",1986-02-06,2017-06-30,Defensive Midfield,6.0,"3,500,000 €",Colombia,24
+609,"Borja Valero
+B. Valero",1985-01-12,2019-06-30,Central Midfield,20.0,"14,000,000 €",Spain,24
+610,"Matías Vecino
+M. Vecino",1991-08-24,2021-06-30,Central Midfield,8.0,"12,000,000 €",Uruguay,24
+611,"Sebastián Cristóforo
+S. Cristóforo",1993-08-23,2017-06-30,Central Midfield,19.0,"3,000,000 €",Uruguay,24
+612,"Josip Ilicic
+J. Ilicic",1988-01-29,2018-06-30,Attacking Midfield,72.0,"15,000,000 €",Slovenia,24
+613,"Hernán Toledo
+H. Toledo",1996-01-17,2017-06-30,Left Wing,11.0,"5,000,000 €",Argentina,24
+614,"Federico Bernardeschi
+F. Bernardeschi",1994-02-16,2019-06-30,Right Wing,10.0,"16,000,000 €",Italy,24
+615,"Cristian Tello
+C. Tello",1991-08-11,2017-06-30,Right Wing,16.0,"10,000,000 €",Spain,24
+616,"Ianis Hagi
+I. Hagi",1998-10-22,2019-06-30,Right Wing,24.0,"750,000 €",Romania,24
+617,"Federico Chiesa
+F. Chiesa",1997-10-25,2020-06-30,Right Wing,25.0,"100,000 €",Italy,24
+618,"Mauro Zárate
+M. Zárate",1987-03-18,2018-06-30,Secondary Striker,7.0,"3,000,000 €",Argentina,24
+619,"Nikola Kalinic
+N. Kalinic",1988-01-05,2019-06-30,Centre Forward,9.0,"14,000,000 €",Croatia,24
+620,"Khouma Babacar
+K. Babacar",1993-03-17,2019-06-30,Centre Forward,30.0,"7,500,000 €",Senegal,24
+621,"Gianluigi Donnarumma
+G. Donnarumma",1999-02-25,2018-06-30,Keeper,99.0,"10,000,000 €",Italy,25
+622,"Alessandro Plizzari
+A. Plizzari",2000-03-12,2018-06-30,Keeper,35.0,,Italy,25
+623,"Alessio Romagnoli
+A. Romagnoli",1995-01-12,2020-06-30,Centre Back,13.0,"18,000,000 €",Italy,25
+624,"Gustavo Gómez
+G. Gómez",1993-06-06,2021-06-30,Centre Back,15.0,"6,000,000 €",Paraguay,25
+625,"Gabriel Paletta
+G. Paletta",1986-02-15,2018-06-30,Centre Back,29.0,"5,000,000 €",Italy,25
+626,"Cristián Zapata
+C. Zapata",1986-09-30,2019-06-30,Centre Back,17.0,"2,800,000 €",Colombia,25
+627,"Rodrigo Ely
+R. Ely",1993-11-03,2019-06-30,Centre Back,4.0,"1,500,000 €",Brazil,25
+628,"Luca Antonelli
+L. Antonelli",1987-02-11,2019-06-30,Left-Back,31.0,"8,000,000 €",Italy,25
+629,"Leonel Vangioni
+L. Vangioni",1987-05-05,2019-06-30,Left-Back,21.0,"4,000,000 €",Argentina,25
+630,"Ignazio Abate
+I. Abate",1986-11-12,2019-06-30,Right-Back,20.0,"8,000,000 €",Italy,25
+631,"Mattia De Sciglio
+M. De Sciglio",1992-10-20,2018-06-30,Right-Back,2.0,"6,000,000 €",Italy,25
+632,"Davide Calabria
+D. Calabria",1996-12-06,2019-06-30,Right-Back,96.0,"1,000,000 €",Italy,25
+633,"Riccardo Montolivo
+R. Montolivo",1985-01-18,2019-06-30,Defensive Midfield,18.0,"4,500,000 €",Italy,25
+634,"Andrea Bertolacci
+A. Bertolacci",1991-01-11,2019-06-30,Central Midfield,91.0,"11,000,000 €",Italy,25
+635,"Juraj Kucka
+J. Kucka",1987-02-26,2019-06-30,Central Midfield,33.0,"9,000,000 €",Slovakia,25
+636,"Andrea Poli
+A. Poli",1989-09-29,2018-06-30,Central Midfield,16.0,"5,000,000 €",Italy,25
+637,"Mario Pasalic
+M. Pasalic",1995-02-09,2017-06-30,Central Midfield,80.0,"4,500,000 €",Croatia,25
+638,"Manuel Locatelli
+M. Locatelli",1998-01-08,2018-06-30,Central Midfield,73.0,"300,000 €",Italy,25
+639,"José Sosa
+J. Sosa",1985-06-19,2018-06-30,Attacking Midfield,23.0,"8,000,000 €",Argentina,25
+640,"Mati Fernández
+M. Fernández",1986-05-15,2017-06-30,Attacking Midfield,14.0,"6,000,000 €",Chile,25
+641,"Giacomo Bonaventura
+G. Bonaventura",1989-08-22,2019-06-30,Left Wing,5.0,"21,000,000 €",Italy,25
+642,"Keisuke Honda
+K. Honda",1986-06-13,2017-06-30,Right Wing,10.0,"7,000,000 €",Japan,25
+643,"Suso
+Suso",1993-11-19,2019-06-30,Right Wing,8.0,"5,500,000 €",Spain,25
+644,"Carlos Bacca
+C. Bacca",1986-09-08,2019-06-30,Centre Forward,70.0,"25,000,000 €",Colombia,25
+645,"M'Baye Niang
+M. Niang",1994-12-19,2019-06-30,Centre Forward,11.0,"12,000,000 €",France,25
+646,"Luiz Adriano
+Luiz Adriano",1987-04-12,2020-06-30,Centre Forward,7.0,"8,000,000 €",Brazil,25
+647,"Gianluca Lapadula
+G. Lapadula",1990-02-07,2021-06-30,Centre Forward,9.0,"6,500,000 €",Italy,25
+648,"Joe Hart
+Joe Hart",1987-04-19,2017-06-30,Keeper,21.0,"17,000,000 €",England,26
+649,"Daniele Padelli
+D. Padelli",1985-10-25,2017-06-30,Keeper,1.0,"1,200,000 €",Italy,26
+650,"Leandro Castán
+L. Castán",1986-11-05,2017-06-30,Centre Back,4.0,"5,000,000 €",Brazil,26
+651,"Arlind Ajeti
+A. Ajeti",1993-09-25,2019-06-30,Centre Back,93.0,"2,000,000 €",Albania,26
+652,"Cesare Bovo
+C. Bovo",1983-01-14,2017-06-30,Centre Back,5.0,"600,000 €",Italy,26
+653,"Emiliano Moretti
+E. Moretti",1981-06-11,2017-06-30,Centre Back,24.0,"600,000 €",Italy,26
+654,"Antonio Barreca
+A. Barreca",1995-03-18,2019-06-30,Left-Back,23.0,"1,000,000 €",Italy,26
+655,"Cristian Molinaro
+C. Molinaro",1983-07-30,2017-06-30,Left-Back,3.0,"600,000 €",Italy,26
+656,"Lorenzo De Silvestri
+L. De Silvestri",1988-05-23,2020-06-30,Right-Back,29.0,"5,000,000 €",Italy,26
+657,"Davide Zappacosta
+D. Zappacosta",1992-06-11,2019-06-30,Right-Back,7.0,"4,500,000 €",Italy,26
+658,"Mirko Valdifiori
+M. Valdifiori",1986-04-21,2019-06-30,Defensive Midfield,18.0,"4,000,000 €",Italy,26
+659,"Sasa Lukic
+S. Lukic",1996-08-13,2020-06-30,Defensive Midfield,25.0,"700,000 €",Serbia,26
+660,"Giuseppe Vives
+G. Vives",1980-07-14,2017-06-30,Defensive Midfield,20.0,"500,000 €",Italy,26
+661,"Daniele Baselli
+D. Baselli",1992-03-12,2019-06-30,Central Midfield,8.0,"6,500,000 €",Italy,26
+662,"Marco Benassi
+M. Benassi",1994-09-08,2021-06-30,Central Midfield,15.0,"6,500,000 €",Italy,26
+663,"Afriyie Acquah
+A. Acquah",1992-01-05,2019-06-30,Central Midfield,6.0,"3,000,000 €",Ghana,26
+664,"Joel Obi
+Joel Obi",1991-05-22,2019-06-30,Central Midfield,22.0,"2,000,000 €",Nigeria,26
+665,"Samuel Gustafson
+S. Gustafson",1995-01-11,2018-06-30,Central Midfield,16.0,"750,000 €",Sweden,26
+666,"Mattia Aramu
+M. Aramu",1995-05-14,2019-06-30,Right Wing,30.0,"500,000 €",Italy,26
+667,"Adem Ljajic
+A. Ljajic",1991-09-29,2020-06-30,Left Wing,10.0,"12,000,000 €",Serbia,26
+668,"Iago Falqué
+I. Falqué",1990-01-04,2017-06-30,Right Wing,14.0,"6,500,000 €",Spain,26
+669,"Josef Martínez
+J. Martínez",1993-05-19,2018-06-30,Secondary Striker,17.0,"2,000,000 €",Venezuela,26
+670,"Andrea Belotti
+A. Belotti",1993-12-20,2020-06-30,Centre Forward,9.0,"10,000,000 €",Italy,26
+671,"Lucas Boyé
+L. Boyé",1996-02-28,2020-06-30,Centre Forward,31.0,"2,000,000 €",Argentina,26
+672,"Maxi López
+M. López",1984-04-03,2018-06-30,Centre Forward,11.0,"1,000,000 €",Argentina,26
+673,"Stefano Sorrentino
+S. Sorrentino",1979-03-28,2018-06-30,Keeper,70.0,"800,000 €",Italy,27
+674,"Andrea Seculin
+A. Seculin",1990-07-14,2019-06-30,Keeper,90.0,"400,000 €",Italy,27
+675,"Walter Bressan
+W. Bressan",1981-01-26,,Keeper,32.0,"100,000 €",Italy,27
+676,"Nicolás Spolli
+N. Spolli",1983-02-20,2017-06-30,Centre Back,2.0,"700,000 €",Argentina,27
+677,"Bostjan Cesar
+B. Cesar",1982-07-09,2018-06-30,Centre Back,12.0,"600,000 €",Slovenia,27
+678,"Alessandro Gamberini
+A. Gamberini",1981-08-27,2019-06-30,Centre Back,5.0,"400,000 €",Italy,27
+679,"Dario Dainelli
+D. Dainelli",1979-06-09,2017-06-30,Centre Back,3.0,"200,000 €",Italy,27
+680,"Filippo Costa
+F. Costa",1995-05-21,2019-06-30,Left-Back,36.0,"300,000 €",Italy,27
+681,"Massimo Gobbi
+M. Gobbi",1980-10-31,2017-06-30,Left-Back,18.0,"200,000 €",Italy,27
+682,"Fabrizio Cacciatore
+F. Cacciatore",1986-10-08,2018-06-30,Right-Back,29.0,"1,400,000 €",Italy,27
+683,"Nicolas Frey
+N. Frey",1984-03-06,2017-06-30,Right-Back,21.0,"600,000 €",France,27
+684,"Gennaro Sardo
+G. Sardo",1979-05-08,2017-06-30,Right-Back,20.0,"100,000 €",Italy,27
+685,"Nicola Rigoni
+N. Rigoni",1990-11-12,2018-06-30,Defensive Midfield,4.0,"2,000,000 €",Italy,27
+686,"Ivan Radovanovic
+I. Radovanovic",1988-08-29,2019-06-30,Defensive Midfield,8.0,"2,000,000 €",Serbia,27
+687,"Lucas Castro
+L. Castro",1989-04-09,2018-06-30,Central Midfield,19.0,"6,000,000 €",Argentina,27
+688,"Perparim Hetemaj
+P. Hetemaj",1986-12-12,2017-06-30,Central Midfield,56.0,"4,500,000 €",Finland,27
+689,"Mariano Izco
+M. Izco",1983-03-13,2017-06-30,Central Midfield,13.0,"1,000,000 €",Argentina,27
+690,"Samuel Bastien
+S. Bastien",1996-09-26,2019-06-30,Central Midfield,28.0,"800,000 €",Belgium,27
+691,"Valter Birsa
+V. Birsa",1986-08-07,2018-06-30,Attacking Midfield,23.0,"3,500,000 €",Slovenia,27
+692,"Jonathan de Guzmán
+J. de Guzmán",1987-09-13,2017-06-30,Attacking Midfield,1.0,"3,000,000 €",Netherlands,27
+693,"Vittorio Parigini
+V. Parigini",1996-03-25,2017-06-30,Right Wing,27.0,"1,400,000 €",Italy,27
+694,"Lamin Jallow
+L. Jallow",1994-07-22,,Right Wing,95.0,"350,000 €",The Gambia,27
+695,"Riccardo Meggiorini
+R. Meggiorini",1985-09-04,2020-06-30,Secondary Striker,69.0,"3,500,000 €",Italy,27
+696,"Roberto Inglese
+R. Inglese",1991-11-12,2020-06-30,Centre Forward,45.0,"1,000,000 €",Italy,27
+697,"Antonio Floro Flores
+A. Floro Flores",1983-06-18,2019-06-30,Centre Forward,83.0,"1,000,000 €",Italy,27
+698,"Sergio Pellissier
+S. Pellissier",1979-04-12,2018-06-30,Centre Forward,31.0,"200,000 €",Italy,27
+699,"Gabriel
+Gabriel",1996-08-30,2021-06-30,Right Wing,96.0,"20,000,000 €",Brazil,28
+700,"Samir Handanovic
+S. Handanovic",1984-07-14,2019-06-30,Keeper,1.0,"15,000,000 €",Slovenia,28
+701,"Juan Pablo Carrizo
+J. Carrizo",1984-05-06,2017-06-30,Keeper,30.0,"500,000 €",Argentina,28
+702,"Ionut Radu
+I. Radu",1997-05-28,2017-06-30,Keeper,97.0,"300,000 €",Romania,28
+703,"Tommaso Berni
+T. Berni",1983-03-06,2017-06-30,Keeper,46.0,"200,000 €",Italy,28
+704,"Jeison Murillo
+J. Murillo",1992-05-27,2020-06-30,Centre Back,24.0,"18,000,000 €",Colombia,28
+705,"Miranda
+Miranda",1984-09-07,2018-06-30,Centre Back,25.0,"16,000,000 €",Brazil,28
+706,"Andrea Ranocchia
+A. Ranocchia",1988-02-16,2019-06-30,Centre Back,13.0,"6,000,000 €",Italy,28
+707,"Marco Andreolli
+M. Andreolli",1986-06-10,2017-06-30,Centre Back,2.0,"2,000,000 €",Italy,28
+708,"Eloge Yao
+Eloge Yao",1996-01-20,2020-06-30,Centre Back,94.0,"1,800,000 €",Cote d'Ivoire,28
+709,"Cristian Ansaldi
+C. Ansaldi",1986-09-20,2019-06-30,Left-Back,15.0,"6,000,000 €",Argentina,28
+710,"Yuto Nagatomo
+Y. Nagatomo",1986-09-12,2019-06-30,Left-Back,55.0,"6,000,000 €",Japan,28
+711,"Senna Miangue
+S. Miangue",1997-02-05,2020-06-30,Left-Back,95.0,"75,000 €",Belgium,28
+712,"Danilo D'Ambrosio
+D. D'Ambrosio",1988-09-09,2018-06-30,Right-Back,33.0,"8,000,000 €",Italy,28
+713,"Davide Santon
+D. Santon",1991-01-02,2018-06-30,Right-Back,21.0,"6,000,000 €",Italy,28
+714,"Gary Medel
+G. Medel",1987-08-03,2018-06-30,Defensive Midfield,17.0,"13,000,000 €",Chile,28
+715,"Felipe Melo
+Felipe Melo",1983-06-26,2017-06-30,Defensive Midfield,5.0,"2,500,000 €",Brazil,28
+716,"João Mário
+J. Mário",1993-01-19,2021-06-30,Central Midfield,6.0,"30,000,000 €",Portugal,28
+717,"Geoffrey Kondogbia
+G. Kondogbia",1993-02-15,2020-06-30,Central Midfield,7.0,"24,000,000 €",France,28
+718,"Marcelo Brozovic
+M. Brozovic",1992-11-16,2019-06-30,Central Midfield,77.0,"20,000,000 €",Croatia,28
+719,"Assane Gnoukouri
+A. Gnoukouri",1996-09-28,2020-06-30,Central Midfield,27.0,"700,000 €",Cote d'Ivoire,28
+720,"Éver Banega
+É. Banega",1988-06-29,2019-06-30,Attacking Midfield,19.0,"17,000,000 €",Argentina,28
+721,"Ivan Perisic
+I. Perisic",1989-02-02,2020-06-30,Left Wing,44.0,"25,000,000 €",Croatia,28
+722,"Antonio Candreva
+A. Candreva",1987-02-28,2020-06-30,Right Wing,87.0,"23,000,000 €",Italy,28
+723,"Jonathan Biabiany
+J. Biabiany",1988-04-28,2019-06-30,Right Wing,11.0,"7,000,000 €",France,28
+724,"Stevan Jovetic
+S. Jovetic",1989-11-02,2019-06-30,Secondary Striker,10.0,"14,000,000 €",Montenegro,28
+725,"Rodrigo Palacio
+R. Palacio",1982-02-05,2017-06-30,Secondary Striker,8.0,"2,000,000 €",Argentina,28
+726,"Mauro Icardi
+M. Icardi",1993-02-19,2019-06-30,Centre Forward,9.0,"35,000,000 €",Argentina,28
+727,"Éder
+Éder",1986-11-15,2017-06-30,Centre Forward,23.0,"12,500,000 €",Italy,28
+728,"Lukasz Skorupski
+L. Skorupski",1991-05-05,2017-06-30,Keeper,28.0,"4,000,000 €",Poland,29
+729,"Alberto Pelagotti
+A. Pelagotti",1989-03-09,2019-06-30,Keeper,23.0,"500,000 €",Italy,29
+730,"Maurizio Pugliesi
+M. Pugliesi",1976-12-27,2017-06-30,Keeper,1.0,"25,000 €",Italy,29
+731,"Giuseppe Bellusci
+G. Bellusci",1989-08-21,2017-06-30,Centre Back,6.0,"2,000,000 €",Italy,29
+732,"Federico Barba
+F. Barba",1993-09-01,2019-06-30,Centre Back,19.0,"1,800,000 €",Italy,29
+733,"Andrea Costa
+A. Costa",1986-02-01,2018-06-30,Centre Back,15.0,"1,300,000 €",Italy,29
+734,"Uroš ?osi?
+U. ?osi?",1992-10-24,2018-06-30,Centre Back,24.0,"800,000 €",Serbia,29
+735,"Federico Dimarco
+F. Dimarco",1997-11-10,2017-06-30,Left-Back,4.0,"1,300,000 €",Italy,29
+736,"Manuel Pasqual
+M. Pasqual",1982-03-13,2018-06-30,Left-Back,21.0,"800,000 €",Italy,29
+737,"Vincent Laurini
+V. Laurini",1989-06-10,2018-06-30,Right-Back,2.0,"1,500,000 €",France,29
+738,"Frédéric Veseli
+F. Veseli",1992-11-20,2018-06-30,Right-Back,13.0,"800,000 €",Albania,29
+739,"Marco Zambelli
+M. Zambelli",1985-08-22,2017-06-30,Right-Back,3.0,"600,000 €",Italy,29
+740,"Assane Dioussé
+A. Dioussé",1997-09-20,2020-06-30,Defensive Midfield,8.0,"4,000,000 €",Senegal,29
+741,"José Mauri
+J. Mauri",1996-05-16,2017-06-30,Central Midfield,5.0,"4,500,000 €",Italy,29
+742,"Marcel Büchel
+M. Büchel",1991-03-18,2019-06-30,Central Midfield,77.0,"2,000,000 €",Liechtenstein,29
+743,"Raffaele Maiello
+R. Maiello",1991-07-10,2017-06-30,Central Midfield,17.0,"1,200,000 €",Italy,29
+744,"Andrés Tello
+A. Tello",1996-09-06,2017-06-30,Central Midfield,88.0,"900,000 €",Colombia,29
+745,"Daniele Croce
+D. Croce",1982-09-09,2017-06-30,Central Midfield,11.0,"500,000 €",Italy,29
+746,"Riccardo Saponara
+R. Saponara",1991-12-21,2018-06-30,Attacking Midfield,10.0,"15,000,000 €",Italy,29
+747,"Rade Krunic
+R. Krunic",1993-10-07,2018-06-30,Attacking Midfield,33.0,"600,000 €",Bosnia-Herzegovina,29
+748,"Matheus Pereira
+M. Pereira",1998-02-25,2020-06-30,Attacking Midfield,31.0,"100,000 €",Brazil,29
+749,"Manuel Pucciarelli
+M. Pucciarelli",1991-06-17,2020-06-30,Secondary Striker,20.0,"4,000,000 €",Italy,29
+750,"Guido Marilungo
+G. Marilungo",1989-08-09,2017-06-30,Secondary Striker,89.0,"600,000 €",Italy,29
+751,"Alberto Gilardino
+A. Gilardino",1982-07-05,2018-06-30,Centre Forward,18.0,"1,000,000 €",Italy,29
+752,"Massimo Maccarone
+M. Maccarone",1979-09-06,2017-06-30,Centre Forward,7.0,"500,000 €",Italy,29
+753,"Levan Mchedlidze
+L. Mchedlidze",1990-03-24,2018-06-30,Centre Forward,9.0,"500,000 €",Georgia,29
+754,"Roman Chanturia
+R. Chanturia",1996-02-09,2019-06-30,Centre Forward,99.0,"150,000 €",Georgia,29
+755,"Emiliano Viviano
+E. Viviano",1985-12-01,2021-06-30,Keeper,2.0,"5,000,000 €",Italy,30
+756,"Christian Puggioni
+C. Puggioni",1981-01-17,2018-06-30,Keeper,1.0,"300,000 €",Italy,30
+757,"Andrea Tozzo
+A. Tozzo",1992-08-30,2018-06-30,Keeper,92.0,"200,000 €",Italy,30
+758,"Titas Krapikas
+T. Krapikas",1999-01-03,2019-06-30,Keeper,12.0,"75,000 €",Lithuania,30
+759,"Matías Silvestre
+M. Silvestre",1984-09-25,2017-06-30,Centre Back,26.0,"2,000,000 €",Argentina,30
+760,"Luka Krajnc
+L. Krajnc",1994-09-19,2017-06-30,Centre Back,15.0,"1,200,000 €",Slovenia,30
+761,"Milan Skriniar
+M. Skriniar",1995-02-11,2020-06-30,Centre Back,37.0,"800,000 €",Slovakia,30
+762,"Dodô
+Dodô",1992-02-06,2020-06-30,Left-Back,5.0,"5,000,000 €",Brazil,30
+763,"Vasco Regini
+V. Regini",1990-09-09,2020-06-30,Left-Back,19.0,"2,500,000 €",Italy,30
+764,"Daniel Pavlovic
+D. Pavlovic",1988-04-22,2018-06-30,Left-Back,20.0,"800,000 €",Switzerland,30
+765,"Stanley Amuzie
+S. Amuzie",1996-02-28,,Left-Back,3.0,"100,000 €",Nigeria,30
+766,"Jacopo Sala
+J. Sala",1991-12-05,2020-06-30,Right-Back,22.0,"2,500,000 €",Italy,30
+767,"Pedro Pereira
+P. Pereira",1998-01-22,2018-06-30,Right-Back,13.0,"1,000,000 €",Portugal,30
+768,"Luca Cigarini
+L. Cigarini",1986-06-20,2019-06-30,Defensive Midfield,21.0,"5,000,000 €",Italy,30
+769,"Lucas Torreira
+L. Torreira",1996-02-11,2020-06-30,Defensive Midfield,34.0,"1,500,000 €",Uruguay,30
+770,"Angelo Palombo
+A. Palombo",1981-09-25,2017-06-30,Defensive Midfield,17.0,"500,000 €",Italy,30
+771,"Bruno Fernandes
+B. Fernandes",1994-09-08,2017-06-30,Central Midfield,10.0,"6,500,000 €",Portugal,30
+772,"Karol Linetty
+K. Linetty",1995-02-02,2021-06-30,Central Midfield,16.0,"3,200,000 €",Poland,30
+773,"Carlos Carbonero
+C. Carbonero",1990-07-25,2017-06-30,Central Midfield,7.0,"3,000,000 €",Colombia,30
+774,"Édgar Barreto
+É. Barreto",1984-07-15,2018-06-30,Central Midfield,8.0,"1,500,000 €",Paraguay,30
+775,"Mirko Eramo
+M. Eramo",1989-07-12,2018-06-30,Central Midfield,6.0,"600,000 €",Italy,30
+776,"Dennis Praet
+D. Praet",1994-05-14,2021-06-30,Attacking Midfield,18.0,"9,000,000 €",Belgium,30
+777,"Ricardo Álvarez
+R. Álvarez",1988-04-12,2019-06-30,Attacking Midfield,11.0,"6,500,000 €",Argentina,30
+778,"Filip Djuricic
+F. Djuricic",1992-01-30,2017-06-30,Attacking Midfield,23.0,"4,000,000 €",Serbia,30
+779,"Antonio Cassano
+A. Cassano",1982-07-12,2017-06-30,Secondary Striker,NaN,"500,000 €",Italy,30
+780,"Luis Muriel
+L. Muriel",1991-04-16,2019-06-30,Centre Forward,9.0,"9,500,000 €",Colombia,30
+781,"Patrik Schick
+P. Schick",1996-01-24,2020-06-30,Centre Forward,14.0,"3,000,000 €",Czech Republic,30
+782,"Ante Budimir
+A. Budimir",1991-07-22,2020-06-30,Centre Forward,47.0,"3,000,000 €",Croatia,30
+783,"Fabio Quagliarella
+F. Quagliarella",1983-01-31,2017-06-30,Centre Forward,27.0,"2,500,000 €",Italy,30
+784,"Mattia Perin
+M. Perin",1992-11-10,2019-06-30,Keeper,1.0,"17,500,000 €",Italy,31
+785,"Eugenio Lamanna
+E. Lamanna",1989-08-07,2019-06-30,Keeper,23.0,"2,500,000 €",Italy,31
+786,"Lukas Zima
+L. Zima",1994-01-09,2018-06-30,Keeper,38.0,"100,000 €",Czech Republic,31
+787,"Armando Izzo
+A. Izzo",1992-03-02,2019-06-30,Centre Back,5.0,"3,500,000 €",Italy,31
+788,"Ezequiel Muñoz
+E. Muñoz",1990-10-08,2019-06-30,Centre Back,24.0,"3,300,000 €",Argentina,31
+789,"Santiago Gentiletti
+S. Gentiletti",1985-01-09,2019-06-30,Centre Back,3.0,"1,000,000 €",Argentina,31
+790,"Nicolás Burdisso
+N. Burdisso",1981-04-12,2017-06-30,Centre Back,8.0,"400,000 €",Argentina,31
+791,"Davide Biraschi
+D. Biraschi",1994-07-02,2021-06-30,Centre Back,14.0,"400,000 €",Italy,31
+792,"Lucas Orbán
+L. Orbán",1989-02-03,2019-06-30,Left-Back,21.0,"3,000,000 €",Argentina,31
+793,"Davide Brivio
+D. Brivio",1988-03-17,2018-06-30,Left-Back,28.0,"1,300,000 €",Italy,31
+794,"Riccardo Fiamozzi
+R. Fiamozzi",1993-05-18,2019-06-30,Right-Back,29.0,"1,000,000 €",Italy,31
+795,"Issa Cissokho
+I. Cissokho",1985-02-23,2018-06-30,Right-Back,20.0,"500,000 €",Senegal,31
+796,"Tomás Rincón
+T. Rincón",1988-01-13,2018-06-30,Defensive Midfield,88.0,"7,000,000 €",Venezuela,31
+797,"Miguel Veloso
+M. Veloso",1986-05-11,2017-06-30,Defensive Midfield,44.0,"6,000,000 €",Portugal,31
+798,"Luca Rigoni
+L. Rigoni",1984-12-07,2018-06-30,Central Midfield,30.0,"3,500,000 €",Italy,31
+799,"Isaac Cofie
+I. Cofie",1991-09-20,2017-06-30,Central Midfield,4.0,"1,800,000 €",Ghana,31
+800,"Olivier Ntcham
+O. Ntcham",1996-02-09,2017-06-30,Central Midfield,10.0,"1,500,000 €",France,31
+801,"Edenilson
+Edenilson",1989-12-18,2017-06-30,Right Midfield,2.0,"2,500,000 €",Brazil,31
+802,"Diego Laxalt
+D. Laxalt",1993-02-07,2018-06-30,Left Midfield,93.0,"5,500,000 €",Uruguay,31
+803,"Nikola Ninkovic
+N. Ninkovic",1994-12-19,2019-06-30,Attacking Midfield,99.0,"900,000 €",Serbia,31
+804,"Lucas Ocampos
+L. Ocampos",1994-07-11,2020-06-30,Left Wing,11.0,"6,000,000 €",Argentina,31
+805,"Darko Lazovic
+D. Lazovic",1990-09-15,2020-06-30,Right Wing,22.0,"2,000,000 €",Serbia,31
+806,"Serge Gakpé
+S. Gakpé",1987-05-07,2018-06-30,Right Wing,13.0,"2,000,000 €",Togo,31
+807,"Goran Pandev
+G. Pandev",1983-07-27,2017-06-30,Secondary Striker,27.0,"500,000 €",Macedonia,31
+808,"Giovanni Simeone
+G. Simeone",1995-07-05,2021-06-30,Centre Forward,9.0,"8,000,000 €",Argentina,31
+809,"Leonardo Pavoletti
+L. Pavoletti",1988-11-26,2019-06-30,Centre Forward,19.0,"8,000,000 €",Italy,31
+810,"João Pedro
+João Pedro",1992-03-09,2020-06-30,Attacking Midfield,10.0,"1,500,000 €",Brazil,32
+811,"Luca Rossettini
+L. Rossettini",1985-05-09,2018-06-30,Centre Back,15.0,"2,000,000 €",Italy,32
+812,"Danilo Avelar
+D. Avelar",1989-06-09,2019-06-30,Left-Back,8.0,"1,000,000 €",Brazil,32
+813,"Zeljko Brkic
+Z. Brkic",1986-07-09,,Keeper,44.0,"4,500,000 €",Serbia,32
+814,"Simone Colombi
+S. Colombi",1991-07-01,,Keeper,1.0,"1,000,000 €",Italy,32
+815,"Alessio Cragno
+A. Cragno",1994-06-28,2018-06-30,Keeper,27.0,"900,000 €",Italy,32
+816,"Werther Carboni
+W. Carboni",1996-04-04,,Keeper,28.0,"100,000 €",Italy,32
+817,"Modibo Diakité
+M. Diakité",1987-03-02,,Centre Back,37.0,"2,000,000 €",France,32
+818,"Marco Capuano
+M. Capuano",1991-10-14,2018-06-30,Centre Back,33.0,"1,600,000 €",Italy,32
+819,"Simone Benedetti
+S. Benedetti",1992-04-03,2017-06-30,Centre Back,NaN,"900,000 €",Italy,32
+820,"Luca Ceppitelli
+L. Ceppitelli",1989-08-11,2020-06-30,Centre Back,32.0,"450,000 €",Italy,32
+821,"Nicola Murru
+N. Murru",1994-12-16,,Left-Back,3.0,"2,500,000 €",Italy,32
+822,"Francesco Pisano
+F. Pisano",1986-04-29,,Right-Back,14.0,"2,300,000 €",Italy,32
+823,"Alejandro González
+A. González",1988-03-23,,Right-Back,2.0,"2,000,000 €",Uruguay,32
+824,"Antonio Balzano
+A. Balzano",1986-06-13,2018-06-30,Right-Back,21.0,"600,000 €",Italy,32
+825,"Daniele Conti
+D. Conti",1979-01-09,,Defensive Midfield,5.0,"500,000 €",Italy,32
+826,"Albin Ekdal
+A. Ekdal",1989-07-28,2016-06-30,Central Midfield,20.0,"4,000,000 €",Sweden,32
+827,"Josef Husbauer
+J. Husbauer",1990-03-16,,Central Midfield,22.0,"3,000,000 €",Czech Republic,32
+828,"Daniele Dessena
+D. Dessena",1987-05-10,,Central Midfield,16.0,"2,000,000 €",Italy,32
+829,"Nicolò Barella
+N. Barella",1997-02-07,2017-06-30,Central Midfield,18.0,"200,000 €",Italy,32
+830,"Mattia Muroni
+M. Muroni",1996-04-06,,Central Midfield,29.0,"50,000 €",Italy,32
+831,"Andrea Cossu
+A. Cossu",1980-05-03,,Attacking Midfield,7.0,"900,000 €",Italy,32
+832,"Paul-José Mpoku
+P. Mpoku",1992-04-19,,Left Wing,40.0,"5,000,000 €",Congo DR,32
+833,"Diego Farias
+D. Farias",1990-05-10,,Right Wing,17.0,"700,000 €",Brazil,32
+834,"Caio Rangel
+Caio Rangel",1996-01-16,,Right Wing,13.0,,Brazil,32
+835,"Víctor Ibarbo
+V. Ibarbo",1990-05-19,2017-06-30,Secondary Striker,NaN,"7,000,000 €",Colombia,32
+836,"Marco Sau
+Marco Sau",1987-11-03,,Centre Forward,25.0,"8,000,000 €",Italy,32
+837,"Duje Cop
+Duje Cop",1990-02-01,2016-06-30,Centre Forward,90.0,"3,000,000 €",Croatia,32
+838,"Samuele Longo
+S. Longo",1992-01-12,2016-06-30,Centre Forward,9.0,"2,000,000 €",Italy,32
+839,"Alessandro Capello
+A. Capello",1995-12-12,2018-06-30,Centre Forward,NaN,"800,000 €",Italy,32
+840,"Godfred Donsah
+G. Donsah",1996-06-07,2020-06-30,Central Midfield,17.0,"6,000,000 €",Ghana,33
+841,"Antonio Mirante
+A. Mirante",1983-07-08,2019-06-30,Keeper,83.0,"2,800,000 €",Italy,33
+842,"Alfred Gomis
+A. Gomis",1993-09-05,2017-06-30,Keeper,23.0,"2,200,000 €",Italy,33
+843,"Angelo da Costa
+A. da Costa",1983-11-12,2018-06-30,Keeper,1.0,"500,000 €",Brazil,33
+844,"Mouhamadou Sarr
+M. Sarr",1997-01-05,2020-06-30,Keeper,97.0,"75,000 €",Senegal,33
+845,"Marios Oikonomou
+M. Oikonomou",1992-10-06,2020-06-30,Centre Back,2.0,"2,500,000 €",Greece,33
+846,"Filip Helander
+F. Helander",1993-04-22,2017-06-30,Centre Back,18.0,"1,400,000 €",Sweden,33
+847,"Daniele Gastaldello
+D. Gastaldello",1983-06-25,2018-06-30,Centre Back,28.0,"1,000,000 €",Italy,33
+848,"Domenico Maietta
+D. Maietta",1982-08-03,2017-06-30,Centre Back,20.0,"400,000 €",Italy,33
+849,"Adam Masina
+A. Masina",1994-01-02,2019-06-30,Left-Back,25.0,"4,000,000 €",Italy,33
+850,"Archimede Morleo
+A. Morleo",1983-09-26,2017-06-30,Left-Back,3.0,"400,000 €",Italy,33
+851,"Ibrahima Mbaye
+I. Mbaye",1994-11-19,2019-06-30,Right-Back,15.0,"3,400,000 €",Senegal,33
+852,"Vasilis Torosidis
+V. Torosidis",1985-06-10,2018-06-30,Right-Back,35.0,"2,000,000 €",Greece,33
+853,"Alex Ferrari
+A. Ferrari",1994-07-01,2017-06-30,Right-Back,24.0,"1,000,000 €",Italy,33
+854,"Emil Krafth
+E. Krafth",1994-08-02,2020-06-30,Right-Back,4.0,"700,000 €",Sweden,33
+855,"Federico Viviani
+F. Viviani",1992-03-24,2017-06-30,Defensive Midfield,6.0,"3,800,000 €",Italy,33
+856,"Ádám Nagy
+Á. Nagy",1995-06-17,2021-06-30,Defensive Midfield,16.0,"1,500,000 €",Hungary,33
+857,"Saphir Taider
+S. Taider",1992-02-29,2017-06-30,Central Midfield,8.0,"5,000,000 €",Algeria,33
+858,"Luca Rizzo
+L. Rizzo",1992-04-24,2019-06-30,Central Midfield,22.0,"3,500,000 €",Italy,33
+859,"Blerim Dzemaili
+B. Dzemaili",1986-04-12,2017-06-30,Central Midfield,31.0,"3,500,000 €",Switzerland,33
+860,"Erick Pulgar
+E. Pulgar",1994-01-15,2019-06-30,Central Midfield,5.0,"1,800,000 €",Chile,33
+861,"Simone Verdi
+S. Verdi",1992-07-12,2020-06-30,Attacking Midfield,9.0,"1,500,000 €",Italy,33
+862,"Anthony Mounier
+A. Mounier",1987-09-27,2018-06-30,Left Wing,7.0,"4,000,000 €",France,33
+863,"Ladislav Krejcí
+L. Krejcí",1992-07-05,2020-06-30,Left Wing,11.0,"4,000,000 €",Czech Republic,33
+864,"Federico Di Francesco
+F. Di Francesco",1994-06-14,2021-06-30,Right Wing,14.0,"1,000,000 €",Italy,33
+865,"Mattia Destro
+M. Destro",1991-03-20,2020-06-30,Centre Forward,10.0,"11,000,000 €",Italy,33
+866,"Umar Sadiq
+U. Sadiq",1997-02-02,2017-06-30,Centre Forward,19.0,"2,500,000 €",Nigeria,33
+867,"Sergio Floccari
+S. Floccari",1981-11-12,2017-06-30,Centre Forward,26.0,"500,000 €",Italy,33
+868,"Robert Acquafresca
+R. Acquafresca",1987-09-11,2017-06-30,Centre Forward,99.0,"500,000 €",Italy,33
+869,"Lorenzo Crisetig
+L. Crisetig",1993-01-20,2017-06-30,Defensive Midfield,8.0,"3,300,000 €",Italy,34
+870,"Alex Cordaz
+A. Cordaz",1983-01-01,2018-06-30,Keeper,1.0,"400,000 €",Italy,34
+871,"Valentin Cojocaru
+V. Cojocaru",1995-10-01,2017-06-30,Keeper,95.0,"400,000 €",Romania,34
+872,"Aniello Viscovo
+A. Viscovo",1999-06-21,,Keeper,33.0,"175,000 €",Italy,34
+873,"Marco Festa
+M. Festa",1992-06-06,2018-06-30,Keeper,5.0,"150,000 €",Italy,34
+874,"Noë Dussenne
+N. Dussenne",1992-04-07,2019-06-30,Centre Back,23.0,"1,500,000 €",Belgium,34
+875,"Gianmarco Ferrari
+G. Ferrari",1992-05-15,2017-06-30,Centre Back,13.0,"1,000,000 €",Italy,34
+876,"Federico Ceccherini
+F. Ceccherini",1992-05-11,2019-06-30,Centre Back,17.0,"700,000 €",Italy,34
+877,"Claiton
+Claiton",1984-09-07,2017-06-30,Centre Back,3.0,"500,000 €",Brazil,34
+878,"Giuseppe Cuomo
+G. Cuomo",1998-02-02,,Centre Back,21.0,"175,000 €",Italy,34
+879,"Djamel Mesbah
+D. Mesbah",1984-10-09,2017-06-30,Left-Back,15.0,"400,000 €",Algeria,34
+880,"Mario Sampirisi
+M. Sampirisi",1992-10-31,2019-06-30,Right-Back,31.0,"900,000 €",Italy,34
+881,"Aleandro Rosi
+A. Rosi",1987-05-17,2017-06-30,Right-Back,22.0,"800,000 €",Italy,34
+882,"Marcus Rohdén
+M. Rohdén",1991-05-11,2019-06-30,Defensive Midfield,6.0,"1,250,000 €",Sweden,34
+883,"Leonardo Capezzi
+L. Capezzi",1995-03-29,2017-06-30,Central Midfield,28.0,"1,300,000 €",Italy,34
+884,"Andrea Barberis
+A. Barberis",1993-12-11,2018-06-30,Central Midfield,18.0,"500,000 €",Italy,34
+885,"Aniello Salzano
+A. Salzano",1991-07-20,2017-06-30,Central Midfield,20.0,"400,000 €",Italy,34
+886,"Nicolò Fazzi
+N. Fazzi",1995-03-02,2017-06-30,Central Midfield,77.0,"400,000 €",Italy,34
+887,"Eddy Gnahoré
+E. Gnahoré",1993-11-14,2017-06-30,Central Midfield,14.0,"300,000 €",France,34
+888,"Bruno Martella
+B. Martella",1992-08-14,2019-06-30,Left Midfield,87.0,"1,000,000 €",Italy,34
+889,"Manuel Nicoletti
+M. Nicoletti",1998-12-09,2017-06-30,Left Midfield,98.0,"200,000 €",Italy,34
+890,"Adrian Stoian
+A. Stoian",1991-02-11,2018-06-30,Left Wing,12.0,"900,000 €",Romania,34
+891,"Aleksandar Tonev
+A. Tonev",1990-02-03,2019-06-30,Left Wing,24.0,"800,000 €",Bulgaria,34
+892,"Raffaele Palladino
+R. Palladino",1984-04-17,2018-06-30,Left Wing,7.0,"300,000 €",Italy,34
+893,"Pietro De Giorgio
+P. De Giorgio",1983-02-16,2017-06-30,Left Wing,10.0,"100,000 €",Italy,34
+894,"Andrea Nalini
+A. Nalini",1990-06-20,2019-06-30,Right Wing,9.0,"250,000 €",Italy,34
+895,"Marcello Trotta
+M. Trotta",1992-09-29,2017-06-30,Centre Forward,29.0,"2,000,000 €",Italy,34
+896,"Diego Falcinelli
+D. Falcinelli",1991-06-26,2017-06-30,Centre Forward,11.0,"1,100,000 €",Italy,34
+897,"Simy
+Simy",1992-05-07,2019-06-30,Centre Forward,99.0,"1,000,000 €",Nigeria,34
+898,"Josip Posavec
+J. Posavec",1996-03-10,2020-06-30,Keeper,1.0,"500,000 €",Croatia,35
+899,"Leonardo Marson
+L. Marson",1998-01-05,2018-06-30,Keeper,55.0,"100,000 €",Italy,35
+900,"Andrea Fulignati
+A. Fulignati",1994-10-31,2018-06-30,Keeper,68.0,"100,000 €",Italy,35
+901,"Giancarlo González
+G. González",1988-02-08,2018-06-30,Centre Back,12.0,"3,400,000 €",Costa Rica,35
+902,"Edoardo Goldaniga
+E. Goldaniga",1993-11-02,2019-06-30,Centre Back,6.0,"2,500,000 €",Italy,35
+903,"Slobodan Rajkovic
+S. Rajkovic",1989-02-03,2020-06-30,Centre Back,5.0,"1,500,000 €",Serbia,35
+904,"Thiago Cionek
+T. Cionek",1986-04-21,2018-06-30,Centre Back,15.0,"900,000 €",Poland,35
+905,"Sinisa Andelkovic
+S. Andelkovic",1986-02-13,2017-06-30,Centre Back,4.0,"700,000 €",Slovenia,35
+906,"Roberto Vitiello
+R. Vitiello",1983-05-08,2017-06-30,Centre Back,2.0,"300,000 €",Italy,35
+907,"Andrea Punzi
+A. Punzi",1997-03-02,,Centre Back,56.0,"50,000 €",Italy,35
+908,"Haitam Aleesami
+H. Aleesami",1991-07-31,2019-06-30,Left-Back,19.0,"1,000,000 €",Norway,35
+909,"Giuseppe Pezzella
+G. Pezzella",1997-11-29,2018-06-30,Left-Back,97.0,"500,000 €",Italy,35
+910,"Simone Giuliano
+S. Giuliano",1997-04-28,2018-06-30,Left-Back,70.0,"150,000 €",Italy,35
+911,"Michel Morganella
+M. Morganella",1989-05-17,2018-06-30,Right-Back,89.0,"1,000,000 €",Switzerland,35
+912,"Andrea Rispoli
+A. Rispoli",1988-09-29,2019-06-30,Right-Back,3.0,"800,000 €",Italy,35
+913,"Bruno Henrique
+Bruno Henrique",1989-10-21,2020-06-30,Defensive Midfield,25.0,"3,000,000 €",Brazil,35
+914,"Mato Jajalo
+M. Jajalo",1988-05-25,2019-06-30,Defensive Midfield,28.0,"1,300,000 €",Bosnia-Herzegovina,35
+915,"Alessandro Gazzi
+A. Gazzi",1983-01-28,2018-06-30,Defensive Midfield,14.0,"700,000 €",Italy,35
+916,"Oscar Hiljemark
+O. Hiljemark",1992-06-28,2019-06-30,Central Midfield,10.0,"4,000,000 €",Sweden,35
+917,"Ivaylo Chochev
+I. Chochev",1993-02-18,2020-06-30,Central Midfield,18.0,"2,000,000 €",Bulgaria,35
+918,"Ouasim Bouy
+O. Bouy",1993-06-11,2017-06-30,Central Midfield,24.0,"1,000,000 €",Morocco,35
+919,"Robin Quaison
+R. Quaison",1993-10-09,2017-06-30,Attacking Midfield,21.0,"2,200,000 €",Sweden,35
+920,"Carlos Embalo
+C. Embalo",1994-11-25,2020-06-30,Left Wing,11.0,"2,000,000 €",Guinea-Bissau,35
+921,"Aleksandar Trajkovski
+A. Trajkovski",1992-09-05,2020-06-30,Left Wing,8.0,"1,000,000 €",Macedonia,35
+922,"Accursio Bentivegna
+A. Bentivegna",1996-06-21,2019-06-30,Right Wing,27.0,"800,000 €",Italy,35
+923,"Alessandro Diamanti
+A. Diamanti",1983-05-02,2018-06-30,Secondary Striker,23.0,"1,000,000 €",Italy,35
+924,"Roland Sallai
+R. Sallai",1997-05-22,2017-06-30,Secondary Striker,20.0,"450,000 €",Hungary,35
+925,"Simone Lo Faso
+S. Lo Faso",1998-02-18,2021-06-30,Secondary Striker,98.0,"225,000 €",Italy,35
+926,"Ilija Nestorovski
+I. Nestorovski",1990-03-12,2019-06-30,Centre Forward,30.0,"1,500,000 €",Macedonia,35
+927,"Norbert Balogh
+N. Balogh",1996-02-21,2020-06-30,Centre Forward,22.0,"1,400,000 €",Hungary,35
+928,"Andrea Consigli
+A. Consigli",1987-01-27,2018-06-30,Keeper,47.0,"8,000,000 €",Italy,36
+929,"Gianluca Pegolo
+G. Pegolo",1981-03-25,2017-06-30,Keeper,79.0,"500,000 €",Italy,36
+930,"Alberto Pomini
+A. Pomini",1981-03-17,2017-06-30,Keeper,1.0,"100,000 €",Italy,36
+931,"Francesco Acerbi
+F. Acerbi",1988-02-10,2018-06-30,Centre Back,15.0,"8,500,000 €",Italy,36
+932,"Timo Letschert
+T. Letschert",1993-05-25,2021-06-30,Centre Back,55.0,"3,000,000 €",Netherlands,36
+933,"Luca Antei
+L. Antei",1992-04-19,2018-06-30,Centre Back,5.0,"1,400,000 €",Italy,36
+934,"Emanuele Terranova
+E. Terranova",1987-04-14,2017-06-30,Centre Back,26.0,"800,000 €",Italy,36
+935,"Paolo Cannavaro
+P. Cannavaro",1981-06-26,2017-06-30,Centre Back,28.0,"600,000 €",Italy,36
+936,"Federico Peluso
+F. Peluso",1984-01-20,2017-06-30,Left-Back,13.0,"1,500,000 €",Italy,36
+937,"Cristian Dell'Orco
+C. Dell'Orco",1994-02-10,2020-06-30,Left-Back,39.0,"700,000 €",Italy,36
+938,"Pol Lirola
+P. Lirola",1997-08-13,2018-06-30,Right-Back,20.0,"500,000 €",Spain,36
+939,"Marcello Gazzola
+M. Gazzola",1985-04-03,2017-06-30,Right-Back,23.0,"400,000 €",Italy,36
+940,"Stefano Sensi
+S. Sensi",1995-08-05,2020-06-30,Defensive Midfield,12.0,"4,000,000 €",Italy,36
+941,"Francesco Magnanelli
+F. Magnanelli",1984-11-12,2017-06-30,Defensive Midfield,4.0,"3,000,000 €",Italy,36
+942,"Luca Mazzitelli
+L. Mazzitelli",1995-11-15,2018-06-30,Defensive Midfield,22.0,"2,000,000 €",Italy,36
+943,"Alfred Duncan
+A. Duncan",1993-03-10,2020-06-30,Central Midfield,32.0,"8,000,000 €",Ghana,36
+944,"Simone Missiroli
+S. Missiroli",1986-05-23,2020-06-30,Central Midfield,7.0,"6,000,000 €",Italy,36
+945,"Lorenzo Pellegrini
+L. Pellegrini",1996-06-19,2020-06-30,Central Midfield,6.0,"2,500,000 €",Italy,36
+946,"Davide Biondini
+D. Biondini",1983-01-24,2017-06-30,Central Midfield,8.0,"500,000 €",Italy,36
+947,"Matteo Politano
+M. Politano",1993-08-03,2021-06-30,Left Wing,16.0,"3,500,000 €",Italy,36
+948,"Domenico Berardi
+D. Berardi",1994-08-01,2019-06-30,Right Wing,25.0,"20,000,000 €",Italy,36
+949,"Federico Ricci
+F. Ricci",1994-05-27,2017-06-30,Right Wing,27.0,"3,800,000 €",Italy,36
+950,"Antonino Ragusa
+A. Ragusa",1990-03-27,2020-06-30,Right Wing,90.0,"1,500,000 €",Italy,36
+951,"Grégoire Defrel
+G. Defrel",1991-06-17,2020-06-30,Centre Forward,11.0,"6,000,000 €",France,36
+952,"Alessandro Matri
+A. Matri",1984-08-19,2018-06-30,Centre Forward,10.0,"2,000,000 €",Italy,36
+953,"Pietro Iemmello
+P. Iemmello",1992-03-06,2021-06-30,Centre Forward,9.0,"650,000 €",Italy,36
+954,"Vincenzo Fiorillo
+V. Fiorillo",1990-01-13,2019-06-30,Keeper,1.0,"700,000 €",Italy,37
+955,"Mirko Pigliacelli
+M. Pigliacelli",1993-06-30,2017-06-30,Keeper,22.0,"500,000 €",Italy,37
+956,"Albano Bizzarri
+A. Bizzarri",1977-11-09,2017-06-30,Keeper,31.0,"200,000 €",Argentina,37
+957,"Gabriele Aldegani
+G. Aldegani",1976-05-10,2017-06-30,Keeper,12.0,"50,000 €",Italy,37
+958,"Norbert Gyömber
+N. Gyömber",1992-07-03,2017-06-30,Centre Back,37.0,"1,000,000 €",Slovakia,37
+959,"Dario Zuparic
+D. Zuparic",1992-05-03,2018-06-30,Centre Back,13.0,"700,000 €",Croatia,37
+960,"Michele Fornasier
+M. Fornasier",1993-08-22,2020-06-30,Centre Back,44.0,"700,000 €",Italy,37
+961,"Andrea Coda
+A. Coda",1985-04-25,2017-06-30,Centre Back,35.0,"200,000 €",Italy,37
+962,"Hugo Campagnaro
+H. Campagnaro",1980-06-27,2017-06-30,Centre Back,14.0,"100,000 €",Argentina,37
+963,"Cristiano Biraghi
+C. Biraghi",1992-09-01,2020-06-30,Left-Back,3.0,"2,500,000 €",Italy,37
+964,"Alessandro Crescenzi
+A. Crescenzi",1991-09-25,2019-06-30,Left-Back,2.0,"2,000,000 €",Italy,37
+965,"Francesco Zampano
+F. Zampano",1993-09-30,2020-06-30,Right-Back,11.0,"1,200,000 €",Italy,37
+966,"Davide Vitturini
+D. Vitturini",1997-02-21,2021-06-30,Right-Back,26.0,"650,000 €",Italy,37
+967,"Leonardo Maloku
+L. Maloku",1998-05-18,2021-06-30,Right-Back,23.0,"75,000 €",Albania,37
+968,"Gastón Brugman
+G. Brugman",1992-09-07,2019-06-30,Defensive Midfield,16.0,"1,200,000 €",Uruguay,37
+969,"Alberto Aquilani
+A. Aquilani",1984-07-07,2017-06-30,Central Midfield,20.0,"3,000,000 €",Italy,37
+970,"Bryan Cristante
+B. Cristante",1995-03-03,2017-06-30,Central Midfield,6.0,"2,500,000 €",Italy,37
+971,"Ledian Memushaj
+L. Memushaj",1986-12-07,2019-06-30,Central Midfield,8.0,"2,500,000 €",Albania,37
+972,"Valerio Verre
+V. Verre",1994-01-11,2020-06-30,Central Midfield,7.0,"2,400,000 €",Italy,37
+973,"Ahmad Benali
+A. Benali",1992-02-07,2019-06-30,Central Midfield,10.0,"1,200,000 €",Libya,37
+974,"Alessandro Bruno
+A. Bruno",1983-07-04,2017-06-30,Central Midfield,5.0,"100,000 €",Italy,37
+975,"Alexandru Mitrita
+A. Mitrita",1995-02-08,2019-06-30,Attacking Midfield,28.0,"700,000 €",Romania,37
+976,"Ferdinando Del Sole
+F. Del Sole",1998-01-17,2021-06-30,Attacking Midfield,98.0,"150,000 €",Italy,37
+977,"Simone Pepe
+S. Pepe",1983-08-30,2017-06-30,Right Wing,21.0,"500,000 €",Italy,37
+978,"Jean-Christophe Bahebeck
+J. Bahebeck",1993-05-01,2017-06-30,Left Wing,15.0,"2,500,000 €",France,37
+979,"Robert Muric
+R. Muric",1996-03-12,2017-06-30,Right Wing,30.0,"800,000 €",Croatia,37
+980,"Gianluca Caprari
+G. Caprari",1993-07-30,2017-06-30,Secondary Striker,17.0,"3,500,000 €",Italy,37
+981,"Rey Manaj
+Rey Manaj",1997-02-24,2017-06-30,Centre Forward,9.0,"1,000,000 €",Albania,37
+982,"Stefano Pettinari
+S. Pettinari",1992-01-27,2019-06-30,Centre Forward,18.0,"650,000 €",Italy,37
+983,"Luigi Sepe
+L. Sepe",1991-05-08,2019-06-30,Keeper,22.0,"3,000,000 €",Italy,38
+984,"Pepe Reina
+P. Reina",1982-08-31,2018-06-30,Keeper,25.0,"3,000,000 €",Spain,38
+985,"Rafael
+Rafael",1990-05-20,2018-06-30,Keeper,1.0,"2,000,000 €",Brazil,38
+986,"Kalidou Koulibaly
+K. Koulibaly",1991-06-20,2019-06-30,Centre Back,26.0,"23,000,000 €",Senegal,38
+987,"Raúl Albiol
+R. Albiol",1985-09-04,2017-06-30,Centre Back,33.0,"8,500,000 €",Spain,38
+988,"Lorenzo Tonelli
+L. Tonelli",1990-01-17,2020-06-30,Centre Back,62.0,"8,500,000 €",Italy,38
+989,"Nikola Maksimovi?
+N. Maksimovi?",1991-11-25,2021-06-30,Centre Back,19.0,"7,000,000 €",Serbia,38
+990,"Vlad Chiriches
+V. Chiriches",1989-11-14,2020-06-30,Centre Back,21.0,"5,500,000 €",Romania,38
+991,"Igor Lasicki
+I. Lasicki",1995-06-26,2017-06-30,Centre Back,95.0,"175,000 €",Poland,38
+992,"Faouzi Ghoulam
+F. Ghoulam",1991-02-01,2018-06-30,Left-Back,31.0,"13,000,000 €",Algeria,38
+993,"Ivan Strinic
+I. Strinic",1987-07-17,2019-06-30,Left-Back,3.0,"4,500,000 €",Croatia,38
+994,"Elseid Hysaj
+E. Hysaj",1994-02-02,2020-06-30,Right-Back,2.0,"13,000,000 €",Albania,38
+995,"Christian Maggio
+C. Maggio",1982-02-11,2018-06-30,Right-Back,11.0,"800,000 €",Italy,38
+996,"Jorginho
+Jorginho",1991-12-20,2020-06-30,Defensive Midfield,8.0,"20,000,000 €",Italy,38
+997,"Amadou Diawara
+A. Diawara",1997-07-17,2021-06-30,Defensive Midfield,42.0,"11,000,000 €",Guinea,38
+998,"Marek Hamsik
+M. Hamsik",1987-07-27,2020-06-30,Central Midfield,17.0,"38,000,000 €",Slovakia,38
+999,"Allan
+Allan",1991-01-08,2019-06-30,Central Midfield,5.0,"17,000,000 €",Brazil,38
+1000,"Piotr Zielinski
+P. Zielinski",1994-05-20,2021-06-30,Central Midfield,20.0,"12,000,000 €",Poland,38
+1001,"Marko Rog
+Marko Rog",1995-07-19,2017-06-30,Attacking Midfield,30.0,"6,000,000 €",Croatia,38
+1002,"Omar El Kaddouri
+O. El Kaddouri",1990-08-21,2017-06-30,Attacking Midfield,77.0,"5,000,000 €",Morocco,38
+1003,"Emanuele Giaccherini
+E. Giaccherini",1985-05-05,2019-06-30,Right Wing,4.0,"4,000,000 €",Italy,38
+1004,"Lorenzo Insigne
+L. Insigne",1991-06-04,2019-06-30,Left Wing,24.0,"25,000,000 €",Italy,38
+1005,"Dries Mertens
+D. Mertens",1987-05-06,2018-06-30,Left Wing,14.0,"16,000,000 €",Belgium,38
+1006,"José Callejón
+J. Callejón",1987-02-11,2020-06-30,Right Wing,7.0,"20,000,000 €",Spain,38
+1007,"Roberto Insigne
+R. Insigne",1994-05-11,2017-06-30,Right Wing,94.0,"900,000 €",Italy,38
+1008,"Manolo Gabbiadini
+M. Gabbiadini",1991-11-26,2019-06-30,Centre Forward,23.0,"17,000,000 €",Italy,38
+1009,"Arkadiusz Milik
+A. Milik",1994-02-28,2021-06-30,Centre Forward,99.0,"12,000,000 €",Poland,38
+1010,"Marco Sportiello
+M. Sportiello",1992-05-10,2020-06-30,Keeper,57.0,"10,000,000 €",Italy,39
+1011,"Etrit Berisha
+E. Berisha",1989-03-10,2017-06-30,Keeper,1.0,"3,500,000 €",Albania,39
+1012,"Davide Bassi
+D. Bassi",1985-04-12,2017-06-30,Keeper,30.0,"700,000 €",Italy,39
+1013,"Stefano Mazzini
+S. Mazzini",1998-12-06,,Keeper,47.0,"75,000 €",Italy,39
+1014,"Rafael Tolói
+R. Tolói",1990-10-10,2018-06-30,Centre Back,3.0,"4,000,000 €",Brazil,39
+1015,"Ervin Zukanovic
+E. Zukanovic",1987-02-11,2017-06-30,Centre Back,6.0,"3,800,000 €",Bosnia-Herzegovina,39
+1016,"Andrea Masiello
+A. Masiello",1986-02-05,2018-06-30,Centre Back,5.0,"1,000,000 €",Italy,39
+1017,"Mattia Caldara
+M. Caldara",1994-05-05,2021-06-30,Centre Back,13.0,"1,000,000 €",Italy,39
+1018,"Emanuele Suagher
+E. Suagher",1992-11-26,2020-06-30,Centre Back,23.0,"800,000 €",Italy,39
+1019,"Guglielmo Stendardo
+G. Stendardo",1981-05-06,2017-06-30,Centre Back,2.0,"400,000 €",Italy,39
+1020,"Boukary Dramé
+B. Dramé",1985-07-22,2018-06-30,Left-Back,93.0,"2,000,000 €",Senegal,39
+1021,"Andrea Conti
+A. Conti",1994-03-02,2021-06-30,Right-Back,24.0,"1,000,000 €",Italy,39
+1022,"Abdoulay Konko
+A. Konko",1984-03-09,2017-06-30,Right-Back,25.0,"900,000 €",France,39
+1023,"Franck Kessié
+F. Kessié",1996-12-19,2021-06-30,Defensive Midfield,19.0,"4,000,000 €",Cote d'Ivoire,39
+1024,"Jasmin Kurtic
+J. Kurtic",1989-01-10,2019-06-30,Central Midfield,27.0,"4,000,000 €",Slovenia,39
+1025,"Alberto Grassi
+A. Grassi",1995-03-07,2017-06-30,Central Midfield,88.0,"4,000,000 €",Italy,39
+1026,"Remo Freuler
+R. Freuler",1992-04-15,2019-06-30,Central Midfield,11.0,"2,000,000 €",Switzerland,39
+1027,"Carlos Carmona
+C. Carmona",1987-02-21,2018-06-30,Central Midfield,17.0,"2,000,000 €",Chile,39
+1028,"Roberto Gagliardini
+R. Gagliardini",1994-04-07,2021-06-30,Central Midfield,4.0,"700,000 €",Italy,39
+1029,"Giulio Migliaccio
+G. Migliaccio",1981-06-23,2017-06-30,Central Midfield,8.0,"300,000 €",Italy,39
+1030,"Cristian Raimondi
+C. Raimondi",1981-04-30,2017-06-30,Right Midfield,77.0,"100,000 €",Italy,39
+1031,"Leonardo Spinazzola
+L. Spinazzola",1993-03-25,2018-06-30,Left Midfield,37.0,"900,000 €",Italy,39
+1032,"Alejandro Gómez
+A. Gómez",1988-02-15,2020-06-30,Left Wing,10.0,"9,000,000 €",Argentina,39
+1033,"Bryan Cabezas
+B. Cabezas",1997-03-20,2021-06-30,Left Wing,52.0,"1,200,000 €",Ecuador,39
+1034,"Marco D'Alessandro
+M. D'Alessandro",1991-02-17,2019-06-30,Right Wing,7.0,"1,500,000 €",Italy,39
+1035,"Alberto Paloschi
+A. Paloschi",1990-01-04,2021-06-30,Centre Forward,43.0,"6,000,000 €",Italy,39
+1036,"Aleksandar Pesic
+A. Pesic",1992-05-21,2017-06-30,Centre Forward,9.0,"1,500,000 €",Serbia,39
+1037,"Mauricio Pinilla
+M. Pinilla",1984-02-04,2017-06-30,Centre Forward,51.0,"1,500,000 €",Chile,39
+1038,"Andrea Petagna
+A. Petagna",1995-06-30,2020-06-30,Centre Forward,29.0,"600,000 €",Italy,39
+1039,"Federico Marchetti
+F. Marchetti",1983-02-07,2018-06-30,Keeper,22.0,"4,000,000 €",Italy,40
+1040,"Ivan Vargic
+I. Vargic",1987-03-15,2020-06-30,Keeper,55.0,"1,750,000 €",Croatia,40
+1041,"Thomas Strakosha
+T. Strakosha",1995-03-19,2019-06-30,Keeper,1.0,"300,000 €",Albania,40
+1042,"Stefan de Vrij
+S. de Vrij",1992-02-05,2018-06-30,Centre Back,3.0,"16,000,000 €",Netherlands,40
+1043,"Wallace
+Wallace",1994-10-14,2021-06-30,Centre Back,13.0,"6,000,000 €",Brazil,40
+1044,"Bastos
+Bastos",1991-11-23,2020-06-30,Centre Back,15.0,"5,000,000 €",Angola,40
+1045,"Wesley Hoedt
+W. Hoedt",1994-03-06,2019-06-30,Centre Back,2.0,"3,500,000 €",Netherlands,40
+1046,"Franjo Prce
+F. Prce",1996-01-07,2019-06-30,Centre Back,44.0,"125,000 €",Croatia,40
+1047,"Stefan Radu
+S. Radu",1986-10-22,2020-06-30,Left-Back,26.0,"6,000,000 €",Romania,40
+1048,"Jordan Lukaku
+J. Lukaku",1994-07-25,2019-06-30,Left-Back,6.0,"4,000,000 €",Belgium,40
+1049,"Vinícius
+Vinícius",1993-03-07,2017-06-30,Left-Back,28.0,"500,000 €",Brazil,40
+1050,"Dusan Basta
+D. Basta",1984-08-18,2019-06-30,Right-Back,8.0,"4,000,000 €",Serbia,40
+1051,"Patric
+Patric",1993-04-17,2019-06-30,Right-Back,4.0,"800,000 €",Spain,40
+1052,"Lucas Biglia
+L. Biglia",1986-01-30,2018-06-30,Defensive Midfield,20.0,"20,000,000 €",Argentina,40
+1053,"Sergej Milinkovic-Savic
+S. Milinkovic-Savic",1995-02-27,2020-06-30,Central Midfield,21.0,"9,000,000 €",Serbia,40
+1054,"Marco Parolo
+M. Parolo",1985-01-25,2019-06-30,Central Midfield,16.0,"7,000,000 €",Italy,40
+1055,"Danilo Cataldi
+D. Cataldi",1994-08-06,2020-06-30,Central Midfield,5.0,"6,500,000 €",Italy,40
+1056,"Álvaro González
+Á. González",1984-10-29,2017-06-30,Central Midfield,NaN,"1,800,000 €",Uruguay,40
+1057,"Moritz Leitner
+M. Leitner",1992-12-08,2021-06-30,Central Midfield,23.0,"1,500,000 €",Germany,40
+1058,"Joseph Marie Minala
+J. Minala",1996-08-24,2019-06-30,Central Midfield,27.0,"600,000 €",Cameroon,40
+1059,"Alessandro Murgia
+A. Murgia",1996-08-09,2020-06-30,Central Midfield,96.0,"300,000 €",Italy,40
+1060,"Senad Lulic
+S. Lulic",1986-01-18,2020-06-30,Left Midfield,19.0,"7,000,000 €",Bosnia-Herzegovina,40
+1061,"Luis Alberto
+Luis Alberto",1992-09-28,2021-06-30,Attacking Midfield,18.0,"4,000,000 €",Spain,40
+1062,"Ravel Morrison
+R. Morrison",1993-02-02,2019-06-30,Attacking Midfield,11.0,"700,000 €",England,40
+1063,"Felipe Anderson
+Felipe Anderson",1993-04-15,2020-06-30,Right Wing,10.0,"19,000,000 €",Brazil,40
+1064,"Keita Baldé
+Keita Baldé",1995-03-08,2018-06-30,Left Wing,14.0,"13,000,000 €",Senegal,40
+1065,"Ricardo Kishna
+R. Kishna",1995-01-04,2019-06-30,Left Wing,7.0,"3,800,000 €",Netherlands,40
+1066,"Cristiano Lombardi
+C. Lombardi",1995-08-19,2019-06-30,Secondary Striker,25.0,"350,000 €",Italy,40
+1067,"Ciro Immobile
+C. Immobile",1990-02-20,2021-06-30,Centre Forward,17.0,"10,000,000 €",Italy,40
+1068,"Filip Djordjevic
+F. Djordjevic",1987-09-28,2018-06-30,Centre Forward,9.0,"4,300,000 €",Serbia,40
+1069,"Mamadou Tounkara
+M. Tounkara",1996-01-19,2018-06-30,Centre Forward,71.0,"400,000 €",Spain,40
+1070,Zdravko Kuzmanovi?,1987-09-22,2017-06-30,Central Midfield,22.0,"2,000,000 €",Serbia,41
+1071,Bakary Koné,1988-04-27,2019-06-30,Centre Back,2.0,"1,500,000 €",Burkina Faso,41
+1072,Carlos Kameni,1984-02-18,2020-06-30,Keeper,1.0,"5,000,000 €",Cameroon,41
+1073,Weligton,1979-08-26,2017-06-30,Centre Back,3.0,"800,000 €",Brazil,41
+1074,Roberto Rosales,1988-11-20,2020-06-30,Right-Back,18.0,"5,000,000 €",Venezuela,41
+1075,Miguel Torres,1986-01-28,2018-06-30,Left-Back,23.0,"2,000,000 €",Spain,41
+1076,Ignacio Camacho,1990-05-04,2019-06-30,Defensive Midfield,6.0,"10,000,000 €",Spain,41
+1077,Recio,1991-01-11,2018-06-30,Central Midfield,14.0,"5,000,000 €",Spain,41
+1078,Duda,1980-06-27,2017-06-30,Attacking Midfield,17.0,"500,000 €",Portugal,41
+1079,Juanpi Añor,1994-01-24,2018-06-30,Attacking Midfield,10.0,"3,000,000 €",Venezuela,41
+1080,Charles,1984-04-04,2017-06-30,Centre Forward,9.0,"2,500,000 €",Brazil,41
+1081,Sandro Ramírez,1995-07-09,2019-06-30,Centre Forward,19.0,"5,000,000 €",Spain,41
+1082,Chory Castro,1984-09-14,2018-06-30,Left Wing,11.0,"2,500,000 €",Uruguay,41
+1083,Diego Llorente,1993-08-16,2017-06-30,Centre Back,5.0,"5,000,000 €",Spain,41
+1084,Adnane Tighadouini,1992-10-30,2020-06-30,Left Wing,24.0,"1,000,000 €",Morocco,41
+1085,Jony,1991-07-09,2020-06-30,Left Wing,21.0,"3,500,000 €",Spain,41
+1086,Keko,1991-12-27,2020-06-30,Right Wing,20.0,"4,000,000 €",Spain,41
+1087,Federico Ricca,1994-12-01,2020-06-30,Left-Back,15.0,"2,500,000 €",Uruguay,41
+1088,Pablo Fornals,1996-02-22,2019-06-30,Central Midfield,31.0,"3,000,000 €",Spain,41
+1089,Juankar,1990-03-30,2017-06-30,Left Wing,7.0,"1,800,000 €",Spain,41
+1090,Aarón Escandell,1995-09-27,2017-06-30,Keeper,27.0,,Spain,41
+1091,Mikel Villanueva,1993-04-14,2019-06-30,Centre Back,4.0,"600,000 €",Venezuela,41
+1092,Michael Santos,1993-03-13,2020-06-30,Centre Forward,8.0,"4,000,000 €",Uruguay,41
+1093,Guilherme,1991-04-05,2017-06-30,Defensive Midfield,20.0,"2,000,000 €",Brazil,43
+1094,Rubén,1984-06-22,2018-06-30,Keeper,25.0,"1,000,000 €",Spain,43
+1095,Germán Lux,1982-07-06,2017-06-30,Keeper,1.0,"1,000,000 €",Argentina,43
+1096,Sidnei,1989-08-23,2018-06-30,Centre Back,12.0,"6,000,000 €",Brazil,43
+1097,Luisinho,1985-05-05,2018-06-30,Left-Back,16.0,"1,800,000 €",Portugal,43
+1098,Laure,1985-03-22,2018-06-30,Right-Back,15.0,"2,000,000 €",Spain,43
+1099,Álex Bergantiños,1985-06-07,2018-06-30,Defensive Midfield,4.0,"3,000,000 €",Spain,43
+1100,Raúl Albentosa,1988-09-07,2020-06-30,Centre Back,6.0,"3,500,000 €",Spain,43
+1101,Pedro Mosquera,1988-04-21,2021-06-30,Central Midfield,5.0,"6,000,000 €",Spain,43
+1102,Fayçal Fajr,1988-08-01,2018-06-30,Attacking Midfield,19.0,"4,000,000 €",Morocco,43
+1103,Alejandro Arribas,1989-05-01,2018-06-30,Centre Back,14.0,"3,000,000 €",Spain,43
+1104,Fernando Navarro,1982-06-25,2017-06-30,Left-Back,3.0,"1,000,000 €",Spain,43
+1105,Carles Gil,1992-11-22,2017-06-30,Right Wing,11.0,"3,500,000 €",Spain,43
+1106,Florin Andone,1993-04-11,2021-06-30,Centre Forward,10.0,"2,500,000 €",Romania,43
+1107,Celso Borges,1988-05-27,2019-06-30,Central Midfield,22.0,"3,500,000 €",Costa Rica,43
+1108,Przemyslaw Tyton,1987-01-04,2019-06-30,Keeper,13.0,"1,000,000 €",Poland,43
+1109,Emre Çolak,1991-05-20,2019-06-30,Attacking Midfield,8.0,"3,250,000 €",Turkey,43
+1110,Bruno Gama,1987-11-15,2018-06-30,Left Wing,21.0,"2,000,000 €",Portugal,43
+1111,Borja Valle,1992-07-09,2019-06-30,Left Wing,17.0,"800,000 €",Spain,43
+1112,Marlos Moreno,1996-09-20,2017-06-30,Left Wing,9.0,"650,000 €",Colombia,43
+1113,Antonio Luna,1991-03-17,2017-06-30,Left-Back,19.0,"700,000 €",Spain,44
+1114,Takashi Inui,1988-06-02,2018-06-30,Left Wing,8.0,"3,000,000 €",Japan,44
+1115,Mauro dos Santos,1989-07-07,2017-06-30,Centre Back,15.0,"4,000,000 €",Argentina,44
+1116,Fran Rico,1987-08-03,2018-06-30,Central Midfield,4.0,"3,000,000 €",Spain,44
+1117,Dani García,1990-05-24,2018-06-30,Central Midfield,14.0,"4,000,000 €",Spain,44
+1118,Ander Capa,1992-05-14,2018-06-30,Right-Back,7.0,"4,000,000 €",Spain,44
+1119,Pedro León,1986-11-24,2018-06-30,Right Wing,21.0,"4,000,000 €",Spain,44
+1120,Adrián González,1988-05-25,2018-06-30,Central Midfield,24.0,"3,000,000 €",Spain,44
+1121,Yoel Rodríguez,1988-08-28,2017-06-30,Keeper,1.0,"1,000,000 €",Spain,44
+1122,Bebé,1990-07-12,2020-06-30,Right Wing,25.0,"3,000,000 €",Portugal,44
+1123,Iván Ramis,1984-10-25,2017-06-30,Centre Back,4.0,"1,200,000 €",Spain,44
+1124,Alejandro Gálvez,1989-06-06,2019-06-30,Centre Back,3.0,"2,500,000 €",Spain,44
+1125,Asier Riesgo,1983-10-06,2018-06-30,Keeper,13.0,"1,000,000 €",Spain,44
+1126,David Juncà,1993-11-16,2018-06-30,Left-Back,23.0,"3,000,000 €",Spain,44
+1127,Gonzalo Escalante,1993-03-27,2020-06-30,Central Midfield,5.0,"3,500,000 €",Argentina,44
+1128,Sergi Enrich,1990-02-26,2018-06-30,Centre Forward,9.0,"4,000,000 €",Spain,44
+1129,Jota,1991-06-16,2017-06-30,Right Wing,10.0,"1,200,000 €",Spain,44
+1130,Florian Lejeune,1991-05-20,2020-06-30,Centre Back,20.0,"1,500,000 €",France,44
+1131,Cristian Rivera,1997-07-09,2019-06-30,Defensive Midfield,6.0,"500,000 €",Spain,44
+1132,Rubén Peña,1991-07-18,2019-06-30,Right Wing,11.0,"800,000 €",Spain,44
+1133,Kike,1989-11-25,2019-06-30,Centre Forward,17.0,"1,500,000 €",Spain,44
+1134,Lucas Digne,1993-07-20,2021-06-30,Left-Back,19.0,"16,000,000 €",France,45
+1135,Samuel Umtiti,1993-11-14,2021-06-30,Centre Back,23.0,"25,000,000 €",France,45
+1136,Jasper Cillessen,1989-04-22,2021-06-30,Keeper,13.0,"12,000,000 €",Netherlands,45
+1137,Marc-André ter Stegen,1992-04-30,2019-06-30,Keeper,1.0,"15,000,000 €",Germany,45
+1138,Jordi Masip,1989-01-03,2017-06-30,Keeper,25.0,"1,000,000 €",Spain,45
+1139,Gerard Piqué,1987-02-02,2019-06-30,Centre Back,3.0,"40,000,000 €",Spain,45
+1140,Javier Mascherano,1984-06-08,2019-06-30,Centre Back,14.0,"15,000,000 €",Argentina,45
+1141,Jérémy Mathieu,1983-10-29,2018-06-30,Centre Back,24.0,"10,000,000 €",France,45
+1142,Jordi Alba,1989-03-21,2020-06-30,Left-Back,18.0,"35,000,000 €",Spain,45
+1143,Sergio Busquets,1988-07-16,2021-06-30,Defensive Midfield,5.0,"60,000,000 €",Spain,45
+1144,Andrés Iniesta,1984-05-11,2018-06-30,Central Midfield,8.0,"30,000,000 €",Spain,45
+1145,Ivan Rakitic,1988-03-10,2019-06-30,Central Midfield,4.0,"50,000,000 €",Croatia,45
+1146,Sergi Roberto,1992-02-07,2019-06-30,Right-Back,20.0,"20,000,000 €",Spain,45
+1147,Neymar,1992-02-05,2021-06-30,Left Wing,11.0,"100,000,000 €",Brazil,45
+1148,Lionel Messi,1987-06-24,2018-06-30,Right Wing,10.0,"120,000,000 €",Argentina,45
+1149,Luis Suárez,1987-01-24,2019-06-30,Centre Forward,9.0,"90,000,000 €",Uruguay,45
+1150,Munir El Haddadi,1995-09-01,2019-06-30,Centre Forward,17.0,"10,000,000 €",Spain,45
+1151,Aleix Vidal,1989-08-21,2020-06-30,Right-Back,22.0,"7,500,000 €",Spain,45
+1152,André Gomes,1993-07-30,2021-06-30,Central Midfield,21.0,"30,000,000 €",Portugal,45
+1153,Arda Turan,1987-01-30,2020-06-30,Attacking Midfield,7.0,"28,000,000 €",Turkey,45
+1154,Denis Suárez,1994-01-06,2020-06-30,Central Midfield,6.0,"15,000,000 €",Spain,45
+1155,Antonio Sanabria,1996-03-04,2021-06-30,Centre Forward,9.0,"7,500,000 €",Paraguay,46
+1156,Juan Vargas,1983-10-05,2017-06-30,Left-Back,NaN,"2,500,000 €",Peru,46
+1157,Joaquín,1981-07-21,2017-06-30,Right Wing,17.0,"1,000,000 €",Spain,46
+1158,Aïssa Mandi,1991-10-22,2021-06-30,Centre Back,23.0,"4,500,000 €",Algeria,46
+1159,Didier Digard,1986-07-12,2018-06-30,Defensive Midfield,NaN,"1,500,000 €",France,46
+1160,Jonas Martin,1990-04-09,2019-06-30,Central Midfield,8.0,"3,000,000 €",France,46
+1161,Francisco Portillo,1990-06-13,2018-06-30,Left Wing,NaN,"1,500,000 €",Spain,46
+1162,Matías Nahuel,1996-11-22,2018-06-30,Right Wing,11.0,"4,000,000 €",Spain,46
+1163,Manu Herrera,1981-09-19,2017-06-30,Keeper,25.0,"400,000 €",Spain,46
+1164,Antonio Adán,1987-05-13,2019-06-30,Keeper,13.0,"6,000,000 €",Spain,46
+1165,Daniel Giménez,1983-07-30,2018-06-30,Keeper,1.0,"400,000 €",Spain,46
+1166,Germán Pezzella,1991-06-27,2020-06-30,Centre Back,20.0,"3,000,000 €",Argentina,46
+1167,Bruno González,1990-05-24,2019-06-30,Centre Back,4.0,"3,000,000 €",Spain,46
+1168,Cristiano Piccini,1992-09-26,2019-06-30,Right-Back,12.0,"700,000 €",Italy,46
+1169,Dani Ceballos,1996-08-07,2020-06-30,Central Midfield,10.0,"6,000,000 €",Spain,46
+1170,Foued Kadir,1983-12-05,2017-06-30,Attacking Midfield,NaN,"800,000 €",Algeria,46
+1171,Petros,1989-05-29,2019-06-30,Central Midfield,5.0,"5,000,000 €",Brazil,46
+1172,Álvaro Cejudo,1984-01-29,2017-06-30,Right Wing,16.0,"1,500,000 €",Spain,46
+1173,Rubén Castro,1981-06-27,2017-06-30,Centre Forward,24.0,"2,000,000 €",Spain,46
+1174,Charly Musonda Jr.,1996-10-15,2017-06-30,Left Wing,7.0,"5,000,000 €",Belgium,46
+1175,Álex Martínez,1990-08-12,2017-06-30,Left-Back,3.0,"800,000 €",Spain,46
+1176,Riza Durmisi,1994-01-08,2021-06-30,Left-Back,14.0,"1,500,000 €",Denmark,46
+1177,Rafa Navarro,1994-02-23,2020-06-30,Right-Back,2.0,,Spain,46
+1178,Felipe Gutiérrez,1990-10-08,2020-06-30,Central Midfield,6.0,"4,000,000 €",Chile,46
+1179,Darko Brasanac,1992-02-12,2020-06-30,Central Midfield,NaN,"2,500,000 €",Serbia,46
+1180,Fabián Ruiz,1996-04-03,2019-06-30,Attacking Midfield,21.0,"500,000 €",Spain,46
+1181,Roman Zozulya,1989-11-17,2019-06-30,Centre Forward,18.0,"3,000,000 €",Ukraine,46
+1182,Alex Alegría,1992-10-14,2017-06-30,Centre Forward,19.0,"700,000 €",Spain,46
+1183,Ivan Kelava,1988-02-20,2017-06-30,Keeper,NaN,"500,000 €",Croatia,47
+1184,Gabriel Silva,1991-05-13,2017-06-30,Left-Back,12.0,"3,000,000 €",Brazil,47
+1185,Gastón Silva,1994-03-05,2017-06-30,Centre Back,3.0,"1,800,000 €",Uruguay,47
+1186,Rene Krhin,1990-05-21,2019-06-30,Defensive Midfield,21.0,"2,500,000 €",Slovenia,47
+1187,Guillermo Ochoa,1985-07-13,2017-06-30,Keeper,13.0,"3,000,000 €",Mexico,47
+1188,David Barral,1983-05-10,2017-06-30,Centre Forward,7.0,"800,000 €",Spain,47
+1189,Oier Olazábal,1989-09-14,2018-06-30,Keeper,1.0,"900,000 €",Spain,47
+1190,Dimitri Foulquier,1993-03-23,2019-06-30,Right-Back,22.0,"2,500,000 €",France,47
+1191,Luís Martins,1992-06-10,2018-06-30,Left-Back,14.0,"300,000 €",Portugal,47
+1192,Javi Márquez,1986-05-11,2017-06-30,Central Midfield,8.0,"2,000,000 €",Spain,47
+1193,Isaac Cuenca,1991-04-27,2017-06-30,Right Wing,19.0,"2,000,000 €",Spain,47
+1194,Sergi Samper,1995-01-20,2017-06-30,Defensive Midfield,NaN,"5,000,000 €",Spain,47
+1195,David Lombán,1987-06-05,2018-06-30,Centre Back,3.0,"3,000,000 €",Spain,47
+1196,Tito,1985-07-11,2018-06-30,Right-Back,2.0,"2,500,000 €",Spain,47
+1197,Matthieu Saunier,1990-02-07,2019-06-30,Centre Back,20.0,"1,000,000 €",France,47
+1198,Jeremie Boga,1997-01-03,2017-06-30,Attacking Midfield,10.0,"2,000,000 €",France,47
+1199,Ezequiel Ponce,1997-03-29,2017-06-30,Centre Forward,9.0,"4,300,000 €",Argentina,47
+1200,Andreas Pereira,1996-01-01,2017-06-30,Attacking Midfield,NaN,"2,000,000 €",Brazil,47
+1201,Victorien Angban,1996-09-29,2017-06-30,Defensive Midfield,26.0,"1,000,000 €",Cote d'Ivoire,47
+1202,Uche Agbo,1995-12-04,2018-06-30,Central Midfield,5.0,"350,000 €",Nigeria,47
+1203,Jon Toral,1995-02-05,2017-06-30,Attacking Midfield,11.0,"1,500,000 €",Spain,47
+1204,José Angulo,1995-02-03,2021-06-30,Centre Forward,23.0,"2,000,000 €",Ecuador,47
+1205,Daniele Bonera,1981-05-31,2017-06-30,Centre Back,23.0,"500,000 €",Italy,48
+1206,Nicola Sansone,1991-09-10,2021-06-30,Left Wing,18.0,"12,000,000 €",Italy,48
+1207,Roberto Soriano,1991-02-08,2021-06-30,Central Midfield,20.0,"14,000,000 €",Italy,48
+1208,Roberto Soldado,1985-05-27,2018-06-30,Centre Forward,9.0,"16,000,000 €",Spain,48
+1209,Andrés Fernández,1986-12-17,2017-06-30,Keeper,13.0,"1,500,000 €",Spain,48
+1210,José Ángel,1989-09-05,2017-06-30,Left-Back,3.0,"2,000,000 €",Spain,48
+1211,Sergio Asenjo,1989-06-28,2019-06-30,Keeper,1.0,"4,000,000 €",Spain,48
+1212,Mateo Musacchio,1990-08-26,2018-06-30,Centre Back,5.0,"15,000,000 €",Argentina,48
+1213,Víctor Ruiz,1989-01-25,2019-06-30,Centre Back,6.0,"8,000,000 €",Spain,48
+1214,Jaume Costa,1988-03-18,2017-06-30,Left-Back,11.0,"6,000,000 €",Spain,48
+1215,Bojan Jokic,1986-05-17,2017-06-30,Left-Back,15.0,"900,000 €",Slovenia,48
+1216,Mario Gaspar,1990-11-24,2019-06-30,Right-Back,2.0,"12,000,000 €",Spain,48
+1217,Antonio Rukavina,1984-01-26,2018-06-30,Right-Back,22.0,"2,000,000 €",Serbia,48
+1218,Bruno Soriano,1984-06-12,2020-06-30,Defensive Midfield,21.0,"8,000,000 €",Spain,48
+1219,Manu Trigueros,1991-10-17,2019-06-30,Central Midfield,14.0,"7,000,000 €",Spain,48
+1220,Jonathan dos Santos,1990-04-26,2019-06-30,Central Midfield,8.0,"6,000,000 €",Mexico,48
+1221,Denis Cheryshev,1990-12-26,2021-06-30,Left Wing,7.0,"7,000,000 €",Russia,48
+1222,Mariano Barbosa,1984-07-27,2017-06-30,Keeper,25.0,"800,000 €",Argentina,48
+1223,Alfred N'Diaye,1990-03-06,2021-06-30,Defensive Midfield,4.0,"8,000,000 €",Senegal,48
+1224,Samu Castillejo,1995-01-18,2020-06-30,Left Wing,19.0,"5,000,000 €",Spain,48
+1225,Cédric Bakambu,1991-04-11,2020-06-30,Centre Forward,17.0,"20,000,000 €",Congo DR,48
+1226,Rodrigo Hernández,1996-06-22,2018-06-30,Central Midfield,35.0,"500,000 €",Spain,48
+1227,Alexandre Pato,1989-09-02,2020-06-20,Centre Forward,10.0,"5,000,000 €",Brazil,48
+1228,Santos Borré,1995-09-15,2017-06-30,Centre Forward,24.0,"1,000,000 €",Colombia,48
+1229,Adil Rami,1985-12-27,2019-06-30,Centre Back,23.0,"7,000,000 €",France,49
+1230,Franco Vázquez,1989-02-22,2021-06-30,Secondary Striker,22.0,"15,000,000 €",Italy,49
+1231,Joaquín Correa,1994-08-13,2021-06-30,Attacking Midfield,11.0,"10,000,000 €",Argentina,49
+1232,Steven N'Zonzi,1988-12-15,2019-06-30,Defensive Midfield,15.0,"20,000,000 €",France,49
+1233,Salvatore Sirigu,1987-01-12,2017-06-30,Keeper,30.0,"8,000,000 €",Italy,49
+1234,Wissam Ben Yedder,1990-08-12,2021-06-30,Centre Forward,12.0,"9,000,000 €",France,49
+1235,Mariano,1986-06-23,2018-06-30,Right-Back,25.0,"7,000,000 €",Brazil,49
+1236,Luciano Vietto,1993-12-05,2017-06-30,Centre Forward,9.0,"14,000,000 €",Argentina,49
+1237,Michael Krohn-Dehli,1983-06-06,2017-06-30,Left Wing,7.0,"3,500,000 €",Denmark,49
+1238,Sergio Escudero,1989-09-02,2019-06-30,Left-Back,18.0,"2,500,000 €",Spain,49
+1239,Pablo Sarabia,1992-05-11,2020-06-30,Attacking Midfield,17.0,"5,000,000 €",Spain,49
+1240,Sergio Rico,1993-09-01,2019-06-30,Keeper,1.0,"15,000,000 €",Spain,49
+1241,Daniel Carriço,1988-08-04,2018-06-30,Centre Back,6.0,"6,000,000 €",Portugal,49
+1242,Nicolás Pareja,1984-01-19,2019-06-30,Centre Back,21.0,"1,500,000 €",Argentina,49
+1243,Benoît Trémoulinas,1985-12-28,2017-06-30,Left-Back,2.0,"7,000,000 €",France,49
+1244,Timothée Kolodziejczak,1991-10-01,2018-06-30,Centre Back,5.0,"7,000,000 €",France,49
+1245,Vicente Iborra,1988-01-16,2020-06-30,Central Midfield,8.0,"9,000,000 €",Spain,49
+1246,Vitolo,1989-11-02,2020-06-30,Right Wing,20.0,"15,000,000 €",Spain,49
+1247,Hiroshi Kiyotake,1989-11-12,2020-06-30,Attacking Midfield,14.0,"6,000,000 €",Japan,49
+1248,Evgen Konoplyanka,1989-09-29,2019-06-30,Left Wing,10.0,"25,000,000 €",Ukraine,49
+1249,Matías Kranevitter,1993-05-21,2017-06-30,Defensive Midfield,4.0,"6,000,000 €",Argentina,49
+1250,David Soria,1993-04-04,2019-06-30,Keeper,13.0,"2,000,000 €",Spain,49
+1251,Juan Muñoz,1995-11-12,2019-06-30,Centre Forward,NaN,"400,000 €",Spain,49
+1252,Gabriel Mercado,1987-03-18,2019-06-30,Right-Back,24.0,"4,500,000 €",Argentina,49
+1253,Ganso,1989-10-12,2021-06-30,Attacking Midfield,19.0,"10,000,000 €",Brazil,49
+1254,Mickael Ciani,1984-04-06,2017-06-30,Centre Back,15.0,"800,000 €",France,50
+1255,David López,1989-10-09,2020-06-30,Central Midfield,NaN,"6,500,000 €",Spain,50
+1256,Roberto,1986-02-10,2019-06-30,Keeper,1.0,"3,000,000 €",Spain,50
+1257,Víctor Álvarez,1993-03-14,2017-06-30,Left Midfield,5.0,"2,500,000 €",Spain,50
+1258,Javi López,1986-01-21,2018-06-30,Right-Back,16.0,"3,000,000 €",Spain,50
+1259,Anaitz Arbilla,1987-05-15,2018-06-30,Right-Back,23.0,"1,500,000 €",Spain,50
+1260,Víctor Sánchez,1987-09-08,2018-06-30,Central Midfield,4.0,"3,500,000 €",Spain,50
+1261,Salva Sevilla,1984-03-18,2017-06-30,Attacking Midfield,8.0,"1,200,000 €",Spain,50
+1262,Felipe Caicedo,1988-09-05,2019-06-30,Centre Forward,10.0,"5,000,000 €",Ecuador,50
+1263,Papakouli Diop,1986-03-19,2018-06-30,Defensive Midfield,20.0,"3,000,000 €",Senegal,50
+1264,Hernán Pérez,1989-02-25,2019-06-30,Right Wing,17.0,"3,500,000 €",Paraguay,50
+1265,Gerard Moreno,1992-04-07,2020-06-30,Centre Forward,7.0,"3,500,000 €",Spain,50
+1266,José Antonio Reyes,1983-09-01,2018-06-30,Right Wing,9.0,"2,000,000 €",Spain,50
+1267,Javi Fuego,1984-01-04,2019-06-30,Defensive Midfield,18.0,"4,000,000 €",Spain,50
+1268,Pablo Piatti,1989-03-31,2017-06-30,Left Wing,19.0,"6,000,000 €",Argentina,50
+1269,Leo Baptistão,1992-08-26,2021-06-30,Centre Forward,11.0,"3,500,000 €",Brazil,50
+1270,Rubén Duarte,1995-10-18,2019-06-30,Left-Back,3.0,"2,000,000 €",Spain,50
+1271,Óscar Duarte,1989-06-03,2019-06-30,Centre Back,6.0,"2,000,000 €",Costa Rica,50
+1272,Martín Demichelis,1980-12-20,2017-06-30,Centre Back,2.0,"2,000,000 €",Argentina,50
+1273,Álex Fernández,1992-10-15,2017-06-30,Attacking Midfield,24.0,"400,000 €",Spain,50
+1274,José Manuel Jurado,1986-06-29,2019-06-30,Left Wing,14.0,"3,500,000 €",Spain,50
+1275,Diego Mariño,1990-05-09,2020-06-30,Keeper,13.0,"1,500,000 €",Spain,51
+1276,Moi Gómez,1994-06-23,2020-06-30,Left Wing,23.0,"2,500,000 €",Spain,51
+1277,Jean-Sylvain Babin,1986-10-14,2019-06-30,Centre Back,3.0,"3,500,000 €",Martinique,51
+1278,Roberto Canella,1988-02-07,2017-06-30,Left-Back,15.0,"1,000,000 €",Spain,51
+1279,Lillo Castellano,1989-03-27,2018-06-30,Right-Back,16.0,"1,000,000 €",Spain,51
+1280,Douglas,1990-08-06,2017-06-30,Right-Back,2.0,"1,000,000 €",Brazil,51
+1281,Víctor Rodríguez,1989-07-23,2020-06-30,Attacking Midfield,7.0,"3,000,000 €",Spain,51
+1282,Burgui,1993-10-29,2017-06-30,Left Wing,14.0,"1,000,000 €",Spain,51
+1283,Iván Cuéllar,1984-05-25,2018-06-30,Keeper,1.0,"1,500,000 €",Spain,51
+1284,Jorge Meré,1997-04-17,2020-06-30,Centre Back,4.0,"5,000,000 €",Spain,51
+1285,Alberto Lora,1987-03-25,2018-06-30,Right-Back,11.0,"3,000,000 €",Spain,51
+1286,Nacho Cases,1987-12-22,2018-06-30,Central Midfield,10.0,"2,200,000 €",Spain,51
+1287,Rachid Aït-Atmane,1993-01-04,2019-06-30,Central Midfield,8.0,"1,500,000 €",Algeria,51
+1288,Isma López,1990-01-29,2019-06-30,Left-Back,18.0,"2,500,000 €",Spain,51
+1289,Pablo Pérez,1993-08-02,2019-06-30,Attacking Midfield,22.0,"700,000 €",Spain,51
+1290,Carlos Castro,1995-06-01,2017-06-30,Centre Forward,9.0,"2,000,000 €",Spain,51
+1291,Xavi Torres,1986-11-21,2017-06-30,Defensive Midfield,25.0,"1,500,000 €",Spain,51
+1292,Dani Ndi,1995-08-18,2018-06-30,Attacking Midfield,20.0,"700,000 €",Cameroon,51
+1293,Óscar Whalley,1994-03-29,2018-06-30,Keeper,NaN,"300,000 €",Spain,51
+1294,Fernando Amorebieta,1985-03-29,2019-06-30,Centre Back,5.0,"2,000,000 €",Venezuela,51
+1295,Akram Afif,1996-11-18,2017-06-30,Centre Forward,17.0,"600,000 €",Qatar,51
+1296,Gorka Iraizoz,1981-03-06,2017-06-30,Keeper,1.0,"1,500,000 €",Spain,52
+1297,Iago Herrerín,1988-01-25,2019-06-30,Keeper,13.0,"2,500,000 €",Spain,52
+1298,Aymeric Laporte,1994-05-27,2020-06-30,Centre Back,4.0,"25,000,000 €",France,52
+1299,Mikel San José,1989-05-30,2020-06-30,Defensive Midfield,6.0,"10,000,000 €",Spain,52
+1300,Xabier Etxeita,1987-10-31,2018-06-30,Centre Back,16.0,"4,000,000 €",Spain,52
+1301,Mikel Balenziaga,1988-02-29,2019-06-30,Left-Back,24.0,"5,000,000 €",Spain,52
+1302,Ander Iturraspe,1989-03-08,2019-06-30,Defensive Midfield,8.0,"5,000,000 €",Spain,52
+1303,Mikel Rico,1984-11-04,2018-06-30,Central Midfield,17.0,"3,500,000 €",Spain,52
+1304,Beñat Etxebarria,1987-02-19,2018-06-30,Central Midfield,7.0,"6,000,000 €",Spain,52
+1305,Óscar de Marcos,1989-04-14,2019-06-30,Right-Back,18.0,"8,000,000 €",Spain,52
+1306,Ager Aketxe,1993-12-30,2017-06-30,Attacking Midfield,23.0,"1,000,000 €",Spain,52
+1307,Markel Susaeta,1987-12-14,2017-06-30,Right Wing,14.0,"10,000,000 €",Spain,52
+1308,Iker Muniain,1992-12-19,2019-06-30,Left Wing,10.0,"14,000,000 €",Spain,52
+1309,Aritz Aduriz,1981-02-11,2017-06-30,Centre Forward,20.0,"3,000,000 €",Spain,52
+1310,Kike Sola,1986-02-25,2018-06-30,Centre Forward,9.0,"1,200,000 €",Spain,52
+1311,Borja Viguera,1987-03-26,2017-06-30,Centre Forward,21.0,"1,500,000 €",Spain,52
+1312,Eneko Bóveda,1988-12-14,2018-06-30,Right-Back,2.0,"2,500,000 €",Spain,52
+1313,Gorka Elustondo,1987-03-18,2017-06-30,Centre Back,3.0,"2,000,000 €",Spain,52
+1314,Raúl García,1986-07-11,2019-06-30,Attacking Midfield,22.0,"12,000,000 €",Spain,52
+1315,Iñaki Williams,1994-06-15,2021-06-30,Right Wing,11.0,"20,000,000 €",Spain,52
+1316,Javi Eraso,1990-03-22,2018-06-30,Attacking Midfield,5.0,"1,500,000 €",Spain,52
+1317,Sabin Merino,1992-01-04,2019-06-30,Left Wing,19.0,"3,000,000 €",Spain,52
+1318,Iñigo Lekue,1993-05-04,2019-06-30,Right-Back,15.0,"3,000,000 €",Spain,52
+1319,Kepa Arrizabalaga,1994-10-03,2017-06-30,Keeper,26.0,"1,500,000 €",Spain,52
+1320,Yeray Álvarez,1995-01-24,2017-06-30,Centre Back,27.0,"1,000,000 €",Spain,52
+1321,Enric Saborit,1992-04-27,2017-06-30,Left-Back,25.0,"300,000 €",Spain,52
+1322,Mikel Vesga,1993-05-21,2018-06-30,Central Midfield,12.0,"800,000 €",Spain,52
+1323,Toño,1986-11-23,2018-06-30,Keeper,25.0,"500,000 €",Spain,53
+1324,Raúl Navas,1988-05-11,2018-06-30,Centre Back,22.0,"800,000 €",Spain,53
+1325,Gerónimo Rulli,1992-05-20,2022-06-30,Keeper,1.0,"8,000,000 €",Argentina,53
+1326,Iñigo Martínez,1991-05-17,2021-06-30,Centre Back,6.0,"15,000,000 €",Spain,53
+1327,Mikel González,1985-09-24,2017-06-30,Centre Back,3.0,"2,000,000 €",Spain,53
+1328,Yuri Berchiche,1990-02-10,2020-06-30,Left-Back,19.0,"3,000,000 €",Spain,53
+1329,Carlos Martínez,1986-04-09,2018-06-30,Right-Back,2.0,"1,500,000 €",Spain,53
+1330,Joseba Zaldua,1992-06-24,2020-06-30,Right-Back,20.0,"1,500,000 €",Spain,53
+1331,Markel Bergara,1986-05-05,2019-06-30,Defensive Midfield,5.0,"2,500,000 €",Spain,53
+1332,Jon Gaztañaga,1991-06-28,2018-06-30,Defensive Midfield,23.0,"700,000 €",Spain,53
+1333,Rubén Pardo,1992-10-22,2018-06-30,Central Midfield,14.0,"7,500,000 €",Spain,53
+1334,Esteban Granero,1987-07-02,2018-06-30,Central Midfield,8.0,"2,500,000 €",Spain,53
+1335,David Zurutuza,1986-07-19,2017-06-30,Central Midfield,17.0,"2,000,000 €",Spain,53
+1336,Xabi Prieto,1983-08-29,2017-06-30,Attacking Midfield,10.0,"4,000,000 €",Spain,53
+1337,Sergio Canales,1991-02-16,2018-06-30,Attacking Midfield,16.0,"3,000,000 €",Spain,53
+1338,Carlos Vela,1989-03-01,2018-06-30,Right Wing,11.0,"15,000,000 €",Mexico,53
+1339,Imanol Agirretxe,1987-02-24,2020-06-30,Centre Forward,9.0,"4,000,000 €",Spain,53
+1340,Asier Illarramendi,1990-03-08,2021-06-30,Defensive Midfield,4.0,"15,000,000 €",Spain,53
+1341,Ander Bardaji,1995-05-03,2018-06-30,Keeper,13.0,"200,000 €",Spain,53
+1342,Héctor Hernández,1991-05-23,2019-06-30,Left-Back,21.0,"600,000 €",Spain,53
+1343,Willian José,1991-11-23,2021-06-30,Centre Forward,12.0,"3,000,000 €",Brazil,53
+1344,Aritz Elustondo,1994-03-28,2020-06-30,Right-Back,15.0,"5,000,000 €",Spain,53
+1345,Mikel Oyarzabal,1997-04-21,2022-06-30,Left Wing,18.0,"8,000,000 €",Spain,53
+1346,David Concha,1996-11-20,2020-06-30,Right Wing,24.0,"1,000,000 €",Spain,53
+1347,Juanmi,1993-05-20,2021-06-30,Centre Forward,7.0,"5,000,000 €",Spain,53
+1348,Álvaro Morata,1992-10-23,2021-06-30,Centre Forward,21.0,"40,000,000 €",Spain,54
+1349,Mateo Kovacic,1994-05-06,2021-06-30,Central Midfield,16.0,"20,000,000 €",Croatia,54
+1350,Casemiro,1992-02-23,2021-06-30,Defensive Midfield,14.0,"20,000,000 €",Brazil,54
+1351,Kiko Casilla,1986-10-02,2020-06-30,Keeper,13.0,"6,000,000 €",Spain,54
+1352,Lucas Vázquez,1991-07-01,2020-06-30,Right Wing,17.0,"10,000,000 €",Spain,54
+1353,Keylor Navas,1986-12-15,2020-06-30,Keeper,1.0,"20,000,000 €",Costa Rica,54
+1354,Sergio Ramos,1986-03-30,2020-06-30,Centre Back,4.0,"40,000,000 €",Spain,54
+1355,Raphaël Varane,1993-04-25,2020-06-30,Centre Back,5.0,"30,000,000 €",France,54
+1356,Pepe,1983-02-26,2017-06-30,Centre Back,3.0,"6,000,000 €",Portugal,54
+1357,Nacho Fernández,1990-01-18,2020-06-30,Centre Back,6.0,"5,000,000 €",Spain,54
+1358,Fábio Coentrão,1988-03-11,2019-06-30,Left-Back,15.0,"10,000,000 €",Portugal,54
+1359,Daniel Carvajal,1992-01-11,2020-06-30,Right-Back,2.0,"25,000,000 €",Spain,54
+1360,Luka Modric,1985-09-09,2018-06-30,Central Midfield,19.0,"50,000,000 €",Croatia,54
+1361,Toni Kroos,1990-01-04,2020-06-30,Central Midfield,8.0,"55,000,000 €",Germany,54
+1362,James Rodríguez,1991-07-12,2020-06-30,Attacking Midfield,10.0,"70,000,000 €",Colombia,54
+1363,Isco,1992-04-21,2018-06-30,Attacking Midfield,22.0,"35,000,000 €",Spain,54
+1364,Cristiano Ronaldo,1985-02-05,2018-06-30,Left Wing,7.0,"110,000,000 €",Portugal,54
+1365,Gareth Bale,1989-07-16,2019-06-30,Right Wing,11.0,"90,000,000 €",Wales,54
+1366,Karim Benzema,1987-12-19,2019-06-30,Centre Forward,9.0,"60,000,000 €",France,54
+1367,Lucas Silva,1993-02-16,2020-06-30,Defensive Midfield,NaN,"5,000,000 €",Brazil,54
+1368,Marcelo,1988-05-12,2020-06-30,Left-Back,12.0,"30,000,000 €",Brazil,54
+1369,Marco Asensio,1996-01-21,2022-06-30,Attacking Midfield,20.0,"12,000,000 €",Spain,54
+1370,Rubén Yáñez,1993-10-12,2018-06-30,Keeper,31.0,"300,000 €",Spain,54
+1371,Mariano Díaz,1993-08-01,2021-06-30,Centre Forward,18.0,"2,000,000 €",Dominican Republic,54
+1372,Stefan Savic,1991-01-08,2020-06-30,Centre Back,15.0,"20,000,000 €",Montenegro,55
+1373,Alessio Cerci,1987-07-23,2017-06-30,Right Wing,NaN,"7,000,000 €",Italy,55
+1374,Sime Vrsaljko,1992-01-10,2021-06-30,Right-Back,16.0,"16,000,000 €",Croatia,55
+1375,Filipe Luís,1985-08-09,2019-06-30,Left-Back,3.0,"25,000,000 €",Brazil,55
+1376,Thomas,1993-06-13,2020-06-30,Defensive Midfield,22.0,"5,000,000 €",Ghana,55
+1377,Juanfran,1985-01-09,2018-06-30,Right-Back,20.0,"16,000,000 €",Spain,55
+1378,Augusto Fernández,1986-04-10,2019-06-30,Defensive Midfield,12.0,"8,000,000 €",Argentina,55
+1379,Kévin Gameiro,1987-05-09,2020-06-30,Centre Forward,21.0,"20,000,000 €",France,55
+1380,Jan Oblak,1993-01-07,2021-06-30,Keeper,13.0,"35,000,000 €",Slovenia,55
+1381,Miguel Ángel Moyà,1984-04-02,2017-06-30,Keeper,1.0,"4,000,000 €",Spain,55
+1382,Diego Godín,1986-02-16,2019-06-30,Centre Back,2.0,"40,000,000 €",Uruguay,55
+1383,José Giménez,1995-01-20,2018-06-30,Centre Back,24.0,"30,000,000 €",Uruguay,55
+1384,Saúl Ñíguez,1994-11-21,2021-06-30,Central Midfield,8.0,"35,000,000 €",Spain,55
+1385,Gabi,1983-07-10,2017-06-30,Central Midfield,14.0,"10,000,000 €",Spain,55
+1386,Tiago,1981-05-02,2017-06-30,Central Midfield,5.0,"2,000,000 €",Portugal,55
+1387,Koke,1992-01-08,2019-06-30,Central Midfield,6.0,"60,000,000 €",Spain,55
+1388,Antoine Griezmann,1991-03-21,2021-06-30,Secondary Striker,7.0,"80,000,000 €",France,55
+1389,Ángel Correa,1995-03-09,2019-06-30,Secondary Striker,11.0,"9,000,000 €",Argentina,55
+1390,Fernando Torres,1984-03-20,2017-06-30,Centre Forward,9.0,"10,000,000 €",Spain,55
+1391,Lucas Hernández,1996-02-14,2020-06-30,Centre Back,19.0,"10,000,000 €",France,55
+1392,André Moreira,1995-12-02,2020-06-30,Keeper,25.0,"1,000,000 €",Portugal,55
+1393,Nico Gaitán,1988-02-23,2020-06-30,Left Wing,23.0,"25,000,000 €",Argentina,55
+1394,Yannick Carrasco,1993-09-04,2020-06-30,Left Wing,10.0,"25,000,000 €",Belgium,55
+1395,Facundo Roncaglia,1987-02-10,2020-06-30,Centre Back,24.0,"4,000,000 €",Argentina,57
+1396,Claudio Beauvue,1988-04-16,2021-06-30,Left Wing,12.0,"4,000,000 €",Guadeloupe,57
+1397,Daniel Wass,1989-05-31,2019-06-30,Attacking Midfield,18.0,"10,000,000 €",Denmark,57
+1398,Sergio Álvarez,1986-08-03,2018-06-30,Keeper,1.0,"3,500,000 €",Spain,57
+1399,Rubén Blanco,1995-07-25,2020-06-30,Keeper,13.0,"1,000,000 €",Spain,57
+1400,Andreu Fontàs,1989-11-14,2019-06-30,Centre Back,3.0,"3,000,000 €",Spain,57
+1401,Sergi Gómez,1992-07-28,2019-06-30,Centre Back,20.0,"5,000,000 €",Spain,57
+1402,Gustavo Cabral,1985-10-14,2019-06-30,Centre Back,22.0,"6,000,000 €",Argentina,57
+1403,David Costas,1995-03-26,2019-06-30,Centre Back,4.0,"1,000,000 €",Spain,57
+1404,Carles Planas,1991-03-04,2017-06-30,Left-Back,21.0,"2,000,000 €",Spain,57
+1405,Hugo Mallo,1991-06-22,2019-06-30,Right-Back,2.0,"7,500,000 €",Spain,57
+1406,Jonny Castro,1994-03-03,2019-06-30,Left-Back,19.0,"6,000,000 €",Spain,57
+1407,Nemanja Radoja,1993-02-06,2019-06-30,Defensive Midfield,6.0,"3,500,000 €",Serbia,57
+1408,Pablo Hernández,1986-10-24,2020-06-30,Attacking Midfield,8.0,"6,000,000 €",Chile,57
+1409,Fabián Orellana,1986-01-27,2019-06-30,Right Wing,14.0,"6,000,000 €",Chile,57
+1410,Iago Aspas,1987-08-01,2020-06-30,Centre Forward,10.0,"10,000,000 €",Spain,57
+1411,Theo Bongonda,1995-11-20,2019-06-30,Right Wing,7.0,"2,500,000 €",Belgium,57
+1412,Marcelo Díaz,1986-12-30,2019-06-30,Defensive Midfield,5.0,"2,500,000 €",Chile,57
+1413,Dejan Drazic,1995-09-26,2020-06-30,Left Wing,16.0,"800,000 €",Serbia,57
+1414,Josep Señé,1991-12-10,2017-06-30,Right Wing,23.0,"400,000 €",Spain,57
+1415,John Guidetti,1992-04-15,2020-06-30,Centre Forward,9.0,"8,000,000 €",Sweden,57
+1416,Álvaro Lemos,1993-03-30,2021-06-30,Right Wing,15.0,"400,000 €",Spain,57
+1417,José Naranjo,1994-07-28,2021-06-30,Left Wing,17.0,"2,000,000 €",Spain,57
+1418,Pione Sisto,1995-02-04,2021-06-30,Right Wing,11.0,"6,000,000 €",Denmark,57
+1419,Aymen Abdennour,1989-08-06,2020-06-30,Centre Back,23.0,"10,000,000 €",Tunisia,59
+1420,Nani,1986-11-17,2019-06-30,Right Wing,17.0,"15,000,000 €",Portugal,59
+1421,Santi Mina,1995-12-07,2021-06-30,Right Wing,22.0,"7,000,000 €",Spain,59
+1422,Martín Montoya,1991-04-14,2020-06-30,Right-Back,21.0,"3,000,000 €",Spain,59
+1423,Diego Alves,1985-06-24,2019-06-30,Keeper,1.0,"4,000,000 €",Brazil,59
+1424,Rúben Vezo,1994-04-25,2018-06-30,Centre Back,3.0,"2,000,000 €",Portugal,59
+1425,José Luis Gayá,1995-05-25,2020-06-30,Left-Back,14.0,"18,000,000 €",Spain,59
+1426,João Cancelo,1994-05-27,2021-06-30,Right-Back,2.0,"15,000,000 €",Portugal,59
+1427,Enzo Pérez,1986-02-22,2019-06-30,Central Midfield,8.0,"12,000,000 €",Argentina,59
+1428,Dani Parejo,1989-04-16,2020-06-30,Central Midfield,10.0,"18,000,000 €",Spain,59
+1429,Rodrigo,1991-03-06,2019-06-30,Left Wing,19.0,"9,000,000 €",Spain,59
+1430,Paco Alcácer,1993-08-30,2020-06-30,Centre Forward,9.0,"25,000,000 €",Spain,59
+1431,Federico Cartabia,1993-01-20,2017-06-30,Right Wing,16.0,"2,500,000 €",Argentina,59
+1432,Guilherme Siqueira,1986-04-28,2017-06-30,Left-Back,6.0,"3,000,000 €",Brazil,59
+1433,Robert Ibáñez,1993-03-22,2018-06-30,Right Wing,12.0,"1,500,000 €",Spain,59
+1434,Aderlan Santos,1989-04-09,2020-06-30,Centre Back,4.0,"5,000,000 €",Brazil,59
+1435,Álvaro Medrán,1994-03-15,2020-06-30,Central Midfield,20.0,"1,000,000 €",Spain,59
+1436,Mathew Ryan,1992-04-08,2021-06-30,Keeper,25.0,"4,000,000 €",Australia,59
+1437,Zakaria Bakkali,1996-01-26,2020-06-30,Left Wing,11.0,"3,000,000 €",Belgium,59
+1438,Salva Ruiz,1995-05-17,,Left-Back,NaN,"200,000 €",Spain,59
+1439,Jaume Doménech,1990-11-05,2018-06-30,Keeper,13.0,"4,000,000 €",Spain,59
+1440,Mario Suárez,1987-02-24,2017-06-30,Defensive Midfield,7.0,"8,500,000 €",Spain,59
+1441,Míchel,1990-02-15,2018-06-30,Right-Back,12.0,"600,000 €",Brazil,60
+1442,Nabil El Zhar,1986-08-27,2017-06-30,Right Wing,8.0,"1,500,000 €",Morocco,60
+1443,Hélder Lopes,1989-01-04,2018-06-30,Left-Back,22.0,"2,000,000 €",Portugal,60
+1444,Javi Varas,1982-09-10,2017-06-30,Keeper,13.0,"800,000 €",Spain,60
+1445,Raúl Lizoain,1991-01-27,2017-06-30,Keeper,1.0,"400,000 €",Spain,60
+1446,Aythami Artiles,1986-04-02,2017-06-30,Centre Back,16.0,"2,000,000 €",Spain,60
+1447,Pedro Bigas,1990-05-15,2017-06-30,Centre Back,17.0,"3,000,000 €",Spain,60
+1448,David García,1982-02-25,2017-06-30,Centre Back,5.0,"300,000 €",Spain,60
+1449,David Simón,1989-12-31,2019-06-30,Right-Back,2.0,"2,000,000 €",Spain,60
+1450,Javi Castellano,1987-11-02,2017-06-30,Defensive Midfield,18.0,"400,000 €",Spain,60
+1451,Vicente Gómez,1988-08-31,2020-06-30,Defensive Midfield,4.0,"2,500,000 €",Spain,60
+1452,Hernán,1990-08-26,2018-06-30,Central Midfield,14.0,"900,000 €",Spain,60
+1453,Roque Mesa,1989-06-07,2020-06-30,Central Midfield,15.0,"7,500,000 €",Spain,60
+1454,Dani Castellano,1987-11-02,2017-06-30,Left-Back,23.0,"2,000,000 €",Spain,60
+1455,Jonathan Viera,1989-10-21,2018-06-30,Left Wing,21.0,"6,000,000 €",Spain,60
+1456,Momo,1982-07-15,2017-06-30,Left Wing,11.0,"300,000 €",Spain,60
+1457,Tana,1990-09-20,2019-06-30,Secondary Striker,24.0,"3,500,000 €",Spain,60
+1458,Sergio Araujo,1992-01-28,2020-06-30,Centre Forward,10.0,"2,000,000 €",Argentina,60
+1459,Marko Livaja,1993-08-26,2020-06-30,Centre Forward,9.0,"3,000,000 €",Croatia,60
+1460,Mauricio Lemos,1995-12-28,2021-06-30,Centre Back,3.0,"4,000,000 €",Uruguay,60
+1461,Ángel Montoro,1988-06-25,2017-06-30,Central Midfield,6.0,"800,000 €",Spain,60
+1462,Mateo García,1996-09-10,2020-06-30,Midfield,19.0,,Argentina,60
+1463,Tyronne,1991-01-27,2019-06-30,Attacking Midfield,20.0,"300,000 €",Spain,60
+1464,José Artiles,1993-06-10,2018-06-30,Right Wing,NaN,"100,000 €",Spain,60
+1465,Tomás Vaclík,1989-03-29,2018-06-30,Keeper,1.0,,Czech Republic,61
+1466,Germano Vailati,1980-08-30,2016-06-30,Keeper,18.0,,Switzerland,61
+1467,Pascal Albrecht,1995-04-29,,Keeper,23.0,,Switzerland,61
+1468,Marek Suchy,1988-03-29,2017-06-30,Centre Back,17.0,,Czech Republic,61
+1469,Ivan Ivanov,1988-02-25,2016-06-30,Centre Back,15.0,,Bulgaria,61
+1470,Wálter Samuel,1978-03-22,2015-06-30,Centre Back,6.0,,Argentina,61
+1471,Behrang Safari,1985-02-09,2016-06-30,Left-Back,19.0,,Sweden,61
+1472,Philipp Degen,1983-02-15,2016-06-30,Right-Back,4.0,,Switzerland,61
+1473,Luca Zuffi,1990-03-27,2017-06-30,Central Midfield,7.0,,Switzerland,61
+1474,Matías Delgado,1982-12-15,2017-06-30,Attacking Midfield,10.0,,Argentina,61
+1475,Davide Callà,1984-10-06,2016-06-30,Left Wing,39.0,,Switzerland,61
+1476,Ahmed Hamoudi,1990-07-30,2018-06-30,Right Wing,24.0,,Egypt,61
+1477,Yoichiro Kakitani,1990-01-03,2018-06-30,Left Wing,14.0,,Japan,61
+1478,Breel Donald Embolo,1997-02-14,2019-06-30,Centre Forward,36.0,,Switzerland,61
+1479,Marco Streller,1981-06-18,2016-06-30,Centre Forward,9.0,,Switzerland,61
+1480,Robin Huser,1998-01-24,,Defensive Midfield,28.0,,Switzerland,61
+1481,Arxhend Cani,1997-08-02,,Attacking Midfield,NaN,,Switzerland,61
+1482,Vladislav Stoyanov,1987-06-08,2015-06-30,Keeper,21.0,,Bulgaria,62
+1483,Ivan Cvorovic,1985-09-21,,Keeper,91.0,,Bulgaria,62
+1484,Georgi Argilashki,1991-06-13,,Keeper,30.0,,Bulgaria,62
+1485,Cosmin Moti,1984-12-03,2018-06-30,Centre Back,27.0,,Romania,62
+1486,Georgi Terziev,1992-04-18,2017-06-30,Centre Back,55.0,,Bulgaria,62
+1487,Alexandre Barthe,1986-03-05,2015-06-30,Centre Back,5.0,,France,62
+1488,Aleksandar Aleksandrov,1986-04-13,2016-06-30,Centre Back,15.0,,Bulgaria,62
+1489,Brayan Angulo,1989-11-02,2015-06-30,Left-Back,16.0,,Colombia,62
+1490,Vitinha,1986-02-11,2015-06-30,Left-Back,77.0,,Portugal,62
+1491,Júnior Caiçara,1989-04-27,2017-06-30,Right-Back,80.0,,Brazil,62
+1492,Yordan Minev,1980-10-14,2016-06-30,Right-Back,25.0,,Bulgaria,62
+1493,Kristian Kitov,1996-10-14,,Mittelfeld,38.0,,Bulgaria,62
+1494,Svetoslav Dyakov,1984-05-31,2018-06-30,Defensive Midfield,18.0,,Bulgaria,62
+1495,Hristo Zlatinski,1985-01-22,2016-06-30,Central Midfield,23.0,,Bulgaria,62
+1496,Aleksandar Vasilev,1995-04-27,2017-06-30,Left Midfield,19.0,,Bulgaria,62
+1497,Marcelinho,1984-08-24,2016-06-30,Attacking Midfield,84.0,,Brazil,62
+1498,Anicet,1990-03-13,2016-06-30,Attacking Midfield,12.0,,Madagascar,62
+1499,Juninho Quixadá,1985-12-12,2018-06-30,Attacking Midfield,11.0,,Brazil,62
+1500,Mihail Aleksandrov,1989-06-11,,Left Wing,7.0,,Bulgaria,62
+1501,Vura,1993-07-24,2018-06-30,Right Wing,93.0,,Netherlands,62
+1502,Dani Abalo,1987-09-29,2015-06-30,Right Wing,17.0,,Spain,62
+1503,Younes Hamza,1986-04-16,2017-06-30,Secondary Striker,99.0,,Tunisia,62
+1504,Manuel Neuer,1986-03-27,2021-06-30,Keeper,1.0,"45,000,000 €",Germany,63
+1505,Sven Ulreich,1988-08-03,2018-06-30,Keeper,26.0,"2,500,000 €",Germany,63
+1506,Tom Starke,1981-03-18,2017-06-30,Keeper,22.0,"200,000 €",Germany,63
+1507,Jérôme Boateng,1988-09-03,2021-06-30,Centre Back,17.0,"45,000,000 €",Germany,63
+1508,Holger Badstuber,1989-03-13,2017-06-30,Centre Back,28.0,"3,000,000 €",Germany,63
+1509,David Alaba,1992-06-24,2021-06-30,Left-Back,27.0,"45,000,000 €",Austria,63
+1510,Juan Bernat,1993-03-01,2019-06-30,Left-Back,18.0,"18,000,000 €",Spain,63
+1511,Philipp Lahm,1983-11-11,2018-06-30,Right-Back,21.0,"13,000,000 €",Germany,63
+1512,Rafinha,1985-09-07,2017-06-30,Right-Back,13.0,"5,500,000 €",Brazil,63
+1513,Javi Martínez,1988-09-02,2021-06-30,Centre Back,8.0,"25,000,000 €",Spain,63
+1514,Xabi Alonso,1981-11-25,2017-06-30,Defensive Midfield,14.0,"4,000,000 €",Spain,63
+1515,Joshua Kimmich,1995-02-08,2020-06-30,Defensive Midfield,32.0,"20,000,000 €",Germany,63
+1516,Arturo Vidal,1987-05-22,2019-06-30,Central Midfield,23.0,"40,000,000 €",Chile,63
+1517,Thiago,1991-04-11,2019-06-30,Central Midfield,6.0,"22,000,000 €",Spain,63
+1518,Franck Ribéry,1983-04-07,2017-06-30,Left Wing,7.0,"9,000,000 €",France,63
+1519,Kingsley Coman,1996-06-13,2017-06-30,Right Wing,29.0,"20,000,000 €",France,63
+1520,Julian Green,1995-06-06,2017-06-30,Centre Forward,37.0,"500,000 €",United States,63
+1521,Arjen Robben,1984-01-23,2017-06-30,Right Wing,10.0,"11,000,000 €",Netherlands,63
+1522,Douglas Costa,1990-09-14,2020-06-30,Left Wing,11.0,"35,000,000 €",Brazil,63
+1523,Thomas Müller,1989-09-13,2021-06-30,Secondary Striker,25.0,"75,000,000 €",Germany,63
+1524,Robert Lewandowski,1988-08-21,2019-06-30,Centre Forward,9.0,"75,000,000 €",Poland,63
+1525,Mats Hummels,1988-12-16,2021-06-30,Centre Back,5.0,"38,000,000 €",Germany,63
+1526,Renato Sanches,1997-08-18,2021-06-30,Central Midfield,35.0,"30,000,000 €",Portugal,63
+1527,Niklas Dorsch,1998-01-15,2018-06-30,Defensive Midfield,30.0,"200,000 €",Germany,63
+1528,Fabian Benko,1998-06-05,2018-06-30,Attacking Midfield,40.0,"250,000 €",Germany,63
+1529,Erdal Öztürk,1996-02-07,2018-06-30,Central Midfield,38.0,"75,000 €",Germany,63
+1530,Siem de Jong,1989-01-28,2017-06-30,Attacking Midfield,10.0,"7,000,000 €",Netherlands,65
+1531,Héctor Moreno,1988-01-17,2019-06-30,Centre Back,3.0,"8,000,000 €",Mexico,65
+1532,Daniel Schwaab,1988-08-23,2019-06-30,Centre Back,5.0,"1,500,000 €",Germany,65
+1533,Jeroen Zoet,1991-01-06,2019-06-30,Keeper,1.0,"8,500,000 €",Netherlands,65
+1534,Remko Pasveer,1983-11-08,2018-06-30,Keeper,22.0,"800,000 €",Netherlands,65
+1535,Luuk Koopmans,1993-11-18,2018-06-30,Keeper,21.0,"300,000 €",Netherlands,65
+1536,Nicolas Isimat-Mirin,1991-11-15,2020-06-30,Centre Back,2.0,"3,000,000 €",France,65
+1537,Jordy de Wijs,1995-01-08,2019-06-30,Centre Back,30.0,"400,000 €",Netherlands,65
+1538,Suently Alberto,1996-06-09,2018-06-30,Centre Back,33.0,"250,000 €",Netherlands,65
+1539,Jetro Willems,1994-03-30,2017-06-30,Left-Back,15.0,"9,500,000 €",Netherlands,65
+1540,Simon Poulsen,1984-10-07,2017-06-30,Left-Back,14.0,"800,000 €",Denmark,65
+1541,Santiago Arias,1992-01-13,2019-06-30,Right-Back,4.0,"6,000,000 €",Colombia,65
+1542,Joshua Brenet,1994-03-20,2017-06-30,Right-Back,20.0,"3,500,000 €",Netherlands,65
+1543,Andrés Guardado,1986-09-28,2018-06-30,Central Midfield,18.0,"8,000,000 €",Mexico,65
+1544,Jorrit Hendrix,1995-02-06,2020-06-30,Defensive Midfield,8.0,"5,000,000 €",Netherlands,65
+1545,Davy Pröpper,1991-09-02,2020-06-30,Central Midfield,6.0,"9,000,000 €",Netherlands,65
+1546,Adam Maher,1993-07-20,2018-06-30,Central Midfield,10.0,"4,000,000 €",Netherlands,65
+1547,Gastón Pereiro,1995-06-11,2020-06-30,Right Wing,7.0,"7,000,000 €",Uruguay,65
+1548,Rai Vloet,1995-05-08,2018-06-30,Attacking Midfield,23.0,"500,000 €",Netherlands,65
+1549,Kenneth Paal,1997-06-24,2020-06-30,Attacking Midfield,32.0,"350,000 €",Netherlands,65
+1550,Steven Bergwijn,1997-10-08,2021-06-30,Left Wing,27.0,"1,500,000 €",Netherlands,65
+1551,Luciano Narsingh,1990-09-13,2017-06-30,Right Wing,11.0,"5,000,000 €",Netherlands,65
+1552,Florian Jozefzoon,1991-02-09,2017-06-30,Right Wing,17.0,"1,500,000 €",Netherlands,65
+1553,Luuk de Jong,1990-08-27,2020-06-30,Centre Forward,9.0,"10,000,000 €",Netherlands,65
+1554,Jürgen Locadia,1993-11-07,2019-06-30,Centre Forward,19.0,"5,500,000 €",Netherlands,65
+1555,Hidde Jurjus,1994-02-09,2021-06-30,Keeper,31.0,"800,000 €",Netherlands,65
+1556,Bart Ramselaar,1996-06-29,2021-06-30,Attacking Midfield,25.0,"5,000,000 €",Netherlands,65
+1557,Niko Kranjcar,1984-08-13,2016-06-30,Attacking Midfield,21.0,,Croatia,67
+1558,Derlis González,1994-03-20,2020-06-30,Right Wing,25.0,,Paraguay,67
+1559,Vitorino Antunes,1987-04-01,2019-06-30,Left-Back,5.0,,Portugal,67
+1560,Oleksandr Rybka,1987-04-10,2015-12-31,Keeper,23.0,,Ukraine,67
+1561,Oleksandr Shovkovsky,1975-01-02,2016-06-30,Keeper,1.0,,Ukraine,67
+1562,Georgi Bushchan,1994-05-31,2017-06-30,Keeper,52.0,,Ukraine,67
+1563,Evgen Khacheridi,1987-07-28,2017-06-30,Centre Back,34.0,,Ukraine,67
+1564,Danilo Silva,1986-11-24,2018-06-30,Centre Back,2.0,,Brazil,67
+1565,Mykyta Burda,1995-03-24,2017-06-30,Centre Back,26.0,,Ukraine,67
+1566,Evgen Makarenko,1991-05-21,2017-06-30,Left-Back,27.0,,Ukraine,67
+1567,Domagoj Vida,1989-04-29,2018-06-30,Right-Back,24.0,,Croatia,67
+1568,Mykola Morozyuk,1988-01-17,2018-06-30,Right-Back,9.0,,Ukraine,67
+1569,Denys Garmash,1990-04-19,2016-06-30,Central Midfield,19.0,,Ukraine,67
+1570,Sergiy Sydorchuk,1991-05-02,2019-12-31,Central Midfield,16.0,,Ukraine,67
+1571,Sergiy Rybalka,1990-04-01,2018-12-31,Central Midfield,17.0,,Ukraine,67
+1572,Vitali Buyalsky,1993-01-06,2019-06-30,Central Midfield,29.0,,Ukraine,67
+1573,Sergiy Myakushko,1993-04-15,2016-06-30,Left Midfield,88.0,,Ukraine,67
+1574,Oleg Gusev,1983-04-25,2015-12-31,Right Wing,20.0,,Ukraine,67
+1575,Andriy Yarmolenko,1989-10-23,2016-06-30,Right Wing,10.0,,Ukraine,67
+1576,Lukasz Teodorczyk,1991-06-03,2019-06-30,Centre Forward,91.0,,Poland,67
+1577,Júnior Moraes,1987-04-04,2018-06-30,Centre Forward,11.0,,Brazil,67
+1578,Ederson,1993-08-17,2020-06-30,Keeper,1.0,"7,000,000 €",Brazil,68
+1579,Nélson Oliveira,1991-08-08,2018-06-30,Centre Forward,NaN,"3,000,000 €",Portugal,68
+1580,Konstantinos Mitroglou,1988-03-12,2020-06-30,Centre Forward,11.0,"11,500,000 €",Greece,68
+1581,Júlio César,1979-09-03,2018-06-30,Keeper,12.0,"1,000,000 €",Brazil,68
+1582,Paulo Lopes,1978-06-29,2017-06-30,Keeper,13.0,"100,000 €",Portugal,68
+1583,Lisandro López,1989-09-01,2018-06-30,Centre Back,2.0,"6,000,000 €",Argentina,68
+1584,Luisão,1981-02-13,2017-06-30,Centre Back,4.0,"1,500,000 €",Brazil,68
+1585,Jardel,1986-03-29,2020-06-30,Centre Back,33.0,"7,500,000 €",Brazil,68
+1586,Eliseu,1983-10-01,2017-06-30,Left-Back,19.0,"2,000,000 €",Portugal,68
+1587,André Almeida,1990-09-10,2019-06-30,Right-Back,34.0,"7,000,000 €",Portugal,68
+1588,Andreas Samaris,1989-06-13,2019-06-30,Defensive Midfield,7.0,"9,000,000 €",Greece,68
+1589,Ljubomir Fejsa,1988-08-14,2019-06-30,Defensive Midfield,5.0,"9,000,000 €",Serbia,68
+1590,Rúben Amorim,1985-01-27,2018-06-30,Central Midfield,NaN,"1,800,000 €",Portugal,68
+1591,Pizzi,1989-10-06,2019-06-30,Right Wing,21.0,"13,000,000 €",Portugal,68
+1592,Jonas,1984-04-01,2018-06-30,Secondary Striker,10.0,"12,000,000 €",Brazil,68
+1593,André Carrillo,1991-06-14,2021-06-30,Right Wing,15.0,"10,000,000 €",Peru,68
+1594,Raúl Jiménez,1991-05-05,2020-06-30,Centre Forward,9.0,"8,000,000 €",Mexico,68
+1595,André Horta,1996-11-07,2021-06-30,Attacking Midfield,8.0,"2,000,000 €",Portugal,68
+1596,Victor Lindelöf,1994-07-17,2020-06-30,Centre Back,14.0,"12,000,000 €",Sweden,68
+1597,Nélson Semedo,1993-11-16,2021-06-30,Right-Back,50.0,"4,000,000 €",Portugal,68
+1598,Toto Salvio,1990-07-13,2019-06-30,Right Wing,18.0,"15,000,000 €",Argentina,68
+1599,Mehdi Carcela-González,1989-07-01,2019-06-30,Left Wing,39.0,"5,000,000 €",Morocco,68
+1600,Gonçalo Guedes,1996-11-29,2021-06-30,Secondary Striker,20.0,"6,500,000 €",Portugal,68
+1601,Branimir Kalaica,1998-06-01,2022-06-30,Centre Back,16.0,"250,000 €",Croatia,68
+1602,Alejandro Grimaldo,1995-09-20,2021-06-30,Left-Back,3.0,"2,000,000 €",Spain,68
+1603,Danilo Barbosa,1996-02-28,2017-06-30,Defensive Midfield,NaN,"7,000,000 €",Brazil,68
+1604,Guillermo Celis,1993-05-08,2021-06-30,Defensive Midfield,28.0,"2,000,000 €",Colombia,68
+1605,Franco Cervi,1994-05-26,2022-06-30,Left Wing,22.0,"5,500,000 €",Argentina,68
+1606,Andrija Zivkovic,1996-07-11,2021-06-30,Right Wing,17.0,"6,500,000 €",Serbia,68
+1607,Óscar Benítez,1993-01-14,2021-06-30,Right Wing,23.0,"3,000,000 €",Argentina,68
+1608,Ángel di María,1988-02-14,2019-06-30,Right Wing,11.0,"60,000,000 €",Argentina,70
+1609,Kevin Trapp,1990-07-08,2020-06-30,Keeper,1.0,"12,000,000 €",Germany,70
+1610,Lucas,1992-08-13,2019-06-30,Right Wing,7.0,"35,000,000 €",Brazil,70
+1611,Layvin Kurzawa,1992-09-04,2020-06-30,Left-Back,20.0,"20,000,000 €",France,70
+1612,Thiago Silva,1984-09-22,2018-06-30,Centre Back,2.0,"16,000,000 €",Brazil,70
+1613,Marquinhos,1994-05-14,2019-06-30,Centre Back,5.0,"30,000,000 €",Brazil,70
+1614,Maxwell,1981-08-27,2017-06-30,Left-Back,17.0,"1,000,000 €",Brazil,70
+1615,Serge Aurier,1992-12-24,2019-06-30,Right-Back,19.0,"15,000,000 €",Cote d'Ivoire,70
+1616,Thiago Motta,1982-08-28,2017-06-30,Defensive Midfield,8.0,"3,000,000 €",Italy,70
+1617,Marco Verratti,1992-11-05,2021-06-30,Central Midfield,6.0,"40,000,000 €",Italy,70
+1618,Blaise Matuidi,1987-04-09,2018-06-30,Central Midfield,14.0,"30,000,000 €",France,70
+1619,Adrien Rabiot,1995-04-03,2019-06-30,Central Midfield,25.0,"12,000,000 €",France,70
+1620,Javier Pastore,1989-06-20,2019-06-30,Attacking Midfield,10.0,"24,000,000 €",Argentina,70
+1621,Edinson Cavani,1987-02-14,2018-06-30,Centre Forward,9.0,"37,000,000 €",Uruguay,70
+1622,Hatem Ben Arfa,1987-03-07,2018-06-30,Attacking Midfield,21.0,"14,000,000 €",France,70
+1623,Alphonse Aréola,1993-02-27,2019-06-30,Keeper,16.0,"8,000,000 €",France,70
+1624,Hervin Ongenda,1995-06-24,2017-06-30,Left Wing,35.0,"1,500,000 €",France,70
+1625,Grzegorz Krychowiak,1990-01-29,2021-06-30,Defensive Midfield,4.0,"30,000,000 €",Poland,70
+1626,Jesé,1993-02-26,2021-06-30,Left Wing,22.0,"14,000,000 €",Spain,70
+1627,Presnel Kimpembe,1995-08-13,2018-06-30,Centre Back,3.0,"2,000,000 €",France,70
+1628,Jean-Kévin Augustin,1997-06-16,2018-06-30,Centre Forward,29.0,"1,500,000 €",France,70
+1629,Rémy Descamps,1996-06-25,2019-06-30,Keeper,40.0,"150,000 €",France,70
+1630,Thomas Meunier,1991-09-12,2020-06-30,Right-Back,12.0,"6,000,000 €",Belgium,70
+1631,Christopher Nkunku,1997-11-14,2018-06-30,Central Midfield,24.0,"500,000 €",France,70
+1632,Raphaël Guerreiro,1993-12-22,2020-06-30,Left-Back,13.0,"12,000,000 €",Portugal,72
+1633,Marc Bartra,1991-01-15,2020-06-30,Centre Back,5.0,"8,000,000 €",Spain,72
+1634,André Schürrle,1990-11-06,2021-06-30,Left Wing,21.0,"25,000,000 €",Germany,72
+1635,Sebastian Rode,1990-10-11,2020-06-30,Central Midfield,18.0,"10,000,000 €",Germany,72
+1636,Mario Götze,1992-06-03,2020-06-30,Attacking Midfield,10.0,"28,000,000 €",Germany,72
+1637,Roman Bürki,1990-11-14,2019-06-30,Keeper,38.0,"6,000,000 €",Switzerland,72
+1638,Roman Weidenfeller,1980-08-06,2017-06-30,Keeper,1.0,"1,000,000 €",Germany,72
+1639,Hendrik Bonmann,1994-01-22,2018-06-30,Keeper,39.0,"150,000 €",Germany,72
+1640,Sokratis,1988-06-09,2019-06-30,Centre Back,25.0,"22,000,000 €",Greece,72
+1641,Neven Subotic,1988-12-10,2018-06-30,Centre Back,4.0,"8,000,000 €",Serbia,72
+1642,Matthias Ginter,1994-01-19,2019-06-30,Centre Back,28.0,"12,000,000 €",Germany,72
+1643,Marcel Schmelzer,1988-01-22,2021-06-30,Left-Back,29.0,"9,000,000 €",Germany,72
+1644,Joo-Ho Park,1987-01-16,2018-06-30,Left-Back,3.0,"1,750,000 €","Korea, South",72
+1645,Lukasz Piszczek,1985-06-03,2018-06-30,Right-Back,26.0,"6,000,000 €",Poland,72
+1646,Erik Durm,1992-05-12,2019-06-30,Right-Back,37.0,"5,000,000 €",Germany,72
+1647,Sven Bender,1989-04-27,2021-06-30,Centre Back,6.0,"11,000,000 €",Germany,72
+1648,Julian Weigl,1995-09-08,2019-06-30,Defensive Midfield,33.0,"18,000,000 €",Germany,72
+1649,Gonzalo Castro,1987-06-11,2019-06-30,Central Midfield,27.0,"15,000,000 €",Germany,72
+1650,Nuri Sahin,1988-09-05,2018-06-30,Central Midfield,8.0,"6,500,000 €",Turkey,72
+1651,Shinji Kagawa,1989-03-17,2018-06-30,Attacking Midfield,23.0,"16,000,000 €",Japan,72
+1652,Marco Reus,1989-05-31,2019-06-30,Left Wing,11.0,"40,000,000 €",Germany,72
+1653,Pierre-Emerick Aubameyang,1989-06-18,2020-06-30,Centre Forward,17.0,"45,000,000 €",Gabon,72
+1654,Adrián Ramos,1986-01-22,2018-06-30,Centre Forward,20.0,"6,000,000 €",Colombia,72
+1655,Christian Pulisic,1998-09-18,2018-06-30,Attacking Midfield,22.0,"5,000,000 €",United States,72
+1656,Felix Passlack,1998-05-29,2018-06-30,Right-Back,30.0,"1,000,000 €",Germany,72
+1657,Ousmane Dembélé,1997-05-15,2021-06-30,Right Wing,7.0,"14,000,000 €",France,72
+1658,Mikel Merino,1996-06-22,2021-06-30,Central Midfield,24.0,"3,000,000 €",Spain,72
+1659,Dzenis Burnic,1998-05-22,2018-06-30,Central Midfield,32.0,"100,000 €",Germany,72
+1660,Emre Mor,1997-07-24,2021-06-30,Right Wing,9.0,"5,000,000 €",Turkey,72
+1661,Rafael,1990-07-09,2019-06-30,Right-Back,20.0,"5,000,000 €",Brazil,73
+1662,Mapou Yanga-Mbiwa,1989-05-15,2020-06-30,Centre Back,2.0,"6,000,000 €",France,73
+1663,Maxwel Cornet,1996-09-27,2021-06-30,Left Wing,27.0,"7,000,000 €",France,73
+1664,Nicolas N'Koulou,1990-03-27,2020-06-30,Centre Back,3.0,"10,000,000 €",Cameroon,73
+1665,Jérémy Morel,1984-04-02,2018-06-30,Left-Back,15.0,"1,000,000 €",France,73
+1666,Anthony Lopes,1990-10-01,2020-06-30,Keeper,1.0,"13,000,000 €",Portugal,73
+1667,Mathieu Gorgelin,1990-08-05,2020-06-30,Keeper,30.0,"400,000 €",France,73
+1668,Christophe Jallet,1983-10-31,2018-06-30,Right-Back,13.0,"2,000,000 €",France,73
+1669,Maxime Gonalons,1989-03-10,2018-06-30,Defensive Midfield,21.0,"15,000,000 €",France,73
+1670,Gueïda Fofana,1991-05-16,2017-06-30,Defensive Midfield,6.0,"1,500,000 €",France,73
+1671,Jordan Ferri,1992-03-12,2020-06-30,Central Midfield,12.0,"7,500,000 €",France,73
+1672,Corentin Tolisso,1994-08-03,2020-06-30,Central Midfield,8.0,"13,000,000 €",France,73
+1673,Clément Grenier,1991-01-07,2018-06-30,Central Midfield,7.0,"5,500,000 €",France,73
+1674,Nabil Fekir,1993-07-18,2020-06-30,Centre Forward,18.0,"11,000,000 €",France,73
+1675,Rachid Ghezzal,1992-05-09,2017-06-30,Right Wing,11.0,"5,500,000 €",Algeria,73
+1676,Alexandre Lacazette,1991-05-28,2019-06-30,Centre Forward,10.0,"35,000,000 €",France,73
+1677,Sergi Darder,1993-12-22,2020-06-30,Central Midfield,14.0,"12,000,000 €",Spain,73
+1678,Lucas Mocio,1994-05-11,2016-06-30,Keeper,16.0,"150,000 €",France,73
+1679,Lucas Tousart,1997-04-29,2019-06-30,Defensive Midfield,29.0,"2,000,000 €",France,73
+1680,Olivier Kemen,1996-07-20,2019-06-30,Central Midfield,24.0,"800,000 €",France,73
+1681,Mathieu Valbuena,1984-09-28,2018-06-30,Attacking Midfield,19.0,"4,500,000 €",France,73
+1682,Aldo Kalulu,1996-01-21,2019-06-30,Centre Forward,26.0,"600,000 €",France,73
+1683,Emanuel Mammana,1996-02-10,2021-06-30,Centre Back,4.0,"7,500,000 €",Argentina,73
+1684,Maciej Rybus,1989-08-19,2019-06-30,Left-Back,31.0,"5,000,000 €",Poland,73
+1685,Maxime D'Arpino,1996-06-17,2019-06-30,Central Midfield,NaN,"150,000 €",France,73
+1686,Christopher Martins Pereira,1997-02-19,2020-06-30,Central Midfield,46.0,"100,000 €",Luxembourg,73
+1687,Gaëtan Perrin,1996-06-07,2019-06-30,Centre Forward,22.0,"250,000 €",France,73
+1688,Antonijo Jezina,1989-06-05,2018-02-10,Keeper,1.0,,Croatia,74
+1689,Marko Mikulic,1994-01-30,2020-06-15,Keeper,33.0,,Croatia,74
+1690,Jérémy Taravel,1987-04-17,,Centre Back,87.0,,France,74
+1691,Gordon Schildenfeld,1985-03-18,2018-06-30,Centre Back,23.0,,Croatia,74
+1692,Leonardo Sigali,1987-05-29,,Centre Back,22.0,,Argentina,74
+1693,Josip Calusic,1993-10-11,2019-06-15,Centre Back,NaN,,Croatia,74
+1694,Filip Benkovic,1997-07-13,2020-06-15,Centre Back,26.0,,Croatia,74
+1695,Mario Musa,1990-07-06,2019-06-15,Left-Back,3.0,,Croatia,74
+1696,Josip Pivaric,1989-01-30,2016-06-30,Left-Back,19.0,,Croatia,74
+1697,Alexandru Matel,1989-10-17,2019-06-30,Right-Back,71.0,,Romania,74
+1698,Arijan Ademi,1991-05-29,2020-06-15,Defensive Midfield,16.0,,Macedonia,74
+1699,Gonçalo,1986-11-15,2017-06-30,Defensive Midfield,13.0,,Portugal,74
+1700,Domagoj Antolic,1990-06-30,2018-06-15,Central Midfield,8.0,,Croatia,74
+1701,Paulo Machado,1986-03-31,,Central Midfield,10.0,,Portugal,74
+1702,Domagoj Pavicic,1994-03-09,2020-06-15,Central Midfield,18.0,,Croatia,74
+1703,Damir Sovsic,1990-02-05,2016-01-18,Left Midfield,7.0,,Croatia,74
+1704,Ante Coric,1997-04-14,2020-06-15,Attacking Midfield,24.0,,Croatia,74
+1705,Amer Gojak,1997-02-13,2020-06-15,Attacking Midfield,14.0,,Bosnia-Herzegovina,74
+1706,Endri Cekici,1996-11-23,2020-06-15,Left Wing,17.0,,Albania,74
+1707,Júnior Fernándes,1988-10-04,2018-06-15,Left Wing,11.0,,Chile,74
+1708,El Arbi Hillel Soudani,1987-11-25,2017-06-15,Right Wing,2.0,,Algeria,74
+1709,Ángelo Henríquez,1994-04-13,2020-06-30,Centre Forward,9.0,,Chile,74
+1710,Dani Olmo,1998-05-07,2017-06-15,Centre Forward,21.0,,Spain,74
+1711,Armin Hodzic,1994-11-17,2019-06-15,Centre Forward,15.0,,Bosnia-Herzegovina,74
+1712,Silvestre Varela,1985-02-02,2019-06-30,Left Wing,7.0,"2,800,000 €",Portugal,75
+1713,Alex Telles,1992-12-15,2021-06-30,Left-Back,13.0,"8,000,000 €",Brazil,75
+1714,Maxi Pereira,1984-06-08,2019-06-30,Right-Back,2.0,"5,500,000 €",Uruguay,75
+1715,Diego Reyes,1992-09-19,2018-06-30,Centre Back,31.0,"4,000,000 €",Mexico,75
+1716,Iván Marcano,1987-06-23,2018-06-30,Centre Back,5.0,"6,000,000 €",Spain,75
+1717,Rúben Neves,1997-03-13,2019-06-30,Defensive Midfield,6.0,"11,000,000 €",Portugal,75
+1718,Héctor Herrera,1990-04-19,2019-06-30,Central Midfield,16.0,"16,000,000 €",Mexico,75
+1719,Óliver Torres,1994-11-10,2017-12-31,Attacking Midfield,30.0,"14,000,000 €",Spain,75
+1720,Juan Quintero,1993-01-18,2021-06-30,Attacking Midfield,NaN,"6,000,000 €",Colombia,75
+1721,Otávio,1995-02-09,2019-06-30,Left Wing,25.0,"4,000,000 €",Brazil,75
+1722,Evandro,1986-08-23,2018-06-30,Attacking Midfield,15.0,"2,000,000 €",Brazil,75
+1723,Yacine Brahimi,1990-02-08,2019-06-30,Left Wing,8.0,"20,000,000 €",Algeria,75
+1724,Vincent Aboubakar,1992-01-22,2018-06-30,Centre Forward,26.0,"10,500,000 €",Cameroon,75
+1725,Miguel Layún,1988-06-25,,Left-Back,21.0,"10,000,000 €",Mexico,75
+1726,Iker Casillas,1981-05-20,2017-06-30,Keeper,1.0,"3,000,000 €",Spain,75
+1727,Nabil Ghilas,1990-04-20,2017-06-30,Centre Forward,19.0,"1,800,000 €",Algeria,75
+1728,Alberto Bueno,1988-03-20,2020-06-30,Secondary Striker,23.0,"4,000,000 €",Spain,75
+1729,José Sá,1993-01-17,2020-06-30,Keeper,12.0,"1,250,000 €",Portugal,75
+1730,Danilo Pereira,1991-09-09,2019-06-30,Defensive Midfield,22.0,"14,000,000 €",Portugal,75
+1731,André André,1989-08-26,2019-06-30,Attacking Midfield,20.0,"8,000,000 €",Portugal,75
+1732,Sérgio Oliveira,1992-06-02,2020-06-30,Central Midfield,3.0,"2,500,000 €",Portugal,75
+1733,Diogo Jota,1996-12-04,2017-06-30,Left Wing,18.0,"7,000,000 €",Portugal,75
+1734,Laurent Depoitre,1988-12-07,2020-06-30,Centre Forward,9.0,"6,500,000 €",Belgium,75
+1735,Adrián López,1988-01-08,2019-06-30,Secondary Striker,11.0,"4,000,000 €",Spain,75
+1736,Jesús Corona,1993-01-06,2020-06-30,Right Wing,17.0,"10,000,000 €",Mexico,75
+1737,André Silva,1995-11-06,2021-06-30,Centre Forward,10.0,"4,000,000 €",Portugal,75
+1738,João Teixeira,1993-01-18,2020-06-30,Attacking Midfield,18.0,"1,000,000 €",Portugal,75
+1739,João Costa,1996-02-02,2018-06-30,Keeper,24.0,"50,000 €",Portugal,75
+1740,Chidozie,1997-01-01,2020-06-30,Centre Back,33.0,"2,000,000 €",Nigeria,75
+1741,Ezequiel Schelotto,1989-05-23,2019-06-30,Right-Back,2.0,"4,000,000 €",Italy,78
+1742,Sebastián Coates,1990-10-07,2017-06-30,Centre Back,13.0,"5,000,000 €",Uruguay,78
+1743,Rui Patrício,1988-02-15,2022-06-30,Keeper,1.0,"16,000,000 €",Portugal,78
+1744,Paulo Oliveira,1992-01-08,2019-06-30,Centre Back,15.0,"5,000,000 €",Portugal,78
+1745,Jefferson,1988-07-05,2020-06-30,Left-Back,4.0,"6,500,000 €",Brazil,78
+1746,Ricardo Esgaio,1993-05-16,2022-06-30,Right-Back,47.0,"2,500,000 €",Portugal,78
+1747,William Carvalho,1992-04-07,2020-06-30,Defensive Midfield,14.0,"30,000,000 €",Portugal,78
+1748,Adrien Silva,1989-03-15,2020-06-30,Central Midfield,23.0,"20,000,000 €",Portugal,78
+1749,Carlos Mané,1994-03-11,2020-06-30,Right Wing,36.0,"4,500,000 €",Portugal,78
+1750,Azbe Jug,1992-03-03,2020-06-30,Keeper,26.0,"500,000 €",Slovenia,78
+1751,Beto,1982-05-01,2018-06-30,Keeper,13.0,"1,500,000 €",Portugal,78
+1752,João Pereira,1984-02-25,2017-06-30,Right-Back,21.0,"1,500,000 €",Portugal,78
+1753,Ewerton,1989-03-23,2019-06-30,Centre Back,5.0,"2,750,000 €",Brazil,78
+1754,Marvin Zeegelaar,1990-08-12,2020-06-30,Left-Back,31.0,"4,000,000 €",Netherlands,78
+1755,Iuri Medeiros,1994-07-10,2022-06-30,Right Wing,45.0,"5,000,000 €",Portugal,78
+1756,Naldo,1988-08-25,2019-06-30,Centre Back,44.0,"3,750,000 €",Brazil,78
+1757,Wallyson Mallmann,1994-02-16,2021-06-30,Central Midfield,NaN,"1,250,000 €",Brazil,78
+1758,Bruno Paulista,1995-08-21,2021-06-30,Defensive Midfield,30.0,"2,000,000 €",Brazil,78
+1759,Zakaria Labyad,1993-03-09,2017-06-30,Attacking Midfield,NaN,"2,000,000 €",Morocco,78
+1760,Gelson Martins,1995-05-11,2021-06-30,Right Wing,77.0,"6,000,000 €",Portugal,78
+1761,Rúben Semedo,1994-04-04,2022-06-30,Centre Back,35.0,"3,500,000 €",Portugal,78
+1762,Bruno César,1988-11-03,2020-06-30,Left Wing,11.0,"3,500,000 €",Brazil,78
+1763,Radosav Petrovic,1989-03-08,2020-06-30,Defensive Midfield,8.0,"2,000,000 €",Serbia,78
+1764,Bryan Ruíz,1985-08-18,2018-06-30,Left Wing,10.0,"7,500,000 €",Costa Rica,78
+1765,Joel Campbell,1992-06-26,2017-06-30,Right Wing,7.0,"8,000,000 €",Costa Rica,78
+1766,Marcelo Meli,1992-06-20,2017-06-30,Central Midfield,17.0,"3,000,000 €",Argentina,78
+1767,Alan Ruiz,1993-08-19,2020-06-30,Secondary Striker,99.0,"4,000,000 €",Argentina,78
+1768,Daniel Podence,1995-10-21,2021-06-30,Secondary Striker,56.0,"1,500,000 €",Portugal,78
+1769,André,1990-09-27,2019-06-30,Centre Forward,NaN,"4,000,000 €",Brazil,78
+1770,Lukas Spalvis,1994-07-27,2022-06-30,Centre Forward,33.0,"2,000,000 €",Lithuania,78
+1771,Niklas Lomb,1993-07-28,2017-06-30,Keeper,36.0,"400,000 €",Germany,79
+1772,Joel Pohjanpalo,1994-09-13,2018-06-30,Centre Forward,17.0,"1,000,000 €",Finland,79
+1773,Robbie Kruse,1988-10-05,2017-06-30,Right Wing,27.0,"800,000 €",Australia,79
+1774,Kevin Volland,1992-07-30,2021-06-30,Centre Forward,31.0,"20,000,000 €",Germany,79
+1775,Ramazan Özcan,1984-06-28,2019-06-30,Keeper,28.0,"1,250,000 €",Austria,79
+1776,Danny da Costa,1993-07-13,2018-06-30,Right-Back,23.0,"1,750,000 €",Germany,79
+1777,Bernd Leno,1992-03-04,2018-06-30,Keeper,1.0,"16,000,000 €",Germany,79
+1778,Ömer Toprak,1989-07-21,2018-06-30,Centre Back,21.0,"20,000,000 €",Turkey,79
+1779,Tin Jedvaj,1995-11-28,2020-06-30,Right-Back,16.0,"8,000,000 €",Croatia,79
+1780,Jonathan Tah,1996-02-11,2020-06-30,Centre Back,4.0,"16,000,000 €",Germany,79
+1781,Lukas Boeder,1997-04-18,2018-06-30,Centre Back,33.0,"150,000 €",Germany,79
+1782,Wendell,1993-07-20,2021-06-30,Left-Back,18.0,"15,000,000 €",Brazil,79
+1783,Roberto Hilbert,1984-10-16,2017-06-30,Right-Back,13.0,"1,500,000 €",Germany,79
+1784,Lars Bender,1989-04-27,2019-06-30,Defensive Midfield,8.0,"18,000,000 €",Germany,79
+1785,Charles Aránguiz,1989-04-17,2020-06-30,Central Midfield,20.0,"12,000,000 €",Chile,79
+1786,Hakan Calhanoglu,1994-02-08,2019-06-30,Attacking Midfield,10.0,"18,000,000 €",Turkey,79
+1787,Vladlen Yurchenko,1994-01-22,2018-06-30,Central Midfield,35.0,"500,000 €",Ukraine,79
+1788,Benjamin Henrichs,1997-02-23,2020-06-30,Right-Back,39.0,"1,250,000 €",Germany,79
+1789,Julian Brandt,1996-05-02,2019-06-30,Left Wing,19.0,"16,000,000 €",Germany,79
+1790,Karim Bellarabi,1990-04-08,2021-06-30,Right Wing,38.0,"22,000,000 €",Germany,79
+1791,Kevin Kampl,1990-10-09,2020-06-30,Central Midfield,44.0,"12,000,000 €",Slovenia,79
+1792,Admir Mehmedi,1991-03-16,2019-06-30,Left Wing,14.0,"5,000,000 €",Switzerland,79
+1793,Chicharito,1988-06-01,2018-06-30,Centre Forward,7.0,"22,000,000 €",Mexico,79
+1794,Stefan Kießling,1984-01-25,2018-06-30,Centre Forward,11.0,"4,000,000 €",Germany,79
+1795,Julian Baumgartlinger,1988-01-02,2020-06-30,Defensive Midfield,15.0,"6,000,000 €",Austria,79
+1796,Aleksandar Dragovic,1991-03-06,2021-06-30,Centre Back,6.0,"15,000,000 €",Austria,79
+1797,Joel Abu Hanna,1998-01-22,2019-06-30,Centre Back,22.0,"100,000 €",Germany,79
+1798,Kai Havertz,1999-06-11,2017-06-30,Central Midfield,29.0,"100,000 €",Germany,79
+1799,Sam Schreck,1999-01-29,2018-06-30,Attacking Midfield,30.0,"100,000 €",Germany,79
+1800,Igor Akinfeev,1986-04-08,2019-06-30,Keeper,35.0,,Russia,80
+1801,Sergey Chepchugov,1985-07-15,2016-06-30,Keeper,1.0,,Russia,80
+1802,Vasili Berezutski,1982-06-20,2016-06-30,Centre Back,24.0,,Russia,80
+1803,Aleksey Berezutski,1982-06-20,2016-06-30,Centre Back,6.0,,Russia,80
+1804,Sergey Ignashevich,1979-07-14,2016-06-30,Centre Back,4.0,,Russia,80
+1805,Georgi Schennikov,1991-04-27,2017-12-31,Left-Back,42.0,,Russia,80
+1806,Mário Fernandes,1990-09-19,2019-06-30,Right-Back,2.0,,Brazil,80
+1807,Kirill Nababkin,1986-09-08,2017-06-30,Right-Back,14.0,,Russia,80
+1808,Pontus Wernbloom,1986-06-25,2018-06-30,Defensive Midfield,3.0,,Sweden,80
+1809,Bibras Natcho,1988-02-18,2018-06-30,Central Midfield,66.0,,Israel,80
+1810,Aleksandrs Cauna,1988-01-19,2016-06-30,Defensive Midfield,19.0,,Latvia,80
+1811,Alan Dzagoev,1990-06-17,2019-06-30,Attacking Midfield,10.0,,Russia,80
+1812,Roman Eremenko,1987-03-19,2018-06-30,Attacking Midfield,25.0,,Finland,80
+1813,Georgi Milanov,1992-02-19,2018-06-30,Attacking Midfield,23.0,,Bulgaria,80
+1814,Zoran Tosic,1987-04-28,2017-06-30,Right Wing,7.0,,Serbia,80
+1815,Kirill Panchenko,1989-10-16,2019-06-30,Secondary Striker,8.0,,Russia,80
+1816,Viktor Vasin,1988-10-06,2016-06-30,Centre Back,5.0,,Russia,80
+1817,Aleksandr Golovin,1996-05-30,2017-06-30,Central Midfield,60.0,,Russia,80
+1818,Amir Natcho,1996-07-09,2016-06-30,Attacking Midfield,20.0,,Russia,80
+1819,Tobias Strobl,1990-05-12,2020-06-30,Defensive Midfield,5.0,"2,000,000 €",Germany,81
+1820,Jannik Vestergaard,1992-08-03,2021-06-30,Centre Back,4.0,"10,000,000 €",Denmark,81
+1821,Christoph Kramer,1991-02-19,2021-06-30,Defensive Midfield,6.0,"12,000,000 €",Germany,81
+1822,Jonas Hofmann,1992-07-14,2020-06-30,Right Wing,23.0,"5,000,000 €",Germany,81
+1823,Yann Sommer,1988-12-17,2019-06-30,Keeper,1.0,"10,000,000 €",Switzerland,81
+1824,Tobias Sippel,1988-03-22,2018-06-30,Keeper,21.0,"1,000,000 €",Germany,81
+1825,Christofer Heimeroth,1981-08-01,2017-06-30,Keeper,33.0,"150,000 €",Germany,81
+1826,Álvaro Domínguez,1989-05-16,2017-06-30,Centre Back,18.0,"6,000,000 €",Spain,81
+1827,Tony Jantschke,1990-04-07,2018-06-30,Centre Back,24.0,"6,000,000 €",Germany,81
+1828,Nico Elvedi,1996-09-30,2019-06-30,Centre Back,30.0,"5,000,000 €",Switzerland,81
+1829,Andreas Christensen,1996-04-10,2017-06-30,Centre Back,3.0,"14,000,000 €",Denmark,81
+1830,Oscar Wendt,1985-10-24,2018-06-30,Left-Back,17.0,"4,500,000 €",Sweden,81
+1831,Nico Schulz,1993-04-01,2019-06-30,Left-Back,14.0,"3,000,000 €",Germany,81
+1832,Julian Korb,1992-03-21,2018-06-30,Right-Back,27.0,"4,500,000 €",Germany,81
+1833,Marvin Schulz,1995-01-15,2018-06-30,Centre Back,15.0,"750,000 €",Germany,81
+1834,Lars Stindl,1988-08-26,2020-06-30,Secondary Striker,13.0,"11,000,000 €",Germany,81
+1835,Mahmoud Dahoud,1996-01-01,2018-06-30,Central Midfield,8.0,"15,000,000 €",Germany,81
+1836,Thorgan Hazard,1993-03-29,2019-06-30,Attacking Midfield,10.0,"8,500,000 €",Belgium,81
+1837,Fabian Johnson,1987-12-11,2018-06-30,Left Wing,19.0,"7,000,000 €",United States,81
+1838,Ibrahima Traoré,1988-04-21,2018-06-30,Right Wing,16.0,"5,500,000 €",Guine,81
+1839,Patrick Herrmann,1991-02-12,2019-06-30,Right Wing,7.0,"12,000,000 €",Germany,81
+1840,André Hahn,1990-08-13,2018-06-30,Centre Forward,28.0,"7,500,000 €",Germany,81
+1841,Raffael,1985-03-28,2019-06-30,Centre Forward,11.0,"8,000,000 €",Brazil,81
+1842,Josip Drmic,1992-08-08,2019-06-30,Centre Forward,9.0,"4,000,000 €",Switzerland,81
+1843,Moritz Nicolas,1997-10-21,2017-06-30,Keeper,35.0,"100,000 €",Germany,81
+1844,Mamadou Doucouré,1998-05-21,2021-06-30,Centre Back,29.0,"500,000 €",France,81
+1845,Tsiy William Ndenge,1997-06-13,2019-06-30,Defensive Midfield,26.0,"100,000 €",Germany,81
+1846,Djibril Sow,1997-02-06,2020-06-30,Central Midfield,20.0,"1,000,000 €",Switzerland,81
+1847,Lászlo Bénes,1997-09-09,2021-06-30,Attacking Midfield,22.0,"1,500,000 €",Slovakia,81
+1848,Morgan De Sanctis,1977-03-26,2017-06-30,Keeper,16.0,"500,000 €",Italy,82
+1849,Kamil Glik,1988-02-03,2020-06-30,Centre Back,25.0,"11,000,000 €",Poland,82
+1850,Danijel Subasic,1984-10-27,2019-06-30,Keeper,1.0,"5,000,000 €",Croatia,82
+1851,Seydou Sy,1995-12-12,2017-06-30,Keeper,30.0,"150,000 €",Senegal,82
+1852,Abdou Diallo,1996-05-04,2017-06-30,Centre Back,34.0,"1,200,000 €",France,82
+1853,Almamy Touré,1996-04-28,2019-06-30,Right-Back,38.0,"2,500,000 €",Mali,82
+1854,Fabinho,1993-10-23,2019-06-30,Right-Back,2.0,"16,000,000 €",Brazil,82
+1855,Andrea Raggi,1984-06-24,2018-06-30,Centre Back,24.0,"1,500,000 €",Italy,82
+1856,Tiemoué Bakayoko,1994-08-17,2019-06-30,Defensive Midfield,14.0,"4,500,000 €",France,82
+1857,Abdou Aziz Thiam,1997-01-15,2017-06-30,Defensive Midfield,37.0,"150,000 €",France,82
+1858,João Moutinho,1986-09-08,2018-06-30,Central Midfield,8.0,"18,000,000 €",Portugal,82
+1859,Bernardo Silva,1994-08-10,2020-06-30,Right Wing,10.0,"16,000,000 €",Portugal,82
+1860,Nabil Dirar,1986-02-25,2018-06-30,Right Wing,7.0,"2,500,000 €",Morocco,82
+1861,Valère Germain,1990-04-17,2018-06-30,Centre Forward,18.0,"7,000,000 €",France,82
+1862,Djibril Sidibé,1992-07-29,2021-06-30,Right-Back,19.0,"10,000,000 €",France,82
+1863,Thomas Lemar,1995-11-12,2020-06-30,Attacking Midfield,27.0,"12,000,000 €",France,82
+1864,Benjamin Mendy,1994-07-17,2021-06-30,Left-Back,23.0,"9,000,000 €",France,82
+1865,Adama Traoré,1995-06-28,2020-06-30,Central Midfield,20.0,"7,000,000 €",Mali,82
+1866,Corentin Jean,1995-07-15,2020-06-30,Centre Forward,28.0,"3,500,000 €",France,82
+1867,Gabriel Boschilia,1996-03-05,2020-06-30,Attacking Midfield,26.0,"4,000,000 €",Brazil,82
+1868,Guido Carrillo,1991-05-25,2020-06-30,Centre Forward,11.0,"5,500,000 €",Argentina,82
+1869,Quentin N'Gakoutou,1994-05-10,2017-06-30,Centre Forward,NaN,"300,000 €",France,82
+1870,Jemerson,1992-08-24,2020-06-30,Centre Back,5.0,"10,000,000 €",Brazil,82
+1871,Loïc Badiashile,1998-02-05,2018-06-30,Keeper,40.0,"150,000 €",France,82
+1872,Kévin N'Doram,1996-01-22,2020-06-30,Centre Back,35.0,"150,000 €",France,82
+1873,Kylian Mbappé,1998-12-20,2019-06-30,Left Wing,29.0,"1,500,000 €",France,82
+1874,Yhoan Andzouana,1996-12-13,2019-06-30,Left Wing,31.0,"150,000 €",Congo,82
+1875,Falcao,1986-02-10,2018-06-30,Centre Forward,9.0,"15,000,000 €",Colombia,82
+1876,Claudio Pizarro,1978-10-03,2017-06-30,Centre Forward,14.0,"1,000,000 €",Peru,83
+1877,Izet Hajrovic,1991-08-04,2018-06-30,Right Wing,15.0,"1,000,000 €",Bosnia-Herzegovina,83
+1878,Lennart Thy,1992-02-25,2019-06-30,Centre Forward,11.0,"1,000,000 €",Germany,83
+1879,Milos Veljkovic,1995-09-26,2019-06-30,Defensive Midfield,13.0,"500,000 €",Serbia,83
+1880,Lamine Sané,1987-03-22,2019-06-30,Centre Back,26.0,"4,000,000 €",Senegal,83
+1881,Sambou Yatabaré,1989-03-02,2019-06-30,Central Midfield,5.0,"2,500,000 €",Mali,83
+1882,Fallou Diagne,1989-08-14,2019-06-30,Centre Back,21.0,"2,000,000 €",Senegal,83
+1883,Niklas Moisander,1985-09-29,2019-06-30,Centre Back,18.0,"2,000,000 €",Finland,83
+1884,Jaroslav Drobny,1979-10-18,2017-06-30,Keeper,33.0,"500,000 €",Czech Republic,83
+1885,Luca Caldirola,1991-02-01,2017-06-30,Centre Back,3.0,"3,000,000 €",Italy,83
+1886,Felix Wiedwald,1990-03-15,2017-06-30,Keeper,42.0,"2,500,000 €",Germany,83
+1887,Raphael Wolf,1988-06-06,2017-06-30,Keeper,1.0,"500,000 €",Germany,83
+1888,Michael Zetterer,1995-07-12,2018-06-30,Keeper,30.0,"300,000 €",Germany,83
+1889,Santiago García,1988-07-08,2017-06-30,Left-Back,2.0,"3,000,000 €",Argentina,83
+1890,Janek Sternberg,1992-10-19,2017-06-30,Left-Back,37.0,"500,000 €",Germany,83
+1891,Ulisses Garcia,1996-01-11,2019-06-30,Left-Back,20.0,"1,000,000 €",Switzerland,83
+1892,Theodor Gebre Selassie,1986-12-24,2018-06-30,Right-Back,23.0,"2,750,000 €",Czech Republic,83
+1893,Philipp Bargfrede,1989-03-03,2018-06-30,Defensive Midfield,44.0,"1,500,000 €",Germany,83
+1894,Lukas Fröde,1995-01-23,2017-06-30,Defensive Midfield,39.0,"400,000 €",Germany,83
+1895,Clemens Fritz,1980-12-07,2017-06-30,Central Midfield,8.0,"750,000 €",Germany,83
+1896,Zlatko Junuzovic,1987-09-26,2018-06-30,Attacking Midfield,16.0,"7,000,000 €",Austria,83
+1897,Fin Bartels,1987-02-07,2019-06-30,Right Wing,22.0,"3,000,000 €",Germany,83
+1898,Maximilian Eggestein,1996-12-08,2018-06-30,Attacking Midfield,35.0,"500,000 €",Germany,83
+1899,Florian Grillitsch,1995-08-07,2017-06-30,Defensive Midfield,27.0,"4,000,000 €",Austria,83
+1900,Aron Jóhannsson,1990-11-10,2019-06-30,Centre Forward,9.0,"2,500,000 €",United States,83
+1901,Melvyn Lorenzen,1994-11-26,2017-06-30,Left Wing,28.0,"400,000 €",Uganda,83
+1902,Robert Bauer,1995-04-09,2020-06-30,Right-Back,4.0,"2,000,000 €",Germany,83
+1903,Max Kruse,1988-03-19,2019-06-30,Secondary Striker,10.0,"8,000,000 €",Germany,83
+1904,Serge Gnabry,1995-07-14,2020-06-30,Left Wing,29.0,"2,500,000 €",Germany,83
+1905,Thanos Petsos,1991-06-05,2019-06-30,Defensive Midfield,25.0,"1,500,000 €",Greece,83
+1906,Florian Kainz,1992-10-24,2020-06-30,Left Wing,7.0,"4,500,000 €",Austria,83
+1907,Justin Eilers,1988-06-13,2019-06-30,Right Wing,17.0,"750,000 €",Germany,83
+1908,Johannes Eggestein,1998-05-08,2019-06-30,Centre Forward,24.0,"400,000 €",Germany,83
+1909,Georg Teigl,1991-02-09,2020-06-30,Right-Back,28.0,"750,000 €",Austria,84
+1910,Andreas Luthe,1987-03-10,2020-06-30,Keeper,1.0,"500,000 €",Germany,84
+1911,Alfred Finnbogason,1989-02-01,2020-06-30,Centre Forward,27.0,"5,000,000 €",Iceland,84
+1912,Marwin Hitz,1987-09-18,2018-06-30,Keeper,35.0,"4,500,000 €",Switzerland,84
+1913,Ioannis Gelios,1992-04-24,2018-06-30,Keeper,24.0,"100,000 €",Greece,84
+1914,Jan-Ingwer Callsen-Bracker,1984-09-23,2017-06-30,Centre Back,18.0,"1,500,000 €",Germany,84
+1915,Christoph Janker,1985-02-14,2017-06-30,Centre Back,16.0,"300,000 €",Germany,84
+1916,Tim Rieder,1993-09-03,2017-06-30,Centre Back,40.0,"100,000 €",Germany,84
+1917,Konstantinos Stafylidis,1993-12-02,2017-06-30,Left-Back,3.0,"2,500,000 €",Greece,84
+1918,Philipp Max,1993-09-30,2017-06-30,Left-Back,31.0,"3,500,000 €",Germany,84
+1919,Daniel Opare,1990-10-18,2018-06-30,Right-Back,4.0,"1,500,000 €",Ghana,84
+1920,Paul Verhaegh,1983-09-01,2018-06-30,Right-Back,2.0,"1,750,000 €",Netherlands,84
+1921,Raphael Framberger,1995-09-06,2017-06-30,Right-Back,32.0,"100,000 €",Germany,84
+1922,Daniel Baier,1984-05-18,2018-06-30,Defensive Midfield,10.0,"2,000,000 €",Germany,84
+1923,Marco Schuster,1995-10-10,2017-06-30,Defensive Midfield,29.0,"100,000 €",Germany,84
+1924,Dominik Kohr,1994-01-31,2019-06-30,Central Midfield,21.0,"3,500,000 €",Germany,84
+1925,Markus Feulner,1982-02-12,2017-06-30,Central Midfield,8.0,"500,000 €",Germany,84
+1926,Jan Morávek,1989-11-01,2017-06-30,Central Midfield,14.0,"750,000 €",Czech Republic,84
+1927,Ja-Cheol Koo,1989-02-27,2017-06-30,Attacking Midfield,19.0,"5,500,000 €","Korea, South",84
+1928,Halil Altintop,1982-12-08,2017-06-30,Attacking Midfield,7.0,"1,000,000 €",Turkey,84
+1929,Caiuby,1988-07-14,2018-06-30,Left Wing,30.0,"2,500,000 €",Brazil,84
+1930,Raúl Bobadilla,1987-06-18,2018-06-30,Centre Forward,25.0,"5,000,000 €",Paraguay,84
+1931,Dong-Won Ji,1991-05-28,2018-06-30,Centre Forward,22.0,"1,500,000 €","Korea, South",84
+1932,Jonathan Schmid,1990-06-22,2020-06-30,Right Wing,11.0,"2,500,000 €",France,84
+1933,Gojko Kacar,1987-01-26,2018-06-30,Defensive Midfield,20.0,"1,250,000 €",Serbia,84
+1934,Jeffrey Gouweleeuw,1991-07-10,2020-06-30,Centre Back,6.0,"3,500,000 €",Netherlands,84
+1935,Martin Hinteregger,1992-09-07,2018-06-30,Centre Back,36.0,"6,000,000 €",Austria,84
+1936,Takashi Usami,1992-05-06,2020-06-30,Left Wing,39.0,"2,500,000 €",Japan,84
+1937,Jakub Blaszczykowski,1985-12-14,2019-06-30,Right Wing,14.0,"7,000,000 €",Poland,85
+1938,Mario Gómez,1985-07-10,2019-06-30,Centre Forward,33.0,"12,000,000 €",Germany,85
+1939,Daniel Didavi,1990-02-21,2021-06-30,Attacking Midfield,11.0,"7,000,000 €",Germany,85
+1940,Yannick Gerhardt,1994-03-13,2021-06-30,Central Midfield,13.0,"10,000,000 €",Germany,85
+1941,Diego Benaglio,1983-09-08,2019-06-30,Keeper,1.0,"3,500,000 €",Switzerland,85
+1942,Koen Casteels,1992-06-25,2019-06-30,Keeper,28.0,"2,500,000 €",Belgium,85
+1943,Max Grün,1987-04-05,2018-06-30,Keeper,20.0,"400,000 €",Germany,85
+1944,Robin Knoche,1992-05-22,2017-06-30,Centre Back,31.0,"6,000,000 €",Germany,85
+1945,Ricardo Rodríguez,1992-08-25,2019-06-30,Left-Back,34.0,"25,000,000 €",Switzerland,85
+1946,Marcel Schäfer,1984-06-07,2017-06-30,Left-Back,4.0,"1,500,000 €",Germany,85
+1947,Vieirinha,1986-01-24,2018-06-30,Right-Back,8.0,"6,500,000 €",Portugal,85
+1948,Sebastian Jung,1990-06-22,2018-06-30,Right-Back,24.0,"3,000,000 €",Germany,85
+1949,Christian Träsch,1987-09-01,2018-06-30,Right-Back,15.0,"3,500,000 €",Germany,85
+1950,Luiz Gustavo,1987-07-23,2018-06-30,Defensive Midfield,22.0,"17,000,000 €",Brazil,85
+1951,Josuha Guilavogui,1990-09-19,2019-06-30,Defensive Midfield,23.0,"10,000,000 €",France,85
+1952,Carlos Ascues,1992-06-19,2018-06-30,Centre Back,6.0,"500,000 €",Peru,85
+1953,Paul Seguin,1995-03-29,2018-06-30,Defensive Midfield,30.0,"300,000 €",Germany,85
+1954,Maximilian Arnold,1994-05-27,2020-06-30,Central Midfield,27.0,"12,000,000 €",Germany,85
+1955,Daniel Caligiuri,1988-01-15,2017-06-30,Right Wing,7.0,"6,500,000 €",Italy,85
+1956,Ismail Azzaoui,1998-01-06,2017-06-30,Right Wing,38.0,"750,000 €",Belgium,85
+1957,Jeffrey Bruma,1991-11-13,2021-06-30,Centre Back,5.0,"10,000,000 €",Netherlands,85
+1958,Bruno Henrique,1990-12-30,2019-06-30,Right Wing,16.0,"2,000,000 €",Brazil,85
+1959,Philipp Wollscheid,1989-03-06,2017-06-30,Centre Back,2.0,"7,500,000 €",Germany,85
+1960,Phillip Menzel,1998-08-18,2021-06-30,Keeper,36.0,"100,000 €",Germany,85
+1961,Robin Ziegele,1997-03-13,2018-06-30,Centre Back,40.0,"100,000 €",Germany,85
+1962,Jannes Horn,1997-02-06,2020-06-30,Left-Back,21.0,"150,000 €",Germany,85
+1963,Amara Conde,1997-01-06,2018-06-30,Central Midfield,29.0,"150,000 €",Germany,85
+1964,Josip Brekalo,1998-06-23,2021-06-30,Left Wing,25.0,"4,000,000 €",Croatia,85
+1965,Anton Donkor,1997-11-11,2020-06-30,Left Wing,35.0,"150,000 €",Germany,85
+1966,Borja Mayoral,1997-04-05,2017-06-30,Centre Forward,17.0,"2,500,000 €",Spain,85
+1967,Jean-Philippe Gbamin,1995-09-25,2021-06-30,Defensive Midfield,25.0,"2,500,000 €",France,86
+1968,Jonas Lössl,1989-02-01,2019-06-30,Keeper,1.0,"2,500,000 €",Denmark,86
+1969,José Rodríguez,1994-12-16,2020-06-30,Central Midfield,5.0,"2,250,000 €",Spain,86
+1970,Emil Berggreen,1993-05-10,2019-06-30,Centre Forward,11.0,"2,000,000 €",Denmark,86
+1971,Levin Öztunali,1996-03-15,2021-06-30,Attacking Midfield,8.0,"3,000,000 €",Germany,86
+1972,Giulio Donati,1990-02-05,2019-06-30,Right-Back,2.0,"2,500,000 €",Italy,86
+1973,André Ramalho,1992-02-16,2017-06-30,Centre Back,22.0,"2,000,000 €",Brazil,86
+1974,Gianluca Curci,1985-07-12,2017-06-30,Keeper,23.0,"700,000 €",Italy,86
+1975,Jannik Huth,1994-04-15,2020-06-30,Keeper,33.0,"300,000 €",Germany,86
+1976,Stefan Bell,1991-08-24,2018-06-30,Centre Back,16.0,"6,000,000 €",Germany,86
+1977,Niko Bungert,1986-10-24,2019-06-30,Centre Back,26.0,"2,500,000 €",Germany,86
+1978,Gaëtan Bussmann,1991-02-02,2017-06-30,Left-Back,24.0,"2,500,000 €",France,86
+1979,Daniel Brosinski,1988-07-17,2018-06-30,Right-Back,18.0,"2,500,000 €",Germany,86
+1980,Leon Balogun,1988-06-28,2018-06-30,Centre Back,3.0,"2,000,000 €",Nigeria,86
+1981,Niki Zimling,1985-04-19,2017-06-30,Defensive Midfield,NaN,"500,000 €",Denmark,86
+1982,Suat Serdar,1997-04-11,2018-06-30,Central Midfield,45.0,"500,000 €",Germany,86
+1983,Fabian Frei,1989-01-08,2019-06-30,Central Midfield,20.0,"3,000,000 €",Switzerland,86
+1984,Danny Latza,1989-12-07,2019-06-30,Central Midfield,6.0,"3,000,000 €",Germany,86
+1985,Yunus Malli,1992-02-24,2018-06-30,Attacking Midfield,10.0,"10,000,000 €",Turkey,86
+1986,Pablo de Blasis,1988-02-04,2018-06-30,Left Wing,32.0,"3,000,000 €",Argentina,86
+1987,Devante Parker,1996-03-16,2019-06-30,Right Wing,29.0,"400,000 €",Germany,86
+1988,Yoshinori Muto,1992-07-15,2019-06-30,Centre Forward,9.0,"5,500,000 €",Japan,86
+1989,Jairo Samperio,1993-07-11,2018-06-30,Left Wing,17.0,"6,000,000 €",Spain,86
+1990,Jhon Córdoba,1993-05-11,2020-06-30,Centre Forward,15.0,"5,500,000 €",Colombia,86
+1991,Gerrit Holtmann,1995-03-25,2020-06-30,Left Wing,38.0,"2,500,000 €",Germany,86
+1992,Besar Halimi,1994-12-12,2019-06-30,Attacking Midfield,30.0,"900,000 €",Kosovo,86
+1993,Alexander Hack,1993-09-08,2019-06-30,Centre Back,42.0,"750,000 €",Germany,86
+1994,Philipp Klement,1992-09-09,2018-06-30,Attacking Midfield,47.0,"400,000 €",Germany,86
+1995,Karim Onisiwo,1992-03-17,2019-06-30,Left Wing,21.0,"1,500,000 €",Austria,86
+1996,Florian Müller,1997-11-13,2019-06-30,Keeper,46.0,"250,000 €",Germany,86
+1997,Ante Rebic,1993-09-21,2017-06-30,Secondary Striker,17.0,"900,000 €",Croatia,87
+1998,Danny Blum,1991-01-07,2017-06-30,Left Wing,7.0,"800,000 €",Germany,87
+1999,Heinz Lindner,1990-07-17,2017-06-30,Keeper,13.0,"1,000,000 €",Austria,87
+2000,Lukas Hradecky,1989-11-24,2018-06-30,Keeper,1.0,"4,000,000 €",Finland,87
+2001,Marco Russ,1985-08-04,2017-06-30,Centre Back,4.0,"2,500,000 €",Germany,87
+2002,David Abraham,1986-07-15,2018-06-30,Centre Back,19.0,"3,500,000 €",Argentina,87
+2003,Bamba Anderson,1988-01-10,2018-06-30,Centre Back,23.0,"1,000,000 €",Brazil,87
+2004,Bastian Oczipka,1989-01-12,2018-06-30,Left-Back,6.0,"2,500,000 €",Germany,87
+2005,Timothy Chandler,1990-03-29,2017-06-30,Right-Back,22.0,"1,500,000 €",United States,87
+2006,Makoto Hasebe,1984-01-18,2017-06-30,Defensive Midfield,20.0,"2,000,000 €",Japan,87
+2007,Slobodan Medojevic,1990-11-20,2017-06-30,Defensive Midfield,25.0,"1,000,000 €",Serbia,87
+2008,Johannes Flum,1987-12-14,2017-06-30,Central Midfield,18.0,"1,000,000 €",Germany,87
+2009,Marc Stendera,1995-12-10,2020-06-30,Central Midfield,21.0,"7,000,000 €",Germany,87
+2010,Joel Gerezgiher,1995-10-09,2018-06-30,Attacking Midfield,32.0,"350,000 €",Germany,87
+2011,Mijat Gacinovic,1995-02-08,2019-06-30,Left Wing,11.0,"1,500,000 €",Serbia,87
+2012,Alexander Meier,1983-01-17,2018-06-30,Secondary Striker,14.0,"2,500,000 €",Germany,87
+2013,Haris Seferovic,1992-02-22,2017-06-30,Centre Forward,9.0,"5,500,000 €",Switzerland,87
+2014,Enis Bunjaki,1997-10-17,2017-06-30,Centre Forward,38.0,"100,000 €",Germany,87
+2015,Branimir Hrgota,1993-01-12,2019-06-30,Centre Forward,31.0,"2,000,000 €",Sweden,87
+2016,Omar Mascarell,1993-02-02,2019-06-30,Defensive Midfield,39.0,"2,000,000 €",Spain,87
+2017,Yanni Regäsel,1996-01-13,2019-06-30,Right-Back,2.0,"1,000,000 €",Germany,87
+2018,Marco Fabián,1989-07-21,2019-06-30,Attacking Midfield,10.0,"3,750,000 €",Mexico,87
+2019,Szabolcs Huszti,1983-04-18,2017-06-30,Central Midfield,8.0,"1,000,000 €",Hungary,87
+2020,Shani Tarashaj,1995-02-07,2017-06-30,Secondary Striker,30.0,"4,000,000 €",Switzerland,87
+2021,Leon Bätge,1997-07-09,2017-06-30,Keeper,34.0,"100,000 €",Germany,87
+2022,Michael Hector,1992-07-19,2017-06-30,Centre Back,15.0,"4,000,000 €",Jamaica,87
+2023,Jesús Vallejo,1997-01-05,2017-06-30,Centre Back,5.0,"3,000,000 €",Spain,87
+2024,Taleb Tawatha,1992-06-21,2019-06-30,Left-Back,33.0,"1,000,000 €",Israel,87
+2025,Guillermo Varela,1993-03-24,2017-06-30,Right-Back,3.0,"750,000 €",Uruguay,87
+2026,Furkan Zorba,1998-02-25,2018-06-30,Centre Back,36.0,"100,000 €",Germany,87
+2027,Julian Draxler,1993-09-20,2018-06-30,Attacking Midfield,10.0,"30,000,000 €",Germany,88
+2028,Fabian Giefer,1990-05-17,2018-06-30,Keeper,34.0,"2,500,000 €",Germany,88
+2029,Ralf Fährmann,1988-09-27,2020-06-30,Keeper,1.0,"1,500,000 €",Germany,88
+2030,Christian Wetklo,1980-01-11,,Keeper,28.0,"500,000 €",Germany,88
+2031,Timon Wellenreuther,1995-12-03,2017-06-30,Keeper,40.0,"100,000 €",Germany,88
+2032,Matija Nastasic,1993-03-28,,Centre Back,31.0,"21,000,000 €",Serbia,88
+2033,Benedikt Höwedes,1988-02-29,2020-06-30,Centre Back,4.0,"16,000,000 €",Germany,88
+2034,Joel Matip,1991-08-08,2016-06-30,Centre Back,32.0,"13,000,000 €",Cameroon,88
+2035,Felipe Santana,1986-03-17,,Centre Back,NaN,"3,500,000 €",Brazil,88
+2036,Kaan Ayhan,1994-11-10,2017-06-30,Centre Back,24.0,"500,000 €",Turkey,88
+2037,Marvin Friedrich,1995-12-13,2018-06-30,Centre Back,2.0,"100,000 €",Germany,88
+2038,Thilo Kehrer,1996-09-21,,Defensive Midfield,NaN,,Germany,88
+2039,Dennis Aogo,1987-01-14,2017-06-30,Left-Back,15.0,"6,500,000 €",Germany,88
+2040,Sead Kolasinac,1993-06-20,,Left-Back,6.0,"5,000,000 €",Bosnia-Herzegovina,88
+2041,Axel Borgmann,1994-07-08,,Left-Back,NaN,"75,000 €",Germany,88
+2042,Atsuto Uchida,1988-03-27,2018-06-30,Right-Back,22.0,"6,000,000 €",Japan,88
+2043,Pascal Itter,1995-04-03,2017-06-30,Right-Back,37.0,"200,000 €",Germany,88
+2044,Roman Neustädter,1988-02-18,2016-06-30,Centre Back,33.0,"8,000,000 €",Russia,88
+2045,Marcel Sobottka,1994-04-25,2018-06-30,Defensive Midfield,35.0,"100,000 €",Germany,88
+2046,Kevin-Prince Boateng,1987-03-06,2016-06-30,Attacking Midfield,9.0,"15,000,000 €",Ghana,88
+2047,Leon Goretzka,1995-02-06,2018-06-30,Central Midfield,8.0,"4,500,000 €",Germany,88
+2048,Max Meyer,1995-09-18,2018-06-30,Attacking Midfield,7.0,"12,000,000 €",Germany,88
+2049,Tranquillo Barnetta,1985-05-22,,Attacking Midfield,27.0,"3,000,000 €",Switzerland,88
+2050,Leroy Sané,1996-01-11,2021-06-30,Right Wing,19.0,"300,000 €",Germany,88
+2051,Jefferson Farfán,1984-10-26,2016-06-30,Right Wing,17.0,"18,000,000 €",Peru,88
+2052,Sidney Sam,1988-01-31,2018-06-30,Right Wing,18.0,"10,000,000 €",Germany,88
+2053,Christian Clemens,1991-08-04,2017-06-30,Right Wing,27.0,"3,000,000 €",Germany,88
+2054,Eric Maxim Choupo-Moting,1989-03-23,2017-06-30,Left Wing,13.0,"5,000,000 €",Cameroon,88
+2055,Chinedu Obasi,1986-06-01,,Right Wing,20.0,"1,000,000 €",Nigeria,88
+2056,Donis Avdijaj,1996-08-25,2019-06-30,Secondary Striker,NaN,"500,000 €",Germany,88
+2057,Klaas-Jan Huntelaar,1983-08-12,2017-06-30,Centre Forward,25.0,"12,000,000 €",Netherlands,88
+2058,Christian Fuchs,1986-04-07,2018-06-30,Left-Back,23.0,"4,500,000 €",Austria,88
+2059,Jan Kirchhoff,1990-10-01,2017-06-30,Defensive Midfield,3.0,"4,000,000 €",Germany,88
+2060,Tom Mickel,1989-04-19,2017-06-30,Keeper,36.0,"150,000 €",Germany,89
+2061,Bobby Wood,1992-11-15,2020-06-30,Centre Forward,7.0,"3,500,000 €",United States,89
+2062,Luca Waldschmidt,1996-05-19,2020-06-30,Centre Forward,15.0,"1,500,000 €",Germany,89
+2063,Filip Kostic,1992-11-01,2021-06-30,Left Wing,17.0,"10,000,000 €",Serbia,89
+2064,René Adler,1985-01-15,2017-06-30,Keeper,1.0,"3,500,000 €",Germany,89
+2065,Andreas Hirzel,1993-03-25,2018-06-30,Keeper,30.0,"150,000 €",Switzerland,89
+2066,Johan Djourou,1987-01-18,2017-06-30,Centre Back,5.0,"3,500,000 €",Switzerland,89
+2067,Cléber Reis,1990-12-05,2018-06-30,Centre Back,3.0,"2,500,000 €",Brazil,89
+2068,Emir Spahic,1980-08-18,2017-06-30,Centre Back,4.0,"750,000 €",Bosnia-Herzegovina,89
+2069,Matthias Ostrzolek,1990-06-05,2017-06-30,Left-Back,22.0,"2,250,000 €",Germany,89
+2070,Dennis Diekmeier,1989-10-20,2018-06-30,Right-Back,2.0,"1,750,000 €",Germany,89
+2071,Gotoku Sakai,1991-03-14,2018-06-30,Right-Back,24.0,"2,000,000 €",Japan,89
+2072,Ashton Götz,1993-07-16,2017-06-30,Right-Back,39.0,"250,000 €",Germany,89
+2073,Gideon Jung,1994-09-12,2020-06-30,Defensive Midfield,28.0,"1,750,000 €",Germany,89
+2074,Finn Porath,1997-02-23,2018-06-30,Attacking Midfield,34.0,"100,000 €",Germany,89
+2075,Albin Ekdal,1989-07-28,2019-06-30,Central Midfield,20.0,"4,500,000 €",Sweden,89
+2076,Lewis Holtby,1990-09-18,2018-06-30,Central Midfield,8.0,"7,000,000 €",Germany,89
+2077,Aaron Hunt,1986-09-04,2018-06-30,Attacking Midfield,14.0,"3,000,000 €",Germany,89
+2078,Nicolai Müller,1987-09-25,2018-06-30,Right Wing,27.0,"4,500,000 €",Germany,89
+2079,Michael Gregoritsch,1994-04-18,2019-06-30,Secondary Striker,11.0,"3,500,000 €",Austria,89
+2080,Pierre-Michel Lasogga,1991-12-15,2019-06-30,Centre Forward,10.0,"4,000,000 €",Germany,89
+2081,Christian Mathenia,1992-03-31,2019-06-30,Keeper,31.0,"2,500,000 €",Germany,89
+2082,Dren Feka,1997-06-09,2018-06-30,Defensive Midfield,19.0,"100,000 €",Germany,89
+2083,Nabil Bahoui,1991-02-05,2018-06-30,Left Wing,21.0,"1,000,000 €",Sweden,89
+2084,Alen Halilovic,1996-06-18,2020-06-30,Attacking Midfield,23.0,"10,000,000 €",Croatia,89
+2085,Young-Jae Seo,1995-05-23,2017-06-30,Left-Back,37.0,"100,000 €","Korea, South",89
+2086,Frank Ronstadt,1997-07-21,2018-06-30,Right Midfield,32.0,"100,000 €",Germany,89
+2087,Mats Köhlert,1998-05-02,2019-06-30,Left Wing,25.0,"100,000 €",Germany,89
+2088,Bakery Jatta,1998-06-06,2019-06-30,Right Wing,18.0,"100,000 €",The Gambia,89
+2089,Douglas Santos,1994-03-22,2021-06-30,Left-Back,6.0,"6,000,000 €",Brazil,89
+2090,Anthony Jung,1991-11-03,2017-06-30,Left-Back,3.0,"800,000 €",Germany,90
+2091,Robert Leipertz,1993-02-01,2020-06-30,Right Wing,13.0,"1,500,000 €",Germany,90
+2092,Marcel Tisserand,1993-01-10,2020-06-30,Centre Back,32.0,"2,000,000 €",Congo DR,90
+2093,Sonny Kittel,1993-01-06,2018-06-30,Attacking Midfield,21.0,"500,000 €",Germany,90
+2094,Maurice Multhaup,1996-12-15,2018-06-30,Central Midfield,31.0,"300,000 €",Germany,90
+2095,Örjan Nyland,1990-09-10,2019-06-30,Keeper,1.0,"1,000,000 €",Norway,90
+2096,Christian Ortag,1995-01-14,2017-06-30,Keeper,39.0,"100,000 €",Germany,90
+2097,Romain Brégerie,1986-08-09,2018-06-30,Centre Back,18.0,"750,000 €",France,90
+2098,Marvin Matip,1985-09-25,2018-06-30,Centre Back,34.0,"1,750,000 €",Cameroon,90
+2099,Markus Suttner,1987-04-16,2018-06-30,Left-Back,29.0,"1,500,000 €",Austria,90
+2100,Tobias Levels,1986-11-22,2018-06-30,Right-Back,28.0,"1,000,000 €",Germany,90
+2101,Roger,1985-08-10,2017-06-30,Defensive Midfield,8.0,"1,250,000 €",Brazil,90
+2102,Max Christiansen,1996-09-25,2018-06-30,Central Midfield,19.0,"2,500,000 €",Germany,90
+2103,Almog Cohen,1988-09-01,2018-06-30,Defensive Midfield,36.0,"750,000 €",Israel,90
+2104,Pascal Groß,1991-06-15,2019-06-30,Central Midfield,10.0,"4,000,000 €",Germany,90
+2105,Alfredo Morales,1990-05-12,2018-06-30,Central Midfield,6.0,"2,000,000 €",United States,90
+2106,Mathew Leckie,1991-02-04,2019-06-30,Left Wing,7.0,"2,000,000 €",Australia,90
+2107,Stefan Lex,1989-11-27,2018-06-30,Right Wing,14.0,"750,000 €",Germany,90
+2108,Lukas Hinterseer,1991-03-28,2017-06-30,Centre Forward,16.0,"2,000,000 €",Austria,90
+2109,Moritz Hartmann,1986-06-20,2018-06-30,Centre Forward,9.0,"1,500,000 €",Germany,90
+2110,Hauke Wahl,1994-04-15,2019-06-30,Centre Back,17.0,"800,000 €",Germany,90
+2111,Darío Lezcano,1990-06-30,2020-06-30,Centre Forward,11.0,"3,500,000 €",Paraguay,90
+2112,Nico Rinderknecht,1997-10-11,2019-06-30,Defensive Midfield,22.0,"150,000 €",Germany,90
+2113,Martin Hansen,1990-06-15,2020-06-30,Keeper,35.0,"1,500,000 €",Denmark,90
+2114,Fabijan Buntic,1997-02-24,2018-06-30,Keeper,24.0,"100,000 €",Croatia,90
+2115,Florent Hadergjonaj,1994-07-31,2020-06-30,Right-Back,33.0,"3,000,000 €",Switzerland,90
+2116,Filip Mladenovic,1991-08-15,2019-06-30,Left-Back,25.0,"2,000,000 €",Serbia,91
+2117,Artjoms Rudnevs,1988-01-13,2019-06-30,Centre Forward,9.0,"1,000,000 €",Latvia,91
+2118,Konstantin Rausch,1990-03-15,2019-06-30,Left Midfield,34.0,"2,000,000 €",Germany,91
+2119,Marco Höger,1989-09-16,2021-06-30,Central Midfield,6.0,"3,000,000 €",Germany,91
+2120,Timo Horn,1993-05-12,2019-06-30,Keeper,1.0,"10,000,000 €",Germany,91
+2121,Thomas Kessler,1986-01-20,2019-06-30,Keeper,18.0,"400,000 €",Germany,91
+2122,Dominique Heintz,1993-08-15,2021-06-30,Centre Back,3.0,"6,000,000 €",Germany,91
+2123,Frederik Sörensen,1992-04-14,2019-06-30,Centre Back,4.0,"3,000,000 €",Denmark,91
+2124,Dominic Maroh,1987-03-04,2018-06-30,Centre Back,5.0,"3,000,000 €",Slovenia,91
+2125,Mergim Mavraj,1986-06-09,2017-06-30,Centre Back,15.0,"1,750,000 €",Albania,91
+2126,Jonas Hector,1990-05-27,2021-06-30,Left-Back,14.0,"14,000,000 €",Germany,91
+2127,Pawel Olkowski,1990-02-13,2019-06-30,Right-Back,16.0,"2,000,000 €",Poland,91
+2128,Lukas Klünter,1996-05-26,2017-06-30,Right-Back,24.0,"200,000 €",Germany,91
+2129,Matthias Lehmann,1983-05-28,2017-06-30,Defensive Midfield,33.0,"750,000 €",Germany,91
+2130,Milos Jojic,1992-03-19,2019-06-30,Central Midfield,8.0,"2,000,000 €",Serbia,91
+2131,Leonardo Bittencourt,1993-12-19,2021-06-30,Left Wing,21.0,"5,000,000 €",Germany,91
+2132,Marcel Risse,1989-12-17,2019-06-30,Right Wing,7.0,"3,500,000 €",Germany,91
+2133,Anthony Modeste,1988-04-14,2021-06-30,Centre Forward,27.0,"7,000,000 €",France,91
+2134,Yuya Osako,1990-05-18,2017-06-30,Secondary Striker,13.0,"1,750,000 €",Japan,91
+2135,Simon Zoller,1991-06-26,2020-06-30,Centre Forward,11.0,"3,000,000 €",Germany,91
+2136,Sehrou Guirassy,1996-03-12,2021-06-30,Centre Forward,19.0,"2,000,000 €",France,91
+2137,Sven Müller,1996-02-16,2018-06-30,Keeper,35.0,"100,000 €",Germany,91
+2138,Marcel Hartel,1996-01-19,2019-06-30,Central Midfield,30.0,"300,000 €",Germany,91
+2139,Salih Özcan,1998-01-11,2017-06-30,Attacking Midfield,20.0,"100,000 €",Germany,91
+2140,Immanuel Höhn,1991-12-23,2018-06-30,Centre Back,21.0,"1,300,000 €",Germany,92
+2141,Michael Esser,1987-11-22,2018-06-30,Keeper,31.0,"900,000 €",Germany,92
+2142,Roman Bezjak,1989-02-21,2019-06-30,Centre Forward,14.0,"2,500,000 €",Slovenia,92
+2143,Sven Schipplock,1988-11-08,2017-06-30,Centre Forward,39.0,"1,250,000 €",Germany,92
+2144,Aytac Sulu,1985-12-11,2018-06-30,Centre Back,4.0,"2,000,000 €",Turkey,92
+2145,Benjamin Gorka,1984-04-15,2017-06-30,Centre Back,5.0,"250,000 €",Germany,92
+2146,Fabian Holland,1990-07-11,2017-06-30,Left-Back,32.0,"1,000,000 €",Germany,92
+2147,Sandro Sirigu,1988-10-07,2018-06-30,Right-Back,17.0,"400,000 €",Germany,92
+2148,Florian Jungwirth,1989-01-27,2017-06-30,Defensive Midfield,23.0,"1,000,000 €",Germany,92
+2149,Peter Niemeyer,1983-11-22,2018-06-30,Defensive Midfield,18.0,"750,000 €",Germany,92
+2150,Mario Vrancic,1989-05-23,2017-06-30,Central Midfield,6.0,"1,000,000 €",Bosnia-Herzegovina,92
+2151,Jérôme Gondorf,1988-06-26,2018-06-30,Central Midfield,8.0,"2,000,000 €",Germany,92
+2152,Marcel Heller,1986-02-12,2017-06-30,Right Wing,20.0,"1,750,000 €",Germany,92
+2153,Jan Rosenthal,1986-04-07,2017-06-30,Secondary Striker,10.0,"800,000 €",Germany,92
+2154,Dominik Stroh-Engel,1985-11-27,2017-06-30,Centre Forward,9.0,"500,000 €",Germany,92
+2155,Änis Ben-Hatira,1988-07-18,2017-06-30,Left Wing,28.0,"1,000,000 €",Tunisia,92
+2156,Felix Platte,1996-02-11,2017-06-30,Centre Forward,19.0,"300,000 €",Germany,92
+2157,Antonio Colak,1993-09-17,2017-06-30,Centre Forward,16.0,"500,000 €",Croatia,92
+2158,Daniel Heuer Fernandes,1992-11-13,2018-06-30,Keeper,1.0,"750,000 €",Portugal,92
+2159,Alexander Milosevic,1992-01-30,2017-06-30,Centre Back,3.0,"1,000,000 €",Sweden,92
+2160,László Kleinheisler,1994-04-08,2017-06-30,Attacking Midfield,30.0,"1,000,000 €",Hungary,92
+2161,Victor Obinna,1987-03-25,2018-06-30,Secondary Striker,11.0,"500,000 €",Nigeria,92
+2162,Leon Guwara,1996-06-28,2017-06-30,Left-Back,2.0,"350,000 €",Germany,92
+2163,Daniel Thur,1998-04-28,2017-06-30,Centre Back,38.0,"100,000 €",Germany,92
+2164,Johannes Wolff,1998-07-10,2017-06-30,Right-Back,35.0,"100,000 €",Germany,92
+2165,Can Luka Aydogan,1998-12-31,2017-06-30,Left-Back,36.0,"100,000 €",Germany,92
+2166,Artem Fedetsky,1985-04-26,2017-06-30,Right-Back,7.0,"2,500,000 €",Ukraine,92
+2167,Liam Fisch,1998-11-23,2017-06-30,Left Wing,37.0,"100,000 €",Germany,92
+2168,Denys Oliynyk,1987-06-16,2018-06-30,Left Wing,22.0,"900,000 €",Ukraine,92
+2169,Igor Berezovsky,1990-08-24,2017-06-30,Keeper,24.0,"350,000 €",Ukraine,92
+2170,Allan,1997-03-03,2017-06-30,Central Midfield,20.0,"800,000 €",Brazil,93
+2171,Alexander Esswein,1990-03-25,2020-06-30,Right Wing,7.0,"2,500,000 €",Germany,93
+2172,Thomas Kraft,1988-07-22,2017-06-30,Keeper,1.0,"1,500,000 €",Germany,93
+2173,Rune Jarstein,1984-09-29,2019-06-30,Keeper,22.0,"2,000,000 €",Norway,93
+2174,Nils Körber,1996-11-13,2019-06-30,Keeper,29.0,"150,000 €",Germany,93
+2175,John Anthony Brooks,1993-01-28,2019-06-30,Centre Back,25.0,"10,000,000 €",United States,93
+2176,Fabian Lustenberger,1988-05-02,2019-06-30,Defensive Midfield,28.0,"3,500,000 €",Switzerland,93
+2177,Sebastian Langkamp,1988-01-15,2019-06-30,Centre Back,15.0,"3,000,000 €",Germany,93
+2178,Marvin Plattenhardt,1992-01-26,2020-06-30,Left-Back,21.0,"4,000,000 €",Germany,93
+2179,Maximilian Mittelstädt,1997-03-18,2018-06-30,Left-Back,34.0,"500,000 €",Germany,93
+2180,Peter Pekarík,1986-10-30,2018-06-30,Right-Back,2.0,"2,500,000 €",Slovakia,93
+2181,Niklas Stark,1995-04-14,2019-06-30,Centre Back,5.0,"4,500,000 €",Germany,93
+2182,Florian Kohls,1995-04-03,2017-06-30,Defensive Midfield,31.0,"125,000 €",Germany,93
+2183,Vladimír Darida,1990-08-08,2019-06-30,Central Midfield,6.0,"10,000,000 €",Czech Republic,93
+2184,Per Ciljan Skjelbred,1987-06-16,2019-06-30,Central Midfield,3.0,"4,000,000 €",Norway,93
+2185,Jens Hegeler,1988-01-22,2017-06-30,Central Midfield,13.0,"1,000,000 €",Germany,93
+2186,Valentin Stocker,1989-04-12,2018-06-30,Left Wing,14.0,"3,000,000 €",Switzerland,93
+2187,Alexander Baumjohann,1987-01-23,2017-06-30,Attacking Midfield,9.0,"1,000,000 €",Germany,93
+2188,Mitchell Weiser,1994-04-21,2020-06-30,Right-Back,23.0,"6,000,000 €",Germany,93
+2189,Genki Haraguchi,1991-05-09,2018-06-30,Right Wing,24.0,"3,000,000 €",Japan,93
+2190,Salomon Kalou,1985-08-05,2017-06-30,Centre Forward,8.0,"5,000,000 €",Cote d'Ivoire,93
+2191,Julian Schieber,1989-02-13,2018-06-30,Centre Forward,16.0,"2,500,000 €",Germany,93
+2192,Vedad Ibisevic,1984-08-06,2017-06-30,Centre Forward,19.0,"2,500,000 €",Bosnia-Herzegovina,93
+2193,Sami Allagui,1986-05-28,2017-06-30,Centre Forward,11.0,"500,000 €",Tunisia,93
+2194,Sinan Kurt,1996-07-23,2019-06-30,Left Wing,18.0,"500,000 €",Germany,93
+2195,Ondrej Duda,1994-12-05,2021-06-30,Attacking Midfield,10.0,"4,500,000 €",Slovakia,93
+2196,Marc Torrejón,1986-02-18,2017-06-30,Centre Back,3.0,"1,200,000 €",Spain,94
+2197,Marc-Oliver Kempf,1995-01-28,2018-06-30,Centre Back,20.0,"3,500,000 €",Germany,94
+2198,Christian Günter,1993-02-28,2019-06-30,Left-Back,30.0,"2,000,000 €",Germany,94
+2199,Julian Schuster,1985-04-15,2017-06-30,Defensive Midfield,23.0,"500,000 €",Germany,94
+2200,Nicolas Höfler,1990-03-09,2017-06-30,Defensive Midfield,27.0,"1,500,000 €",Germany,94
+2201,Mike Frantz,1986-10-14,2018-06-30,Attacking Midfield,8.0,"1,750,000 €",Germany,94
+2202,Mats Möller Daehli,1995-03-02,2018-06-30,Attacking Midfield,16.0,"750,000 €",Norway,94
+2203,Maximilian Philipp,1994-03-01,2017-06-30,Secondary Striker,26.0,"3,000,000 €",Germany,94
+2204,Nils Petersen,1988-12-06,2019-06-30,Centre Forward,18.0,"3,500,000 €",Germany,94
+2205,Karim Guédé,1985-01-07,2017-06-30,Centre Forward,31.0,"500,000 €",Slovakia,94
+2206,Janik Haberer,1994-04-02,2020-06-30,Attacking Midfield,19.0,"1,500,000 €",Germany,94
+2207,Rafal Gikiewicz,1987-10-26,2019-06-30,Keeper,44.0,"900,000 €",Poland,94
+2208,Havard Nielsen,1993-07-15,2018-06-30,Centre Forward,14.0,"1,250,000 €",Norway,94
+2209,Onur Bulut,1994-04-16,2020-06-30,Right Wing,11.0,"1,250,000 €",Turkey,94
+2210,Patric Klandt,1983-09-29,2017-06-30,Keeper,21.0,"400,000 €",Germany,94
+2211,Vincenzo Grifo,1993-04-07,2018-06-30,Attacking Midfield,32.0,"3,500,000 €",Italy,94
+2212,Lukas Kübler,1992-08-30,2018-06-30,Right-Back,17.0,"500,000 €",Germany,94
+2213,Manuel Gulde,1991-02-12,2020-06-30,Centre Back,5.0,"1,500,000 €",Germany,94
+2214,Jonas Meffert,1994-09-04,2020-06-30,Defensive Midfield,22.0,"1,500,000 €",Germany,94
+2215,Aleksandar Ignjovski,1991-01-27,2019-06-30,Right-Back,2.0,"1,500,000 €",Serbia,94
+2216,Georg Niedermeier,1986-02-26,2017-06-30,Centre Back,24.0,"1,250,000 €",Germany,94
+2217,Florian Niederlechner,1990-10-24,2017-06-30,Centre Forward,7.0,"1,750,000 €",Germany,94
+2218,Pascal Stenzel,1996-03-20,2017-06-30,Right-Back,15.0,"1,000,000 €",Germany,94
+2219,Alexander Schwolow,1992-06-02,2017-06-30,Keeper,1.0,"1,500,000 €",Germany,94
+2220,Jonas Föhrenbach,1996-01-26,2019-06-30,Centre Back,25.0,"500,000 €",Germany,94
+2221,Amir Abrashi,1990-03-27,2018-06-30,Defensive Midfield,6.0,"2,500,000 €",Albania,94
+2222,Lucas Hufnagel,1994-01-29,2019-06-30,Attacking Midfield,35.0,"500,000 €",Georgia,94
+2223,Amir Falahen,1993-03-15,2017-06-30,Centre Forward,34.0,"150,000 €",Palästina,94
+2224,Caglar Söyüncü,1996-05-23,2021-06-30,Centre Back,4.0,"2,250,000 €",Turkey,94
+2225,Charles Elie Laprevotte,1992-10-04,2017-06-30,Defensive Midfield,29.0,"250,000 €",France,94
+2226,Marco Terrazzino,1991-04-15,2018-06-30,Left Wing,23.0,"1,250,000 €",Germany,95
+2227,Kerem Demirbay,1993-07-03,2019-06-30,Attacking Midfield,13.0,"1,750,000 €",Germany,95
+2228,Andrej Kramaric,1991-06-19,2020-06-30,Centre Forward,27.0,"9,000,000 €",Croatia,95
+2229,Lukas Rupp,1991-01-08,2020-06-30,Central Midfield,7.0,"5,000,000 €",Germany,95
+2230,Oliver Baumann,1990-06-02,2018-06-30,Keeper,1.0,"5,500,000 €",Germany,95
+2231,Alexander Stolz,1983-10-13,2018-06-30,Keeper,33.0,"100,000 €",Germany,95
+2232,Fabian Schär,1991-12-20,2019-06-30,Centre Back,5.0,"4,500,000 €",Switzerland,95
+2233,Niklas Süle,1995-09-03,2019-06-30,Centre Back,25.0,"12,000,000 €",Germany,95
+2234,Ermin Bicakcic,1990-01-24,2017-06-30,Centre Back,4.0,"2,750,000 €",Bosnia-Herzegovina,95
+2235,Jin-Su Kim,1992-06-13,2018-06-30,Left-Back,20.0,"1,500,000 €","Korea, South",95
+2236,Jeremy Toljan,1994-08-08,2018-06-30,Left-Back,15.0,"2,500,000 €",Germany,95
+2237,Pavel Kaderábek,1992-04-25,2019-06-30,Right-Back,3.0,"3,500,000 €",Czech Republic,95
+2238,Eugen Polanski,1986-03-17,2018-06-30,Defensive Midfield,8.0,"2,500,000 €",Poland,95
+2239,Pirmin Schwegler,1987-03-09,2017-06-30,Defensive Midfield,16.0,"2,500,000 €",Switzerland,95
+2240,Sebastian Rudy,1990-02-28,2017-06-30,Defensive Midfield,6.0,"4,000,000 €",Germany,95
+2241,Nadiem Amiri,1996-10-27,2018-06-30,Attacking Midfield,18.0,"4,000,000 €",Germany,95
+2242,Steven Zuber,1991-08-17,2018-06-30,Left Wing,17.0,"1,750,000 €",Switzerland,95
+2243,Jiloan Hamad,1990-11-06,2017-06-30,Right Wing,11.0,"750,000 €",Sweden,95
+2244,Philipp Ochs,1997-04-17,2019-06-30,Left Wing,30.0,"1,500,000 €",Germany,95
+2245,Eduardo Vargas,1989-11-20,2019-06-30,Right Wing,9.0,"6,000,000 €",Chile,95
+2246,Ádám Szalai,1987-12-09,2018-06-30,Centre Forward,28.0,"1,500,000 €",Hungary,95
+2247,Mark Uth,1991-08-24,2018-06-30,Centre Forward,19.0,"3,000,000 €",Germany,95
+2248,Sandro Wagner,1987-11-29,2019-06-30,Centre Forward,14.0,"3,000,000 €",Germany,95
+2249,Benjamin Hübner,1989-07-04,2020-06-30,Centre Back,21.0,"2,750,000 €",Germany,95
+2250,Kevin Vogt,1991-09-23,2020-06-30,Central Midfield,22.0,"3,000,000 €",Germany,95
+2251,Marko Maric,1996-01-03,2018-06-30,Keeper,NaN,"300,000 €",Croatia,95
+2252,Gregor Kobel,1997-12-06,2020-06-30,Keeper,36.0,"100,000 €",Switzerland,95
+2253,Dennis Geiger,1998-06-10,2018-06-30,Central Midfield,32.0,"100,000 €",Germany,95
+2254,Baris Atik,1995-01-09,2019-06-30,Attacking Midfield,34.0,"125,000 €",Turkey,95
+2255,Davie Selke,1995-01-20,2020-06-30,Centre Forward,27.0,"4,000,000 €",Germany,96
+2256,Fabio Coltorti,1980-12-03,2017-06-30,Keeper,1.0,"300,000 €",Switzerland,96
+2257,Marvin Compper,1985-06-14,2017-06-30,Centre Back,33.0,"750,000 €",Germany,96
+2258,Lukas Klostermann,1996-06-03,2018-06-30,Right-Back,16.0,"3,000,000 €",Germany,96
+2259,Rani Khedira,1994-01-27,2017-06-30,Defensive Midfield,6.0,"900,000 €",Germany,96
+2260,Diego Demme,1991-11-21,2018-06-30,Defensive Midfield,31.0,"1,250,000 €",Germany,96
+2261,Dominik Kaiser,1988-09-16,2018-06-30,Central Midfield,24.0,"2,000,000 €",Germany,96
+2262,Emil Forsberg,1991-10-23,2021-06-30,Left Wing,10.0,"5,000,000 €",Sweden,96
+2263,Zsolt Kalmár,1995-06-09,2019-06-30,Attacking Midfield,35.0,"500,000 €",Hungary,96
+2264,Terrence Boyd,1991-02-16,2017-06-30,Centre Forward,18.0,"600,000 €",United States,96
+2265,Yussuf Poulsen,1994-06-15,2019-06-30,Centre Forward,9.0,"5,000,000 €",Denmark,96
+2266,Marcel Halstenberg,1991-09-27,2019-06-30,Left-Back,23.0,"3,500,000 €",Germany,96
+2267,Marius Müller,1993-07-12,2019-06-30,Keeper,21.0,"1,500,000 €",Germany,96
+2268,Willi Orban,1992-11-03,2019-06-30,Centre Back,4.0,"3,000,000 €",Germany,96
+2269,Timo Werner,1996-03-06,2020-06-30,Centre Forward,11.0,"8,000,000 €",Germany,96
+2270,Kyriakos Papadopoulos,1992-02-23,2017-06-30,Centre Back,5.0,"6,500,000 €",Greece,96
+2271,Péter Gulácsi,1990-05-06,2019-06-30,Keeper,32.0,"700,000 €",Hungary,96
+2272,Stefan Ilsanker,1989-05-18,2018-06-30,Defensive Midfield,13.0,"2,000,000 €",Austria,96
+2273,Marcel Sabitzer,1994-03-17,2021-06-30,Secondary Striker,7.0,"4,000,000 €",Austria,96
+2274,Benno Schmitz,1994-11-17,2020-06-30,Right-Back,20.0,"900,000 €",Germany,96
+2275,Vitaly Janelt,1998-05-10,2021-06-30,Defensive Midfield,26.0,"125,000 €",Germany,96
+2276,Naby Keïta,1995-02-10,2020-06-30,Central Midfield,8.0,"11,000,000 €",Guine,96
+2277,Idrissa Touré,1998-04-29,2021-06-30,Central Midfield,40.0,"200,000 €",Germany,96
+2278,Agyemang Diawusie,1998-02-12,2018-06-30,Centre Forward,15.0,"150,000 €",Germany,96
+2279,Bernardo,1995-05-14,2021-06-30,Centre Back,3.0,"1,000,000 €",Brazil,96
+2280,Oliver Burke,1997-04-07,2021-06-30,Right Wing,19.0,"5,000,000 €",Scotland,96
