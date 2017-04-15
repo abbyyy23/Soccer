@@ -2,2956 +2,2956 @@
   {
     "standing": [
       {
-        "wins": 22, 
-        "draws": 3, 
+        "wins": 24,
+        "draws": 3,
         "home": {
-          "wins": 12, 
-          "losses": 2, 
-          "draws": 0, 
-          "goals": 37, 
-          "goalsAgainst": 10
-        }, 
-        "playedGames": 29, 
+          "wins": 13,
+          "losses": 2,
+          "draws": 0,
+          "goals": 39,
+          "goalsAgainst": 11
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 10, 
-          "losses": 2, 
-          "draws": 3, 
-          "goals": 23, 
-          "goalsAgainst": 13
-        }, 
-        "losses": 4, 
-        "teamName": "Chelsea FC", 
-        "points": 69, 
+          "wins": 11,
+          "losses": 2,
+          "draws": 3,
+          "goals": 26,
+          "goalsAgainst": 14
+        },
+        "losses": 4,
+        "teamName": "Chelsea FC",
+        "points": 75,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/61"
           }
-        }, 
-        "goals": 60, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg", 
-        "position": 1, 
-        "goalDifference": 37, 
-        "goalsAgainst": 23
-      }, 
+        },
+        "goals": 65,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg",
+        "position": 1,
+        "goalDifference": 40,
+        "goalsAgainst": 25
+      },
       {
-        "wins": 18, 
-        "draws": 8, 
+        "wins": 20,
+        "draws": 8,
         "home": {
-          "wins": 13, 
-          "losses": 0, 
-          "draws": 2, 
-          "goals": 35, 
+          "wins": 14,
+          "losses": 0,
+          "draws": 2,
+          "goals": 39,
           "goalsAgainst": 8
-        }, 
-        "playedGames": 29, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 5, 
-          "losses": 3, 
-          "draws": 6, 
-          "goals": 22, 
-          "goalsAgainst": 13
-        }, 
-        "losses": 3, 
-        "teamName": "Tottenham Hotspur FC", 
-        "points": 62, 
+          "wins": 6,
+          "losses": 3,
+          "draws": 6,
+          "goals": 25,
+          "goalsAgainst": 14
+        },
+        "losses": 3,
+        "teamName": "Tottenham Hotspur FC",
+        "points": 68,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/73"
           }
-        }, 
-        "goals": 57, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg", 
-        "position": 2, 
-        "goalDifference": 36, 
-        "goalsAgainst": 21
-      }, 
+        },
+        "goals": 64,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg",
+        "position": 2,
+        "goalDifference": 42,
+        "goalsAgainst": 22
+      },
       {
-        "wins": 17, 
-        "draws": 8, 
+        "wins": 18,
+        "draws": 9,
         "home": {
-          "wins": 11, 
-          "losses": 1, 
-          "draws": 3, 
-          "goals": 39, 
-          "goalsAgainst": 14
-        }, 
-        "playedGames": 30, 
+          "wins": 11,
+          "losses": 1,
+          "draws": 4,
+          "goals": 41,
+          "goalsAgainst": 16
+        },
+        "playedGames": 32,
         "away": {
-          "wins": 6, 
-          "losses": 4, 
-          "draws": 5, 
-          "goals": 25, 
-          "goalsAgainst": 23
-        }, 
-        "losses": 5, 
-        "teamName": "Liverpool FC", 
-        "points": 59, 
+          "wins": 7,
+          "losses": 4,
+          "draws": 5,
+          "goals": 27,
+          "goalsAgainst": 24
+        },
+        "losses": 5,
+        "teamName": "Liverpool FC",
+        "points": 63,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/64"
           }
-        }, 
-        "goals": 64, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg", 
-        "position": 3, 
-        "goalDifference": 27, 
-        "goalsAgainst": 37
-      }, 
+        },
+        "goals": 68,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg",
+        "position": 3,
+        "goalDifference": 28,
+        "goalsAgainst": 40
+      },
       {
-        "wins": 17, 
-        "draws": 7, 
+        "wins": 18,
+        "draws": 7,
         "home": {
-          "wins": 7, 
-          "losses": 1, 
-          "draws": 6, 
-          "goals": 24, 
-          "goalsAgainst": 14
-        }, 
-        "playedGames": 29, 
+          "wins": 8,
+          "losses": 1,
+          "draws": 6,
+          "goals": 27,
+          "goalsAgainst": 15
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 10, 
-          "losses": 4, 
-          "draws": 1, 
-          "goals": 32, 
-          "goalsAgainst": 18
-        }, 
-        "losses": 5, 
-        "teamName": "Manchester City FC", 
-        "points": 58, 
+          "wins": 10,
+          "losses": 5,
+          "draws": 1,
+          "goals": 33,
+          "goalsAgainst": 20
+        },
+        "losses": 6,
+        "teamName": "Manchester City FC",
+        "points": 61,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/65"
           }
-        }, 
-        "goals": 56, 
-        "crestURI": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg", 
-        "position": 4, 
-        "goalDifference": 24, 
-        "goalsAgainst": 32
-      }, 
+        },
+        "goals": 60,
+        "crestURI": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+        "position": 4,
+        "goalDifference": 25,
+        "goalsAgainst": 35
+      },
       {
-        "wins": 15, 
-        "draws": 8, 
+        "wins": 15,
+        "draws": 12,
         "home": {
-          "wins": 10, 
-          "losses": 1, 
-          "draws": 4, 
-          "goals": 34, 
-          "goalsAgainst": 10
-        }, 
-        "playedGames": 31, 
-        "away": {
-          "wins": 5, 
-          "losses": 7, 
-          "draws": 4, 
-          "goals": 19, 
-          "goalsAgainst": 23
-        }, 
-        "losses": 8, 
-        "teamName": "Everton FC", 
-        "points": 53, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/62"
-          }
-        }, 
-        "goals": 53, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg", 
-        "position": 5, 
-        "goalDifference": 20, 
-        "goalsAgainst": 33
-      }, 
-      {
-        "wins": 14, 
-        "draws": 11, 
-        "home": {
-          "wins": 6, 
-          "losses": 2, 
-          "draws": 8, 
-          "goals": 20, 
+          "wins": 6,
+          "losses": 1,
+          "draws": 9,
+          "goals": 21,
           "goalsAgainst": 11
-        }, 
-        "playedGames": 29, 
+        },
+        "playedGames": 30,
         "away": {
-          "wins": 8, 
-          "losses": 2, 
-          "draws": 3, 
-          "goals": 22, 
+          "wins": 9,
+          "losses": 2,
+          "draws": 3,
+          "goals": 25,
           "goalsAgainst": 13
-        }, 
-        "losses": 4, 
-        "teamName": "Manchester United FC", 
-        "points": 53, 
+        },
+        "losses": 3,
+        "teamName": "Manchester United FC",
+        "points": 57,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/66"
           }
-        }, 
-        "goals": 42, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg", 
-        "position": 6, 
-        "goalDifference": 18, 
+        },
+        "goals": 46,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg",
+        "position": 5,
+        "goalDifference": 22,
         "goalsAgainst": 24
-      }, 
+      },
       {
-        "wins": 15, 
-        "draws": 6, 
+        "wins": 16,
+        "draws": 6,
         "home": {
-          "wins": 9, 
-          "losses": 2, 
-          "draws": 3, 
-          "goals": 28, 
+          "wins": 10,
+          "losses": 2,
+          "draws": 3,
+          "goals": 31,
           "goalsAgainst": 15
-        }, 
-        "playedGames": 28, 
+        },
+        "playedGames": 30,
         "away": {
-          "wins": 6, 
-          "losses": 5, 
-          "draws": 3, 
-          "goals": 30, 
-          "goalsAgainst": 21
-        }, 
-        "losses": 7, 
-        "teamName": "Arsenal FC", 
-        "points": 51, 
+          "wins": 6,
+          "losses": 6,
+          "draws": 3,
+          "goals": 30,
+          "goalsAgainst": 24
+        },
+        "losses": 8,
+        "teamName": "Arsenal FC",
+        "points": 54,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/57"
           }
-        }, 
-        "goals": 58, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg", 
-        "position": 7, 
-        "goalDifference": 22, 
-        "goalsAgainst": 36
-      }, 
+        },
+        "goals": 61,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+        "position": 6,
+        "goalDifference": 22,
+        "goalsAgainst": 39
+      },
       {
-        "wins": 12, 
-        "draws": 8, 
+        "wins": 15,
+        "draws": 9,
         "home": {
-          "wins": 9, 
-          "losses": 4, 
-          "draws": 2, 
-          "goals": 27, 
-          "goalsAgainst": 18
-        }, 
-        "playedGames": 31, 
+          "wins": 11,
+          "losses": 1,
+          "draws": 4,
+          "goals": 38,
+          "goalsAgainst": 12
+        },
+        "playedGames": 32,
         "away": {
-          "wins": 3, 
-          "losses": 7, 
-          "draws": 6, 
-          "goals": 12, 
+          "wins": 4,
+          "losses": 7,
+          "draws": 5,
+          "goals": 19,
+          "goalsAgainst": 24
+        },
+        "losses": 8,
+        "teamName": "Everton FC",
+        "points": 54,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/62"
+          }
+        },
+        "goals": 57,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg",
+        "position": 7,
+        "goalDifference": 21,
+        "goalsAgainst": 36
+      },
+      {
+        "wins": 12,
+        "draws": 8,
+        "home": {
+          "wins": 9,
+          "losses": 5,
+          "draws": 2,
+          "goals": 27,
+          "goalsAgainst": 19
+        },
+        "playedGames": 32,
+        "away": {
+          "wins": 3,
+          "losses": 7,
+          "draws": 6,
+          "goals": 12,
           "goalsAgainst": 22
-        }, 
-        "losses": 11, 
-        "teamName": "West Bromwich Albion FC", 
-        "points": 44, 
+        },
+        "losses": 12,
+        "teamName": "West Bromwich Albion FC",
+        "points": 44,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/74"
           }
-        }, 
-        "goals": 39, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg", 
-        "position": 8, 
-        "goalDifference": -1, 
-        "goalsAgainst": 40
-      }, 
+        },
+        "goals": 39,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg",
+        "position": 8,
+        "goalDifference": -2,
+        "goalsAgainst": 41
+      },
       {
-        "wins": 10, 
-        "draws": 7, 
+        "wins": 11,
+        "draws": 7,
         "home": {
-          "wins": 7, 
-          "losses": 5, 
-          "draws": 4, 
-          "goals": 24, 
-          "goalsAgainst": 23
-        }, 
-        "playedGames": 30, 
+          "wins": 6,
+          "losses": 4,
+          "draws": 4,
+          "goals": 17,
+          "goalsAgainst": 15
+        },
+        "playedGames": 30,
         "away": {
-          "wins": 3, 
-          "losses": 8, 
-          "draws": 3, 
-          "goals": 12, 
-          "goalsAgainst": 25
-        }, 
-        "losses": 13, 
-        "teamName": "Watford FC", 
-        "points": 37, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/346"
-          }
-        }, 
-        "goals": 36, 
-        "crestURI": "https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg", 
-        "position": 9, 
-        "goalDifference": -12, 
-        "goalsAgainst": 48
-      }, 
-      {
-        "wins": 10, 
-        "draws": 6, 
-        "home": {
-          "wins": 9, 
-          "losses": 4, 
-          "draws": 3, 
-          "goals": 26, 
-          "goalsAgainst": 18
-        }, 
-        "playedGames": 30, 
-        "away": {
-          "wins": 1, 
-          "losses": 10, 
-          "draws": 3, 
-          "goals": 11, 
-          "goalsAgainst": 29
-        }, 
-        "losses": 14, 
-        "teamName": "Leicester City FC", 
-        "points": 36, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/338"
-          }
-        }, 
-        "goals": 37, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png", 
-        "position": 10, 
-        "goalDifference": -10, 
-        "goalsAgainst": 47
-      }, 
-      {
-        "wins": 9, 
-        "draws": 9, 
-        "home": {
-          "wins": 6, 
-          "losses": 4, 
-          "draws": 5, 
-          "goals": 19, 
-          "goalsAgainst": 17
-        }, 
-        "playedGames": 31, 
-        "away": {
-          "wins": 3, 
-          "losses": 9, 
-          "draws": 4, 
-          "goals": 14, 
-          "goalsAgainst": 28
-        }, 
-        "losses": 13, 
-        "teamName": "Stoke City FC", 
-        "points": 36, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/70"
-          }
-        }, 
-        "goals": 33, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg", 
-        "position": 11, 
-        "goalDifference": -12, 
-        "goalsAgainst": 45
-      }, 
-      {
-        "wins": 10, 
-        "draws": 5, 
-        "home": {
-          "wins": 10, 
-          "losses": 4, 
-          "draws": 2, 
-          "goals": 23, 
-          "goalsAgainst": 14
-        }, 
-        "playedGames": 31, 
-        "away": {
-          "wins": 0, 
-          "losses": 12, 
-          "draws": 3, 
-          "goals": 9, 
-          "goalsAgainst": 30
-        }, 
-        "losses": 16, 
-        "teamName": "Burnley FC", 
-        "points": 35, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/328"
-          }
-        }, 
-        "goals": 32, 
-        "crestURI": "https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png", 
-        "position": 12, 
-        "goalDifference": -12, 
-        "goalsAgainst": 44
-      }, 
-      {
-        "wins": 9, 
-        "draws": 7, 
-        "home": {
-          "wins": 5, 
-          "losses": 4, 
-          "draws": 4, 
-          "goals": 14, 
-          "goalsAgainst": 14
-        }, 
-        "playedGames": 28, 
-        "away": {
-          "wins": 4, 
-          "losses": 8, 
-          "draws": 3, 
-          "goals": 19, 
+          "wins": 5,
+          "losses": 8,
+          "draws": 3,
+          "goals": 20,
           "goalsAgainst": 22
-        }, 
-        "losses": 12, 
-        "teamName": "Southampton FC", 
-        "points": 34, 
+        },
+        "losses": 12,
+        "teamName": "Southampton FC",
+        "points": 40,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/340"
           }
-        }, 
-        "goals": 33, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg", 
-        "position": 13, 
-        "goalDifference": -3, 
-        "goalsAgainst": 36
-      }, 
+        },
+        "goals": 37,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg",
+        "position": 9,
+        "goalDifference": 0,
+        "goalsAgainst": 37
+      },
       {
-        "wins": 9, 
-        "draws": 7, 
+        "wins": 10,
+        "draws": 7,
         "home": {
-          "wins": 7, 
-          "losses": 5, 
-          "draws": 3, 
-          "goals": 26, 
+          "wins": 7,
+          "losses": 5,
+          "draws": 4,
+          "goals": 24,
           "goalsAgainst": 23
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 2, 
-          "losses": 9, 
-          "draws": 4, 
-          "goals": 16, 
-          "goalsAgainst": 31
-        }, 
-        "losses": 14, 
-        "teamName": "AFC Bournemouth", 
-        "points": 34, 
+          "wins": 3,
+          "losses": 9,
+          "draws": 3,
+          "goals": 12,
+          "goalsAgainst": 29
+        },
+        "losses": 14,
+        "teamName": "Watford FC",
+        "points": 37,
         "_links": {
           "team": {
-            "href": "http://api.football-data.org/v1/teams/1044"
+            "href": "http://api.football-data.org/v1/teams/346"
           }
-        }, 
-        "goals": 42, 
-        "crestURI": "https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg", 
-        "position": 14, 
-        "goalDifference": -12, 
-        "goalsAgainst": 54
-      }, 
+        },
+        "goals": 36,
+        "crestURI": "https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg",
+        "position": 10,
+        "goalDifference": -16,
+        "goalsAgainst": 52
+      },
       {
-        "wins": 9, 
-        "draws": 6, 
+        "wins": 10,
+        "draws": 6,
         "home": {
-          "wins": 5, 
-          "losses": 7, 
-          "draws": 3, 
-          "goals": 17, 
-          "goalsAgainst": 27
-        }, 
-        "playedGames": 30, 
+          "wins": 9,
+          "losses": 4,
+          "draws": 3,
+          "goals": 26,
+          "goalsAgainst": 18
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 4, 
-          "losses": 8, 
-          "draws": 3, 
-          "goals": 24, 
+          "wins": 1,
+          "losses": 11,
+          "draws": 3,
+          "goals": 13,
+          "goalsAgainst": 33
+        },
+        "losses": 15,
+        "teamName": "Leicester City FC",
+        "points": 36,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/338"
+          }
+        },
+        "goals": 39,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png",
+        "position": 11,
+        "goalDifference": -12,
+        "goalsAgainst": 51
+      },
+      {
+        "wins": 10,
+        "draws": 6,
+        "home": {
+          "wins": 10,
+          "losses": 4,
+          "draws": 2,
+          "goals": 23,
+          "goalsAgainst": 14
+        },
+        "playedGames": 32,
+        "away": {
+          "wins": 0,
+          "losses": 12,
+          "draws": 4,
+          "goals": 9,
+          "goalsAgainst": 30
+        },
+        "losses": 16,
+        "teamName": "Burnley FC",
+        "points": 36,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/328"
+          }
+        },
+        "goals": 32,
+        "crestURI": "https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png",
+        "position": 12,
+        "goalDifference": -12,
+        "goalsAgainst": 44
+      },
+      {
+        "wins": 9,
+        "draws": 9,
+        "home": {
+          "wins": 6,
+          "losses": 5,
+          "draws": 5,
+          "goals": 20,
+          "goalsAgainst": 19
+        },
+        "playedGames": 32,
+        "away": {
+          "wins": 3,
+          "losses": 9,
+          "draws": 4,
+          "goals": 14,
+          "goalsAgainst": 28
+        },
+        "losses": 14,
+        "teamName": "Stoke City FC",
+        "points": 36,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/70"
+          }
+        },
+        "goals": 34,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg",
+        "position": 13,
+        "goalDifference": -13,
+        "goalsAgainst": 47
+      },
+      {
+        "wins": 10,
+        "draws": 6,
+        "home": {
+          "wins": 6,
+          "losses": 7,
+          "draws": 3,
+          "goals": 18,
           "goalsAgainst": 27
-        }, 
-        "losses": 15, 
-        "teamName": "West Ham United FC", 
-        "points": 33, 
+        },
+        "playedGames": 32,
+        "away": {
+          "wins": 4,
+          "losses": 9,
+          "draws": 3,
+          "goals": 24,
+          "goalsAgainst": 30
+        },
+        "losses": 16,
+        "teamName": "West Ham United FC",
+        "points": 36,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/563"
           }
-        }, 
-        "goals": 41, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg", 
-        "position": 15, 
-        "goalDifference": -13, 
-        "goalsAgainst": 54
-      }, 
+        },
+        "goals": 42,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg",
+        "position": 14,
+        "goalDifference": -15,
+        "goalsAgainst": 57
+      },
       {
-        "wins": 9, 
-        "draws": 4, 
+        "wins": 9,
+        "draws": 8,
         "home": {
-          "wins": 4, 
-          "losses": 9, 
-          "draws": 1, 
-          "goals": 15, 
-          "goalsAgainst": 20
-        }, 
-        "playedGames": 29, 
+          "wins": 7,
+          "losses": 6,
+          "draws": 3,
+          "goals": 27,
+          "goalsAgainst": 26
+        },
+        "playedGames": 32,
         "away": {
-          "wins": 5, 
-          "losses": 7, 
-          "draws": 3, 
-          "goals": 23, 
-          "goalsAgainst": 27
-        }, 
-        "losses": 16, 
-        "teamName": "Crystal Palace FC", 
-        "points": 31, 
+          "wins": 2,
+          "losses": 9,
+          "draws": 5,
+          "goals": 18,
+          "goalsAgainst": 33
+        },
+        "losses": 15,
+        "teamName": "AFC Bournemouth",
+        "points": 35,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/1044"
+          }
+        },
+        "goals": 45,
+        "crestURI": "https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg",
+        "position": 15,
+        "goalDifference": -14,
+        "goalsAgainst": 59
+      },
+      {
+        "wins": 10,
+        "draws": 4,
+        "home": {
+          "wins": 5,
+          "losses": 9,
+          "draws": 1,
+          "goals": 18,
+          "goalsAgainst": 20
+        },
+        "playedGames": 31,
+        "away": {
+          "wins": 5,
+          "losses": 8,
+          "draws": 3,
+          "goals": 24,
+          "goalsAgainst": 30
+        },
+        "losses": 17,
+        "teamName": "Crystal Palace FC",
+        "points": 34,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/354"
           }
-        }, 
-        "goals": 38, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png", 
-        "position": 16, 
-        "goalDifference": -9, 
-        "goalsAgainst": 47
-      }, 
+        },
+        "goals": 42,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png",
+        "position": 16,
+        "goalDifference": -8,
+        "goalsAgainst": 50
+      },
       {
-        "wins": 8, 
-        "draws": 4, 
+        "wins": 8,
+        "draws": 6,
         "home": {
-          "wins": 5, 
-          "losses": 7, 
-          "draws": 3, 
-          "goals": 21, 
-          "goalsAgainst": 30
-        }, 
-        "playedGames": 30, 
+          "wins": 7,
+          "losses": 5,
+          "draws": 4,
+          "goals": 25,
+          "goalsAgainst": 26
+        },
+        "playedGames": 32,
         "away": {
-          "wins": 3, 
-          "losses": 11, 
-          "draws": 1, 
-          "goals": 15, 
-          "goalsAgainst": 33
-        }, 
-        "losses": 18, 
-        "teamName": "Swansea City FC", 
-        "points": 28, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/72"
-          }
-        }, 
-        "goals": 36, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg", 
-        "position": 17, 
-        "goalDifference": -27, 
-        "goalsAgainst": 63
-      }, 
-      {
-        "wins": 7, 
-        "draws": 6, 
-        "home": {
-          "wins": 6, 
-          "losses": 5, 
-          "draws": 4, 
-          "goals": 21, 
-          "goalsAgainst": 24
-        }, 
-        "playedGames": 30, 
-        "away": {
-          "wins": 1, 
-          "losses": 12, 
-          "draws": 2, 
-          "goals": 7, 
-          "goalsAgainst": 35
-        }, 
-        "losses": 17, 
-        "teamName": "Hull City FC", 
-        "points": 27, 
+          "wins": 1,
+          "losses": 13,
+          "draws": 2,
+          "goals": 8,
+          "goalsAgainst": 38
+        },
+        "losses": 18,
+        "teamName": "Hull City FC",
+        "points": 30,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/322"
           }
-        }, 
-        "goals": 28, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/a9/Hull_City_AFC.svg", 
-        "position": 18, 
-        "goalDifference": -31, 
-        "goalsAgainst": 59
-      }, 
+        },
+        "goals": 33,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/a9/Hull_City_AFC.svg",
+        "position": 17,
+        "goalDifference": -31,
+        "goalsAgainst": 64
+      },
       {
-        "wins": 4, 
-        "draws": 11, 
+        "wins": 8,
+        "draws": 4,
         "home": {
-          "wins": 3, 
-          "losses": 7, 
-          "draws": 4, 
-          "goals": 12, 
-          "goalsAgainst": 17
-        }, 
-        "playedGames": 29, 
+          "wins": 5,
+          "losses": 8,
+          "draws": 3,
+          "goals": 22,
+          "goalsAgainst": 33
+        },
+        "playedGames": 32,
         "away": {
-          "wins": 1, 
-          "losses": 7, 
-          "draws": 7, 
-          "goals": 8, 
-          "goalsAgainst": 16
-        }, 
-        "losses": 14, 
-        "teamName": "Middlesbrough FC", 
-        "points": 23, 
+          "wins": 3,
+          "losses": 12,
+          "draws": 1,
+          "goals": 15,
+          "goalsAgainst": 34
+        },
+        "losses": 20,
+        "teamName": "Swansea City FC",
+        "points": 28,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/72"
+          }
+        },
+        "goals": 37,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg",
+        "position": 18,
+        "goalDifference": -30,
+        "goalsAgainst": 67
+      },
+      {
+        "wins": 4,
+        "draws": 12,
+        "home": {
+          "wins": 3,
+          "losses": 7,
+          "draws": 5,
+          "goals": 12,
+          "goalsAgainst": 17
+        },
+        "playedGames": 31,
+        "away": {
+          "wins": 1,
+          "losses": 8,
+          "draws": 7,
+          "goals": 10,
+          "goalsAgainst": 20
+        },
+        "losses": 15,
+        "teamName": "Middlesbrough FC",
+        "points": 24,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/343"
           }
-        }, 
-        "goals": 20, 
-        "crestURI": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg", 
-        "position": 19, 
-        "goalDifference": -13, 
-        "goalsAgainst": 33
-      }, 
+        },
+        "goals": 22,
+        "crestURI": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg",
+        "position": 19,
+        "goalDifference": -15,
+        "goalsAgainst": 37
+      },
       {
-        "wins": 5, 
-        "draws": 5, 
+        "wins": 5,
+        "draws": 5,
         "home": {
-          "wins": 3, 
-          "losses": 8, 
-          "draws": 4, 
-          "goals": 14, 
-          "goalsAgainst": 26
-        }, 
-        "playedGames": 30, 
+          "wins": 3,
+          "losses": 9,
+          "draws": 4,
+          "goals": 14,
+          "goalsAgainst": 29
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 2, 
-          "losses": 12, 
-          "draws": 1, 
-          "goals": 10, 
+          "wins": 2,
+          "losses": 12,
+          "draws": 1,
+          "goals": 10,
           "goalsAgainst": 27
-        }, 
-        "losses": 20, 
-        "teamName": "Sunderland AFC", 
-        "points": 20, 
+        },
+        "losses": 21,
+        "teamName": "Sunderland AFC",
+        "points": 20,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/71"
           }
-        }, 
-        "goals": 24, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/6/60/AFC_Sunderland.svg", 
-        "position": 20, 
-        "goalDifference": -29, 
-        "goalsAgainst": 53
+        },
+        "goals": 24,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/6/60/AFC_Sunderland.svg",
+        "position": 20,
+        "goalDifference": -32,
+        "goalsAgainst": 56
       }
-    ], 
-    "leagueCaption": "Premier League 2016/17", 
-    "matchday": 31, 
+    ],
+    "leagueCaption": "Premier League 2016/17",
+    "matchday": 33,
     "_links": {
       "self": {
-        "href": "http://api.football-data.org/v1/competitions/426/leagueTable/?matchday=31"
-      }, 
+        "href": "http://api.football-data.org/v1/competitions/426/leagueTable/?matchday=33"
+      },
       "competition": {
         "href": "http://api.football-data.org/v1/competitions/426"
       }
     }
-  }, 
+  },
   {
     "standing": [
       {
-        "wins": 24, 
-        "draws": 2, 
+        "wins": 25,
+        "draws": 2,
         "home": {
-          "wins": 15, 
-          "losses": 0, 
-          "draws": 0, 
-          "goals": 38, 
+          "wins": 16,
+          "losses": 0,
+          "draws": 0,
+          "goals": 40,
           "goalsAgainst": 8
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 9, 
-          "losses": 4, 
-          "draws": 2, 
-          "goals": 22, 
+          "wins": 9,
+          "losses": 4,
+          "draws": 2,
+          "goals": 22,
           "goalsAgainst": 12
-        }, 
-        "losses": 4, 
-        "teamName": "Juventus Turin", 
-        "points": 74, 
+        },
+        "losses": 4,
+        "teamName": "Juventus Turin",
+        "points": 77,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/109"
           }
-        }, 
-        "goals": 60, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg", 
-        "position": 1, 
-        "goalDifference": 40, 
+        },
+        "goals": 62,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg",
+        "position": 1,
+        "goalDifference": 42,
         "goalsAgainst": 20
-      }, 
+      },
       {
-        "wins": 22, 
-        "draws": 2, 
+        "wins": 23,
+        "draws": 2,
         "home": {
-          "wins": 14, 
-          "losses": 1, 
-          "draws": 0, 
-          "goals": 42, 
+          "wins": 14,
+          "losses": 1,
+          "draws": 0,
+          "goals": 42,
           "goalsAgainst": 11
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 8, 
-          "losses": 5, 
-          "draws": 2, 
-          "goals": 24, 
+          "wins": 9,
+          "losses": 5,
+          "draws": 2,
+          "goals": 27,
           "goalsAgainst": 15
-        }, 
-        "losses": 6, 
-        "teamName": "AS Roma", 
-        "points": 68, 
+        },
+        "losses": 6,
+        "teamName": "AS Roma",
+        "points": 71,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/100"
           }
-        }, 
-        "goals": 66, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg", 
-        "position": 2, 
-        "goalDifference": 40, 
+        },
+        "goals": 69,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg",
+        "position": 2,
+        "goalDifference": 43,
         "goalsAgainst": 26
-      }, 
+      },
       {
-        "wins": 19, 
-        "draws": 7, 
+        "wins": 20,
+        "draws": 7,
         "home": {
-          "wins": 10, 
-          "losses": 2, 
-          "draws": 4, 
-          "goals": 34, 
+          "wins": 10,
+          "losses": 2,
+          "draws": 4,
+          "goals": 34,
           "goalsAgainst": 17
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 9, 
-          "losses": 2, 
-          "draws": 3, 
-          "goals": 35, 
+          "wins": 10,
+          "losses": 2,
+          "draws": 3,
+          "goals": 38,
           "goalsAgainst": 16
-        }, 
-        "losses": 4, 
-        "teamName": "SSC Napoli", 
-        "points": 64, 
+        },
+        "losses": 4,
+        "teamName": "SSC Napoli",
+        "points": 67,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/113"
           }
-        }, 
-        "goals": 69, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg", 
-        "position": 3, 
-        "goalDifference": 36, 
+        },
+        "goals": 72,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg",
+        "position": 3,
+        "goalDifference": 39,
         "goalsAgainst": 33
-      }, 
+      },
       {
-        "wins": 18, 
-        "draws": 6, 
+        "wins": 18,
+        "draws": 6,
         "home": {
-          "wins": 10, 
-          "losses": 3, 
-          "draws": 2, 
-          "goals": 26, 
-          "goalsAgainst": 12
-        }, 
-        "playedGames": 30, 
+          "wins": 10,
+          "losses": 4,
+          "draws": 2,
+          "goals": 26,
+          "goalsAgainst": 15
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 8, 
-          "losses": 3, 
-          "draws": 4, 
-          "goals": 26, 
+          "wins": 8,
+          "losses": 3,
+          "draws": 4,
+          "goals": 26,
           "goalsAgainst": 19
-        }, 
-        "losses": 6, 
-        "teamName": "SS Lazio", 
-        "points": 60, 
+        },
+        "losses": 7,
+        "teamName": "SS Lazio",
+        "points": 60,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/110"
           }
-        }, 
-        "goals": 52, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png", 
-        "position": 4, 
-        "goalDifference": 21, 
-        "goalsAgainst": 31
-      }, 
+        },
+        "goals": 52,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png",
+        "position": 4,
+        "goalDifference": 18,
+        "goalsAgainst": 34
+      },
       {
-        "wins": 18, 
-        "draws": 4, 
+        "wins": 18,
+        "draws": 5,
         "home": {
-          "wins": 10, 
-          "losses": 3, 
-          "draws": 1, 
-          "goals": 23, 
-          "goalsAgainst": 12
-        }, 
-        "playedGames": 30, 
+          "wins": 10,
+          "losses": 3,
+          "draws": 2,
+          "goals": 24,
+          "goalsAgainst": 13
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 8, 
-          "losses": 5, 
-          "draws": 3, 
-          "goals": 28, 
+          "wins": 8,
+          "losses": 5,
+          "draws": 3,
+          "goals": 28,
           "goalsAgainst": 21
-        }, 
-        "losses": 8, 
-        "teamName": "Atalanta BC", 
-        "points": 58, 
+        },
+        "losses": 8,
+        "teamName": "Atalanta BC",
+        "points": 59,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/102"
           }
-        }, 
-        "goals": 51, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg", 
-        "position": 5, 
-        "goalDifference": 18, 
-        "goalsAgainst": 33
-      }, 
+        },
+        "goals": 52,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg",
+        "position": 5,
+        "goalDifference": 18,
+        "goalsAgainst": 34
+      },
       {
-        "wins": 17, 
-        "draws": 4, 
+        "wins": 17,
+        "draws": 6,
         "home": {
-          "wins": 10, 
-          "losses": 3, 
-          "draws": 2, 
-          "goals": 36, 
-          "goalsAgainst": 15
-        }, 
-        "playedGames": 30, 
-        "away": {
-          "wins": 7, 
-          "losses": 6, 
-          "draws": 2, 
-          "goals": 20, 
-          "goalsAgainst": 18
-        }, 
-        "losses": 9, 
-        "teamName": "FC Internazionale Milano", 
-        "points": 55, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/108"
-          }
-        }, 
-        "goals": 56, 
-        "crestURI": "https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png", 
-        "position": 6, 
-        "goalDifference": 23, 
-        "goalsAgainst": 33
-      }, 
-      {
-        "wins": 16, 
-        "draws": 6, 
-        "home": {
-          "wins": 10, 
-          "losses": 3, 
-          "draws": 2, 
-          "goals": 23, 
+          "wins": 11,
+          "losses": 3,
+          "draws": 2,
+          "goals": 27,
           "goalsAgainst": 14
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 6, 
-          "losses": 5, 
-          "draws": 4, 
-          "goals": 20, 
+          "wins": 6,
+          "losses": 5,
+          "draws": 4,
+          "goals": 20,
           "goalsAgainst": 19
-        }, 
-        "losses": 8, 
-        "teamName": "AC Milan", 
-        "points": 54, 
+        },
+        "losses": 8,
+        "teamName": "AC Milan",
+        "points": 57,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/98"
           }
-        }, 
-        "goals": 43, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/9/9e/AC_Mailand_Logo.svg", 
-        "position": 7, 
-        "goalDifference": 10, 
+        },
+        "goals": 47,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/9/9e/AC_Mailand_Logo.svg",
+        "position": 6,
+        "goalDifference": 14,
         "goalsAgainst": 33
-      }, 
+      },
       {
-        "wins": 14, 
-        "draws": 9, 
+        "wins": 17,
+        "draws": 4,
         "home": {
-          "wins": 8, 
-          "losses": 0, 
-          "draws": 7, 
-          "goals": 23, 
-          "goalsAgainst": 13
-        }, 
-        "playedGames": 30, 
+          "wins": 10,
+          "losses": 3,
+          "draws": 2,
+          "goals": 36,
+          "goalsAgainst": 15
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 6, 
-          "losses": 7, 
-          "draws": 2, 
-          "goals": 24, 
-          "goalsAgainst": 24
-        }, 
-        "losses": 7, 
-        "teamName": "ACF Fiorentina", 
-        "points": 51, 
+          "wins": 7,
+          "losses": 7,
+          "draws": 2,
+          "goals": 21,
+          "goalsAgainst": 20
+        },
+        "losses": 10,
+        "teamName": "FC Internazionale Milano",
+        "points": 55,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/108"
+          }
+        },
+        "goals": 57,
+        "crestURI": "https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png",
+        "position": 7,
+        "goalDifference": 22,
+        "goalsAgainst": 35
+      },
+      {
+        "wins": 14,
+        "draws": 10,
+        "home": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 7,
+          "goals": 23,
+          "goalsAgainst": 13
+        },
+        "playedGames": 31,
+        "away": {
+          "wins": 6,
+          "losses": 7,
+          "draws": 3,
+          "goals": 26,
+          "goalsAgainst": 26
+        },
+        "losses": 7,
+        "teamName": "ACF Fiorentina",
+        "points": 52,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/99"
           }
-        }, 
-        "goals": 47, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/de/AC_Florenz.svg", 
-        "position": 8, 
-        "goalDifference": 10, 
-        "goalsAgainst": 37
-      }, 
+        },
+        "goals": 49,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/de/AC_Florenz.svg",
+        "position": 8,
+        "goalDifference": 10,
+        "goalsAgainst": 39
+      },
       {
-        "wins": 12, 
-        "draws": 8, 
+        "wins": 12,
+        "draws": 9,
         "home": {
-          "wins": 8, 
-          "losses": 3, 
-          "draws": 4, 
-          "goals": 22, 
-          "goalsAgainst": 14
-        }, 
-        "playedGames": 30, 
+          "wins": 8,
+          "losses": 3,
+          "draws": 5,
+          "goals": 24,
+          "goalsAgainst": 16
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 4, 
-          "losses": 7, 
-          "draws": 4, 
-          "goals": 15, 
+          "wins": 4,
+          "losses": 7,
+          "draws": 4,
+          "goals": 15,
           "goalsAgainst": 21
-        }, 
-        "losses": 10, 
-        "teamName": "UC Sampdoria", 
-        "points": 44, 
+        },
+        "losses": 10,
+        "teamName": "UC Sampdoria",
+        "points": 45,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/584"
           }
-        }, 
-        "goals": 37, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/cc/Sampdoria_Genua.svg", 
-        "position": 9, 
-        "goalDifference": 2, 
-        "goalsAgainst": 35
-      }, 
+        },
+        "goals": 39,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/cc/Sampdoria_Genua.svg",
+        "position": 9,
+        "goalDifference": 2,
+        "goalsAgainst": 37
+      },
       {
-        "wins": 10, 
-        "draws": 11, 
+        "wins": 11,
+        "draws": 11,
         "home": {
-          "wins": 8, 
-          "losses": 1, 
-          "draws": 6, 
-          "goals": 36, 
+          "wins": 8,
+          "losses": 1,
+          "draws": 6,
+          "goals": 36,
           "goalsAgainst": 21
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 2, 
-          "losses": 8, 
-          "draws": 5, 
-          "goals": 20, 
-          "goalsAgainst": 29
-        }, 
-        "losses": 9, 
-        "teamName": "Torino FC", 
-        "points": 41, 
+          "wins": 3,
+          "losses": 8,
+          "draws": 5,
+          "goals": 23,
+          "goalsAgainst": 31
+        },
+        "losses": 9,
+        "teamName": "Torino FC",
+        "points": 44,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/586"
           }
-        }, 
-        "goals": 56, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg", 
-        "position": 10, 
-        "goalDifference": 6, 
-        "goalsAgainst": 50
-      }, 
+        },
+        "goals": 59,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg",
+        "position": 10,
+        "goalDifference": 7,
+        "goalsAgainst": 52
+      },
       {
-        "wins": 11, 
-        "draws": 5, 
+        "wins": 11,
+        "draws": 7,
         "home": {
-          "wins": 6, 
-          "losses": 6, 
-          "draws": 4, 
-          "goals": 20, 
-          "goalsAgainst": 21
-        }, 
-        "playedGames": 30, 
-        "away": {
-          "wins": 5, 
-          "losses": 8, 
-          "draws": 1, 
-          "goals": 15, 
-          "goalsAgainst": 22
-        }, 
-        "losses": 14, 
-        "teamName": "AC Chievo Verona", 
-        "points": 38, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/106"
-          }
-        }, 
-        "goals": 35, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3f/AC_Chievo_Verona.svg", 
-        "position": 11, 
-        "goalDifference": -8, 
-        "goalsAgainst": 43
-      }, 
-      {
-        "wins": 10, 
-        "draws": 7, 
-        "home": {
-          "wins": 6, 
-          "losses": 6, 
-          "draws": 3, 
-          "goals": 23, 
+          "wins": 7,
+          "losses": 6,
+          "draws": 3,
+          "goals": 26,
           "goalsAgainst": 20
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 4, 
-          "losses": 7, 
-          "draws": 4, 
-          "goals": 15, 
+          "wins": 4,
+          "losses": 7,
+          "draws": 4,
+          "goals": 15,
           "goalsAgainst": 20
-        }, 
-        "losses": 13, 
-        "teamName": "Udinese Calcio", 
-        "points": 37, 
+        },
+        "losses": 13,
+        "teamName": "Udinese Calcio",
+        "points": 40,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/115"
           }
-        }, 
-        "goals": 38, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b1/Udinese_Calcio.svg", 
-        "position": 12, 
-        "goalDifference": -2, 
+        },
+        "goals": 41,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b1/Udinese_Calcio.svg",
+        "position": 11,
+        "goalDifference": 1,
         "goalsAgainst": 40
-      }, 
+      },
       {
-        "wins": 10, 
-        "draws": 5, 
+        "wins": 11,
+        "draws": 5,
         "home": {
-          "wins": 7, 
-          "losses": 4, 
-          "draws": 3, 
-          "goals": 26, 
-          "goalsAgainst": 28
-        }, 
-        "playedGames": 30, 
+          "wins": 6,
+          "losses": 6,
+          "draws": 4,
+          "goals": 20,
+          "goalsAgainst": 21
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 3, 
-          "losses": 11, 
-          "draws": 2, 
-          "goals": 13, 
+          "wins": 5,
+          "losses": 9,
+          "draws": 1,
+          "goals": 15,
+          "goalsAgainst": 24
+        },
+        "losses": 15,
+        "teamName": "AC Chievo Verona",
+        "points": 38,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/106"
+          }
+        },
+        "goals": 35,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3f/AC_Chievo_Verona.svg",
+        "position": 12,
+        "goalDifference": -10,
+        "goalsAgainst": 45
+      },
+      {
+        "wins": 10,
+        "draws": 5,
+        "home": {
+          "wins": 7,
+          "losses": 5,
+          "draws": 3,
+          "goals": 28,
           "goalsAgainst": 31
-        }, 
-        "losses": 15, 
-        "teamName": "Cagliari Calcio", 
-        "points": 35, 
+        },
+        "playedGames": 31,
+        "away": {
+          "wins": 3,
+          "losses": 11,
+          "draws": 2,
+          "goals": 13,
+          "goalsAgainst": 31
+        },
+        "losses": 16,
+        "teamName": "Cagliari Calcio",
+        "points": 35,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/104"
           }
-        }, 
-        "goals": 39, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3d/Cagliari_Calcio.svg", 
-        "position": 13, 
-        "goalDifference": -20, 
-        "goalsAgainst": 59
-      }, 
+        },
+        "goals": 41,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3d/Cagliari_Calcio.svg",
+        "position": 13,
+        "goalDifference": -21,
+        "goalsAgainst": 62
+      },
       {
-        "wins": 9, 
-        "draws": 7, 
+        "wins": 9,
+        "draws": 7,
         "home": {
-          "wins": 6, 
-          "losses": 7, 
-          "draws": 2, 
-          "goals": 16, 
-          "goalsAgainst": 19
-        }, 
-        "playedGames": 30, 
+          "wins": 6,
+          "losses": 8,
+          "draws": 2,
+          "goals": 16,
+          "goalsAgainst": 22
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 3, 
-          "losses": 7, 
-          "draws": 5, 
-          "goals": 13, 
+          "wins": 3,
+          "losses": 7,
+          "draws": 5,
+          "goals": 13,
           "goalsAgainst": 24
-        }, 
-        "losses": 14, 
-        "teamName": "Bologna FC", 
-        "points": 34, 
+        },
+        "losses": 15,
+        "teamName": "Bologna FC",
+        "points": 34,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/103"
           }
-        }, 
-        "goals": 29, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/9/92/FC_Bologna.svg", 
-        "position": 14, 
-        "goalDifference": -14, 
-        "goalsAgainst": 43
-      }, 
+        },
+        "goals": 29,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/9/92/FC_Bologna.svg",
+        "position": 14,
+        "goalDifference": -17,
+        "goalsAgainst": 46
+      },
       {
-        "wins": 9, 
-        "draws": 4, 
+        "wins": 9,
+        "draws": 5,
         "home": {
-          "wins": 5, 
-          "losses": 9, 
-          "draws": 1, 
-          "goals": 15, 
+          "wins": 5,
+          "losses": 9,
+          "draws": 1,
+          "goals": 15,
           "goalsAgainst": 21
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 4, 
-          "losses": 8, 
-          "draws": 3, 
-          "goals": 22, 
-          "goalsAgainst": 27
-        }, 
-        "losses": 17, 
-        "teamName": "US Sassuolo Calcio", 
-        "points": 31, 
+          "wins": 4,
+          "losses": 8,
+          "draws": 4,
+          "goals": 23,
+          "goalsAgainst": 28
+        },
+        "losses": 17,
+        "teamName": "US Sassuolo Calcio",
+        "points": 32,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/471"
           }
-        }, 
-        "goals": 37, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/a3/US_Sassuolo_Calcio.svg", 
-        "position": 15, 
-        "goalDifference": -11, 
-        "goalsAgainst": 48
-      }, 
+        },
+        "goals": 38,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/a3/US_Sassuolo_Calcio.svg",
+        "position": 15,
+        "goalDifference": -11,
+        "goalsAgainst": 49
+      },
       {
-        "wins": 7, 
-        "draws": 8, 
+        "wins": 7,
+        "draws": 8,
         "home": {
-          "wins": 4, 
-          "losses": 5, 
-          "draws": 6, 
-          "goals": 18, 
+          "wins": 4,
+          "losses": 5,
+          "draws": 6,
+          "goals": 18,
           "goalsAgainst": 19
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 3, 
-          "losses": 10, 
-          "draws": 2, 
-          "goals": 12, 
-          "goalsAgainst": 29
-        }, 
-        "losses": 15, 
-        "teamName": "Genoa CFC", 
-        "points": 29, 
+          "wins": 3,
+          "losses": 11,
+          "draws": 2,
+          "goals": 12,
+          "goalsAgainst": 32
+        },
+        "losses": 16,
+        "teamName": "Genoa CFC",
+        "points": 29,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/107"
           }
-        }, 
-        "goals": 30, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/76/Genoa_CFC.svg", 
-        "position": 16, 
-        "goalDifference": -18, 
-        "goalsAgainst": 48
-      }, 
+        },
+        "goals": 30,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/76/Genoa_CFC.svg",
+        "position": 16,
+        "goalDifference": -21,
+        "goalsAgainst": 51
+      },
       {
-        "wins": 5, 
-        "draws": 7, 
+        "wins": 5,
+        "draws": 8,
         "home": {
-          "wins": 4, 
-          "losses": 8, 
-          "draws": 3, 
-          "goals": 11, 
-          "goalsAgainst": 23
-        }, 
-        "playedGames": 30, 
+          "wins": 4,
+          "losses": 8,
+          "draws": 4,
+          "goals": 12,
+          "goalsAgainst": 24
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 1, 
-          "losses": 10, 
-          "draws": 4, 
-          "goals": 6, 
+          "wins": 1,
+          "losses": 10,
+          "draws": 4,
+          "goals": 6,
           "goalsAgainst": 25
-        }, 
-        "losses": 18, 
-        "teamName": "Empoli FC", 
-        "points": 22, 
+        },
+        "losses": 18,
+        "teamName": "Empoli FC",
+        "points": 23,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/445"
           }
-        }, 
-        "goals": 17, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/4/42/Logo_FC_Empoli.svg", 
-        "position": 17, 
-        "goalDifference": -31, 
-        "goalsAgainst": 48
-      }, 
+        },
+        "goals": 18,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/4/42/Logo_FC_Empoli.svg",
+        "position": 17,
+        "goalDifference": -31,
+        "goalsAgainst": 49
+      },
       {
-        "wins": 4, 
-        "draws": 5, 
+        "wins": 5,
+        "draws": 5,
         "home": {
-          "wins": 3, 
-          "losses": 9, 
-          "draws": 3, 
-          "goals": 14, 
-          "goalsAgainst": 22
-        }, 
-        "playedGames": 30, 
+          "wins": 4,
+          "losses": 9,
+          "draws": 3,
+          "goals": 16,
+          "goalsAgainst": 23
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 1, 
-          "losses": 12, 
-          "draws": 2, 
-          "goals": 9, 
+          "wins": 1,
+          "losses": 12,
+          "draws": 2,
+          "goals": 9,
           "goalsAgainst": 28
-        }, 
-        "losses": 21, 
-        "teamName": "FC Crotone", 
-        "points": 17, 
+        },
+        "losses": 21,
+        "teamName": "FC Crotone",
+        "points": 20,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/472"
           }
-        }, 
-        "goals": 23, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/ab/FC_Crotone.svg", 
-        "position": 18, 
-        "goalDifference": -27, 
-        "goalsAgainst": 50
-      }, 
+        },
+        "goals": 25,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/ab/FC_Crotone.svg",
+        "position": 18,
+        "goalDifference": -26,
+        "goalsAgainst": 51
+      },
       {
-        "wins": 3, 
-        "draws": 6, 
+        "wins": 3,
+        "draws": 6,
         "home": {
-          "wins": 1, 
-          "losses": 12, 
-          "draws": 2, 
-          "goals": 8, 
+          "wins": 1,
+          "losses": 12,
+          "draws": 2,
+          "goals": 8,
           "goalsAgainst": 29
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 2, 
-          "losses": 9, 
-          "draws": 4, 
-          "goals": 17, 
-          "goalsAgainst": 34
-        }, 
-        "losses": 21, 
-        "teamName": "US Citt\u00e1 di Palermo", 
-        "points": 15, 
+          "wins": 2,
+          "losses": 10,
+          "draws": 4,
+          "goals": 17,
+          "goalsAgainst": 38
+        },
+        "losses": 22,
+        "teamName": "US Citt\u00e1 di Palermo",
+        "points": 15,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/114"
           }
-        }, 
-        "goals": 25, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/7f/US_Palermo.svg", 
-        "position": 19, 
-        "goalDifference": -38, 
-        "goalsAgainst": 63
-      }, 
+        },
+        "goals": 25,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/7f/US_Palermo.svg",
+        "position": 19,
+        "goalDifference": -42,
+        "goalsAgainst": 67
+      },
       {
-        "wins": 2, 
-        "draws": 7, 
+        "wins": 2,
+        "draws": 8,
         "home": {
-          "wins": 1, 
-          "losses": 9, 
-          "draws": 5, 
-          "goals": 16, 
+          "wins": 1,
+          "losses": 9,
+          "draws": 5,
+          "goals": 16,
           "goalsAgainst": 31
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 1, 
-          "losses": 12, 
-          "draws": 2, 
-          "goals": 14, 
-          "goalsAgainst": 36
-        }, 
-        "losses": 21, 
-        "teamName": "Pescara Calcio", 
-        "points": 13, 
+          "wins": 1,
+          "losses": 12,
+          "draws": 3,
+          "goals": 15,
+          "goalsAgainst": 37
+        },
+        "losses": 21,
+        "teamName": "Pescara Calcio",
+        "points": 14,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/585"
           }
-        }, 
-        "goals": 30, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/f/ff/Pescara_Calcio.svg", 
-        "position": 20, 
-        "goalDifference": -37, 
-        "goalsAgainst": 67
+        },
+        "goals": 31,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/f/ff/Pescara_Calcio.svg",
+        "position": 20,
+        "goalDifference": -37,
+        "goalsAgainst": 68
       }
-    ], 
-    "leagueCaption": "Serie A 2016/17", 
-    "matchday": 30, 
+    ],
+    "leagueCaption": "Serie A 2016/17",
+    "matchday": 32,
     "_links": {
       "self": {
-        "href": "http://api.football-data.org/v1/competitions/438/leagueTable/?matchday=30"
-      }, 
+        "href": "http://api.football-data.org/v1/competitions/438/leagueTable/?matchday=32"
+      },
       "competition": {
         "href": "http://api.football-data.org/v1/competitions/438"
       }
     }
-  }, 
+  },
   {
     "standing": [
       {
-        "wins": 21, 
-        "draws": 5, 
+        "wins": 22,
+        "draws": 6,
         "home": {
-          "wins": 12, 
-          "losses": 0, 
-          "draws": 3, 
-          "goals": 39, 
-          "goalsAgainst": 14
-        }, 
-        "playedGames": 28, 
+          "wins": 12,
+          "losses": 0,
+          "draws": 4,
+          "goals": 40,
+          "goalsAgainst": 15
+        },
+        "playedGames": 30,
         "away": {
-          "wins": 9, 
-          "losses": 2, 
-          "draws": 2, 
-          "goals": 35, 
-          "goalsAgainst": 14
-        }, 
-        "losses": 2, 
-        "teamName": "Real Madrid CF", 
-        "points": 68, 
+          "wins": 10,
+          "losses": 2,
+          "draws": 2,
+          "goals": 39,
+          "goalsAgainst": 16
+        },
+        "losses": 2,
+        "teamName": "Real Madrid CF",
+        "points": 72,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/86"
           }
-        }, 
-        "goals": 74, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg", 
-        "position": 1, 
-        "goalDifference": 46, 
-        "goalsAgainst": 28
-      }, 
+        },
+        "goals": 79,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg",
+        "position": 1,
+        "goalDifference": 48,
+        "goalsAgainst": 31
+      },
       {
-        "wins": 20, 
-        "draws": 6, 
+        "wins": 21,
+        "draws": 6,
         "home": {
-          "wins": 10, 
-          "losses": 1, 
-          "draws": 3, 
-          "goals": 43, 
+          "wins": 11,
+          "losses": 1,
+          "draws": 3,
+          "goals": 46,
           "goalsAgainst": 11
-        }, 
-        "playedGames": 29, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 10, 
-          "losses": 2, 
-          "draws": 3, 
-          "goals": 42, 
-          "goalsAgainst": 15
-        }, 
-        "losses": 3, 
-        "teamName": "FC Barcelona", 
-        "points": 66, 
+          "wins": 10,
+          "losses": 3,
+          "draws": 3,
+          "goals": 42,
+          "goalsAgainst": 17
+        },
+        "losses": 4,
+        "teamName": "FC Barcelona",
+        "points": 69,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/81"
           }
-        }, 
-        "goals": 85, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg", 
-        "position": 2, 
-        "goalDifference": 59, 
-        "goalsAgainst": 26
-      }, 
+        },
+        "goals": 88,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg",
+        "position": 2,
+        "goalDifference": 60,
+        "goalsAgainst": 28
+      },
       {
-        "wins": 18, 
-        "draws": 7, 
+        "wins": 18,
+        "draws": 8,
         "home": {
-          "wins": 11, 
-          "losses": 2, 
-          "draws": 2, 
-          "goals": 33, 
+          "wins": 11,
+          "losses": 2,
+          "draws": 2,
+          "goals": 33,
           "goalsAgainst": 12
-        }, 
-        "playedGames": 30, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 7, 
-          "losses": 3, 
-          "draws": 5, 
-          "goals": 22, 
-          "goalsAgainst": 11
-        }, 
-        "losses": 5, 
-        "teamName": "Club Atl\u00e9tico de Madrid", 
-        "points": 61, 
+          "wins": 7,
+          "losses": 3,
+          "draws": 6,
+          "goals": 23,
+          "goalsAgainst": 12
+        },
+        "losses": 5,
+        "teamName": "Club Atl\u00e9tico de Madrid",
+        "points": 62,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/78"
           }
-        }, 
-        "goals": 55, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg", 
-        "position": 3, 
-        "goalDifference": 32, 
-        "goalsAgainst": 23
-      }, 
+        },
+        "goals": 56,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg",
+        "position": 3,
+        "goalDifference": 32,
+        "goalsAgainst": 24
+      },
       {
-        "wins": 17, 
-        "draws": 7, 
+        "wins": 18,
+        "draws": 7,
         "home": {
-          "wins": 10, 
-          "losses": 1, 
-          "draws": 3, 
-          "goals": 25, 
-          "goalsAgainst": 12
-        }, 
-        "playedGames": 29, 
+          "wins": 11,
+          "losses": 1,
+          "draws": 3,
+          "goals": 29,
+          "goalsAgainst": 14
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 7, 
-          "losses": 4, 
-          "draws": 4, 
-          "goals": 27, 
-          "goalsAgainst": 22
-        }, 
-        "losses": 5, 
-        "teamName": "Sevilla FC", 
-        "points": 58, 
+          "wins": 7,
+          "losses": 5,
+          "draws": 4,
+          "goals": 27,
+          "goalsAgainst": 25
+        },
+        "losses": 6,
+        "teamName": "Sevilla FC",
+        "points": 61,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/559"
           }
-        }, 
-        "goals": 52, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png", 
-        "position": 4, 
-        "goalDifference": 18, 
-        "goalsAgainst": 34
-      }, 
+        },
+        "goals": 56,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png",
+        "position": 4,
+        "goalDifference": 17,
+        "goalsAgainst": 39
+      },
       {
-        "wins": 15, 
-        "draws": 5, 
+        "wins": 15,
+        "draws": 9,
         "home": {
-          "wins": 11, 
-          "losses": 2, 
-          "draws": 3, 
-          "goals": 28, 
-          "goalsAgainst": 15
-        }, 
-        "playedGames": 30, 
+          "wins": 9,
+          "losses": 4,
+          "draws": 3,
+          "goals": 30,
+          "goalsAgainst": 16
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 4, 
-          "losses": 8, 
-          "draws": 2, 
-          "goals": 11, 
-          "goalsAgainst": 18
-        }, 
-        "losses": 10, 
-        "teamName": "Athletic Club", 
-        "points": 50, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/77"
-          }
-        }, 
-        "goals": 39, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/7f/Athletic_Club_Bilbao.svg", 
-        "position": 5, 
-        "goalDifference": 6, 
-        "goalsAgainst": 33
-      }, 
-      {
-        "wins": 13, 
-        "draws": 10, 
-        "home": {
-          "wins": 8, 
-          "losses": 4, 
-          "draws": 3, 
-          "goals": 27, 
-          "goalsAgainst": 15
-        }, 
-        "playedGames": 30, 
-        "away": {
-          "wins": 5, 
-          "losses": 3, 
-          "draws": 7, 
-          "goals": 14, 
+          "wins": 6,
+          "losses": 3,
+          "draws": 6,
+          "goals": 15,
           "goalsAgainst": 8
-        }, 
-        "losses": 7, 
-        "teamName": "Villarreal CF", 
-        "points": 49, 
+        },
+        "losses": 7,
+        "teamName": "Villarreal CF",
+        "points": 54,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/94"
           }
-        }, 
-        "goals": 41, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg", 
-        "position": 6, 
-        "goalDifference": 18, 
-        "goalsAgainst": 23
-      }, 
+        },
+        "goals": 45,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg",
+        "position": 5,
+        "goalDifference": 21,
+        "goalsAgainst": 24
+      },
       {
-        "wins": 15, 
-        "draws": 4, 
+        "wins": 16,
+        "draws": 4,
         "home": {
-          "wins": 7, 
-          "losses": 4, 
-          "draws": 4, 
-          "goals": 22, 
-          "goalsAgainst": 20
-        }, 
-        "playedGames": 30, 
-        "away": {
-          "wins": 8, 
-          "losses": 7, 
-          "draws": 0, 
-          "goals": 21, 
+          "wins": 8,
+          "losses": 4,
+          "draws": 4,
+          "goals": 25,
           "goalsAgainst": 21
-        }, 
-        "losses": 11, 
-        "teamName": "Real Sociedad de F\u00fatbol", 
-        "points": 49, 
+        },
+        "playedGames": 31,
+        "away": {
+          "wins": 8,
+          "losses": 7,
+          "draws": 0,
+          "goals": 21,
+          "goalsAgainst": 21
+        },
+        "losses": 11,
+        "teamName": "Real Sociedad de F\u00fatbol",
+        "points": 52,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/92"
           }
-        }, 
-        "goals": 43, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/5/55/Real_Sociedad_San_Sebasti\u00e1n.svg", 
-        "position": 7, 
-        "goalDifference": 2, 
-        "goalsAgainst": 41
-      }, 
+        },
+        "goals": 46,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/5/55/Real_Sociedad_San_Sebasti\u00e1n.svg",
+        "position": 6,
+        "goalDifference": 4,
+        "goalsAgainst": 42
+      },
       {
-        "wins": 12, 
-        "draws": 8, 
+        "wins": 14,
+        "draws": 8,
         "home": {
-          "wins": 8, 
-          "losses": 4, 
-          "draws": 3, 
-          "goals": 24, 
-          "goalsAgainst": 18
-        }, 
-        "playedGames": 29, 
+          "wins": 9,
+          "losses": 4,
+          "draws": 3,
+          "goals": 27,
+          "goalsAgainst": 19
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 4, 
-          "losses": 5, 
-          "draws": 5, 
-          "goals": 23, 
+          "wins": 5,
+          "losses": 5,
+          "draws": 5,
+          "goals": 25,
           "goalsAgainst": 23
-        }, 
-        "losses": 9, 
-        "teamName": "SD Eibar", 
-        "points": 44, 
+        },
+        "losses": 9,
+        "teamName": "SD Eibar",
+        "points": 50,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/278"
           }
-        }, 
-        "goals": 47, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg", 
-        "position": 8, 
-        "goalDifference": 6, 
-        "goalsAgainst": 41
-      }, 
+        },
+        "goals": 52,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg",
+        "position": 7,
+        "goalDifference": 10,
+        "goalsAgainst": 42
+      },
       {
-        "wins": 11, 
-        "draws": 10, 
+        "wins": 15,
+        "draws": 5,
         "home": {
-          "wins": 7, 
-          "losses": 3, 
-          "draws": 5, 
-          "goals": 27, 
-          "goalsAgainst": 19
-        }, 
-        "playedGames": 30, 
+          "wins": 11,
+          "losses": 2,
+          "draws": 3,
+          "goals": 28,
+          "goalsAgainst": 15
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 4, 
-          "losses": 6, 
-          "draws": 5, 
-          "goals": 15, 
+          "wins": 4,
+          "losses": 9,
+          "draws": 2,
+          "goals": 12,
+          "goalsAgainst": 21
+        },
+        "losses": 11,
+        "teamName": "Athletic Club",
+        "points": 50,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/77"
+          }
+        },
+        "goals": 40,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/7f/Athletic_Club_Bilbao.svg",
+        "position": 8,
+        "goalDifference": 4,
+        "goalsAgainst": 36
+      },
+      {
+        "wins": 12,
+        "draws": 10,
+        "home": {
+          "wins": 8,
+          "losses": 3,
+          "draws": 5,
+          "goals": 28,
+          "goalsAgainst": 19
+        },
+        "playedGames": 31,
+        "away": {
+          "wins": 4,
+          "losses": 6,
+          "draws": 5,
+          "goals": 15,
           "goalsAgainst": 23
-        }, 
-        "losses": 9, 
-        "teamName": "RCD Espanyol", 
-        "points": 43, 
+        },
+        "losses": 9,
+        "teamName": "RCD Espanyol",
+        "points": 46,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/80"
           }
-        }, 
-        "goals": 42, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/a7/RCD_Espanyol_De_Barcelona.svg", 
-        "position": 9, 
-        "goalDifference": 0, 
+        },
+        "goals": 43,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/a7/RCD_Espanyol_De_Barcelona.svg",
+        "position": 9,
+        "goalDifference": 1,
         "goalsAgainst": 42
-      }, 
+      },
       {
-        "wins": 12, 
-        "draws": 5, 
+        "wins": 12,
+        "draws": 5,
         "home": {
-          "wins": 9, 
-          "losses": 4, 
-          "draws": 1, 
-          "goals": 27, 
-          "goalsAgainst": 20
-        }, 
-        "playedGames": 28, 
+          "wins": 9,
+          "losses": 5,
+          "draws": 1,
+          "goals": 27,
+          "goalsAgainst": 22
+        },
+        "playedGames": 30,
         "away": {
-          "wins": 3, 
-          "losses": 7, 
-          "draws": 4, 
-          "goals": 16, 
-          "goalsAgainst": 26
-        }, 
-        "losses": 11, 
-        "teamName": "RC Celta de Vigo", 
-        "points": 41, 
+          "wins": 3,
+          "losses": 8,
+          "draws": 4,
+          "goals": 18,
+          "goalsAgainst": 29
+        },
+        "losses": 13,
+        "teamName": "RC Celta de Vigo",
+        "points": 41,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/558"
           }
-        }, 
-        "goals": 43, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg", 
-        "position": 10, 
-        "goalDifference": -3, 
-        "goalsAgainst": 46
-      }, 
+        },
+        "goals": 45,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg",
+        "position": 10,
+        "goalDifference": -6,
+        "goalsAgainst": 51
+      },
       {
-        "wins": 10, 
-        "draws": 10, 
+        "wins": 10,
+        "draws": 10,
         "home": {
-          "wins": 4, 
-          "losses": 3, 
-          "draws": 7, 
-          "goals": 13, 
-          "goalsAgainst": 18
-        }, 
-        "playedGames": 29, 
+          "wins": 4,
+          "losses": 4,
+          "draws": 7,
+          "goals": 13,
+          "goalsAgainst": 19
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 6, 
-          "losses": 6, 
-          "draws": 3, 
-          "goals": 16, 
-          "goalsAgainst": 18
-        }, 
-        "losses": 9, 
-        "teamName": "Deportivo Alav\u00e9s", 
-        "points": 40, 
+          "wins": 6,
+          "losses": 7,
+          "draws": 3,
+          "goals": 16,
+          "goalsAgainst": 19
+        },
+        "losses": 11,
+        "teamName": "Deportivo Alav\u00e9s",
+        "points": 40,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/263"
           }
-        }, 
-        "goals": 29, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg", 
-        "position": 11, 
-        "goalDifference": -7, 
-        "goalsAgainst": 36
-      }, 
+        },
+        "goals": 29,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg",
+        "position": 11,
+        "goalDifference": -9,
+        "goalsAgainst": 38
+      },
       {
-        "wins": 9, 
-        "draws": 8, 
+        "wins": 11,
+        "draws": 6,
         "home": {
-          "wins": 8, 
-          "losses": 2, 
-          "draws": 5, 
-          "goals": 27, 
-          "goalsAgainst": 14
-        }, 
-        "playedGames": 29, 
+          "wins": 7,
+          "losses": 5,
+          "draws": 3,
+          "goals": 25,
+          "goalsAgainst": 25
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 1, 
-          "losses": 10, 
-          "draws": 3, 
-          "goals": 18, 
-          "goalsAgainst": 34
-        }, 
-        "losses": 12, 
-        "teamName": "UD Las Palmas", 
-        "points": 35, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/275"
-          }
-        }, 
-        "goals": 45, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/en/2/20/UD_Las_Palmas_logo.svg", 
-        "position": 12, 
-        "goalDifference": -3, 
-        "goalsAgainst": 48
-      }, 
-      {
-        "wins": 9, 
-        "draws": 6, 
-        "home": {
-          "wins": 6, 
-          "losses": 5, 
-          "draws": 3, 
-          "goals": 22, 
-          "goalsAgainst": 23
-        }, 
-        "playedGames": 29, 
-        "away": {
-          "wins": 3, 
-          "losses": 9, 
-          "draws": 3, 
-          "goals": 19, 
-          "goalsAgainst": 28
-        }, 
-        "losses": 14, 
-        "teamName": "Valencia CF", 
-        "points": 33, 
+          "wins": 4,
+          "losses": 9,
+          "draws": 3,
+          "goals": 22,
+          "goalsAgainst": 29
+        },
+        "losses": 14,
+        "teamName": "Valencia CF",
+        "points": 39,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/95"
           }
-        }, 
-        "goals": 41, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg", 
-        "position": 13, 
-        "goalDifference": -10, 
-        "goalsAgainst": 51
-      }, 
+        },
+        "goals": 47,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg",
+        "position": 12,
+        "goalDifference": -7,
+        "goalsAgainst": 54
+      },
       {
-        "wins": 8, 
-        "draws": 8, 
+        "wins": 10,
+        "draws": 8,
         "home": {
-          "wins": 5, 
-          "losses": 4, 
-          "draws": 7, 
-          "goals": 18, 
-          "goalsAgainst": 18
-        }, 
-        "playedGames": 30, 
+          "wins": 9,
+          "losses": 2,
+          "draws": 5,
+          "goals": 31,
+          "goalsAgainst": 15
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 3, 
-          "losses": 10, 
-          "draws": 1, 
-          "goals": 14, 
-          "goalsAgainst": 28
-        }, 
-        "losses": 14, 
-        "teamName": "Real Betis", 
-        "points": 32, 
+          "wins": 1,
+          "losses": 11,
+          "draws": 3,
+          "goals": 19,
+          "goalsAgainst": 37
+        },
+        "losses": 13,
+        "teamName": "UD Las Palmas",
+        "points": 38,
         "_links": {
           "team": {
-            "href": "http://api.football-data.org/v1/teams/90"
+            "href": "http://api.football-data.org/v1/teams/275"
           }
-        }, 
-        "goals": 32, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg", 
-        "position": 14, 
-        "goalDifference": -14, 
-        "goalsAgainst": 46
-      }, 
+        },
+        "goals": 50,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/en/2/20/UD_Las_Palmas_logo.svg",
+        "position": 13,
+        "goalDifference": -2,
+        "goalsAgainst": 52
+      },
       {
-        "wins": 6, 
-        "draws": 9, 
+        "wins": 8,
+        "draws": 9,
         "home": {
-          "wins": 6, 
-          "losses": 6, 
-          "draws": 2, 
-          "goals": 21, 
+          "wins": 7,
+          "losses": 6,
+          "draws": 2,
+          "goals": 23,
           "goalsAgainst": 21
-        }, 
-        "playedGames": 29, 
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 0, 
-          "losses": 8, 
-          "draws": 7, 
-          "goals": 12, 
+          "wins": 1,
+          "losses": 8,
+          "draws": 7,
+          "goals": 13,
           "goalsAgainst": 26
-        }, 
-        "losses": 14, 
-        "teamName": "M\u00e1laga CF", 
-        "points": 27, 
+        },
+        "losses": 14,
+        "teamName": "M\u00e1laga CF",
+        "points": 33,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/84"
           }
-        }, 
-        "goals": 33, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/e/e8/FC_M\u00e1laga.svg", 
-        "position": 15, 
-        "goalDifference": -14, 
+        },
+        "goals": 36,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/e/e8/FC_M\u00e1laga.svg",
+        "position": 14,
+        "goalDifference": -11,
         "goalsAgainst": 47
-      }, 
+      },
       {
-        "wins": 6, 
-        "draws": 9, 
+        "wins": 8,
+        "draws": 7,
         "home": {
-          "wins": 5, 
-          "losses": 5, 
-          "draws": 4, 
-          "goals": 19, 
-          "goalsAgainst": 15
-        }, 
-        "playedGames": 29, 
+          "wins": 5,
+          "losses": 5,
+          "draws": 6,
+          "goals": 18,
+          "goalsAgainst": 19
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 1, 
-          "losses": 9, 
-          "draws": 5, 
-          "goals": 12, 
-          "goalsAgainst": 31
-        }, 
-        "losses": 14, 
-        "teamName": "RC Deportivo La Coruna", 
-        "points": 27, 
+          "wins": 3,
+          "losses": 11,
+          "draws": 1,
+          "goals": 15,
+          "goalsAgainst": 32
+        },
+        "losses": 16,
+        "teamName": "Real Betis",
+        "points": 31,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/90"
+          }
+        },
+        "goals": 33,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg",
+        "position": 15,
+        "goalDifference": -18,
+        "goalsAgainst": 51
+      },
+      {
+        "wins": 6,
+        "draws": 10,
+        "home": {
+          "wins": 5,
+          "losses": 5,
+          "draws": 5,
+          "goals": 19,
+          "goalsAgainst": 15
+        },
+        "playedGames": 31,
+        "away": {
+          "wins": 1,
+          "losses": 10,
+          "draws": 5,
+          "goals": 14,
+          "goalsAgainst": 35
+        },
+        "losses": 15,
+        "teamName": "RC Deportivo La Coruna",
+        "points": 28,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/560"
           }
-        }, 
-        "goals": 31, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/en/4/4e/RC_Deportivo_La_Coru\u00f1a_logo.svg", 
-        "position": 16, 
-        "goalDifference": -15, 
-        "goalsAgainst": 46
-      }, 
+        },
+        "goals": 33,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/en/4/4e/RC_Deportivo_La_Coru\u00f1a_logo.svg",
+        "position": 16,
+        "goalDifference": -17,
+        "goalsAgainst": 50
+      },
       {
-        "wins": 6, 
-        "draws": 9, 
+        "wins": 6,
+        "draws": 9,
         "home": {
-          "wins": 3, 
-          "losses": 6, 
-          "draws": 5, 
-          "goals": 12, 
-          "goalsAgainst": 17
-        }, 
-        "playedGames": 29, 
+          "wins": 3,
+          "losses": 7,
+          "draws": 5,
+          "goals": 14,
+          "goalsAgainst": 21
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 3, 
-          "losses": 8, 
-          "draws": 4, 
-          "goals": 11, 
-          "goalsAgainst": 25
-        }, 
-        "losses": 14, 
-        "teamName": "CD Leganes", 
-        "points": 27, 
+          "wins": 3,
+          "losses": 9,
+          "draws": 4,
+          "goals": 12,
+          "goalsAgainst": 27
+        },
+        "losses": 16,
+        "teamName": "CD Leganes",
+        "points": 27,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/745"
           }
-        }, 
-        "goals": 23, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/en/thumb/0/02/Club_Deportivo_Legan\u00e9s.png/180px-Club_Deportivo_Legan\u00e9s.png", 
-        "position": 17, 
-        "goalDifference": -19, 
-        "goalsAgainst": 42
-      }, 
+        },
+        "goals": 26,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/en/thumb/0/02/Club_Deportivo_Legan\u00e9s.png/180px-Club_Deportivo_Legan\u00e9s.png",
+        "position": 17,
+        "goalDifference": -22,
+        "goalsAgainst": 48
+      },
       {
-        "wins": 5, 
-        "draws": 7, 
+        "wins": 5,
+        "draws": 7,
         "home": {
-          "wins": 4, 
-          "losses": 8, 
-          "draws": 2, 
-          "goals": 20, 
-          "goalsAgainst": 31
-        }, 
-        "playedGames": 29, 
+          "wins": 4,
+          "losses": 9,
+          "draws": 2,
+          "goals": 20,
+          "goalsAgainst": 32
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 1, 
-          "losses": 9, 
-          "draws": 5, 
-          "goals": 11, 
-          "goalsAgainst": 26
-        }, 
-        "losses": 17, 
-        "teamName": "Sporting Gij\u00f3n", 
-        "points": 22, 
+          "wins": 1,
+          "losses": 10,
+          "draws": 5,
+          "goals": 12,
+          "goalsAgainst": 29
+        },
+        "losses": 19,
+        "teamName": "Sporting Gij\u00f3n",
+        "points": 22,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/96"
           }
-        }, 
-        "goals": 31, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/4/48/Real_Sporting_de_Gijon.svg", 
-        "position": 18, 
-        "goalDifference": -26, 
-        "goalsAgainst": 57
-      }, 
+        },
+        "goals": 32,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/4/48/Real_Sporting_de_Gijon.svg",
+        "position": 18,
+        "goalDifference": -29,
+        "goalsAgainst": 61
+      },
       {
-        "wins": 4, 
-        "draws": 7, 
+        "wins": 4,
+        "draws": 8,
         "home": {
-          "wins": 4, 
-          "losses": 6, 
-          "draws": 4, 
-          "goals": 15, 
-          "goalsAgainst": 18
-        }, 
-        "playedGames": 29, 
+          "wins": 4,
+          "losses": 7,
+          "draws": 4,
+          "goals": 16,
+          "goalsAgainst": 21
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 0, 
-          "losses": 12, 
-          "draws": 3, 
-          "goals": 11, 
+          "wins": 0,
+          "losses": 12,
+          "draws": 4,
+          "goals": 11,
           "goalsAgainst": 44
-        }, 
-        "losses": 18, 
-        "teamName": "Granada CF", 
-        "points": 19, 
+        },
+        "losses": 19,
+        "teamName": "Granada CF",
+        "points": 20,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/83"
           }
-        }, 
-        "goals": 26, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/d3/Granada_CF.svg", 
-        "position": 19, 
-        "goalDifference": -36, 
-        "goalsAgainst": 62
-      }, 
+        },
+        "goals": 27,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/d3/Granada_CF.svg",
+        "position": 19,
+        "goalDifference": -38,
+        "goalsAgainst": 65
+      },
       {
-        "wins": 1, 
-        "draws": 8, 
+        "wins": 3,
+        "draws": 8,
         "home": {
-          "wins": 0, 
-          "losses": 10, 
-          "draws": 5, 
-          "goals": 15, 
-          "goalsAgainst": 33
-        }, 
-        "playedGames": 29, 
+          "wins": 1,
+          "losses": 10,
+          "draws": 5,
+          "goals": 17,
+          "goalsAgainst": 34
+        },
+        "playedGames": 31,
         "away": {
-          "wins": 1, 
-          "losses": 10, 
-          "draws": 3, 
-          "goals": 14, 
+          "wins": 2,
+          "losses": 10,
+          "draws": 3,
+          "goals": 15,
           "goalsAgainst": 36
-        }, 
-        "losses": 20, 
-        "teamName": "CA Osasuna", 
-        "points": 11, 
+        },
+        "losses": 20,
+        "teamName": "CA Osasuna",
+        "points": 17,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/79"
           }
-        }, 
-        "goals": 29, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/ca/Atletico_Osasuna.svg", 
-        "position": 20, 
-        "goalDifference": -40, 
-        "goalsAgainst": 69
+        },
+        "goals": 32,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/ca/Atletico_Osasuna.svg",
+        "position": 20,
+        "goalDifference": -38,
+        "goalsAgainst": 70
       }
-    ], 
-    "leagueCaption": "Primera Division 2016/17", 
-    "matchday": 30, 
+    ],
+    "leagueCaption": "Primera Division 2016/17",
+    "matchday": 32,
     "_links": {
       "self": {
-        "href": "http://api.football-data.org/v1/competitions/436/leagueTable/?matchday=30"
-      }, 
+        "href": "http://api.football-data.org/v1/competitions/436/leagueTable/?matchday=32"
+      },
       "competition": {
         "href": "http://api.football-data.org/v1/competitions/436"
       }
     }
-  }, 
+  },
   {
-    "leagueCaption": "Champions League 2016/17", 
-    "matchday": 6, 
+    "leagueCaption": "Champions League 2016/17",
+    "matchday": 6,
     "standings": {
       "A": [
         {
-          "group": "A", 
-          "playedGames": 6, 
-          "rank": 1, 
-          "teamId": 57, 
-          "points": 14, 
-          "goals": 18, 
-          "team": "Arsenal FC", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg", 
-          "goalDifference": 12, 
+          "group": "A",
+          "playedGames": 6,
+          "rank": 1,
+          "teamId": 57,
+          "points": 14,
+          "goals": 18,
+          "team": "Arsenal FC",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+          "goalDifference": 12,
           "goalsAgainst": 6
-        }, 
+        },
         {
-          "group": "A", 
-          "playedGames": 6, 
-          "rank": 2, 
-          "teamId": 524, 
-          "points": 12, 
-          "goals": 13, 
-          "team": "Paris Saint-Germain", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/fr/0/03/Logo_Paris_Saint-Germain_Football_Club.svg", 
-          "goalDifference": 6, 
+          "group": "A",
+          "playedGames": 6,
+          "rank": 2,
+          "teamId": 524,
+          "points": 12,
+          "goals": 13,
+          "team": "Paris Saint-Germain",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/fr/0/03/Logo_Paris_Saint-Germain_Football_Club.svg",
+          "goalDifference": 6,
           "goalsAgainst": 7
-        }, 
+        },
         {
-          "group": "A", 
-          "playedGames": 6, 
-          "rank": 3, 
-          "teamId": 753, 
-          "points": 3, 
-          "goals": 6, 
-          "team": "Ludogorez Rasgrad", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png", 
-          "goalDifference": -9, 
+          "group": "A",
+          "playedGames": 6,
+          "rank": 3,
+          "teamId": 753,
+          "points": 3,
+          "goals": 6,
+          "team": "Ludogorez Rasgrad",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png",
+          "goalDifference": -9,
           "goalsAgainst": 15
-        }, 
+        },
         {
-          "group": "A", 
-          "playedGames": 6, 
-          "rank": 4, 
-          "teamId": 729, 
-          "points": 2, 
-          "goals": 3, 
-          "team": "FC Basel", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/c/c5/FC_Basel.png", 
-          "goalDifference": -9, 
+          "group": "A",
+          "playedGames": 6,
+          "rank": 4,
+          "teamId": 729,
+          "points": 2,
+          "goals": 3,
+          "team": "FC Basel",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/c/c5/FC_Basel.png",
+          "goalDifference": -9,
           "goalsAgainst": 12
         }
-      ], 
+      ],
       "C": [
         {
-          "group": "C", 
-          "playedGames": 6, 
-          "rank": 1, 
-          "teamId": 81, 
-          "points": 15, 
-          "goals": 20, 
-          "team": "FC Barcelona", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg", 
-          "goalDifference": 16, 
+          "group": "C",
+          "playedGames": 6,
+          "rank": 1,
+          "teamId": 81,
+          "points": 15,
+          "goals": 20,
+          "team": "FC Barcelona",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg",
+          "goalDifference": 16,
           "goalsAgainst": 4
-        }, 
+        },
         {
-          "group": "C", 
-          "playedGames": 6, 
-          "rank": 2, 
-          "teamId": 65, 
-          "points": 9, 
-          "goals": 12, 
-          "team": "Manchester City FC", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg", 
-          "goalDifference": 2, 
+          "group": "C",
+          "playedGames": 6,
+          "rank": 2,
+          "teamId": 65,
+          "points": 9,
+          "goals": 12,
+          "team": "Manchester City FC",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+          "goalDifference": 2,
           "goalsAgainst": 10
-        }, 
+        },
         {
-          "group": "C", 
-          "playedGames": 6, 
-          "rank": 3, 
-          "teamId": 18, 
-          "points": 5, 
-          "goals": 5, 
-          "team": "Bor. M\u00f6nchengladbach", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg", 
-          "goalDifference": -7, 
+          "group": "C",
+          "playedGames": 6,
+          "rank": 3,
+          "teamId": 18,
+          "points": 5,
+          "goals": 5,
+          "team": "Bor. M\u00f6nchengladbach",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg",
+          "goalDifference": -7,
           "goalsAgainst": 12
-        }, 
+        },
         {
-          "group": "C", 
-          "playedGames": 6, 
-          "rank": 4, 
-          "teamId": 732, 
-          "points": 3, 
-          "goals": 5, 
-          "team": "Celtic FC", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/en/3/35/Celtic_FC.svg", 
-          "goalDifference": -11, 
+          "group": "C",
+          "playedGames": 6,
+          "rank": 4,
+          "teamId": 732,
+          "points": 3,
+          "goals": 5,
+          "team": "Celtic FC",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/en/3/35/Celtic_FC.svg",
+          "goalDifference": -11,
           "goalsAgainst": 16
         }
-      ], 
+      ],
       "B": [
         {
-          "group": "B", 
-          "playedGames": 6, 
-          "rank": 1, 
-          "teamId": 113, 
-          "points": 11, 
-          "goals": 11, 
-          "team": "SSC Napoli", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg", 
-          "goalDifference": 3, 
+          "group": "B",
+          "playedGames": 6,
+          "rank": 1,
+          "teamId": 113,
+          "points": 11,
+          "goals": 11,
+          "team": "SSC Napoli",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg",
+          "goalDifference": 3,
           "goalsAgainst": 8
-        }, 
+        },
         {
-          "group": "B", 
-          "playedGames": 6, 
-          "rank": 2, 
-          "teamId": 495, 
-          "points": 8, 
-          "goals": 10, 
-          "team": "SL Benfica", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/8/89/Logo_Benfica_Lissabon.svg", 
-          "goalDifference": 0, 
+          "group": "B",
+          "playedGames": 6,
+          "rank": 2,
+          "teamId": 495,
+          "points": 8,
+          "goals": 10,
+          "team": "SL Benfica",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/8/89/Logo_Benfica_Lissabon.svg",
+          "goalDifference": 0,
           "goalsAgainst": 10
-        }, 
+        },
         {
-          "group": "B", 
-          "playedGames": 6, 
-          "rank": 3, 
-          "teamId": 600, 
-          "points": 7, 
-          "goals": 9, 
-          "team": "Besiktas JK", 
-          "crestURI": "http://en.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F_J.K.#mediaviewer/File:Logo_of_Be%C5%9Fikta%C5%9F_JK.svg", 
-          "goalDifference": -5, 
+          "group": "B",
+          "playedGames": 6,
+          "rank": 3,
+          "teamId": 600,
+          "points": 7,
+          "goals": 9,
+          "team": "Besiktas JK",
+          "crestURI": "http://en.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F_J.K.#mediaviewer/File:Logo_of_Be%C5%9Fikta%C5%9F_JK.svg",
+          "goalDifference": -5,
           "goalsAgainst": 14
-        }, 
+        },
         {
-          "group": "B", 
-          "playedGames": 6, 
-          "rank": 4, 
-          "teamId": 842, 
-          "points": 5, 
-          "goals": 8, 
-          "team": "Dynamo Kyiv", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/commons/5/5b/FC_Dynamo_Kyiv_logo.png", 
-          "goalDifference": 2, 
+          "group": "B",
+          "playedGames": 6,
+          "rank": 4,
+          "teamId": 842,
+          "points": 5,
+          "goals": 8,
+          "team": "Dynamo Kyiv",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/commons/5/5b/FC_Dynamo_Kyiv_logo.png",
+          "goalDifference": 2,
           "goalsAgainst": 6
         }
-      ], 
+      ],
       "E": [
         {
-          "group": "E", 
-          "playedGames": 6, 
-          "rank": 1, 
-          "teamId": 548, 
-          "points": 11, 
-          "goals": 9, 
-          "team": "AS Monaco FC", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg", 
-          "goalDifference": 2, 
+          "group": "E",
+          "playedGames": 6,
+          "rank": 1,
+          "teamId": 548,
+          "points": 11,
+          "goals": 9,
+          "team": "AS Monaco FC",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg",
+          "goalDifference": 2,
           "goalsAgainst": 7
-        }, 
+        },
         {
-          "group": "E", 
-          "playedGames": 6, 
-          "rank": 2, 
-          "teamId": 3, 
-          "points": 10, 
-          "goals": 8, 
-          "team": "Bayer Leverkusen", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg", 
-          "goalDifference": 4, 
+          "group": "E",
+          "playedGames": 6,
+          "rank": 2,
+          "teamId": 3,
+          "points": 10,
+          "goals": 8,
+          "team": "Bayer Leverkusen",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg",
+          "goalDifference": 4,
           "goalsAgainst": 4
-        }, 
+        },
         {
-          "group": "E", 
-          "playedGames": 6, 
-          "rank": 3, 
-          "teamId": 73, 
-          "points": 7, 
-          "goals": 6, 
-          "team": "Tottenham Hotspur FC", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg", 
-          "goalDifference": 0, 
+          "group": "E",
+          "playedGames": 6,
+          "rank": 3,
+          "teamId": 73,
+          "points": 7,
+          "goals": 6,
+          "team": "Tottenham Hotspur FC",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg",
+          "goalDifference": 0,
           "goalsAgainst": 6
-        }, 
+        },
         {
-          "group": "E", 
-          "playedGames": 6, 
-          "rank": 4, 
-          "teamId": 751, 
-          "points": 3, 
-          "goals": 5, 
-          "team": "CSKA Moscow", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/en/f/fa/CSKA_Moscow_logo.png", 
-          "goalDifference": -6, 
+          "group": "E",
+          "playedGames": 6,
+          "rank": 4,
+          "teamId": 751,
+          "points": 3,
+          "goals": 5,
+          "team": "CSKA Moscow",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/en/f/fa/CSKA_Moscow_logo.png",
+          "goalDifference": -6,
           "goalsAgainst": 11
         }
-      ], 
+      ],
       "D": [
         {
-          "group": "D", 
-          "playedGames": 6, 
-          "rank": 1, 
-          "teamId": 78, 
-          "points": 15, 
-          "goals": 7, 
-          "team": "Club Atl\u00e9tico de Madrid", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg", 
-          "goalDifference": 5, 
+          "group": "D",
+          "playedGames": 6,
+          "rank": 1,
+          "teamId": 78,
+          "points": 15,
+          "goals": 7,
+          "team": "Club Atl\u00e9tico de Madrid",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg",
+          "goalDifference": 5,
           "goalsAgainst": 2
-        }, 
+        },
         {
-          "group": "D", 
-          "playedGames": 6, 
-          "rank": 2, 
-          "teamId": 5, 
-          "points": 12, 
-          "goals": 14, 
-          "team": "FC Bayern M\u00fcnchen", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_M%C3%BCnchen.svg", 
-          "goalDifference": 8, 
+          "group": "D",
+          "playedGames": 6,
+          "rank": 2,
+          "teamId": 5,
+          "points": 12,
+          "goals": 14,
+          "team": "FC Bayern M\u00fcnchen",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_M%C3%BCnchen.svg",
+          "goalDifference": 8,
           "goalsAgainst": 6
-        }, 
+        },
         {
-          "group": "D", 
-          "playedGames": 6, 
-          "rank": 3, 
-          "teamId": 1104, 
-          "points": 5, 
-          "goals": 6, 
-          "team": "FC Rostov", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/en/b/bf/FC_Rostov_logo.png", 
-          "goalDifference": -6, 
+          "group": "D",
+          "playedGames": 6,
+          "rank": 3,
+          "teamId": 1104,
+          "points": 5,
+          "goals": 6,
+          "team": "FC Rostov",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/en/b/bf/FC_Rostov_logo.png",
+          "goalDifference": -6,
           "goalsAgainst": 12
-        }, 
+        },
         {
-          "group": "D", 
-          "playedGames": 6, 
-          "rank": 4, 
-          "teamId": 674, 
-          "points": 2, 
-          "goals": 4, 
-          "team": "PSV Eindhoven", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/0/05/PSV_Eindhoven.svg", 
-          "goalDifference": -7, 
+          "group": "D",
+          "playedGames": 6,
+          "rank": 4,
+          "teamId": 674,
+          "points": 2,
+          "goals": 4,
+          "team": "PSV Eindhoven",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/0/05/PSV_Eindhoven.svg",
+          "goalDifference": -7,
           "goalsAgainst": 11
         }
-      ], 
+      ],
       "G": [
         {
-          "group": "G", 
-          "playedGames": 6, 
-          "rank": 1, 
-          "teamId": 338, 
-          "points": 13, 
-          "goals": 7, 
-          "team": "Leicester City FC", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png", 
-          "goalDifference": 1, 
+          "group": "G",
+          "playedGames": 6,
+          "rank": 1,
+          "teamId": 338,
+          "points": 13,
+          "goals": 7,
+          "team": "Leicester City FC",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png",
+          "goalDifference": 1,
           "goalsAgainst": 6
-        }, 
+        },
         {
-          "group": "G", 
-          "playedGames": 6, 
-          "rank": 2, 
-          "teamId": 503, 
-          "points": 11, 
-          "goals": 9, 
-          "team": "FC Porto", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/e/ed/FC_Porto_1922-2005.svg", 
-          "goalDifference": 6, 
+          "group": "G",
+          "playedGames": 6,
+          "rank": 2,
+          "teamId": 503,
+          "points": 11,
+          "goals": 9,
+          "team": "FC Porto",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/e/ed/FC_Porto_1922-2005.svg",
+          "goalDifference": 6,
           "goalsAgainst": 3
-        }, 
+        },
         {
-          "group": "G", 
-          "playedGames": 6, 
-          "rank": 3, 
-          "teamId": 725, 
-          "points": 9, 
-          "goals": 7, 
-          "team": "FC Copenhagen", 
-          "crestURI": "http://en.wikipedia.org/wiki/F.C._Copenhagen#mediaviewer/File:FC_K%C3%B8benhavn.svg", 
-          "goalDifference": 5, 
+          "group": "G",
+          "playedGames": 6,
+          "rank": 3,
+          "teamId": 725,
+          "points": 9,
+          "goals": 7,
+          "team": "FC Copenhagen",
+          "crestURI": "http://en.wikipedia.org/wiki/F.C._Copenhagen#mediaviewer/File:FC_K%C3%B8benhavn.svg",
+          "goalDifference": 5,
           "goalsAgainst": 2
-        }, 
+        },
         {
-          "group": "G", 
-          "playedGames": 6, 
-          "rank": 4, 
-          "teamId": 851, 
-          "points": 0, 
-          "goals": 2, 
-          "team": "Club Brugge", 
-          "crestURI": null, 
-          "goalDifference": -12, 
+          "group": "G",
+          "playedGames": 6,
+          "rank": 4,
+          "teamId": 851,
+          "points": 0,
+          "goals": 2,
+          "team": "Club Brugge",
+          "crestURI": null,
+          "goalDifference": -12,
           "goalsAgainst": 14
         }
-      ], 
+      ],
       "F": [
         {
-          "group": "F", 
-          "playedGames": 6, 
-          "rank": 1, 
-          "teamId": 4, 
-          "points": 14, 
-          "goals": 21, 
-          "team": "Borussia Dortmund", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg", 
-          "goalDifference": 12, 
+          "group": "F",
+          "playedGames": 6,
+          "rank": 1,
+          "teamId": 4,
+          "points": 14,
+          "goals": 21,
+          "team": "Borussia Dortmund",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+          "goalDifference": 12,
           "goalsAgainst": 9
-        }, 
+        },
         {
-          "group": "F", 
-          "playedGames": 6, 
-          "rank": 2, 
-          "teamId": 86, 
-          "points": 12, 
-          "goals": 16, 
-          "team": "Real Madrid CF", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg", 
-          "goalDifference": 6, 
+          "group": "F",
+          "playedGames": 6,
+          "rank": 2,
+          "teamId": 86,
+          "points": 12,
+          "goals": 16,
+          "team": "Real Madrid CF",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg",
+          "goalDifference": 6,
           "goalsAgainst": 10
-        }, 
+        },
         {
-          "group": "F", 
-          "playedGames": 6, 
-          "rank": 3, 
-          "teamId": 1105, 
-          "points": 4, 
-          "goals": 9, 
-          "team": "Legia Warszawa", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Legia_Warszawa.svg", 
-          "goalDifference": -15, 
+          "group": "F",
+          "playedGames": 6,
+          "rank": 3,
+          "teamId": 1105,
+          "points": 4,
+          "goals": 9,
+          "team": "Legia Warszawa",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Legia_Warszawa.svg",
+          "goalDifference": -15,
           "goalsAgainst": 24
-        }, 
+        },
         {
-          "group": "F", 
-          "playedGames": 6, 
-          "rank": 4, 
-          "teamId": 498, 
-          "points": 3, 
-          "goals": 5, 
-          "team": "Sporting CP", 
-          "crestURI": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sporting_Clube_de_Portugal.png", 
-          "goalDifference": -3, 
+          "group": "F",
+          "playedGames": 6,
+          "rank": 4,
+          "teamId": 498,
+          "points": 3,
+          "goals": 5,
+          "team": "Sporting CP",
+          "crestURI": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sporting_Clube_de_Portugal.png",
+          "goalDifference": -3,
           "goalsAgainst": 8
         }
-      ], 
+      ],
       "H": [
         {
-          "group": "H", 
-          "playedGames": 6, 
-          "rank": 1, 
-          "teamId": 109, 
-          "points": 14, 
-          "goals": 11, 
-          "team": "Juventus Turin", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg", 
-          "goalDifference": 9, 
+          "group": "H",
+          "playedGames": 6,
+          "rank": 1,
+          "teamId": 109,
+          "points": 14,
+          "goals": 11,
+          "team": "Juventus Turin",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg",
+          "goalDifference": 9,
           "goalsAgainst": 2
-        }, 
+        },
         {
-          "group": "H", 
-          "playedGames": 6, 
-          "rank": 2, 
-          "teamId": 559, 
-          "points": 11, 
-          "goals": 7, 
-          "team": "Sevilla FC", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png", 
-          "goalDifference": 4, 
+          "group": "H",
+          "playedGames": 6,
+          "rank": 2,
+          "teamId": 559,
+          "points": 11,
+          "goals": 7,
+          "team": "Sevilla FC",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png",
+          "goalDifference": 4,
           "goalsAgainst": 3
-        }, 
+        },
         {
-          "group": "H", 
-          "playedGames": 6, 
-          "rank": 3, 
-          "teamId": 523, 
-          "points": 8, 
-          "goals": 5, 
-          "team": "Olympique Lyonnais", 
-          "crestURI": "http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg", 
-          "goalDifference": 2, 
+          "group": "H",
+          "playedGames": 6,
+          "rank": 3,
+          "teamId": 523,
+          "points": 8,
+          "goals": 5,
+          "team": "Olympique Lyonnais",
+          "crestURI": "http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg",
+          "goalDifference": 2,
           "goalsAgainst": 3
-        }, 
+        },
         {
-          "group": "H", 
-          "playedGames": 6, 
-          "rank": 4, 
-          "teamId": 755, 
-          "points": 0, 
-          "goals": 0, 
-          "team": "GNK Dinamo Zagreb", 
-          "crestURI": "http://www.gnkdinamo.hr/Content/Images/main-logo.png", 
-          "goalDifference": -15, 
+          "group": "H",
+          "playedGames": 6,
+          "rank": 4,
+          "teamId": 755,
+          "points": 0,
+          "goals": 0,
+          "team": "GNK Dinamo Zagreb",
+          "crestURI": "http://www.gnkdinamo.hr/Content/Images/main-logo.png",
+          "goalDifference": -15,
           "goalsAgainst": 15
         }
       ]
     }
-  }, 
+  },
   {
     "standing": [
       {
-        "wins": 20, 
-        "draws": 5, 
+        "wins": 21,
+        "draws": 5,
         "home": {
-          "wins": 10, 
-          "losses": 0, 
-          "draws": 3, 
-          "goals": 44, 
-          "goalsAgainst": 5
-        }, 
-        "playedGames": 27, 
+          "wins": 11,
+          "losses": 0,
+          "draws": 3,
+          "goals": 48,
+          "goalsAgainst": 6
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 10, 
-          "losses": 2, 
-          "draws": 2, 
-          "goals": 23, 
+          "wins": 10,
+          "losses": 2,
+          "draws": 2,
+          "goals": 23,
           "goalsAgainst": 9
-        }, 
-        "losses": 2, 
-        "teamName": "FC Bayern M\u00fcnchen", 
-        "points": 65, 
+        },
+        "losses": 2,
+        "teamName": "FC Bayern M\u00fcnchen",
+        "points": 68,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/5"
           }
-        }, 
-        "goals": 67, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_M\u00fcnchen.svg", 
-        "position": 1, 
-        "goalDifference": 53, 
-        "goalsAgainst": 14
-      }, 
+        },
+        "goals": 71,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_M\u00fcnchen.svg",
+        "position": 1,
+        "goalDifference": 56,
+        "goalsAgainst": 15
+      },
       {
-        "wins": 16, 
-        "draws": 4, 
+        "wins": 18,
+        "draws": 4,
         "home": {
-          "wins": 10, 
-          "losses": 2, 
-          "draws": 1, 
-          "goals": 26, 
+          "wins": 11,
+          "losses": 2,
+          "draws": 1,
+          "goals": 27,
           "goalsAgainst": 11
-        }, 
-        "playedGames": 26, 
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 6, 
-          "losses": 4, 
-          "draws": 3, 
-          "goals": 21, 
-          "goalsAgainst": 17
-        }, 
-        "losses": 6, 
-        "teamName": "Red Bull Leipzig", 
-        "points": 52, 
+          "wins": 7,
+          "losses": 4,
+          "draws": 3,
+          "goals": 24,
+          "goalsAgainst": 19
+        },
+        "losses": 6,
+        "teamName": "Red Bull Leipzig",
+        "points": 58,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/721"
           }
-        }, 
-        "goals": 47, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/d4/RB_Leipzig_2010_logo.svg", 
-        "position": 2, 
-        "goalDifference": 19, 
-        "goalsAgainst": 28
-      }, 
+        },
+        "goals": 51,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/d/d4/RB_Leipzig_2010_logo.svg",
+        "position": 2,
+        "goalDifference": 21,
+        "goalsAgainst": 30
+      },
       {
-        "wins": 13, 
-        "draws": 12, 
+        "wins": 13,
+        "draws": 12,
         "home": {
-          "wins": 9, 
-          "losses": 0, 
-          "draws": 5, 
-          "goals": 29, 
+          "wins": 9,
+          "losses": 0,
+          "draws": 5,
+          "goals": 29,
           "goalsAgainst": 11
-        }, 
-        "playedGames": 27, 
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 4, 
-          "losses": 2, 
-          "draws": 7, 
-          "goals": 21, 
-          "goalsAgainst": 15
-        }, 
-        "losses": 2, 
-        "teamName": "TSG 1899 Hoffenheim", 
-        "points": 51, 
+          "wins": 4,
+          "losses": 3,
+          "draws": 7,
+          "goals": 22,
+          "goalsAgainst": 17
+        },
+        "losses": 3,
+        "teamName": "TSG 1899 Hoffenheim",
+        "points": 51,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/2"
           }
-        }, 
-        "goals": 50, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/e/e7/Logo_TSG_Hoffenheim.svg", 
-        "position": 3, 
-        "goalDifference": 24, 
-        "goalsAgainst": 26
-      }, 
+        },
+        "goals": 51,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/e/e7/Logo_TSG_Hoffenheim.svg",
+        "position": 3,
+        "goalDifference": 23,
+        "goalsAgainst": 28
+      },
       {
-        "wins": 14, 
-        "draws": 8, 
+        "wins": 14,
+        "draws": 8,
         "home": {
-          "wins": 10, 
-          "losses": 0, 
-          "draws": 3, 
-          "goals": 32, 
+          "wins": 10,
+          "losses": 0,
+          "draws": 3,
+          "goals": 32,
           "goalsAgainst": 7
-        }, 
-        "playedGames": 27, 
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 4, 
-          "losses": 5, 
-          "draws": 5, 
-          "goals": 26, 
-          "goalsAgainst": 21
-        }, 
-        "losses": 5, 
-        "teamName": "Borussia Dortmund", 
-        "points": 50, 
+          "wins": 4,
+          "losses": 6,
+          "draws": 5,
+          "goals": 27,
+          "goalsAgainst": 25
+        },
+        "losses": 6,
+        "teamName": "Borussia Dortmund",
+        "points": 50,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/4"
           }
-        }, 
-        "goals": 58, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg", 
-        "position": 4, 
-        "goalDifference": 30, 
-        "goalsAgainst": 28
-      }, 
+        },
+        "goals": 59,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+        "position": 4,
+        "goalDifference": 27,
+        "goalsAgainst": 32
+      },
       {
-        "wins": 10, 
-        "draws": 10, 
+        "wins": 13,
+        "draws": 4,
         "home": {
-          "wins": 7, 
-          "losses": 1, 
-          "draws": 5, 
-          "goals": 20, 
-          "goalsAgainst": 10
-        }, 
-        "playedGames": 27, 
-        "away": {
-          "wins": 3, 
-          "losses": 6, 
-          "draws": 5, 
-          "goals": 19, 
-          "goalsAgainst": 21
-        }, 
-        "losses": 7, 
-        "teamName": "1. FC K\u00f6ln", 
-        "points": 40, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/1"
-          }
-        }, 
-        "goals": 39, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/1/16/1._FC_K\u00f6ln.svg", 
-        "position": 5, 
-        "goalDifference": 8, 
-        "goalsAgainst": 31
-      }, 
-      {
-        "wins": 12, 
-        "draws": 4, 
-        "home": {
-          "wins": 10, 
-          "losses": 2, 
-          "draws": 1, 
-          "goals": 22, 
+          "wins": 11,
+          "losses": 2,
+          "draws": 1,
+          "goals": 24,
           "goalsAgainst": 9
-        }, 
-        "playedGames": 26, 
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 2, 
-          "losses": 8, 
-          "draws": 3, 
-          "goals": 13, 
-          "goalsAgainst": 24
-        }, 
-        "losses": 10, 
-        "teamName": "Hertha BSC", 
-        "points": 40, 
+          "wins": 2,
+          "losses": 9,
+          "draws": 3,
+          "goals": 13,
+          "goalsAgainst": 25
+        },
+        "losses": 11,
+        "teamName": "Hertha BSC",
+        "points": 43,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/9"
           }
-        }, 
-        "goals": 35, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/8/81/Hertha_BSC_Logo_2012.svg", 
-        "position": 6, 
-        "goalDifference": 2, 
-        "goalsAgainst": 33
-      }, 
+        },
+        "goals": 37,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/8/81/Hertha_BSC_Logo_2012.svg",
+        "position": 5,
+        "goalDifference": 3,
+        "goalsAgainst": 34
+      },
       {
-        "wins": 10, 
-        "draws": 7, 
+        "wins": 12,
+        "draws": 5,
         "home": {
-          "wins": 6, 
-          "losses": 2, 
-          "draws": 5, 
-          "goals": 17, 
-          "goalsAgainst": 11
-        }, 
-        "playedGames": 27, 
-        "away": {
-          "wins": 4, 
-          "losses": 8, 
-          "draws": 2, 
-          "goals": 9, 
-          "goalsAgainst": 17
-        }, 
-        "losses": 10, 
-        "teamName": "Eintracht Frankfurt", 
-        "points": 37, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/19"
-          }
-        }, 
-        "goals": 26, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg", 
-        "position": 7, 
-        "goalDifference": -2, 
-        "goalsAgainst": 28
-      }, 
-      {
-        "wins": 10, 
-        "draws": 5, 
-        "home": {
-          "wins": 6, 
-          "losses": 7, 
-          "draws": 1, 
-          "goals": 21, 
-          "goalsAgainst": 18
-        }, 
-        "playedGames": 27, 
-        "away": {
-          "wins": 4, 
-          "losses": 5, 
-          "draws": 4, 
-          "goals": 21, 
-          "goalsAgainst": 28
-        }, 
-        "losses": 12, 
-        "teamName": "Werder Bremen", 
-        "points": 35, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/12"
-          }
-        }, 
-        "goals": 42, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg", 
-        "position": 8, 
-        "goalDifference": -4, 
-        "goalsAgainst": 46
-      }, 
-      {
-        "wins": 10, 
-        "draws": 5, 
-        "home": {
-          "wins": 7, 
-          "losses": 5, 
-          "draws": 1, 
-          "goals": 17, 
+          "wins": 8,
+          "losses": 5,
+          "draws": 1,
+          "goals": 18,
           "goalsAgainst": 22
-        }, 
-        "playedGames": 26, 
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 3, 
-          "losses": 6, 
-          "draws": 4, 
-          "goals": 17, 
+          "wins": 4,
+          "losses": 6,
+          "draws": 4,
+          "goals": 18,
           "goalsAgainst": 25
-        }, 
-        "losses": 11, 
-        "teamName": "SC Freiburg", 
-        "points": 35, 
+        },
+        "losses": 11,
+        "teamName": "SC Freiburg",
+        "points": 41,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/17"
           }
-        }, 
-        "goals": 34, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/f/f1/SC-Freiburg_Logo-neu.svg", 
-        "position": 9, 
-        "goalDifference": -13, 
+        },
+        "goals": 36,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/f/f1/SC-Freiburg_Logo-neu.svg",
+        "position": 6,
+        "goalDifference": -11,
         "goalsAgainst": 47
-      }, 
+      },
       {
-        "wins": 9, 
-        "draws": 7, 
+        "wins": 10,
+        "draws": 10,
         "home": {
-          "wins": 7, 
-          "losses": 4, 
-          "draws": 3, 
-          "goals": 23, 
-          "goalsAgainst": 12
-        }, 
-        "playedGames": 27, 
+          "wins": 7,
+          "losses": 2,
+          "draws": 5,
+          "goals": 22,
+          "goalsAgainst": 13
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 2, 
-          "losses": 7, 
-          "draws": 4, 
-          "goals": 10, 
-          "goalsAgainst": 19
-        }, 
-        "losses": 11, 
-        "teamName": "FC Schalke 04", 
-        "points": 34, 
+          "wins": 3,
+          "losses": 6,
+          "draws": 5,
+          "goals": 19,
+          "goalsAgainst": 21
+        },
+        "losses": 8,
+        "teamName": "1. FC K\u00f6ln",
+        "points": 40,
         "_links": {
           "team": {
-            "href": "http://api.football-data.org/v1/teams/6"
+            "href": "http://api.football-data.org/v1/teams/1"
           }
-        }, 
-        "goals": 33, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/6/6d/FC_Schalke_04_Logo.svg", 
-        "position": 10, 
-        "goalDifference": 2, 
-        "goalsAgainst": 31
-      }, 
+        },
+        "goals": 41,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/1/16/1._FC_K\u00f6ln.svg",
+        "position": 7,
+        "goalDifference": 7,
+        "goalsAgainst": 34
+      },
       {
-        "wins": 9, 
-        "draws": 6, 
+        "wins": 11,
+        "draws": 6,
         "home": {
-          "wins": 6, 
-          "losses": 4, 
-          "draws": 3, 
-          "goals": 20, 
+          "wins": 7,
+          "losses": 4,
+          "draws": 3,
+          "goals": 21,
           "goalsAgainst": 12
-        }, 
-        "playedGames": 26, 
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 3, 
-          "losses": 7, 
-          "draws": 3, 
-          "goals": 10, 
-          "goalsAgainst": 22
-        }, 
-        "losses": 11, 
-        "teamName": "Bor. M\u00f6nchengladbach", 
-        "points": 33, 
+          "wins": 4,
+          "losses": 7,
+          "draws": 3,
+          "goals": 13,
+          "goalsAgainst": 24
+        },
+        "losses": 11,
+        "teamName": "Bor. M\u00f6nchengladbach",
+        "points": 39,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/18"
           }
-        }, 
-        "goals": 30, 
-        "crestURI": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M\u00f6nchengladbach_logo.svg", 
-        "position": 11, 
-        "goalDifference": -4, 
-        "goalsAgainst": 34
-      }, 
+        },
+        "goals": 34,
+        "crestURI": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M\u00f6nchengladbach_logo.svg",
+        "position": 8,
+        "goalDifference": -2,
+        "goalsAgainst": 36
+      },
       {
-        "wins": 9, 
-        "draws": 5, 
+        "wins": 10,
+        "draws": 8,
         "home": {
-          "wins": 5, 
-          "losses": 5, 
-          "draws": 4, 
-          "goals": 24, 
-          "goalsAgainst": 22
-        }, 
-        "playedGames": 26, 
+          "wins": 6,
+          "losses": 2,
+          "draws": 6,
+          "goals": 19,
+          "goalsAgainst": 13
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 4, 
-          "losses": 7, 
-          "draws": 1, 
-          "goals": 16, 
-          "goalsAgainst": 21
-        }, 
-        "losses": 12, 
-        "teamName": "Bayer Leverkusen", 
-        "points": 32, 
+          "wins": 4,
+          "losses": 8,
+          "draws": 2,
+          "goals": 9,
+          "goalsAgainst": 17
+        },
+        "losses": 10,
+        "teamName": "Eintracht Frankfurt",
+        "points": 38,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/19"
+          }
+        },
+        "goals": 28,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg",
+        "position": 9,
+        "goalDifference": -2,
+        "goalsAgainst": 30
+      },
+      {
+        "wins": 10,
+        "draws": 7,
+        "home": {
+          "wins": 8,
+          "losses": 4,
+          "draws": 3,
+          "goals": 27,
+          "goalsAgainst": 13
+        },
+        "playedGames": 28,
+        "away": {
+          "wins": 2,
+          "losses": 7,
+          "draws": 4,
+          "goals": 10,
+          "goalsAgainst": 19
+        },
+        "losses": 11,
+        "teamName": "FC Schalke 04",
+        "points": 37,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/6"
+          }
+        },
+        "goals": 37,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/6/6d/FC_Schalke_04_Logo.svg",
+        "position": 10,
+        "goalDifference": 5,
+        "goalsAgainst": 32
+      },
+      {
+        "wins": 10,
+        "draws": 6,
+        "home": {
+          "wins": 6,
+          "losses": 7,
+          "draws": 1,
+          "goals": 21,
+          "goalsAgainst": 18
+        },
+        "playedGames": 28,
+        "away": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 5,
+          "goals": 23,
+          "goalsAgainst": 30
+        },
+        "losses": 12,
+        "teamName": "Werder Bremen",
+        "points": 36,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/12"
+          }
+        },
+        "goals": 44,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
+        "position": 11,
+        "goalDifference": -4,
+        "goalsAgainst": 48
+      },
+      {
+        "wins": 10,
+        "draws": 5,
+        "home": {
+          "wins": 5,
+          "losses": 5,
+          "draws": 4,
+          "goals": 24,
+          "goalsAgainst": 22
+        },
+        "playedGames": 28,
+        "away": {
+          "wins": 5,
+          "losses": 8,
+          "draws": 1,
+          "goals": 18,
+          "goalsAgainst": 22
+        },
+        "losses": 13,
+        "teamName": "Bayer Leverkusen",
+        "points": 35,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/3"
           }
-        }, 
-        "goals": 40, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg", 
-        "position": 12, 
-        "goalDifference": -3, 
-        "goalsAgainst": 43
-      }, 
+        },
+        "goals": 42,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg",
+        "position": 12,
+        "goalDifference": -2,
+        "goalsAgainst": 44
+      },
       {
-        "wins": 8, 
-        "draws": 6, 
+        "wins": 9,
+        "draws": 6,
         "home": {
-          "wins": 4, 
-          "losses": 7, 
-          "draws": 2, 
-          "goals": 11, 
-          "goalsAgainst": 17
-        }, 
-        "playedGames": 26, 
+          "wins": 7,
+          "losses": 4,
+          "draws": 3,
+          "goals": 18,
+          "goalsAgainst": 22
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 4, 
-          "losses": 5, 
-          "draws": 4, 
-          "goals": 15, 
-          "goalsAgainst": 20
-        }, 
-        "losses": 12, 
-        "teamName": "VfL Wolfsburg", 
-        "points": 30, 
-        "_links": {
-          "team": {
-            "href": "http://api.football-data.org/v1/teams/11"
-          }
-        }, 
-        "goals": 26, 
-        "crestURI": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg", 
-        "position": 13, 
-        "goalDifference": -11, 
-        "goalsAgainst": 37
-      }, 
-      {
-        "wins": 8, 
-        "draws": 6, 
-        "home": {
-          "wins": 6, 
-          "losses": 4, 
-          "draws": 3, 
-          "goals": 16, 
-          "goalsAgainst": 21
-        }, 
-        "playedGames": 27, 
-        "away": {
-          "wins": 2, 
-          "losses": 9, 
-          "draws": 3, 
-          "goals": 10, 
+          "wins": 2,
+          "losses": 9,
+          "draws": 3,
+          "goals": 10,
           "goalsAgainst": 29
-        }, 
-        "losses": 13, 
-        "teamName": "Hamburger SV", 
-        "points": 30, 
+        },
+        "losses": 13,
+        "teamName": "Hamburger SV",
+        "points": 33,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/7"
           }
-        }, 
-        "goals": 26, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg", 
-        "position": 14, 
-        "goalDifference": -24, 
-        "goalsAgainst": 50
-      }, 
+        },
+        "goals": 28,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg",
+        "position": 13,
+        "goalDifference": -23,
+        "goalsAgainst": 51
+      },
       {
-        "wins": 8, 
-        "draws": 5, 
+        "wins": 8,
+        "draws": 6,
         "home": {
-          "wins": 5, 
-          "losses": 4, 
-          "draws": 4, 
-          "goals": 22, 
-          "goalsAgainst": 19
-        }, 
-        "playedGames": 26, 
+          "wins": 4,
+          "losses": 8,
+          "draws": 2,
+          "goals": 11,
+          "goalsAgainst": 18
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 3, 
-          "losses": 9, 
-          "draws": 1, 
-          "goals": 12, 
+          "wins": 4,
+          "losses": 6,
+          "draws": 4,
+          "goals": 16,
           "goalsAgainst": 24
-        }, 
-        "losses": 13, 
-        "teamName": "1. FSV Mainz 05", 
-        "points": 29, 
+        },
+        "losses": 14,
+        "teamName": "VfL Wolfsburg",
+        "points": 30,
+        "_links": {
+          "team": {
+            "href": "http://api.football-data.org/v1/teams/11"
+          }
+        },
+        "goals": 27,
+        "crestURI": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg",
+        "position": 14,
+        "goalDifference": -15,
+        "goalsAgainst": 42
+      },
+      {
+        "wins": 8,
+        "draws": 5,
+        "home": {
+          "wins": 5,
+          "losses": 5,
+          "draws": 4,
+          "goals": 24,
+          "goalsAgainst": 22
+        },
+        "playedGames": 28,
+        "away": {
+          "wins": 3,
+          "losses": 10,
+          "draws": 1,
+          "goals": 12,
+          "goalsAgainst": 25
+        },
+        "losses": 15,
+        "teamName": "1. FSV Mainz 05",
+        "points": 29,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/15"
           }
-        }, 
-        "goals": 34, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg", 
-        "position": 15, 
-        "goalDifference": -9, 
-        "goalsAgainst": 43
-      }, 
+        },
+        "goals": 36,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg",
+        "position": 15,
+        "goalDifference": -11,
+        "goalsAgainst": 47
+      },
       {
-        "wins": 7, 
-        "draws": 8, 
+        "wins": 7,
+        "draws": 8,
         "home": {
-          "wins": 3, 
-          "losses": 5, 
-          "draws": 5, 
-          "goals": 13, 
-          "goalsAgainst": 20
-        }, 
-        "playedGames": 26, 
+          "wins": 3,
+          "losses": 6,
+          "draws": 5,
+          "goals": 15,
+          "goalsAgainst": 23
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 4, 
-          "losses": 6, 
-          "draws": 3, 
-          "goals": 11, 
-          "goalsAgainst": 20
-        }, 
-        "losses": 11, 
-        "teamName": "FC Augsburg", 
-        "points": 29, 
+          "wins": 4,
+          "losses": 7,
+          "draws": 3,
+          "goals": 11,
+          "goalsAgainst": 22
+        },
+        "losses": 13,
+        "teamName": "FC Augsburg",
+        "points": 29,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/16"
           }
-        }, 
-        "goals": 24, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg", 
-        "position": 16, 
-        "goalDifference": -16, 
-        "goalsAgainst": 40
-      }, 
+        },
+        "goals": 26,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg",
+        "position": 16,
+        "goalDifference": -19,
+        "goalsAgainst": 45
+      },
       {
-        "wins": 6, 
-        "draws": 4, 
+        "wins": 8,
+        "draws": 4,
         "home": {
-          "wins": 3, 
-          "losses": 7, 
-          "draws": 3, 
-          "goals": 14, 
-          "goalsAgainst": 22
-        }, 
-        "playedGames": 26, 
+          "wins": 4,
+          "losses": 7,
+          "draws": 3,
+          "goals": 17,
+          "goalsAgainst": 24
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 3, 
-          "losses": 9, 
-          "draws": 1, 
-          "goals": 11, 
-          "goalsAgainst": 21
-        }, 
-        "losses": 16, 
-        "teamName": "FC Ingolstadt 04", 
-        "points": 22, 
+          "wins": 4,
+          "losses": 9,
+          "draws": 1,
+          "goals": 14,
+          "goalsAgainst": 23
+        },
+        "losses": 16,
+        "teamName": "FC Ingolstadt 04",
+        "points": 28,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/31"
           }
-        }, 
-        "goals": 25, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/5/55/FC-Ingolstadt_logo.svg", 
-        "position": 17, 
-        "goalDifference": -18, 
-        "goalsAgainst": 43
-      }, 
+        },
+        "goals": 31,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/5/55/FC-Ingolstadt_logo.svg",
+        "position": 17,
+        "goalDifference": -16,
+        "goalsAgainst": 47
+      },
       {
-        "wins": 4, 
-        "draws": 3, 
+        "wins": 4,
+        "draws": 3,
         "home": {
-          "wins": 4, 
-          "losses": 6, 
-          "draws": 3, 
-          "goals": 13, 
-          "goalsAgainst": 20
-        }, 
-        "playedGames": 26, 
+          "wins": 4,
+          "losses": 7,
+          "draws": 3,
+          "goals": 13,
+          "goalsAgainst": 22
+        },
+        "playedGames": 28,
         "away": {
-          "wins": 0, 
-          "losses": 13, 
-          "draws": 0, 
-          "goals": 4, 
-          "goalsAgainst": 31
-        }, 
-        "losses": 19, 
-        "teamName": "SV Darmstadt 98", 
-        "points": 15, 
+          "wins": 0,
+          "losses": 14,
+          "draws": 0,
+          "goals": 6,
+          "goalsAgainst": 34
+        },
+        "losses": 21,
+        "teamName": "SV Darmstadt 98",
+        "points": 15,
         "_links": {
           "team": {
             "href": "http://api.football-data.org/v1/teams/55"
           }
-        }, 
-        "goals": 17, 
-        "crestURI": "http://upload.wikimedia.org/wikipedia/de/8/87/Svdarmstadt98.svg", 
-        "position": 18, 
-        "goalDifference": -34, 
-        "goalsAgainst": 51
+        },
+        "goals": 19,
+        "crestURI": "http://upload.wikimedia.org/wikipedia/de/8/87/Svdarmstadt98.svg",
+        "position": 18,
+        "goalDifference": -37,
+        "goalsAgainst": 56
       }
-    ], 
-    "leagueCaption": "1. Bundesliga 2016/17", 
-    "matchday": 27, 
+    ],
+    "leagueCaption": "1. Bundesliga 2016/17",
+    "matchday": 29,
     "_links": {
       "self": {
-        "href": "http://api.football-data.org/v1/competitions/430/leagueTable/?matchday=27"
-      }, 
+        "href": "http://api.football-data.org/v1/competitions/430/leagueTable/?matchday=29"
+      },
       "competition": {
         "href": "http://api.football-data.org/v1/competitions/430"
       }

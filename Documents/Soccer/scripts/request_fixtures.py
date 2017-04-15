@@ -3,8 +3,10 @@ import pickle
 import pandas as pd
 import json
 import time
+import os
 
 root= '/Users/abbyparra/Documents/Soccer/'
+#path = os.getcwd() + '/json/fixtures.json'
 
 def main():
 
@@ -22,7 +24,7 @@ def main():
 
         json.dump([requests.get(url, headers = headers).json() for url in URLs], fp, indent=2)
     '''
-    with open('fixtures.json', 'w') as fp:
+    with open('fixture2.json', 'w') as fp:
         for url in URLs:
             json.dump(requests.get(url, headers = headers).json(), fp, indent=2)
             time.sleep(2)

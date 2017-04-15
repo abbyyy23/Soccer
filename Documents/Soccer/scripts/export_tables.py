@@ -12,9 +12,12 @@ root = '/Users/abbyparra/Documents/Soccer/pickle/'
 db = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
 #root = '/Users/nilu/Documents/Soccer/pickle/'
 #db = create_engine('postgresql://nilu@localhost:5432/dummyDB')
+
 db.echo = False
 metadata = MetaData(db)
-
+competition= Table('competition', metadata, autoload=True, autoload_with=db)
+team = Table('team', metadata, autoload=True, autoload_with=db)
+fixture = Table('fixture', metadata, autoload=True, autoload_with=db)
 def main():
 ###############################################################################
     competition_df = pd.read_pickle(root + 'competitions_df.pkl')
@@ -43,17 +46,63 @@ def main():
 
     #print competition_df['caption'][0]
     #print competitions_dict['Serie A 2016/17']+1
-    print players_df
+
+
 ###############################################################################
     #this creates the competiton table
     #create_competition(competition_df)
     #this creates the team  Table
     #create_team(teams_df)
     team = Table('team', metadata, autoload=True, autoload_with=db)
+    #competition= Table('competition', metadata, autoload=True, autoload_with=db)
     #manager['team_id'][34] = 35
     #create_manager(managers_df)
     player = set_team_id(players_df, teams_dict)
-    create_player(players_df, teams_dict)
+    #create_player(players_df, teams_dict)
+    #create_fixture(fixture_df)
+    #create_result(results_df)
+    fixture_team = set_fixtures(fixture_df, teams_dict)
+    #create_fixture_team(fixture_team)
+    league_table = set_team_id(leagueT_df, teams_dict)
+    #create_league_table(league_table)
+    champions_table = set_team_id(leagueT_champions_df, teams_dict)
+    #create_champions_table(champions_table)
+    competition_team = set_competition(teams_df, competitions_dict, teams_dict)
+    create_competition_team(competition_team)
+
+#################################################################################
+
+def set_competition(data, competition_dict, team_dict):
+    new_df = data
+    for i in range(0, len(new_df)):
+        comp = new_df['competition'][i]
+        if comp in competition_dict.keys():
+            competition_id = competition_dict[comp]
+            new_df.set_value(i, 'competition_id', competition_id +1)
+
+    for i in range(0, len(new_df)):
+        team = new_df['name'][i]
+        if team in team_dict.keys():
+            team_id = team_dict[team]
+            new_df.set_value(i, 'team_id', team_id +1)
+
+    return new_df
+
+def set_fixtures(data, team_dict):
+    new_df = data
+    #to set the id of the home team
+    for i in range(0, len(new_df)):
+        team = new_df['homeTeamName'][i]
+        if team in team_dict.keys():
+            team_id = team_dict[team]
+            new_df.set_value(i,'home_id', team_id+1)
+    #to set the id of the away team
+    for i in range(0, len(new_df)):
+        team = new_df['awayTeamName'][i]
+        if team in team_dict.keys():
+            team_id = team_dict[team]
+            new_df.set_value(i,'away_id', team_id+1)
+    return new_df
 
 def set_team_id(data, team_dict):
     new_df = data
@@ -62,8 +111,123 @@ def set_team_id(data, team_dict):
         if team in team_dict.keys():
             team_id = team_dict[team]
             new_df.set_value(i, 'team_id', team_id +1)
-
     return new_df
+
+def create_competition_team(data):
+    competition_team = Table('competition_team', metadata,
+                Column('id', Integer, primary_key = True),
+                Column('competition_id', Integer, ForeignKey('competition.id')),
+                Column('team_id', Integer, ForeignKey('team.id'))
+                )
+    competition_team.create()
+    col = ['competition_id', 'team_id']
+    l = competition_team.insert()
+    for i in range(0, len(data)):
+        l.execute(competition_id = data[col[0]][i],team_id = data[col[1]][i] )
+
+def create_champions_table(data):
+    champions_table = Table('champions_table', metadata,
+                Column('id', Integer, primary_key = True),
+                Column('group', Enum('A','B','C','D','E','F','G','H', name= 'groups')),
+                Column('pos', Integer),
+                Column('P', Integer),
+                Column('F', Integer),
+                Column('A', Integer),
+                Column('GD', Integer),
+                Column('PTS', Integer),
+                Column('team_id', Integer, ForeignKey('team.id'))
+                )
+    champions_table.create()
+    l = champions_table.insert()
+    col = ['pos','group','P','F','A','GD','PTS','team_id']
+    for i in range(0, len(data)):
+        l.execute(pos = data[col[0]][i],group = data[col[1]][i], P = data[col[2]][i],
+        F = data[col[3]][i],A = data[col[4]][i], GD = data[col[5]][i], PTS = data[col[6]][i],
+        team_id = data[col[7]][i])
+
+def create_league_table(data):
+    league_table = Table('league_table', metadata,
+                Column('id', Integer, primary_key = True),
+                Column('pos', Integer),
+                Column('P', Integer),
+                Column('W', Integer),
+                Column('D', Integer),
+                Column('L', Integer),
+                Column('F', Integer),
+                Column('A', Integer),
+                Column('HW', Integer),
+                Column('HL', Integer),
+                Column('HGA', Integer),
+                Column('AW', Integer),
+                Column('AL', Integer),
+                Column('AD', Integer),
+                Column('AGF', Integer),
+                Column('AGA', Integer),
+                Column('GD', Integer),
+                Column('PTS', Integer),
+                Column('competition_id', Integer, ForeignKey('competition.id')),
+                Column('team_id', Integer, ForeignKey('team.id'))
+                )
+    league_table.create()
+    l = league_table.insert()
+    col = ['pos','P','W','D','L','F','A','HW','HL','HGA','AW','AL','AD',
+            'AGF','AGA','GD','PTS','competitonID','team_id',]
+    for i in range(0, len(data)):
+        l.execute(pos = data[col[0]][i], P = data[col[1]][i], W = data[col[2]][i],
+        D = data[col[3]][i], L = data[col[4]][i], F = data[col[5]][i],
+        A = data[col[6]][i], HW = data[col[7]][i], HL = data[col[8]][i],
+        HGA = data[col[9]][i], AW = data[col[10]][i], AL = data[col[11]][i],
+        AD = data[col[12]][i], AGF = data[col[13]][i], AGA = data[col[14]][i],
+        GD = data[col[15]][i], PTS = data[col[16]][i], competition_id= (data[col[17]][i])+1,
+        team_id = data[col[18]][i])
+
+def create_fixture_team(data):
+    fixture_team = Table('fixture_team', metadata,
+                Column('id', Integer, primary_key = True),
+                Column('home_team', Integer, ForeignKey('team.id')),
+                Column('away_team', Integer, ForeignKey('team.id')),
+                )
+    fixture_team.create()
+    f = fixture_team.insert()
+    col = ['home_id', 'away_id']
+    for i in range(0, len(data)):
+        f.execute(home_team = data[col[0]][i], away_team = data[col[1]][i])
+
+def create_result(data):
+        result = Table('result', metadata,
+                    Column('id', Integer, primary_key = True),
+                    Column('goals_home', Float),
+                    Column('goals_away', Float),
+                    Column('odds_home_win', Float),
+                    Column('odds_away_win', Float),
+                    Column('draw', Float),
+                    Column('fixture_id', Integer, ForeignKey('fixture.id')),
+                    )
+        result.create()
+        r = result.insert()
+        col = ['goals_home', 'goals_away', 'odds_home_win', 'odds_away_win',
+                'draw']
+        for i in range(0, len(data)):
+            r.execute(goals_home = data[col[0]][i], goals_away = data[col[1]][i],
+                    odds_home_win = data[col[2]][i], odds_away_win= data[col[3]][i],
+                    draw = data[col[4]][i], fixture_id = i+1)
+
+
+def create_fixture(data):
+    fixture = Table('fixture', metadata,
+                Column('id', Integer, primary_key = True),
+                Column('status', String(20)),
+                Column('date', DateTime(timezone = False)),
+                Column('matchday', Integer),
+                Column('competition_id', Integer, ForeignKey('competition.id')),
+                )
+    fixture.create()
+    f = fixture.insert()
+    col = ['status', 'date', 'matchday', 'competitonID']
+    for i in range(0, len(data)):
+        f.execute(status = data[col[0]][i], date = data[col[1]][i],
+                matchday = data[col[2]][i], competition_id = (data[col[3]][i])+1)
+
 
 def create_player(data, teams_dict):
     new_df = data
@@ -187,8 +351,6 @@ def users():
 
     for row in rs:
         print row.name, 'is', row.age, 'years old'
-
-
 
 
 if __name__ == '__main__':

@@ -41,9 +41,8 @@ def main():
     #fixture_df.to_pickle(root + 'pickle/fixture_df.pkl')
     results_df  = all_results(fixture_raw_df)
     #dropping all of the na
-    results_df.dropna(inplace = True)
+    results_df.dropna(how = 'all')
     #results_df.to_pickle(root + 'pickle/results_df.pkl')
-    print results_df
     #print fixture_raw_df.fixtures
 
     #change the columns name to a better format
@@ -353,10 +352,10 @@ def all_results(fixtures_df):
 #to get the columns for the results table
 def results_get_columns(data):
     df_name = pd.DataFrame()
-    df_name['goalsHomeTeam'] = map(goalsHome, data)
-    df_name['goalsAwayTeam'] = map(goalsAway, data)
-    df_name['oddsHomeWin'] = map(homeWin, data)
-    df_name['oddsAwayWin'] = map(homeWin, data)
+    df_name['goals_home'] = map(goalsHome, data)
+    df_name['goals_away'] = map(goalsAway, data)
+    df_name['odds_home_win'] = map(homeWin, data)
+    df_name['odds_away_win'] = map(awayWin, data)
     df_name['draw'] = map(draw, data)
 
     return df_name
