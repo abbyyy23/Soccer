@@ -16,9 +16,9 @@ def main():
     leagueTable_path = root+ 'json/leagueTable.json'
     fixture_path = root + 'json/fixtures.json'
     competition_path = root + 'json/competitions.json'
-
     teams_df = pd.read_pickle(root + 'pickle/teams_table.pkl')
-
+    stadium_df = pd.read_csv(root + 'pickle/stadium.csv',encoding='utf-8')
+    stadium_df.to_pickle(root+ 'pickle/stadium_df.pkl')
 
     #players_df1 = data_frame_fixed(data_path)
 
@@ -75,6 +75,11 @@ def main():
     #pickle.dump(competitions_dict, output)
     #output.close()
 
+    stadium_dict = name_id_dic(stadium_df, 'name')
+    #output = open('stadium_dict.pkl', 'wb')
+    #pickle.dump(stadium_dict, output)
+    #output.close()
+
     #check the columns of a df
     # list(leagueTable_raw_df.columns.values)
     #print competitions_df
@@ -88,8 +93,6 @@ def main():
     #teams_df_name = teams_df[['name']].copy()
     #teams_df_name.to_csv("teams.csv", sep='\t', encoding='utf-8')
     #print players_df
-    print len(players_dict)
-    print len (players_df)
 
 #function that returns a dictionary with name and id of dataframe
 #arguments are the dataframe and the name of the column which contains name of

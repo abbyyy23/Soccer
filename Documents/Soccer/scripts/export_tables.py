@@ -27,6 +27,8 @@ def main():
     leagueT_df = pd.read_pickle(root + 'leagueTable_df.pkl')
     players_df = pd.read_pickle(root + 'players_table.pkl')
     managers_df = pd.read_csv(root + 'manager.csv',encoding='utf-8')
+    stadium_df = pd.read_pickle(root + 'stadium_df.pkl')
+
     #managers_df.apply(lambda x: pd.lib.infer_dtype(x.values))
     path = root + 'players_dict.pkl'
     #for the players dictionary, we have dictionaries for the dataframes which
@@ -43,6 +45,10 @@ def main():
     path = root + 'competitions_dict.pkl'
     with open(path,'rb') as input_file:
         competitions_dict = pickle.load(input_file)
+    #for the stadium dictionary
+    path = root + 'stadium_dict.pkl'
+    with open(path,'rb') as input_file:
+        stadium_dict = pickle.load(input_file)
 
     #print competition_df['caption'][0]
     #print competitions_dict['Serie A 2016/17']+1
@@ -68,8 +74,8 @@ def main():
     champions_table = set_team_id(leagueT_champions_df, teams_dict)
     #create_champions_table(champions_table)
     competition_team = set_competition(teams_df, competitions_dict, teams_dict)
-    create_competition_team(competition_team)
-
+    #create_competition_team(competition_team)
+    create_stadium(stadium_df)
 #################################################################################
 
 def set_competition(data, competition_dict, team_dict):
@@ -113,6 +119,35 @@ def set_team_id(data, team_dict):
             new_df.set_value(i, 'team_id', team_id +1)
     return new_df
 
+def create_team_stadium(data):
+    team_stadium = Table('team_stadium', metadata,
+                Column('id', Integer, primary_key = True),
+                Column('team_id', Integer, ForeignKey('team.id')),
+                Column('stadium_id',Integer, ForeignKey('stadium.id')),
+                )
+    team_stadium.create()
+    l = team_stadium.insert()
+    for i in range(0, len(data)):
+        l.execute(stadium_id= data['stadium_id'][i], team_id = i+1)
+
+
+def create_stadium(data):
+    new_df = data
+    stadium = Table('stadium', metadata,
+                Column('id', Integer, primary_key = True),
+                Column('name', String(100)),
+                Column('location', String(100)),
+                Column('capacity', Integer),
+                Column('team_id', Integer, ForeignKey('team.id')),
+                )
+    stadium.create()
+    col = ['name', 'location', 'capacity']
+    l = stadium.insert()
+    for i in range(0, len(new_df)):
+        l.execute(name= new_df[col[0]][i],location = new_df[col[1]][i],
+        capacity = new_df[col[2]][i], team_id = i+1)
+
+
 def create_competition_team(data):
     competition_team = Table('competition_team', metadata,
                 Column('id', Integer, primary_key = True),
@@ -123,7 +158,7 @@ def create_competition_team(data):
     col = ['competition_id', 'team_id']
     l = competition_team.insert()
     for i in range(0, len(data)):
-        l.execute(competition_id = data[col[0]][i],team_id = data[col[1]][i] )
+        l.execute(competition_id = data[col[0]][i],team_id = data[col[1]][i])
 
 def create_champions_table(data):
     champions_table = Table('champions_table', metadata,
