@@ -1,0 +1,97 @@
+id,name,location,capacity,team_id
+1,KCOM Stadium,"Hull, England",24400,1
+2,King Power Stadium,"Leicester, England ",32312,2
+3,St Mary's Stadium ,"Southampton, England",32505,3
+4,Vicarage Road Stadium,"Watford, England",23700,4
+5,Riverside Stadium,"Middlesbrough, England",33746,5
+6,bet365 Stadium,England ,27902,6
+7,Goodison Park,"Liverpool, England",39572,7
+8,White Hart Lane,"London, England",36284,8
+9,Selhurst Park,"London, England",25456,9
+10,The Hawthorns,England ,26850,10
+11,Turf Moor,"Lancashire,England",21401,11
+12,Liberty Stadium,"Swansea, Wales",21088,12
+13,Etihad Stadium,"Manchester, England",55097,13
+14,Stadium of Light,"Sunderland, England",48707,14
+15,Dean Court,"Bournemouth, England",11464,15
+16,Old Trafford,"Manchester, England",75643,16
+17,Emirates Stadium,"London, England",60432,17
+18,Anfield,"Liverpool, England",54074,18
+19,Stamford Bridge,"London, England",41663,19
+20,London Stadium,"London, England",66000,20
+21,Stadio Olimpico,"Rome, Italy",70634,21
+22,Dacia Arena,"Venezia, Italy ",25144,22
+23,Juventus Stadium,"Turin, Italy ",41507,23
+24,Stadio Comunale Artemio Franchi,"Florence, Italy",43147,24
+25,Stadio Giuseppe Meazza,"Milan, Italy",80018,25
+26,Stadio Olimpico Grande Torino,"Turin, Italy ",27958,26
+27,ChievoVerona,"Verona, Italy ",39371,27
+28,San Siro,"Milan, Italy",80018,28
+29,Stadio Carlo Castellani,"Empoli, Italy",16284,29
+30,Stadio Luigi Ferraris,"Genoa, Italy",36600,30
+31,Stadio Luigi Ferraris,"Genoa, Italy",36600,31
+32,Stadio Comunale Sant'Elia,"Cagliari, Italy",16000,32
+33,Stadio Renato Dall'Ara,"Bologna, Italy",38279,33
+34,Stadio Comunale Ezio Scida,"Crotone, Italy ",16547,34
+35,Stadio Comunale Renzo Barbera,"Palermo, Italy",36349,35
+36,Mapei Stadium,"Reggio Emilia, Italy",23717,36
+37,Stadio Adriatico ‰ÛÒ Giovanni Cornacchia,"Pescara, Italy",20515,37
+38,Stadio San Paolo,"Naples, Italy",60240,38
+39,Stadio Atleti Azzurri d'Italia,"Bergamo, Italy ",26562,39
+40,Stadio Olimpico,"Rome, Italy",70634,40
+41,La Rosaleda,"MÌÁlaga, Spain",30044,41
+42,El Sadar,"Pamplona, Spain",18761,42
+43,Riazor,"CoruÌ±a, Spain",34600,43
+44,Ipurua,"Eibar, Spain",7083,44
+45,Camp Nou,"Barcelona, Spain",99354,45
+46,Benito VillamarÌ_n,"Seviilla, Spain",52500,46
+47,Los CÌÁrmenes,"Granada, Spain",23934,47
+48,Estadio de la CerÌÁmicosa,"Villareal, Spain",24890,48
+49,RamÌ_n SÌÁnchez PizjuÌÁn,"Sevilla, Spain ",42500,49
+50,RCDE Stadium,"Barcelona, Spain",40500,50
+51,El MolinÌ_n,"GijÌ_n, Spain",42000,51
+52,San MamÌ©s,"Bilbao, Spain",53289,52
+53,Anoeta,"San Sebasian, Spain",32300,53
+54,Santiago BernabÌ©u Stadium,"Madrid, Spain",81044,54
+55,Estadio Vicente CalderÌ_n,"Madrid, Spain ",54907,55
+56,Estadio Mendizorrotza,"Vitoria-Gasteiz, Spain",19840,56
+57,Estadio Municipal de BalaÌ_dos,"Vigo, Spain",29000,57
+58,Estadio Municipal de Butarque,"LeganÌ©s, Spain",10954,58
+59, Mestalla,"Valencia, Spain",55000,59
+60,Estadio de Gran Canaria,"Las Palmas, Spain",33111,60
+61,St. Jakob Park,"Basel, Switzerland",38512,61
+62,Ludogorets Arena,"Razgrad, Bulgaria",8808,62
+63,Allianz Arena,"Munich, Germany",75000,63
+64,Olimp-2,"Rostov-on-Don, Russia",15840,64
+65,Philips Stadion,"Eindhoven, Netherlands",35000,65
+66,Celtic Park,"Glasgow, Scotland",60411,66
+67,NSC Olimpiyskiy Stadium,"Kiev, Ukraine",70050,67
+68,EstÌÁdio do Sport Lisboa e Benfica,"Lisboa, Portugal",64642,68
+69,Vodafone Arena,"Istanbul, Turkey",44000,69
+70,Parc des Princes,"Paris, France",48583,70
+71,Stadion Wojska Polskiego,"Warsaw, Poland",31800,71
+72,Westfalenstadion,"Dortmund, Germany",81360,72
+73,Parc Olympique Lyonnais,"Charpieu,France",59186,73
+74,Stadion Maksimir," Zagreb, Croatia",35123,74
+75,EstÌÁdio do DragÌ£o," Porto, Portugal",50434,75
+76,Telia Parken,"Copenhagen, Denmark",38065,76
+77,Jan Breydel Stadium,"Bruges, Belgium",29042,77
+78,EstÌÁdio JosÌ© Alvalade,"Lisboa, Portugal",50095,78
+79,BayArena,"Leverkusen, Germany",30210,79
+80,VEB Arena,"Moscow, Russia",30000,80
+81,Borussia-Park,"MÌ¦nchengladbach, Germany",54057,81
+82,Stade Louis-II,"Fontvieille, Monaco",18523,82
+83,Weserstadion,"Bremen, Germany",42100,83
+84,WWK Arena,"Augsburg, Germany",30660,84
+85,Volkswagen Arena," Wolfsburg, Germany",30000,85
+86,Opel Arena,"Palatinate, Germany",34034,86
+87,Commerzbank-Arena,"Hessen, Germany",51500,87
+88,VELTINS-Arena,"Westphalia, Germany",62271,88
+89,Volksparkstadion,"Hamburg, Germany",57000,89
+90,Audi Sportpark,"Ingolstadt, Germany",15800,90
+91,RheinEnergieSTADION,"Cologne, Germany",49968,91
+92,Jonathan-Heimes-Stadion am BÌ¦llenfalltor,"Darmstadt, Germany",17000,92
+93,Olympiastadion Berlin,"Berlin, Germany",74475,93
+94,Schwarzwald-Stadion,"Freiburg, Germany",24000,94
+95,WIRSOL Rhein-Neckar-Arena,"Baden-WÌ_rttemberg, Germany",30150,95
+96,Red Bull Arena,"Leipzig, Germany",42959,96
