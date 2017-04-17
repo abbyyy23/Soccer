@@ -9,7 +9,7 @@ import unicodedata
 #global variables
 root = '/Users/abbyparra/Documents/Soccer/pickle/'
 #root = '/Users/nilu/Soccer/Documents/Soccer/pickle'
-db = create_engine('postgresql://abbyparra@localhost:5432/dummyDB')
+db = create_engine('postgresql://abbyparra@localhost:5432/Soccer')
 #root = '/Users/nilu/Documents/Soccer/pickle/'
 #db = create_engine('postgresql://nilu@localhost:5432/dummyDB')
 
@@ -75,7 +75,7 @@ def main():
     #create_champions_table(champions_table)
     competition_team = set_competition(teams_df, competitions_dict, teams_dict)
     #create_competition_team(competition_team)
-    create_stadium(stadium_df)
+    #create_stadium(stadium_df)
 #################################################################################
 
 def set_competition(data, competition_dict, team_dict):
