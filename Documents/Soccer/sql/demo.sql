@@ -15,6 +15,7 @@ SELECT * FROM fixture_by('real madrid');
 -- view the standings in a competiton or of a team (simple query league table)
 SELECT * FROM view_standings('ac milan');
 SELECT * FROM view_standings('Serie A 2016/17');
+SELECT * FROM view_champions_standings('Paris Saint-Germain')
 -- display the competitions a team participates in (comeptition team)
 SELECT * FROM team_competitions('real madrid');
 -- view the teams participating in a competition (competition team)
@@ -27,3 +28,11 @@ SELECT * FROM most_goals('1. Bundesliga 2016/17');
 SELECT * FROM fixture_by_status();
 -- player with the highest market value (player aggregate)
 SELECT * FROM max_marketvalue();
+-- manager average age(manager aggregate)
+SELECT avg_age(manager.dob) FROM manager;
+-- stadium with the most capacity (stadium aggregate)
+SELECT * FROM max_capacity();
+-- team with the highest squad market value (team aggregate)
+SELECT * FROM max_squadvalue();
+-- competition with the least matches (competition aggregate)
+SELECT * FROM min_matches();
