@@ -13,6 +13,6 @@ BEGIN
            t.name
     FROM manager as m
     JOIN team as t ON t.id = m.team_id
-    WHERE LOWER(m.name) ~ (manager_name)
+    WHERE LOWER(m.name) ~ (manager_name);
 END;
 $function$ LANGUAGE 'plpgsql' STABLE;
