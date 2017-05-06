@@ -1,4 +1,3 @@
-
 CREATE OR REPLACE FUNCTION public.search_player(IN player_name text)
 RETURNS TABLE(name character varying,
               age integer,
@@ -12,7 +11,7 @@ AS $function$
 BEGIN
     RETURN QUERY
     SELECT p.name,
-           EXTRACT(YEAR FROM (AGE(p.dob::timestamp))) AS age, 
+           EXTRACT(YEAR FROM (AGE(p.dob::timestamp))) AS age,
            p.contract_until,
            p.position,
            p.jersey_number,
